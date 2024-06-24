@@ -1,0 +1,8689 @@
+sentence_id,word,pos,tag
+0,Nam,Np,O
+0,",",CH,O
+0,tuổi,N,O
+0,từ,E,O
+0,24-32,M,O
+1,Tốt nghiệp,V,O
+1,ĐH,Ny,O
+1,chuyên ngành,N,B-Skill
+1,:,CH,I-Skill
+1,Môi trường,N,I-Skill
+1,",",CH,I-Skill
+1,An Toàn Lao Động,Np,I-Skill
+1,",",CH,O
+1,...,CH,O
+2,Am,Np,B-Skill
+2,hiểu,V,I-Skill
+2,về,E,I-Skill
+2,luật PCCC,N,I-Skill
+2,và,C,I-Skill
+2,ATLĐ,Np,I-Skill
+2,(,CH,O
+2,Đã,R,O
+2,qua,V,B-Skill
+2,lớp,N,I-Skill
+2,tập huấn,N,I-Skill
+2,),CH,O
+3,Có,V,O
+3,kinh nghiệm,N,B-Skill
+3,làm việc,V,I-Skill
+3,về,E,I-Skill
+3,ATLĐ,Np,I-Skill
+3,và,C,I-Skill
+3,xử lý,V,I-Skill
+3,các,L,I-Skill
+3,vấn đề,N,I-Skill
+3,liên quan,V,I-Skill
+3,đến,E,I-Skill
+3,môi trường,N,I-Skill
+3,",",CH,I-Skill
+3,nước thải,N,I-Skill
+3,sản xuất,V,I-Skill
+4,Có,V,O
+4,kinh nghiệm,N,B-Skill
+4,xử lý,V,I-Skill
+4,hồ sơ,N,I-Skill
+4,cùng,A,I-Skill
+4,cơ quan,N,I-Skill
+4,Nhà nước,N,I-Skill
+5,Có thể,R,O
+5,đi,V,O
+5,công tác,V,O
+5,thường xuyên,A,O
+6,Kinh nghiệm,N,O
+6,2,N,O
+6,năm,N,O
+6,vị trí,N,O
+6,tương đương,A,O
+6,trong,E,O
+6,môi trường,N,O
+6,nhà máy,N,O
+6,.,CH,O
+7,Ưu tiên,N,O
+7,ứng viên,V,O
+7,có,V,O
+7,HKTT,Np,O
+7,tại,E,O
+7,Xuân Lộc,Np,O
+7,",",CH,O
+7,Cẩm Mỹ,Np,O
+7,hoặc,C,O
+7,có thể,R,O
+7,ở,V,O
+7,trọ,V,O
+7,tại,E,O
+7,địa phương,N,O
+7,để,E,O
+7,làm việc,V,O
+7,lâu dài,A,O
+7,.,CH,O
+8,Kiến thức,N,B-Skill
+8,về,V,I-Skill
+8,quản trị,V,I-Skill
+8,dữ liệu,N,I-Skill
+9,Kiến thức,N,B-Skill
+9,về,E,I-Skill
+9,mô hình,N,I-Skill
+9,hóa,N,I-Skill
+9,dữ liệu,M,I-Skill
+10,Tiếng,N,B-Skill
+10,anh,Nc,I-Skill
+10,:,CH,O
+10,\,V,O
+10,xa0đọc,N,B-Skill
+10,hiểu,V,I-Skill
+10,tài liệu,N,I-Skill
+10,",",CH,O
+10,kỹ năng,N,B-Skill
+10,giao tiếp,V,I-Skill
+10,cơ bản,A,B-Skill
+11,Sử dụng,V,B-Skill
+11,thành thạo,N,I-Skill
+11,Excel,Np,I-Skill
+11,",",CH,I-Skill
+11,Power query,N,I-Skill
+11,Excel,Np,I-Skill
+11,",",CH,I-Skill
+11,DAX,Np,I-Skill
+12,Sử dụng,V,B-Skill
+12,thành thạo,N,I-Skill
+12,1,M,I-Skill
+12,trong,E,I-Skill
+12,các,L,I-Skill
+12,công cụ,N,I-Skill
+12,trực quan,V,I-Skill
+12,hóa,N,I-Skill
+12,dữ liệu,N,I-Skill
+12,(,CH,I-Skill
+12,Power BI,Np,I-Skill
+12,",",CH,I-Skill
+12,Google,Np,I-Skill
+12,Data Studio,Np,I-Skill
+12,",",CH,O
+12,..,N,O
+12,),CH,O
+13,Sử dụng,V,B-Skill
+13,thành thạo,N,I-Skill
+13,Excel,Np,I-Skill
+13,(,CH,I-Skill
+13,Power query,N,I-Skill
+13,",",CH,I-Skill
+13,Power pivot,N,I-Skill
+13,",",CH,I-Skill
+13,Pivot table,N,I-Skill
+13,",",CH,O
+13,…,CH,O
+13,),CH,O
+13,",",CH,O
+13,Power BI,Np,B-Skill
+13,\ xa0,V,O
+13,\ xa0,N,O
+13,\ xa0,N,O
+13,\ xa0,N,O
+13,(,CH,O
+13,DAX,Np,B-Skill
+13,",",CH,O
+13,visualization,N,B-Skill
+13,),CH,O
+14,Có,V,O
+14,khả năng,N,B-Skill
+14,sử dụng,V,I-Skill
+14,SQL,Np,I-Skill
+14,",",CH,I-Skill
+14,Python,Np,I-Skill
+14,",",CH,I-Skill
+14,Google Data,Np,I-Skill
+14,Studio,Np,I-Skill
+15,Sử dụng,V,B-Skill
+15,các,L,I-Skill
+15,kiến thức,N,I-Skill
+15,toán,N,I-Skill
+15,thống kê,V,I-Skill
+15,",",CH,I-Skill
+15,xác suất,N,I-Skill
+15,ứng dụng,V,I-Skill
+15,vào,E,O
+15,công việc,N,O
+16,Kỹ năng,N,B-Skill
+16,phân tích,V,I-Skill
+16,",",CH,O
+16,linh hoạt,N,B-Skill
+16,áp dụng,V,I-Skill
+16,các,L,I-Skill
+16,phần mềm,N,I-Skill
+16,hỗ trợ,V,I-Skill
+16,cho,E,O
+16,công việc,N,O
+17,Khả năng,N,B-Skill
+17,tự,P,I-Skill
+17,nghiên cứu,V,I-Skill
+17,ứng dụng,N,I-Skill
+17,công nghệ,N,I-Skill
+17,vào,E,O
+17,công việc,N,O
+18,Có,V,O
+18,ít nhất,X,O
+18,\ xa02,M,O
+18,năm,N,O
+18,trở,V,O
+18,lên,V,O
+19,Tốt nghiệp,V,O
+19,Đại học,N,O
+19,",",CH,O
+19,Cao đằng,V,O
+19,các,L,O
+19,chuyên ngành,N,B-Skill
+19,:,CH,I-Skill
+19,Tài chính,N,I-Skill
+19,-,CH,I-Skill
+19,Ngân hàng,N,I-Skill
+19,",",CH,I-Skill
+19,Kế toán,N,I-Skill
+19,–,CH,I-Skill
+19,kiểm toán,N,I-Skill
+19,",",CH,I-Skill
+19,Quản trị,V,I-Skill
+19,rủi ro,A,I-Skill
+19,",",CH,I-Skill
+19,Toán,Np,I-Skill
+19,kinh tế,N,I-Skill
+19,và,C,O
+19,các,L,O
+19,ngành,N,O
+19,tương đương,A,O
+20,2,M,O
+20,năm,N,O
+20,kinh nghiệm,N,B-Skill
+20,trong,E,I-Skill
+20,mảng,Nc,I-Skill
+20,Tài chính,N,I-Skill
+20,quản trị,V,I-Skill
+20,hoặc,C,O
+20,\,V,O
+20,xa0Rủi ro,V,O
+20,dòng,N,O
+20,tiền,N,O
+20,và,C,O
+20,thanh khoản,V,B-Skill
+20,tại,E,I-Skill
+20,tổ chức,V,I-Skill
+20,Ngân hàng,N,I-Skill
+20,/,CH,I-Skill
+20,Tài chính,N,I-Skill
+20,",",CH,I-Skill
+20,ALCO,Np,I-Skill
+20,",",CH,I-Skill
+20,Balance,Np,I-Skill
+20,sheet,M,I-Skill
+21,Sử dụng,V,B-Skill
+21,thành thạo,V,I-Skill
+21,các,L,I-Skill
+21,công cụ,N,I-Skill
+21,phân tích,V,I-Skill
+21,",",CH,I-Skill
+21,xử lý,V,I-Skill
+21,dữ liệu,N,I-Skill
+21,(,CH,I-Skill
+21,Excel,Np,I-Skill
+21,",",CH,I-Skill
+21,SQL,Np,I-Skill
+21,",",CH,I-Skill
+21,python,N,I-Skill
+21,",",CH,O
+21,…,CH,O
+21,),CH,O
+22,Kỹ năng,N,B-Skill
+22,quản lý,V,I-Skill
+22,công việc,N,I-Skill
+22,",",CH,I-Skill
+22,chịu,V,I-Skill
+22,được,V,I-Skill
+22,áp lực,N,I-Skill
+22,cao,A,I-Skill
+22,trong,E,O
+22,công việc,N,O
+23,Kỹ năng,N,B-Skill
+23,làm việc,V,I-Skill
+23,nhóm,N,I-Skill
+23,",",CH,O
+23,phân tích,V,B-Skill
+23,&,CH,I-Skill
+23,xử lý,V,I-Skill
+23,vấn đề,N,I-Skill
+24,Nhạy bén,V,B-Skill
+24,với,E,I-Skill
+24,các,L,I-Skill
+24,con số,N,I-Skill
+24,và,C,I-Skill
+24,rủi ro,A,I-Skill
+25,Tốt nghiệp,V,O
+25,từ,E,O
+25,Đại học,N,O
+25,trở,V,O
+25,lên,V,O
+25,",",CH,O
+25,\ xa0chuyên,N,B-Skill
+25,ngành,N,I-Skill
+25,CNTT,Np,I-Skill
+25,",",CH,I-Skill
+25,Điện tử,N,I-Skill
+25,viễn thông,N,I-Skill
+25,\ xa0hoặc,V,O
+25,các,L,O
+25,chuyên ngành,N,O
+25,tương đương,A,O
+26,Kỹ năng,N,O
+26,:,CH,O
+26,\ xa0,N,O
+26,\ r,V,O
+26,\ n,N,O
+26,\ t,V,O
+26,\,N,O
+26,nThành thạo,V,B-Skill
+26,tối thiểu,N,I-Skill
+26,1,M,I-Skill
+26,công cụ,N,I-Skill
+26,quản lý,V,I-Skill
+26,",",CH,I-Skill
+26,khai thác,V,I-Skill
+26,dữ liệu,N,I-Skill
+26,(,CH,I-Skill
+26,PL SQL,Np,I-Skill
+26,",",CH,I-Skill
+26,NoSQL,Np,I-Skill
+26,",",CH,O
+26,…,CH,O
+26,),CH,O
+26,\,V,O
+26,nThành thạo,N,B-Skill
+26,tối thiểu,A,I-Skill
+26,1,V,I-Skill
+26,công cụ,N,I-Skill
+26,chuyển đổi,V,I-Skill
+26,dữ liệu,N,I-Skill
+26,\ nTriển,V,O
+26,khai,V,O
+26,một,M,O
+26,trong,E,O
+26,các,L,O
+26,dự án,N,B-Skill
+26,Data Warehouse,Np,I-Skill
+26,",",CH,I-Skill
+26,Data Governance,Np,I-Skill
+26,",",CH,I-Skill
+26,Data Quality,Np,I-Skill
+26,",",CH,O
+26,Làm,V,B-Skill
+26,sạch,A,I-Skill
+26,dữ liệu,N,I-Skill
+26,",",CH,I-Skill
+26,Data Management,Np,I-Skill
+26,",",CH,O
+26,Dự án,N,B-Skill
+26,chuyển đổi,N,I-Skill
+26,CoreBanking,Np,I-Skill
+27,Thành thạo,N,B-Skill
+27,tối thiểu,A,I-Skill
+27,1,M,I-Skill
+27,công cụ,N,I-Skill
+27,quản lý,V,I-Skill
+27,",",CH,I-Skill
+27,khai thác,V,I-Skill
+27,dữ liệu,N,I-Skill
+27,(,CH,I-Skill
+27,PL SQL,Np,I-Skill
+27,",",CH,I-Skill
+27,NoSQL,Np,I-Skill
+27,",",CH,O
+27,…,CH,O
+27,),CH,O
+28,Thành thạo,N,B-Skill
+28,tối thiểu,A,I-Skill
+28,1,N,I-Skill
+28,công cụ,V,I-Skill
+28,chuyển đổi,N,I-Skill
+28,dữ liệu,M,I-Skill
+29,Triển khai,V,O
+29,một,M,O
+29,trong,E,O
+29,các,L,O
+29,dự án,N,B-Skill
+29,Data Warehouse,Np,I-Skill
+29,",",CH,I-Skill
+29,Data Governance,Np,I-Skill
+29,",",CH,I-Skill
+29,Data Quality,Np,I-Skill
+29,",",CH,O
+29,Làm,V,B-Skill
+29,sạch,A,I-Skill
+29,dữ liệu,N,I-Skill
+29,",",CH,I-Skill
+29,Data Management,Np,I-Skill
+29,",",CH,O
+29,Dự án,N,B-Skill
+29,chuyển đổi,N,I-Skill
+29,CoreBanking,Np,I-Skill
+30,Kinh nghiệm,N,O
+30,:,CH,O
+30,\ r,N,O
+30,\ n,N,O
+30,\ t,V,O
+30,\,N,O
+30,nTối thiểu,V,O
+30,3,N,O
+30,năm,M,O
+30,kinh nghiệm,N,B-Skill
+30,trong,E,I-Skill
+30,lĩnh vực,N,I-Skill
+30,Ngân hàng,N,I-Skill
+30,/,CH,I-Skill
+30,Tài chính,N,I-Skill
+30,\,V,O
+30,nƯu tiên,N,O
+30,có,V,O
+30,kinh nghiệm,N,B-Skill
+30,làm việc,V,I-Skill
+30,hệ thống,N,I-Skill
+30,CRM,Np,I-Skill
+30,/,CH,I-Skill
+30,CRM,Np,I-Skill
+30,SAP,Np,I-Skill
+30,\ nCó,V,O
+30,kinh nghiệm,N,O
+30,ở,E,O
+30,vị trí,N,B-Skill
+30,Chuyên viên,N,I-Skill
+30,Quản lý,V,I-Skill
+30,Kho,Np,I-Skill
+30,dữ liệu,V,I-Skill
+30,và,C,I-Skill
+30,mô hình,N,I-Skill
+30,dữ liệu,N,I-Skill
+30,/,CH,O
+30,Phân tích,V,B-Skill
+30,dữ liệu,N,I-Skill
+30,/,CH,O
+30,Phân tích,V,B-Skill
+30,yêu cầu,V,I-Skill
+30,nghiệp vụ,N,I-Skill
+30,(,CH,O
+30,BA,M,O
+30,),CH,O
+31,Tối thiểu,N,O
+31,3,V,O
+31,năm,N,O
+31,kinh nghiệm,N,B-Skill
+31,trong,E,I-Skill
+31,lĩnh vực,N,I-Skill
+31,Ngân hàng,N,I-Skill
+31,/,CH,I-Skill
+31,Tài chính,N,I-Skill
+32,Ưu tiên,N,O
+32,có,V,O
+32,kinh nghiệm,N,B-Skill
+32,làm việc,V,I-Skill
+32,hệ thống,N,I-Skill
+32,CRM,Np,I-Skill
+32,/,CH,I-Skill
+32,CRM,Np,I-Skill
+32,SAP,Np,I-Skill
+33,Có,V,O
+33,kinh nghiệm,N,B-Skill
+33,ở,E,I-Skill
+33,vị trí,N,I-Skill
+33,Chuyên viên,N,I-Skill
+33,Quản lý,V,I-Skill
+33,Kho,Np,I-Skill
+33,dữ liệu,V,I-Skill
+33,và,C,I-Skill
+33,mô hình,N,I-Skill
+33,dữ liệu,N,I-Skill
+33,/,CH,O
+33,Phân tích,V,B-Skill
+33,dữ liệu,N,I-Skill
+33,/,CH,O
+33,Phân tích,V,B-Skill
+33,yêu cầu,V,I-Skill
+33,nghiệp vụ,N,I-Skill
+33,(,CH,O
+33,BA,M,O
+33,),CH,O
+34,Ưu tiên,V,O
+34,:,CH,O
+34,Ứng viên,N,O
+34,có,V,O
+34,chứng chỉ,N,B-Skill
+34,liên quan,V,I-Skill
+34,đến,E,I-Skill
+34,Data Governance,Np,I-Skill
+34,",",CH,I-Skill
+34,Data Quality,Np,I-Skill
+34,",",CH,I-Skill
+34,Data,Np,I-Skill
+34,Management,Np,I-Skill
+35,Tốt nghiệp,V,O
+35,cao đẳng,N,O
+35,chuyên ngành,N,B-Skill
+35,điều dưỡng,V,I-Skill
+35,trở,V,O
+35,lên,V,O
+35,",",CH,O
+35,có,V,O
+35,chứng chỉ,N,B-Skill
+35,quản lý,V,I-Skill
+35,điều dưỡng,N,I-Skill
+35,;,CH,O
+35,.,CH,O
+36,Có,V,O
+36,chứng chỉ,N,O
+36,hành nghề,V,O
+36,",",CH,O
+36,có,V,O
+36,kinh nghiệm,N,B-Skill
+36,5,M,I-Skill
+36,năm,N,I-Skill
+36,làm,V,I-Skill
+36,điều dưỡng,N,I-Skill
+36,trưởng,N,I-Skill
+36,phòng khám,N,O
+36,/,CH,O
+36,bệnh viện,N,O
+36,hoặc,C,O
+36,điều dưỡng,V,O
+36,trưởng,N,O
+36,khoa,N,O
+36,nội trú,N,O
+36,ở,E,O
+36,bệnh viện,N,O
+36,có,V,O
+36,từ,E,O
+36,10,M,O
+36,điều dưỡng viên,N,O
+36,trở,V,O
+36,lên,V,O
+36,;,CH,O
+37,Tin học,N,B-Skill
+37,văn phòng,N,I-Skill
+37,cơ bản,A,I-Skill
+37,",",CH,O
+37,có thể,R,O
+37,sử dụng,V,B-Skill
+38,Tiếng,N,I-Skill
+38,Anh,Nc,I-Skill
+38,giao tiếp,V,I-Skill
+38,và,C,O
+38,kỹ năng,N,B-Skill
+38,tin học,N,I-Skill
+38,văn phòng,N,I-Skill
+38,cơ bản,A,O
+39,Ưu tiên,V,O
+39,ứng viên,N,O
+39,đã,R,O
+39,có,V,O
+39,kinh nghiệm,N,O
+39,tương đương,A,O
+39,tại,E,O
+39,các,L,O
+39,Bệnh viện,N,O
+39,",",CH,O
+39,Phòng khám,N,O
+39,quốc tế,A,O
+39,;,CH,O
+39,ưu tiên,V,O
+39,bằng,E,O
+39,đại học,N,O
+39,",",CH,O
+39,sau đại học,N,O
+39,.,CH,O
+40,Trình độ,N,O
+40,học vấn,N,O
+40,:,CH,O
+40,Đại học,N,O
+40,trở,V,O
+40,lên,V,O
+41,Chuyên môn,N,B-Skill
+41,:,CH,I-Skill
+41,QTKD,Np,I-Skill
+41,",",CH,I-Skill
+41,Marketing,Np,I-Skill
+41,hoặc,C,O
+41,chuyên nganh,V,O
+41,khách,N,O
+41,có,V,O
+41,liên quan,V,O
+41,.,CH,O
+42,Kinh ngiệm,N,O
+42,:,CH,O
+42,Ưu tiên,N,O
+42,có,V,O
+42,kinh nghiệm,N,O
+42,ở,E,O
+42,vị trí,N,O
+42,tương đương,A,O
+42,và,C,O
+42,cùng,A,O
+42,ngành nghề,M,O
+43,Khả năng,N,O
+43,:,CH,O
+44,Trình độ,N,O
+44,ngoại ngữ,N,O
+44,:,CH,O
+44,Giao tiếp,V,B-Skill
+44,tiếng,N,I-Skill
+44,Anh,Np,I-Skill
+44,thành thạo,M,I-Skill
+45,Trình độ,N,B-Skill
+45,tin học,N,I-Skill
+45,:,CH,O
+45,Thành thạo,N,B-Skill
+45,tin học,N,I-Skill
+45,văn phòng,N,I-Skill
+45,(,CH,I-Skill
+45,Word,Np,I-Skill
+45,",",CH,I-Skill
+45,Excel,Np,I-Skill
+45,",",CH,I-Skill
+45,Power point,N,I-Skill
+45,",",CH,I-Skill
+45,Internet,FW,I-Skill
+45,",",CH,I-Skill
+45,Outlook,Np,I-Skill
+45,…,CH,O
+45,),CH,O
+46,Nhạy bén,V,B-Skill
+46,với,E,I-Skill
+46,số liệu,N,I-Skill
+46,",",CH,O
+46,khả năng,N,B-Skill
+46,tư duy,V,I-Skill
+46,logic,N,I-Skill
+46,tốt,A,I-Skill
+47,Kỹ năng,N,B-Skill
+47,giao tiếp,V,I-Skill
+47,:,CH,I-Skill
+47,nói,V,I-Skill
+47,và,C,I-Skill
+47,viết,V,I-Skill
+47,thông thạo,N,O
+47,",",CH,O
+47,trôi chảy,V,B-Skill
+47,tiếng,N,I-Skill
+47,Việt,Np,I-Skill
+47,",",CH,O
+47,.,CH,O
+47,Truyền đạt,N,B-Skill
+47,",",CH,I-Skill
+47,chuyển tải,V,I-Skill
+47,suôn sẻ,N,I-Skill
+47,",",CH,I-Skill
+47,mạch lạc,V,I-Skill
+47,các,L,O
+47,thông điệp,N,O
+47,đến,E,O
+47,người,N,O
+47,nghe,V,O
+47,.,CH,O
+48,Kỹ năng,N,B-Skill
+48,trình bày,V,I-Skill
+48,:,CH,O
+48,đạt,V,O
+48,được,R,O
+48,tính,V,B-Skill
+48,mạch lạc,N,I-Skill
+48,",",CH,I-Skill
+48,rõ,A,I-Skill
+48,rang,N,I-Skill
+48,",",CH,I-Skill
+48,có,V,I-Skill
+48,trọng tâm,N,I-Skill
+48,và,C,I-Skill
+48,logic,M,I-Skill
+49,Kỹ năng,N,B-Skill
+49,xây dựng,V,I-Skill
+49,đội ngũ,N,I-Skill
+49,:,CH,O
+49,vận dụng,N,B-Skill
+49,hiểu,V,I-Skill
+49,quả,T,I-Skill
+49,",",CH,O
+49,kỹ năng,N,B-Skill
+49,động viên,V,I-Skill
+49,",",CH,I-Skill
+49,khuyến khích,V,I-Skill
+49,",",CH,O
+49,xây dựng,V,B-Skill
+49,tinh thần,N,I-Skill
+49,kỹ luật,A,I-Skill
+49,",",CH,I-Skill
+49,đoàn kết,V,I-Skill
+49,hướng,N,O
+49,đến,E,O
+49,mục tiêu,N,O
+49,chung,A,O
+49,và,C,O
+49,hiệu quả,N,O
+49,công việc,N,O
+49,.,CH,O
+50,Kỹ năng,N,B-Skill
+50,quản lý,V,I-Skill
+50,",",CH,I-Skill
+50,đào tạo,V,I-Skill
+50,",",CH,I-Skill
+50,huấn luyện,V,I-Skill
+50,",",CH,I-Skill
+50,xây dựng,V,I-Skill
+50,kế hoạch,N,I-Skill
+51,Kỹ năng,N,B-Skill
+51,giao,V,I-Skill
+51,việc,N,I-Skill
+51,cho,E,I-Skill
+51,nhân viên,N,I-Skill
+52,Kỹ năng,N,B-Skill
+52,lắng nghe,V,I-Skill
+52,",",CH,O
+52,kỹ năng,N,B-Skill
+52,giải quyết,V,I-Skill
+52,vấn đề,N,I-Skill
+53,Kỹ năng,N,B-Skill
+53,đàm phán,V,I-Skill
+53,",",CH,I-Skill
+53,thương lượng,V,I-Skill
+53,",",CH,I-Skill
+53,giao tiếp,V,I-Skill
+53,tốt,A,I-Skill
+54,Kỹ năng,N,B-Skill
+54,làm việc,V,I-Skill
+54,độc lập,A,I-Skill
+54,hoặc,C,I-Skill
+54,theo,V,I-Skill
+54,nhóm,N,I-Skill
+54,",",CH,O
+54,làm việc,V,B-Skill
+54,dưới,E,I-Skill
+54,áp lực,N,I-Skill
+54,cao,A,I-Skill
+55,Phẩm chất,N,O
+55,cá nhân,N,O
+55,:,CH,O
+56,Nhanh nhẹn,A,B-Skill
+56,",",CH,O
+56,linh hoạt,M,B-Skill
+57,Tính liêm,N,B-Skill
+57,chính,T,I-Skill
+57,",",CH,O
+57,trung thực,A,B-Skill
+57,:,CH,O
+57,Khả năng,N,B-Skill
+57,cam kết,V,I-Skill
+57,duy trì,V,I-Skill
+57,tinh thần,N,I-Skill
+57,trung thực,A,I-Skill
+57,",",CH,O
+57,các,L,O
+57,hành vi,N,O
+57,mang,V,O
+57,tính,N,O
+57,xã hội,N,O
+57,có,V,O
+57,liên quan,V,O
+57,đến,E,O
+57,đạo đức,N,O
+57,",",CH,O
+57,và,C,O
+57,giá trị,N,O
+57,công ty,N,O
+57,.,CH,O
+57,Bám,V,B-Skill
+57,sát,A,I-Skill
+57,vào,E,I-Skill
+57,các,L,I-Skill
+57,quy tắc,N,I-Skill
+57,và,C,O
+57,trung thực,A,B-Skill
+57,",",CH,O
+57,tự tin,V,B-Skill
+57,vào,E,I-Skill
+57,bản thân,N,I-Skill
+57,và,C,I-Skill
+57,công việc,N,I-Skill
+57,cao,A,I-Skill
+57,.,CH,O
+58,Có,V,B-Skill
+58,tinh thần,N,I-Skill
+58,",",CH,I-Skill
+58,thái độ,N,I-Skill
+58,và,C,I-Skill
+58,suy nghĩ,V,I-Skill
+58,tích cực,A,I-Skill
+58,.,CH,O
+59,Có,V,B-Skill
+59,óc,N,I-Skill
+59,quan sát,V,I-Skill
+59,",",CH,I-Skill
+59,phân tích,V,I-Skill
+59,",",CH,I-Skill
+59,tổ chức,V,I-Skill
+59,và,C,O
+59,phối hợp,V,B-Skill
+59,hiệu quả,N,I-Skill
+59,trong,E,O
+59,công việc,N,O
+59,.,CH,O
+60,Làm việc,V,B-Skill
+60,độc lập,A,I-Skill
+60,và,C,O
+60,hướng,N,B-Skill
+60,đến,V,I-Skill
+60,hiệu quả,N,I-Skill
+61,Ưu tiên,V,O
+61,ứng viên,N,O
+61,đã,R,O
+61,có,V,O
+61,kinh nghiệm,N,B-Skill
+61,làm,V,I-Skill
+61,thẩm định,V,I-Skill
+61,điện thoại,N,I-Skill
+61,tại,E,I-Skill
+61,các,L,I-Skill
+61,tổ chức,N,I-Skill
+61,tài chính,N,I-Skill
+61,",",CH,I-Skill
+61,ngân hàng,N,I-Skill
+61,.,CH,O
+62,Ứng viên,N,O
+62,đã,R,O
+62,có,V,O
+62,kinh nghiệm,N,B-Skill
+62,xét duyệt,V,I-Skill
+62,hồ sơ,N,I-Skill
+62,tín dụng,N,I-Skill
+62,",",CH,O
+62,đặc biệt,A,O
+62,trong,E,O
+62,lĩnh vực,N,B-Skill
+62,tài chính,N,I-Skill
+62,tiêu dùng,V,I-Skill
+62,là,V,O
+62,một,M,O
+62,lợi thế,N,O
+62,.,CH,O
+63,Tư duy,N,B-Skill
+63,độc lập,A,I-Skill
+63,",",CH,O
+63,làm việc,V,B-Skill
+63,trung thực,A,I-Skill
+63,khách quan,A,I-Skill
+63,.,CH,O
+64,Kỹ năng,N,B-Skill
+64,giao tiếp,V,I-Skill
+64,qua,E,I-Skill
+64,điện thoại,N,I-Skill
+64,chuyên nghiệp,A,I-Skill
+64,.,CH,O
+65,Giọng,N,B-Skill
+65,nói,V,I-Skill
+65,tốt,A,I-Skill
+65,",",CH,I-Skill
+65,không,R,I-Skill
+65,ngọng,V,I-Skill
+65,.,CH,O
+66,Kỹ năng,N,B-Skill
+66,quản lý,V,I-Skill
+66,thời gian,N,I-Skill
+66,",",CH,I-Skill
+66,sắp xếp,V,I-Skill
+66,công việc,N,I-Skill
+66,tốt,A,I-Skill
+66,.,CH,O
+67,Kỹ năng,N,B-Skill
+67,phân tích,V,I-Skill
+67,",",CH,I-Skill
+67,đánh giá,V,I-Skill
+67,và,C,I-Skill
+67,phát hiện,V,I-Skill
+67,rủi ro,A,I-Skill
+67,.,CH,O
+68,Khả năng,N,B-Skill
+68,làm việc,V,I-Skill
+68,dưới,E,I-Skill
+68,áp lực,N,I-Skill
+68,cao,A,I-Skill
+68,.,CH,O
+69,Sử dụng,V,O
+69,thành thạo,N,O
+69,kỹ năng,N,B-Skill
+69,tin học,N,I-Skill
+69,văn phòng,N,I-Skill
+69,.,CH,O
+70,Mức,N,O
+70,lương,N,O
+70,cạnh tranh,M,O
+71,Được,V,O
+71,ký HĐLĐ,N,O
+71,",",CH,O
+71,đầy đủ,A,O
+71,chế độ,N,O
+71,theo,V,O
+71,quy định,N,O
+71,nhà nước,N,O
+72,Được,V,O
+72,đào tạo,V,O
+72,kiến thức,N,O
+72,",",CH,O
+72,năng lực,N,O
+72,thẩm định,V,O
+73,Tốt nghiệp,V,O
+73,Đại học,N,O
+73,trở,V,O
+73,lên,V,O
+73,các,L,O
+73,ngành,N,B-Skill
+73,về,E,I-Skill
+73,kế toán,N,I-Skill
+73,kiểm toán,V,I-Skill
+73,hoặc,C,I-Skill
+73,tài chính,N,I-Skill
+73,.,CH,O
+74,Có,V,O
+74,kinh nghiệm,N,O
+74,2,M,O
+74,năm,N,O
+74,làm,V,O
+74,các,L,O
+74,vị trí,N,O
+74,tương đương,A,O
+74,hoặc,C,O
+74,liên quan,V,O
+74,.,CH,O
+74,Ưu tiên,N,O
+74,đã,R,O
+74,làm,V,B-Skill
+74,qua,V,I-Skill
+74,công ty,N,I-Skill
+74,bán lẻ,V,I-Skill
+74,về,E,I-Skill
+74,mỹ phẩm,N,I-Skill
+74,.,CH,O
+75,Sử dụng,V,O
+75,thành thạo,V,B-Skill
+75,các,L,I-Skill
+75,phần mềm,N,I-Skill
+75,về,E,I-Skill
+75,kế toán,N,I-Skill
+75,",",CH,I-Skill
+75,tin học,N,I-Skill
+75,văn phòng,N,I-Skill
+75,",",CH,O
+75,…,CH,O
+76,Nắm,V,B-Skill
+76,vững,A,I-Skill
+76,các,L,I-Skill
+76,nghiệp vụ,N,I-Skill
+76,kế toán,N,I-Skill
+76,",",CH,O
+76,kiến thức,N,B-Skill
+76,về,E,I-Skill
+76,phân tích,V,I-Skill
+76,",",CH,I-Skill
+76,tổng hợp,V,I-Skill
+76,dữ liệu,N,I-Skill
+76,và,C,I-Skill
+76,viết,V,I-Skill
+76,báo cáo,V,I-Skill
+76,.,CH,O
+77,Có,V,O
+77,sự,N,B-Skill
+77,cẩn thận,A,I-Skill
+77,và,C,I-Skill
+77,tỉ mỉ,A,I-Skill
+77,cao,A,I-Skill
+77,",",CH,O
+77,khả năng,N,B-Skill
+77,tính toán,V,I-Skill
+77,tốt,A,I-Skill
+77,",",CH,O
+77,suy nghĩ,V,B-Skill
+77,logic,N,I-Skill
+77,và,C,O
+77,chịu đựng,V,B-Skill
+77,áp lực,N,I-Skill
+77,cao,A,I-Skill
+77,.,CH,O
+78,Mức,N,O
+78,lương,N,O
+78,:,CH,O
+78,Thỏa Thuận,Np,O
+79,Chế độ,N,O
+79,bảo hiểm,V,O
+79,theo,V,O
+79,quy định,N,O
+79,pháp luật,N,O
+79,.,CH,O
+80,Làm việc,V,O
+80,trong,E,O
+80,môi trường,N,O
+80,năng động,N,O
+80,chuyên nghiệp,A,O
+80,có,V,O
+80,nhiều,A,O
+80,cơ hội,N,O
+80,thăng tiến,M,O
+81,Cung cấp,V,O
+81,trang thiết bị,V,O
+81,đầy đủ,A,O
+81,cho,E,O
+81,công việc,N,O
+82,Các,L,O
+82,đãi ngộ,N,O
+82,về,V,O
+82,du lịch,V,O
+82,",",CH,O
+82,Teambuilding,Np,O
+82,",",CH,O
+82,văn hóa,N,O
+82,thể thao,N,O
+82,khác,A,O
+83,Hưởng,V,O
+83,chế độ,N,O
+83,BHYT,Np,O
+83,",",CH,O
+83,BHXH,Np,O
+83,",",CH,O
+83,BHTN,Np,O
+84,Chế độ,N,O
+84,du lịch,V,O
+84,hằng,R,O
+84,năm,N,O
+84,....,M,O
+85,Thưởng,N,O
+85,lương,N,O
+85,tháng,N,O
+85,13,M,O
+85,+,N,O
+85,thưởng,V,O
+85,năm,N,O
+85,theo,V,O
+85,tình hình,N,O
+85,kinh doanh,V,O
+85,của,E,O
+85,Công ty,N,O
+94,Nam,Np,O
+94,dưới,E,O
+94,27,M,O
+94,tuổi,N,O
+94,.,CH,O
+95,Tốt nghiệp,V,O
+95,chuyên ngành,N,B-Skill
+95,thiết kế,V,I-Skill
+95,đồ,N,I-Skill
+95,họa,N,I-Skill
+95,.,CH,O
+96,Có thể,R,O
+96,sử dụng,V,B-Skill
+96,các,L,I-Skill
+96,phần mềm,N,I-Skill
+96,phục vụ,V,I-Skill
+96,công việc,N,I-Skill
+96,như,C,I-Skill
+96,:,CH,I-Skill
+96,Photoshop,Np,I-Skill
+96,",",CH,I-Skill
+96,CorelDRAW,Np,I-Skill
+96,",",CH,I-Skill
+96,AI.,Np,I-Skill
+96,.,CH,O
+97,Không,R,O
+97,yêu cầu,V,O
+97,kinh nghiệm,N,O
+97,.,CH,O
+98,Giao tiếp,V,B-Skill
+98,được,V,I-Skill
+98,tiếng,N,I-Skill
+98,Anh,Np,I-Skill
+98,là,V,O
+98,một,M,O
+98,lợi thế,N,O
+98,.,CH,O
+99,Mức,N,O
+99,lương,N,O
+99,:,CH,O
+99,10,M,O
+99,-,CH,O
+99,15,M,O
+99,triệu,M,O
+100,Các,L,O
+100,khoản,N,O
+100,BHXH,Np,O
+100,",",CH,O
+100,BHYT,Np,O
+100,",",CH,O
+100,BHTN,Np,O
+100,",",CH,O
+100,thuế,N,O
+100,TNCN,Np,O
+100,sẽ,R,O
+100,được,V,O
+100,công ty,N,O
+100,chi trả,V,O
+100,.,CH,O
+101,Lương,N,O
+101,tháng,N,O
+101,13,M,O
+101,",",CH,O
+101,khám,V,O
+101,sức,N,O
+101,khỏe định kỳ,V,O
+101,mỗi,L,O
+101,năm,N,O
+101,&,CH,O
+101,các,L,O
+101,phúc lợi,N,O
+101,khác,A,O
+101,theo,V,O
+101,chính sách,N,O
+101,của,E,O
+101,công ty,N,O
+101,.,CH,O
+102,Tốt nghiệp,V,O
+102,Cao đẳng,N,O
+102,trở,V,O
+102,lên,V,O
+102,\,N,O
+102,xa0chuyên,N,O
+102,ngành,N,B-Skill
+102,Xây dựng,V,I-Skill
+102,",",CH,I-Skill
+102,Cơ khí,N,I-Skill
+102,.,CH,O
+103,Kinh nghiệm,N,O
+103,:,CH,O
+103,3,M,O
+103,năm,N,O
+103,trở,V,O
+103,lên,V,O
+103,làm việc,V,B-Skill
+103,trong,E,I-Skill
+103,lĩnh vực,N,I-Skill
+103,xây dựng,V,I-Skill
+103,hoặc,C,I-Skill
+103,kết cấu,V,I-Skill
+103,thép,N,I-Skill
+103,.,CH,O
+104,Tiếng,N,B-Skill
+104,Anh,Nc,I-Skill
+104,giao tiếp,V,I-Skill
+104,.,CH,O
+105,Kỹ năng,N,B-Skill
+105,tin học,N,I-Skill
+105,:,CH,I-Skill
+105,MS Office,Np,I-Skill
+105,",",CH,I-Skill
+105,AutoCad,Np,I-Skill
+105,.,CH,O
+106,Ưu tiên,N,O
+106,có,V,O
+106,kinh nghiệm,N,B-Skill
+106,về,V,I-Skill
+106,kết cấu,V,I-Skill
+106,thép,N,I-Skill
+106,.,CH,O
+107,Thành thạo,N,B-Skill
+107,máy tính,N,I-Skill
+107,",",CH,O
+107,có thể,R,O
+107,gõ,V,B-Skill
+107,máy tính,N,I-Skill
+107,và,C,I-Skill
+107,thao tác,V,I-Skill
+107,nhanh,A,I-Skill
+108,Đã,R,O
+108,từng,R,O
+108,có,V,O
+108,kinh nghiệm,N,B-Skill
+108,bán,V,I-Skill
+108,hàng,N,I-Skill
+108,online,V,I-Skill
+108,qua,E,I-Skill
+108,Facebook,Np,I-Skill
+108,là,V,O
+108,lợi thế,M,O
+109,Có,V,O
+109,khả năng,N,B-Skill
+109,làm việc,V,I-Skill
+109,tập trung,V,I-Skill
+109,cao,A,I-Skill
+109,trong,E,I-Skill
+109,cường độ,N,I-Skill
+109,cao,A,I-Skill
+109,khi,N,O
+109,đông,A,O
+109,khách,N,O
+109,",",CH,O
+109,có,V,O
+109,kỹ năng,N,B-Skill
+109,sắp xếp,V,I-Skill
+109,công việc,N,I-Skill
+110,xa0Ít,A,O
+110,nhất,R,O
+110,1-2,N,O
+110,\ xa0năm,V,O
+110,kinh nghiệm,N,B-Skill
+110,làm việc,V,I-Skill
+110,liên quan,V,I-Skill
+110,mỹ phẩm,N,I-Skill
+110,/,CH,O
+110,nước,N,B-Skill
+110,hoa,N,I-Skill
+110,\ xa0cao,V,O
+110,cấp,N,O
+110,.,CH,O
+111,\ xa0Có,N,O
+111,đam mê,V,O
+111,với,E,O
+111,ngành,N,B-Skill
+111,bán lẻ,V,I-Skill
+111,với,E,O
+111,kỹ năng,N,B-Skill
+111,bán,V,I-Skill
+111,hàng,N,I-Skill
+111,tốt,A,O
+112,Có,V,O
+112,chứng chỉ,N,B-Skill
+112,về,E,I-Skill
+112,makeup,N,I-Skill
+112,hoặc,C,O
+112,kỹ năng,N,B-Skill
+112,make up,V,I-Skill
+112,là,V,O
+112,một,M,O
+112,lợi thế,N,O
+112,.,CH,O
+113,xa0Yêu,N,O
+113,thích,V,B-Skill
+113,mỹ phẩm,V,I-Skill
+113,/,CH,O
+113,nước,N,B-Skill
+113,hoa,N,I-Skill
+113,\ xa0và,V,I-Skill
+113,các,L,I-Skill
+113,sản phẩm,N,I-Skill
+113,chất lượng,N,I-Skill
+114,xa0Thành thạo,V,O
+114,tiếng,N,B-Skill
+114,anh,Nc,I-Skill
+114,.,CH,O
+114,Tiếng,N,B-Skill
+114,trung,A,I-Skill
+114,",",CH,O
+114,tiếng,N,B-Skill
+114,pháp,V,I-Skill
+114,hoặc,C,O
+114,tiếng,N,B-Skill
+114,nhật,N,I-Skill
+114,là,V,O
+114,một,M,O
+114,lợi thế,N,O
+115,xa0Có,V,O
+115,định hướng,V,B-Skill
+115,về,E,I-Skill
+115,chăm sóc,V,I-Skill
+115,khách hàng,N,I-Skill
+115,với,E,O
+115,kỹ năng,N,B-Skill
+115,giao tiếp,V,I-Skill
+115,tốt,A,I-Skill
+116,xa0Kỹ năng,V,B-Skill
+116,máy tính,N,I-Skill
+116,cơ bản,A,I-Skill
+117,Có,V,O
+117,tinh thần,N,B-Skill
+117,trách nhiệm,N,I-Skill
+117,cao,A,I-Skill
+117,",",CH,I-Skill
+117,cẩn thận,A,I-Skill
+117,",",CH,I-Skill
+117,an toàn,A,I-Skill
+118,Kinh nghiệm,N,B-Skill
+118,làm,V,I-Skill
+118,bảo vệ,V,I-Skill
+118,là,V,O
+118,lợi thế,M,O
+119,Độ,N,O
+119,tuổi,N,O
+119,:,CH,O
+119,từ,E,O
+119,43,M,O
+119,đến,E,O
+119,47,M,O
+119,tuổi,N,O
+120,Lý lịch,N,O
+120,rõ ràng,A,O
+121,Sức,N,O
+121,khỏe,V,O
+121,tốt,A,O
+122,Khả năng,N,B-Skill
+122,giao tiếp,V,I-Skill
+122,tốt,A,I-Skill
+122,",",CH,I-Skill
+122,thân thiện,M,I-Skill
+123,Không,R,O
+123,có,V,O
+123,hình xăm,M,O
+124,Nữ,N,O
+124,>,N,O
+124,23,M,O
+124,tuổi,N,O
+124,.,CH,O
+124,Ưu tiên,V,O
+124,1985,M,O
+124,đến,E,O
+124,1997,M,O
+125,Tốt nghiệp,V,O
+125,Cao đẳng,N,O
+125,",",CH,O
+125,Đại học,N,O
+125,trở,V,O
+125,lên,V,O
+125,ngành,N,B-Skill
+125,Dược,Np,I-Skill
+125,",",CH,I-Skill
+125,y sinh,N,I-Skill
+125,",",CH,I-Skill
+125,y tế,N,I-Skill
+125,",",CH,I-Skill
+125,kỹ thuật,N,I-Skill
+125,hóa học,V,I-Skill
+125,..,N,O
+125,hoặc,C,O
+125,các,L,O
+125,ngành,N,O
+125,liên quan,V,O
+125,.,CH,O
+126,Kinh nghiệm,N,O
+126,5,M,O
+126,năm,N,O
+126,làm việc,V,O
+126,ở,E,O
+126,vị trí,N,O
+126,tương đương,A,O
+126,tại,E,O
+126,các,L,O
+126,công ty,N,B-Skill
+126,dược,N,I-Skill
+126,mỹ phẩm,N,I-Skill
+126,",",CH,I-Skill
+126,dược phẩm,N,I-Skill
+126,.,CH,O
+127,Sử dụng,V,B-Skill
+127,Anh ngữ,N,I-Skill
+127,ở,E,I-Skill
+127,mức độ,N,I-Skill
+127,giao tiếp,V,I-Skill
+127,",",CH,O
+127,đọc,V,B-Skill
+127,hiểu,V,I-Skill
+127,các,L,I-Skill
+127,tài liệu,N,I-Skill
+127,chuyên ngành,V,I-Skill
+127,.,CH,O
+128,Sử dụng,V,O
+128,thành thạo,V,B-Skill
+128,vi tính,N,I-Skill
+128,văn phòng,N,I-Skill
+128,(,CH,I-Skill
+128,word,N,I-Skill
+128,",",CH,I-Skill
+128,excel,N,I-Skill
+128,",",CH,I-Skill
+128,powerpoint,N,I-Skill
+128,),CH,I-Skill
+128,",",CH,I-Skill
+128,Internet,FW,I-Skill
+128,.,CH,O
+129,Giao tiếp,V,B-Skill
+129,trình bày,V,I-Skill
+129,rõ ràng,A,I-Skill
+129,.,CH,O
+130,Kỹ năng,N,B-Skill
+130,phân tích,V,I-Skill
+130,vấn đề,N,I-Skill
+130,",",CH,O
+130,quản lý,V,B-Skill
+130,công việc,N,I-Skill
+130,và,C,I-Skill
+130,thời gian,N,I-Skill
+130,.,CH,O
+131,Có,V,O
+131,khả năng,N,B-Skill
+131,phân tích,V,I-Skill
+131,",",CH,O
+131,nắm bắt,V,B-Skill
+131,nhu cầu,N,I-Skill
+131,thị trường,N,I-Skill
+132,Trung thực,N,B-Skill
+132,",",CH,O
+132,có,V,O
+132,tinh thần,N,B-Skill
+132,trách nhiệm,N,I-Skill
+132,",",CH,O
+132,chủ động,N,B-Skill
+132,trong,E,I-Skill
+132,công việc,N,I-Skill
+132,",",CH,O
+132,chịu,V,B-Skill
+132,được,V,I-Skill
+132,áp lực,V,I-Skill
+132,công việc,N,I-Skill
+132,.,CH,O
+133,Máy tính,N,O
+133,cá nhân,N,O
+133,với,E,O
+133,cấu hình,N,O
+133,đáp ứng,V,O
+133,được,R,O
+133,công việc,N,O
+133,thiết kế,V,O
+133,(,CH,O
+133,ram,V,O
+133,từ,E,O
+133,16GB,N,O
+133,trở,V,O
+133,lên,V,O
+133,),CH,O
+134,Có,V,O
+134,kinh nghiệm,N,B-Skill
+134,làm việc,V,I-Skill
+134,trong,E,I-Skill
+134,ngành,N,I-Skill
+134,F&B,Np,I-Skill
+134,là,V,O
+134,lợi thế,M,O
+135,Tinh thần,N,B-Skill
+135,sáng tạo,V,I-Skill
+135,và,C,I-Skill
+135,thẩm mỹ,N,I-Skill
+135,",",CH,O
+135,\ xa0học,N,B-Skill
+135,hỏi,V,I-Skill
+135,chủ động,M,I-Skill
+136,Nam,Np,O
+136,/,CH,O
+136,nữ,N,O
+136,",",CH,O
+136,tuổi,N,O
+136,dưới,E,O
+136,35,M,O
+136,;,CH,O
+137,Trình độ,N,O
+137,cao đẳng,N,O
+137,trở,V,O
+137,lên,V,O
+138,IELTS,Np,B-Skill
+138,từ,E,I-Skill
+138,6.5,N,I-Skill
+138,trở,V,O
+138,lên,V,O
+138,;,CH,O
+139,Kiến thức,N,B-Skill
+139,sâu,A,I-Skill
+139,về,E,I-Skill
+139,luật,N,I-Skill
+139,di trú,N,I-Skill
+139,và,C,I-Skill
+139,quy định,V,I-Skill
+139,visa,FW,I-Skill
+139,Úc,Np,I-Skill
+139,;,CH,O
+140,Ưu tiên,N,O
+140,đã,R,O
+140,từng,R,O
+140,sinh sống,V,O
+140,và,C,O
+140,học tập,V,O
+140,tại,E,O
+140,Úc,Np,O
+140,;,CH,O
+141,Tư cách,N,B-Skill
+141,đạo đức,N,I-Skill
+141,tốt,A,I-Skill
+141,;,CH,O
+142,Kỹ năng,N,B-Skill
+142,soạn thảo,V,I-Skill
+142,văn bản,N,I-Skill
+142,và,C,I-Skill
+142,trình bày,V,I-Skill
+142,tốt,A,I-Skill
+142,;,CH,O
+143,Kỹ năng,N,B-Skill
+143,tư vấn,V,I-Skill
+143,",",CH,I-Skill
+143,giao tiếp,V,I-Skill
+143,và,C,O
+143,và,C,O
+143,xử lý,V,B-Skill
+143,phát sinh,V,I-Skill
+143,tốt,A,I-Skill
+143,;,CH,O
+144,Tính,V,B-Skill
+144,kiên nhẫn,A,I-Skill
+144,và,C,O
+144,sự,N,B-Skill
+144,tỉ mỉ,A,I-Skill
+144,trong,E,O
+144,việc làm việc,N,O
+144,với,E,O
+144,tài liệu,N,O
+144,và,C,O
+144,thủ tục,N,O
+144,phức tạp,A,O
+144,;,CH,O
+145,Hiểu biết,N,B-Skill
+145,về,V,I-Skill
+145,quy định,V,I-Skill
+145,về,E,I-Skill
+145,bảo mật,V,I-Skill
+145,và,C,I-Skill
+145,quyền,N,I-Skill
+145,riêng tư,A,I-Skill
+145,.,CH,O
+146,Nữ,N,O
+146,",",CH,O
+146,24-28 tuổi,N,O
+146,",",CH,O
+146,yêu,V,O
+146,thích,V,O
+146,ngành,N,B-Skill
+146,làm đẹp,M,I-Skill
+147,Tốt nghiệp,V,O
+147,đại học,N,O
+147,chuyên ngành,N,O
+147,:,CH,O
+147,quản trị,V,B-Skill
+147,hành chính,N,I-Skill
+147,",",CH,I-Skill
+147,văn thư,V,I-Skill
+147,lưu trữ,N,I-Skill
+147,",",CH,I-Skill
+147,luật,N,I-Skill
+148,Có,V,O
+148,ít nhất,X,O
+148,2,M,O
+148,năm,N,O
+148,kinh nghiệm,N,O
+148,",",CH,O
+148,ưu tiên,A,O
+148,có,V,O
+148,kinh nghiệm,N,B-Skill
+148,trong,E,I-Skill
+148,lĩnh vực,N,I-Skill
+148,y tế,N,I-Skill
+148,",",CH,I-Skill
+148,làm đẹp,N,I-Skill
+148,",",CH,I-Skill
+148,mỹ phẩm,N,I-Skill
+148,",",CH,I-Skill
+148,thực phẩm,N,I-Skill
+148,chức năng,N,I-Skill
+148,là,V,O
+148,một,M,O
+148,lợi thế,N,O
+148,.,CH,O
+149,Ngoại hình,N,B-Skill
+149,khá,R,I-Skill
+149,",",CH,O
+149,giọng,N,B-Skill
+149,nói,V,I-Skill
+149,chuẩn,A,I-Skill
+149,.,CH,O
+150,Giao,V,B-Skill
+150,tiếp,V,I-Skill
+150,tốt,A,I-Skill
+150,",",CH,O
+150,tinh tế,V,B-Skill
+150,trong,E,I-Skill
+150,ứng xử,V,I-Skill
+150,;,CH,O
+150,chăm chỉ,A,B-Skill
+150,",",CH,O
+150,trách nhiệm,N,B-Skill
+150,",",CH,O
+150,trung thực,A,B-Skill
+150,",",CH,O
+150,nhanh nhẹn,A,B-Skill
+151,Lương,N,O
+151,thỏa thuận,N,O
+151,",",CH,O
+151,tùy,V,O
+151,năng lực,N,O
+151,từ,E,O
+151,7-8 tr,N,O
+151,.,CH,O
+152,Được,V,O
+152,hưởng,V,O
+152,đầy đủ,A,O
+152,quyền lợi,N,O
+152,của,E,O
+152,người,N,O
+152,lao động,V,O
+152,theo,V,O
+152,luật,N,O
+152,hiện hành,N,O
+152,(,CH,O
+152,Bảo hiểm xã hội,N,O
+152,",",CH,O
+152,Bảo hiểm y tế,N,O
+152,",",CH,O
+152,bảo hiểm,N,O
+152,thất nghiệp,V,O
+152,),CH,O
+152,.,CH,O
+153,Được,V,O
+153,hưởng,V,O
+153,chế độ,N,O
+153,nghỉ mát,V,O
+153,;,CH,O
+153,thưởng,V,O
+153,lễ,N,O
+153,",",CH,O
+153,tết,N,O
+153,;,CH,O
+153,thưởng,V,O
+153,theo,V,O
+153,hiệu quả,N,O
+153,công việc,N,O
+153,.,CH,O
+154,Môi trường,N,O
+154,làm việc,V,O
+154,năng động,A,O
+154,",",CH,O
+154,thân thiện,N,O
+154,.,CH,O
+154,Có,V,O
+154,cơ hội,N,O
+154,làm việc,V,O
+154,với,E,O
+154,nhiều,A,O
+154,đối tác,N,O
+154,lớn,A,O
+154,",",CH,O
+154,uy tín,N,O
+154,.,CH,O
+155,Có,V,O
+155,cơ hội,N,O
+155,thăng tiến,V,O
+155,.,CH,O
+156,Trình độ,N,O
+156,học vấn,N,O
+156,:,CH,O
+156,Cao đẳng,N,O
+156,",",CH,O
+156,Đại học,N,O
+156,trở,V,O
+156,lên,V,O
+156,.,CH,O
+157,Trình độ,N,B-Skill
+157,vi tính,N,I-Skill
+157,:,CH,O
+157,Sử dụng,V,O
+157,thành thạo,N,B-Skill
+157,tin học,N,I-Skill
+157,văn phòng,N,I-Skill
+157,.,CH,O
+158,Trình độ,N,B-Skill
+158,Anh ngữ,N,I-Skill
+158,:,CH,O
+158,Trình độ,N,O
+158,B,Np,O
+158,trở,V,O
+158,lên,V,O
+158,.,CH,O
+159,Kinh nghiệm,N,O
+159,:,CH,O
+159,Có,V,O
+159,ít nhất,X,O
+159,3,M,O
+159,năm,N,O
+159,kinh nghiệm,N,O
+159,tại,E,O
+159,vị trí,N,O
+159,tương đương,A,O
+159,.,CH,O
+160,Độ,N,O
+160,tuổi,N,O
+160,:,CH,O
+160,Tuổi,N,O
+160,từ,E,O
+160,28,M,O
+160,trở,V,O
+160,lên,V,O
+160,.,CH,O
+161,Có,V,O
+161,kinh nghiệm,N,B-Skill
+161,về,V,I-Skill
+161,khai thác,V,I-Skill
+161,Container,Np,I-Skill
+161,",",CH,I-Skill
+161,hãng,N,I-Skill
+161,tàu,N,I-Skill
+161,",",CH,I-Skill
+161,chuỗi,N,I-Skill
+161,cung ứng,V,I-Skill
+161,.,CH,O
+162,Có,V,O
+162,kỹ năng,N,B-Skill
+162,tốt,A,I-Skill
+162,về,E,I-Skill
+162,công tác,N,I-Skill
+162,Quản trị,V,I-Skill
+162,nhân sự,N,I-Skill
+162,.,CH,O
+163,Độ,N,O
+163,tuổi,N,O
+163,từ,E,O
+163,23,M,O
+163,-,CH,O
+163,32,M,O
+164,Tốt nghiệp,V,O
+164,chuyên ngành,N,B-Skill
+164,Quản trị,V,I-Skill
+164,kinh doanh,V,I-Skill
+164,/,CH,I-Skill
+164,Ngoại thương,N,I-Skill
+164,/,CH,I-Skill
+164,Kinh tế,N,I-Skill
+164,hoặc,C,O
+164,tương tự,A,O
+165,Có,V,O
+165,kinh nghiệm,N,O
+165,từ,E,O
+165,1-2,M,O
+165,năm,N,O
+165,ở,E,O
+165,vị trí,N,O
+165,công việc,N,O
+165,tương đương,A,O
+165,(,CH,O
+165,kênh,N,O
+165,FMCG,Np,O
+165,-,CH,O
+165,GT,Np,O
+165,/,CH,O
+165,HORECA,Np,O
+165,),CH,O
+166,Có,V,O
+166,khả năng,N,B-Skill
+166,đào tạo,V,I-Skill
+166,bán,V,I-Skill
+166,hàng,N,I-Skill
+166,cho,E,O
+166,nhân viên,N,O
+167,Có,V,O
+167,kinh nghiệm,N,B-Skill
+167,quản lý,V,I-Skill
+167,đội ngũ,N,I-Skill
+167,bán,V,I-Skill
+167,hàng,N,I-Skill
+167,",",CH,I-Skill
+167,triển khai,V,I-Skill
+167,chương trình,N,I-Skill
+167,",",CH,I-Skill
+167,đảm bảo,V,I-Skill
+167,doanh số,N,I-Skill
+167,bán,V,I-Skill
+168,Nhanh nhẹn,A,B-Skill
+168,",",CH,O
+168,trung thực,A,B-Skill
+168,",",CH,O
+168,năng động,A,B-Skill
+168,",",CH,O
+168,cầu tiến,N,B-Skill
+168,",",CH,O
+168,có,V,B-Skill
+168,trách nhiệm,N,I-Skill
+168,trong,E,O
+168,công việc,N,O
+168,.,CH,O
+169,Có,V,O
+169,kiến thức,N,O
+169,vững,A,O
+169,và,C,O
+169,kinh nghiệm,N,B-Skill
+169,sử dụng,V,I-Skill
+169,toàn bộ,L,I-Skill
+169,thiết bị,N,I-Skill
+169,tự động,A,I-Skill
+169,hóa,V,I-Skill
+169,:,CH,I-Skill
+169,PLC,Np,I-Skill
+169,",",CH,I-Skill
+169,HMI,Np,I-Skill
+169,",",CH,I-Skill
+169,Servo,Np,I-Skill
+169,",",CH,I-Skill
+169,Biến Tần,Np,I-Skill
+169,",",CH,I-Skill
+169,Scada,Np,I-Skill
+169,",",CH,I-Skill
+169,....,CH,I-Skill
+169,thiết bị,N,I-Skill
+169,truyền động Cơ,M,I-Skill
+170,Có,V,O
+170,năng lực,N,B-Skill
+170,khai thác,V,I-Skill
+170,phần mềm,N,I-Skill
+170,về,E,I-Skill
+170,PLC,Np,I-Skill
+170,",",CH,I-Skill
+170,HMI,Np,I-Skill
+170,",",CH,I-Skill
+170,Scada,Np,I-Skill
+170,",",CH,I-Skill
+170,Robot,Np,I-Skill
+170,",",CH,I-Skill
+170,Vision System,Np,I-Skill
+170,",",CH,O
+170,Có,V,O
+170,kiến thức,N,O
+170,và,C,O
+170,năng lực,N,B-Skill
+170,về,E,I-Skill
+170,các,L,I-Skill
+170,hệ thống,N,I-Skill
+170,IIOT,Np,I-Skill
+170,",",CH,I-Skill
+170,Smart Manufacturing,Np,I-Skill
+170,.,CH,O
+171,Có,V,O
+171,kiến thức,N,B-Skill
+171,về,E,I-Skill
+171,quản lý,V,I-Skill
+171,dự án,N,I-Skill
+171,",",CH,I-Skill
+171,lập,V,I-Skill
+171,kế hoạch,N,I-Skill
+171,.,CH,O
+172,Có,V,O
+172,chuyên môn,N,O
+172,và,C,O
+172,kinh nghiệp,V,B-Skill
+172,về,E,I-Skill
+172,đào tạo,V,I-Skill
+172,",",CH,I-Skill
+172,huấn luyện,V,I-Skill
+172,thiết bị,N,I-Skill
+172,Tự Động,Np,I-Skill
+172,Hóa,Np,I-Skill
+172,.,CH,O
+173,Có,V,O
+173,ít nhất,X,O
+173,2,M,O
+173,năm,N,O
+173,kinh nghiệm,N,O
+173,trở,V,O
+173,lên,V,O
+173,ở,E,O
+173,vị trí,N,B-Skill
+173,kỹ thuật,N,I-Skill
+173,về,E,I-Skill
+173,thiết bị,N,I-Skill
+173,tự động,A,I-Skill
+173,",",CH,O
+173,Leader,Np,O
+173,",",CH,O
+173,...,CH,O
+173,đương,V,O
+173,.,CH,O
+173,Ưu tiên,V,O
+173,có,V,O
+173,kinh nghiệm,N,B-Skill
+173,thiết bị,N,I-Skill
+173,TDH,Np,I-Skill
+173,của,E,I-Skill
+173,DELTA,Np,I-Skill
+173,",",CH,I-Skill
+173,SIEMENS,Np,I-Skill
+173,",",CH,O
+173,.....,M,O
+174,Có,V,O
+174,kinh nghiệm,N,B-Skill
+174,làm việc,V,I-Skill
+174,trong,E,I-Skill
+174,môi trường,N,I-Skill
+174,hiện đại,A,I-Skill
+174,",",CH,I-Skill
+174,chuyên nghiệp,A,I-Skill
+174,",",CH,O
+174,làm việc,V,B-Skill
+174,tại,E,I-Skill
+174,các,L,I-Skill
+174,dự án,N,I-Skill
+174,lớn,A,I-Skill
+174,.,CH,O
+175,Có,V,O
+175,kinh nghiệm,N,B-Skill
+175,thiết kế,V,I-Skill
+175,các,L,I-Skill
+175,hệ thống,N,I-Skill
+175,điều khiển,V,I-Skill
+175,",",CH,O
+175,xử lý,V,B-Skill
+175,sự cố,N,I-Skill
+175,",",CH,O
+175,Bảo trì,V,B-Skill
+175,thiết bị,N,I-Skill
+176,Có,V,O
+176,kinh nghiệm,N,B-Skill
+176,giảng dạy,V,I-Skill
+176,và,C,O
+176,soạn thảo,V,B-Skill
+176,tài liệu,N,I-Skill
+177,Có,V,O
+177,kinh nghiệm,N,B-Skill
+177,làm việc,V,I-Skill
+177,với,E,I-Skill
+177,Khách hàng,N,I-Skill
+177,Nước ngoài,N,I-Skill
+177,",",CH,O
+177,Nhà cung,V,O
+177,\,N,O
+177,xa0,V,O
+177,cấp nước ngoài,N,O
+177,!,CH,O
+178,Ưu tiên,N,O
+178,Ứng viên,V,O
+178,có,V,O
+178,thêm,V,O
+178,kinh nghiệm,N,B-Skill
+178,đã,R,I-Skill
+178,làm,V,I-Skill
+178,trong,E,I-Skill
+178,môi trường,N,I-Skill
+178,có,V,I-Skill
+178,ISO,Np,I-Skill
+178,",",CH,I-Skill
+178,5S,N,I-Skill
+178,",",CH,I-Skill
+178,chế tạo máy,N,I-Skill
+178,.,CH,O
+179,Tốt nghiệp,V,O
+179,đại học,N,O
+179,chuyên ngành,N,B-Skill
+179,Tự động,V,I-Skill
+179,hóa,N,I-Skill
+179,",",CH,I-Skill
+179,Điện Điện Tử,Np,I-Skill
+179,.,CH,O
+180,Sử dụng,V,B-Skill
+180,tốt,A,I-Skill
+180,các,L,I-Skill
+180,phần mềm,N,I-Skill
+180,PLC,Np,I-Skill
+180,",",CH,I-Skill
+180,HMI,Np,I-Skill
+180,",",CH,I-Skill
+180,Scada,Np,I-Skill
+180,",",CH,I-Skill
+180,SQL,Np,I-Skill
+180,",",CH,O
+180,…,CH,O
+180,.,CH,O
+181,Sử dụng,V,B-Skill
+181,tốt,A,I-Skill
+181,Microsoft Office,Np,I-Skill
+181,",",CH,O
+181,đặc biệt,A,O
+181,\ xa0PowerPoint,V,B-Skill
+181,.,CH,O
+182,Tiếng,N,B-Skill
+182,Anh,Nc,I-Skill
+182,-,CH,O
+182,Giao tiếp,V,B-Skill
+182,tốt,A,I-Skill
+182,;,CH,O
+183,Ưu tiên,V,O
+183,ứng viên,N,O
+183,biết,V,B-Skill
+183,tiếng,N,I-Skill
+183,Hoa,Np,I-Skill
+184,Kỹ năng,N,B-Skill
+184,giao tiếp,V,I-Skill
+185,Kỹ năng,N,B-Skill
+185,phân tích,V,I-Skill
+185,",",CH,I-Skill
+185,lập,V,I-Skill
+185,kế hoạch,N,I-Skill
+185,và,C,O
+185,thực hiện,V,B-Skill
+185,công việc,N,I-Skill
+185,theo,V,I-Skill
+185,kế hoạch,N,I-Skill
+185,.,CH,O
+186,Chịu,V,B-Skill
+186,áp lực,N,I-Skill
+186,cao,A,I-Skill
+186,.,CH,O
+187,Kỹ năng,N,B-Skill
+187,lập,V,I-Skill
+187,báo cáo,V,I-Skill
+187,và,C,O
+187,phân tích,V,B-Skill
+187,số liệu,N,I-Skill
+187,.,CH,O
+188,Đi,V,O
+188,công tác,V,O
+188,ngắn hạn,N,O
+188,.,CH,O
+189,Ưu tiên,N,O
+189,ứng viên,V,O
+189,có,V,O
+189,kinh nghiệm,N,B-Skill
+189,làm việc,V,I-Skill
+189,trong,E,I-Skill
+189,lĩnh vực,N,I-Skill
+189,tương đương,A,I-Skill
+189,hoặc,C,I-Skill
+189,Sales,Np,I-Skill
+189,tại,E,I-Skill
+189,các,L,I-Skill
+189,Ngân hàng,N,I-Skill
+189,",",CH,I-Skill
+189,AMC,Np,I-Skill
+189,",",CH,I-Skill
+189,Tổ chức,N,I-Skill
+189,Tài chính,N,I-Skill
+189,",",CH,I-Skill
+189,Công ty,N,I-Skill
+189,Thu hồi,V,I-Skill
+189,nợ,N,I-Skill
+189,",",CH,O
+189,…,CH,O
+189,;,CH,O
+190,Ứng viên,N,O
+190,có thể,R,O
+190,di chuyển,V,O
+190,các,L,O
+190,địa bàn,N,O
+190,HCM,Np,O
+191,Ứng viên,N,O
+191,chưa,R,O
+191,có,V,O
+191,kinh nghiệm,N,O
+191,sẽ,R,O
+191,được,V,O
+191,đào tạo,V,O
+191,về,E,O
+191,kỹ năng,N,O
+191,",",CH,O
+191,chuyên môn,N,O
+191,nghiệp vụ,N,O
+191,trong,E,O
+191,quá trình,N,O
+191,làm việc,V,O
+191,;,CH,O
+192,Có,V,O
+192,kỹ năng,N,B-Skill
+192,giao tiếp,V,I-Skill
+192,",",CH,I-Skill
+192,đàm phán,N,I-Skill
+192,",",CH,I-Skill
+192,thương lượng,V,I-Skill
+192,.,CH,O
+192,Giọng,N,B-Skill
+192,nói,V,I-Skill
+192,rõ ràng,A,I-Skill
+192,",",CH,I-Skill
+192,dứt khoát,A,I-Skill
+192,;,CH,O
+193,Có,V,O
+193,khả năng,N,B-Skill
+193,làm việc,V,I-Skill
+193,dưới,E,I-Skill
+193,áp lực,N,I-Skill
+193,cao,A,I-Skill
+193,",",CH,O
+193,xử lý,V,B-Skill
+193,tình huống,N,I-Skill
+193,linh hoạt,A,I-Skill
+193,;,CH,O
+194,Có,V,O
+194,sức,N,O
+194,khỏe,V,O
+194,tốt,A,O
+194,",",CH,O
+194,chịu khó,A,O
+194,và,C,O
+194,kiên trì,V,O
+194,",",CH,O
+194,thông thạo,V,O
+194,đường sá,N,O
+194,;,CH,O
+195,Sử dụng,V,O
+195,cơ bản,A,O
+195,các,L,O
+195,ứng dụng,N,B-Skill
+195,tin học,N,I-Skill
+195,văn phòng,N,I-Skill
+195,Word,Np,I-Skill
+195,",",CH,I-Skill
+195,Excel,Np,I-Skill
+195,",",CH,I-Skill
+195,Outlook,Np,I-Skill
+195,",",CH,O
+195,…,CH,O
+196,Tốt nghiệp,V,O
+196,ngành,N,B-Skill
+196,Truyền thông,N,I-Skill
+196,",",CH,I-Skill
+196,Marketing,Np,I-Skill
+196,hoặc,C,O
+196,chuyên ngành,N,O
+196,liên quan,V,O
+196,.,CH,O
+197,Có,V,O
+197,tối thiểu,N,O
+197,2,M,O
+197,–,CH,O
+197,3,M,O
+197,năm,N,O
+197,kinh nghiệm,N,O
+197,trong,E,O
+197,lĩnh vực,N,B-Skill
+197,kinh doanh,V,I-Skill
+197,",",CH,I-Skill
+197,marketing,FW,I-Skill
+198,Ưu tiên,N,O
+198,ứng viên,V,O
+198,có,V,O
+198,kinh nghiệm,N,B-Skill
+198,làm việc,V,I-Skill
+198,tại,E,I-Skill
+198,các,L,I-Skill
+198,hệ thống,N,I-Skill
+198,phòng khám,N,I-Skill
+198,",",CH,I-Skill
+198,thẩm mỹ viện,N,I-Skill
+198,",",CH,I-Skill
+198,bệnh viện,N,I-Skill
+198,đa khoa,N,I-Skill
+198,tư nhân,N,I-Skill
+198,",",CH,O
+198,…,CH,O
+199,Có,V,O
+199,kiến thức,N,O
+199,&,CH,O
+199,kinh nghiệm,N,B-Skill
+199,về,E,I-Skill
+199,Truyền thông,N,I-Skill
+199,",",CH,I-Skill
+199,Marketing,Np,I-Skill
+199,",",CH,I-Skill
+199,PR,Np,I-Skill
+199,trong,E,O
+199,lĩnh vực,N,O
+199,làm đẹp,M,O
+200,Kỹ năng,N,B-Skill
+200,Lãnh đạo,N,I-Skill
+200,",",CH,O
+200,đàm phán,N,B-Skill
+200,",",CH,O
+200,Giao tiếp,V,B-Skill
+200,tốt,A,I-Skill
+200,",",CH,O
+200,…,CH,O
+201,Sáng tạo,N,B-Skill
+201,",",CH,O
+201,biết,V,O
+201,cách,N,O
+201,xây dựng,V,B-Skill
+201,ý tưởng,N,I-Skill
+201,truyền thông,N,I-Skill
+201,và,C,O
+201,xây dựng,V,B-Skill
+201,kịch bản,N,I-Skill
+201,MC,Ny,I-Skill
+201,",",CH,I-Skill
+201,kịch bản,N,I-Skill
+201,video,FW,I-Skill
+201,",",CH,O
+201,…,CH,O
+202,Am,Np,O
+202,hiểu,V,B-Skill
+202,về,E,I-Skill
+202,chế độ,N,I-Skill
+202,chính sách,N,I-Skill
+202,và,C,I-Skill
+202,các,L,I-Skill
+202,quy định,N,I-Skill
+202,của,E,I-Skill
+202,pháp luật,N,I-Skill
+202,về,E,I-Skill
+202,truyền thông,N,I-Skill
+202,và,C,I-Skill
+202,quảng cáo,V,I-Skill
+203,Có,V,O
+203,tinh thần,N,B-Skill
+203,trách nhiệm,N,I-Skill
+203,cao,A,I-Skill
+203,",",CH,O
+203,đam mê,V,B-Skill
+203,công việc,N,I-Skill
+204,Có,V,O
+204,tinh thần,N,B-Skill
+204,cầu tiến,N,I-Skill
+204,",",CH,O
+204,chủ động,N,B-Skill
+204,trong,E,I-Skill
+204,công việc,N,I-Skill
+205,Chịu,V,B-Skill
+205,được,R,I-Skill
+205,áp lực,V,I-Skill
+205,công việc,N,I-Skill
+205,",",CH,O
+205,kiên trì,N,B-Skill
+205,và,C,O
+205,có,V,O
+205,tinh thần,N,B-Skill
+205,giải quyết,V,I-Skill
+205,khó khăn,A,I-Skill
+205,(,CH,O
+205,nếu,C,O
+205,có,V,O
+205,),CH,O
+206,Hỗ trợ,V,O
+206,ăn,V,O
+206,trưa,N,O
+206,tại,E,O
+206,Công ty,N,O
+207,Các,L,O
+207,quyền lợi,N,O
+207,khác,A,O
+207,theo,V,O
+207,quy định,N,O
+207,của,E,O
+207,Nhà nước,N,O
+207,và,C,O
+207,của,E,O
+207,Công ty,N,O
+207,.,CH,O
+208,Thứ,N,O
+208,2,M,O
+208,đến,E,O
+208,thứ,N,O
+208,6,M,O
+208,từ,E,O
+208,8,M,O
+208,:,CH,O
+208,30,M,O
+208,–,CH,O
+208,12,M,O
+208,:,CH,O
+208,0,N,O
+208,",",CH,O
+208,13,M,O
+208,:,CH,O
+208,30,M,O
+208,–,CH,O
+208,18,M,O
+208,:,CH,O
+208,0,N,O
+208,",",CH,O
+209,Thứ,N,O
+209,7,M,O
+209,:,CH,O
+209,8,M,O
+209,:,CH,O
+209,30,M,O
+209,–,CH,O
+209,12,M,O
+209,:,CH,O
+209,30,M,O
+210,Nghỉ,V,O
+210,:,CH,O
+210,chiều,N,O
+210,thứ,N,O
+210,7,M,O
+210,và,C,O
+210,ngày,N,O
+210,chủ nhật,N,O
+210,.,CH,O
+211,Tốt nghiệp,V,O
+211,đại học,N,O
+211,",",CH,O
+211,cao đẳng,N,O
+211,ngành nghề,V,B-Skill
+211,kỹ thuật,N,I-Skill
+212,Giới tính,N,O
+212,:,CH,O
+212,ưu tiên Nữ,M,O
+213,Có,V,O
+213,tối thiểu,N,O
+213,2,M,O
+213,năm,N,O
+213,kinh nghiệm,N,B-Skill
+213,làm việc,V,I-Skill
+213,liên quan,V,I-Skill
+213,đến,E,I-Skill
+213,các,L,I-Skill
+213,sản phẩm,N,I-Skill
+213,sử dụng,V,I-Skill
+213,trong,E,I-Skill
+213,nhà máy,N,I-Skill
+213,công nghiệp,N,I-Skill
+214,Ưu tiên,N,O
+214,có thể,R,O
+214,sử dụng,V,B-Skill
+214,được,V,I-Skill
+214,Tiếng,Np,I-Skill
+214,Anh,Np,I-Skill
+215,Nhanh nhẹn,A,B-Skill
+215,",",CH,O
+215,hoạt bát,N,B-Skill
+215,",",CH,O
+215,có,V,O
+215,khả năng,N,B-Skill
+215,giao tiếp,V,I-Skill
+215,tốt,A,I-Skill
+215,với,E,I-Skill
+215,khách hàng,N,I-Skill
+216,Tính,V,B-Skill
+216,chủ động,N,I-Skill
+216,trong,E,O
+216,công việc,N,O
+216,",",CH,O
+216,học hỏi,V,B-Skill
+216,kiến thức,N,I-Skill
+216,mới,R,O
+217,Đầy đủ,A,O
+217,chế độ,N,O
+217,BHXH,Np,O
+217,",",CH,O
+217,BHTY,Np,O
+217,",",CH,O
+217,BHTN,Np,O
+217,",",CH,O
+217,BHTNLDBNN,Np,O
+217,",",CH,O
+217,..,N,O
+217,",",CH,O
+217,nghỉ phép,M,O
+217,năm,N,O
+217,",",CH,O
+217,...,CH,O
+217,theo,V,O
+217,luật,N,O
+217,lao động,N,O
+218,Được,V,O
+218,hỗ trợ,V,O
+218,nguồn,N,O
+218,khách hàng,N,O
+218,công nghiệp,N,O
+218,từ,E,O
+218,data,N,O
+218,có,V,O
+218,sẵn,A,O
+218,của,E,O
+218,công ty,N,O
+219,Mức,N,O
+219,thu nhập,N,O
+219,bao gồm,V,O
+219,:,N,O
+219,Lương cứng,N,O
+219,(,CH,O
+219,từ,E,O
+219,4,M,O
+219,đến,V,O
+219,6,M,O
+219,triệu,M,O
+219,đồng,Nu,O
+219,),CH,O
+219,+,V,O
+219,Trợ cấp,V,O
+219,các,L,O
+219,loại,N,O
+219,cố định,N,O
+219,(,CH,O
+219,"1,120,000",N,O
+219,VNĐ,Np,O
+219,/,CH,O
+219,tháng,N,O
+219,),CH,O
+219,+,N,O
+219,1,M,O
+219,%,N,O
+219,doanh số,V,O
+219,đơn,N,O
+219,hàng,N,O
+219,(,CH,O
+219,chủ yếu,A,O
+219,đơn,N,O
+219,hàng,N,O
+219,thương mại,N,O
+219,từ,E,O
+219,khách hàng,N,O
+219,có,V,O
+219,sẵn,A,O
+219,của,E,O
+219,công ty,N,O
+219,),CH,O
+219,",",CH,O
+219,mức,N,O
+219,đãi ngộ,N,O
+219,sẽ,R,O
+219,tốt,A,O
+219,hơn,A,O
+219,nếu,C,O
+219,có thể,R,O
+219,phát triển,V,O
+219,được,R,O
+219,khách hàng,N,O
+219,mới,A,O
+219,.,CH,O
+220,Cơ hội,N,O
+220,làm việc,V,O
+220,trong,E,O
+220,môi trường,N,O
+220,chuyên nghiệp,A,O
+220,với,E,O
+220,tập,V,O
+220,khách hàng,N,O
+220,chủ yếu,A,O
+220,Nhật Bản,Np,O
+220,",",CH,O
+220,học hỏi,V,O
+220,chuyên môn,N,O
+220,và,C,O
+220,tác phong,N,O
+220,làm việc,V,O
+220,từ,E,O
+220,các,L,O
+220,đồng nghiệp,N,O
+220,.,CH,O
+221,Từ,E,O
+221,thứ,N,O
+221,2,M,O
+221,–,CH,O
+221,thứ,N,O
+221,6,M,O
+221,",",CH,O
+221,thứ,N,O
+221,7,M,O
+221,làm việc,V,O
+221,linh động,V,O
+221,theo,V,O
+221,thực tế,N,O
+221,công việc,N,O
+221,.,CH,O
+222,Phòng,N,O
+222,207,N,O
+222,",",CH,O
+222,sảnh,N,O
+222,văn phòng,N,O
+222,Office N09B2,Np,O
+222,",",CH,O
+222,Khu,N,O
+222,đô thị,N,O
+222,Dịch Vọng,Np,O
+222,",",CH,O
+222,đường,N,O
+222,Thành Thái,Np,O
+222,",",CH,O
+222,Cầu Giấy,Np,O
+222,",",CH,O
+222,Hà Nội,Np,O
+222,.,CH,O
+223,Trình độ,N,O
+223,Cử nhân,N,O
+223,trở,V,O
+223,lên,V,O
+223,",",CH,O
+223,ưu tiên,A,O
+223,chuyên ngành,N,B-Skill
+223,Tài chính,N,I-Skill
+223,–,CH,I-Skill
+223,Ngân hàng,N,I-Skill
+223,",",CH,I-Skill
+223,Kinh tế,N,I-Skill
+223,",",CH,I-Skill
+223,Kế toán,N,I-Skill
+223,",",CH,I-Skill
+223,hoặc,C,I-Skill
+223,Luật,Np,I-Skill
+223,;,CH,O
+224,Tối thiểu,N,O
+224,5,M,O
+224,năm,N,O
+224,(,CH,O
+224,Chuyên viên,N,O
+224,cao cấp,A,O
+224,),CH,O
+224,/,CH,O
+224,3,M,O
+224,năm,N,O
+224,(,CH,O
+224,Chuyên viên,V,O
+224,chính,T,O
+224,),CH,O
+224,/,CH,O
+224,2,M,O
+224,năm,N,O
+224,(,CH,O
+224,Chuyên viên,M,O
+224,),CH,O
+224,/,CH,O
+224,ưu tiên,V,O
+224,có,V,O
+224,\ xa0,N,O
+224,(,CH,O
+224,Nhân viên,N,O
+224,),CH,O
+224,\,V,O
+224,xa0kinh nghiệm,N,B-Skill
+224,làm việc,V,I-Skill
+224,trong,E,I-Skill
+224,lĩnh vực,N,I-Skill
+224,thu hồi,V,I-Skill
+224,nợ,N,I-Skill
+224,",",CH,O
+224,ưu tiên,A,O
+224,có,V,O
+224,kinh nghiệm thu hồi,N,B-Skill
+224,nợ,V,I-Skill
+224,trực tiếp,A,I-Skill
+224,tại,E,I-Skill
+224,các,L,I-Skill
+224,ngân hàng,N,I-Skill
+224,",",CH,I-Skill
+224,các,L,I-Skill
+224,tổ chức,N,I-Skill
+224,tài chính,N,I-Skill
+224,;,CH,I-Skill
+224,công ty,N,I-Skill
+224,quản lý,V,I-Skill
+224,tài sản,N,I-Skill
+224,;,CH,O
+225,Kiến thức,N,B-Skill
+225,về,E,I-Skill
+225,thị trường,N,I-Skill
+225,bán lẻ,V,I-Skill
+225,và,C,I-Skill
+225,quy định,N,I-Skill
+225,của,E,I-Skill
+225,pháp luật,N,I-Skill
+225,liên quan,V,O
+225,đến,V,O
+225,cho,V,O
+225,vay,V,O
+225,khách hàng,N,O
+225,cá nhân,N,O
+225,;,CH,O
+226,Có,V,O
+226,khả năng,N,B-Skill
+226,quản lý,V,I-Skill
+226,danh mục,N,I-Skill
+226,một cách,N,O
+226,hiệu quả,A,O
+226,;,CH,O
+227,Kỹ năng,N,B-Skill
+227,đàm phán,V,I-Skill
+227,",",CH,I-Skill
+227,quan hệ,N,I-Skill
+227,và,C,I-Skill
+227,giao tiếp,V,I-Skill
+227,",",CH,O
+227,giải quyết,V,B-Skill
+227,tình huống,N,I-Skill
+227,tốt,A,I-Skill
+227,;,CH,O
+228,Có,V,O
+228,khả năng,N,O
+228,đi,V,O
+228,công tác,V,O
+228,thường xuyên,A,O
+228,.,CH,O
+229,Tốt nghiệp,V,O
+229,Đại học,N,O
+229,/,CH,O
+229,Cao đẳng,N,O
+229,",",CH,O
+229,các,L,O
+229,ngành,N,B-Skill
+229,liên quan,V,I-Skill
+229,đến,E,I-Skill
+229,quản trị,V,I-Skill
+229,kinh doanh,V,I-Skill
+229,",",CH,I-Skill
+229,marketing,FW,I-Skill
+229,",",CH,I-Skill
+229,truyền thông,M,I-Skill
+230,Trên,E,O
+230,2,M,O
+230,năm,N,O
+230,kinh nghiệm,N,B-Skill
+230,vị trí,N,I-Skill
+230,kinh doanh,V,I-Skill
+230,",",CH,O
+230,ưu tiên,A,O
+230,có,V,O
+230,kinh nghiệm,N,B-Skill
+230,sales,V,I-Skill
+230,trong,E,I-Skill
+230,ngành,N,I-Skill
+230,truyền thông,N,I-Skill
+230,/,CH,I-Skill
+230,quảng cáo,V,I-Skill
+230,/,CH,I-Skill
+230,agency,N,I-Skill
+230,hoặc,C,I-Skill
+230,sales,N,I-Skill
+230,B2B,Np,I-Skill
+231,Ngoại hình,N,B-Skill
+231,sáng,N,I-Skill
+231,",",CH,O
+231,\,N,O
+231,xa0khả năng,N,B-Skill
+231,giao tiếp,V,I-Skill
+231,và,C,I-Skill
+231,thuyết phục,V,I-Skill
+231,tốt,A,I-Skill
+232,Có,V,O
+232,khả năng,N,B-Skill
+232,quản lý,V,I-Skill
+232,công việc,N,I-Skill
+232,tốt,A,I-Skill
+232,",",CH,O
+232,khả năng,N,B-Skill
+232,làm việc,V,I-Skill
+232,độc lập,A,I-Skill
+233,Có,V,O
+233,khả năng,N,B-Skill
+233,nắm bắt,V,I-Skill
+233,thông tin,N,I-Skill
+233,",",CH,I-Skill
+233,cơ hội,N,I-Skill
+233,và,C,O
+233,phân tích,V,B-Skill
+233,thị trường,N,I-Skill
+234,Tính cách,N,B-Skill
+234,quyết liệt,A,I-Skill
+234,",",CH,O
+234,nghiêm túc,A,B-Skill
+234,trong,E,I-Skill
+234,công việc,N,I-Skill
+235,Nam nữ,M,O
+235,tuổi,N,O
+235,từ,E,O
+235,22,M,O
+235,-,CH,O
+235,32,M,O
+236,Tốt,A,O
+236,\,N,O
+236,xa0nghiệp,V,O
+236,\ xa0đại,N,O
+236,\ xa0học,V,O
+236,\ xa0KHXHNV,N,O
+236,\ xa0hoặc,V,O
+236,\ xa0Cao,N,O
+236,\ xa0Đẳng,V,O
+236,\ xa0phát,N,O
+236,\ xa0thanh,V,O
+236,\ xa0truyền,N,O
+236,\ xa0hình,V,O
+236,\ xa0hoặc,N,O
+236,\ xa0các,V,O
+236,\ xa0trường,N,O
+236,\ xa0ĐH,V,O
+236,\ xa0chuyên,N,O
+236,\ xa0ngành,V,O
+236,\ xa0báo,N,O
+236,\,V,O
+236,xa0chí,N,O
+236,/,CH,O
+236,\,N,O
+236,xa0truyền,V,O
+236,\ xa0thông,N,O
+236,",",CH,O
+236,\ xa0marketing,N,O
+236,.,CH,O
+237,Kinh nghiệm,N,O
+237,2,M,O
+237,năm,N,O
+237,trở,V,O
+237,lên,V,O
+237,ở,E,O
+237,vị trí,N,O
+237,tương đương,A,O
+238,Có,V,O
+238,kỹ năng,N,O
+238,/,CH,O
+238,kinh nghiệm,N,B-Skill
+238,viết,V,I-Skill
+238,kịch bản,N,I-Skill
+238,truyền hình,N,I-Skill
+238,thực tế,N,I-Skill
+238,/,CH,I-Skill
+238,kịch bản,N,I-Skill
+238,viral,N,O
+238,",",CH,O
+238,TVC,Np,O
+238,quảng cáo,V,O
+239,Có,V,O
+239,kỹ năng,N,B-Skill
+239,biên tập,V,I-Skill
+239,hiện trường,N,I-Skill
+239,tốt,A,I-Skill
+240,Thành thạo,N,B-Skill
+240,tin học,N,I-Skill
+240,văn phòng,N,I-Skill
+241,Kỹ năng,N,B-Skill
+241,giao tiếp,V,I-Skill
+241,tốt,A,I-Skill
+241,",",CH,O
+241,kỹ năng,N,B-Skill
+241,làm việc,V,I-Skill
+241,nhóm,N,I-Skill
+241,tốt,A,I-Skill
+242,Có,V,O
+242,kỹ năng,N,B-Skill
+242,lập,V,I-Skill
+242,kế hoạch,N,I-Skill
+242,công việc,N,I-Skill
+242,",",CH,O
+242,quản lý,V,B-Skill
+242,tiến độ,N,I-Skill
+242,công việc,N,I-Skill
+242,tốt,A,I-Skill
+243,Ưu tiên,N,O
+243,có,V,O
+243,kinh nghiệm,N,B-Skill
+243,\ xa0làm,V,I-Skill
+243,nhóm,N,I-Skill
+243,ngành,N,I-Skill
+243,giáo dục,N,I-Skill
+243,",",CH,I-Skill
+243,đào tạo,V,I-Skill
+244,Tối thiểu,N,O
+244,2-3,V,O
+244,năm,N,O
+244,kinh nghiệm,N,O
+244,trong,E,O
+244,ngành,N,B-Skill
+244,kinh doanh,V,I-Skill
+244,Hóa,Np,I-Skill
+244,",",CH,O
+244,mỹ phẩm,N,B-Skill
+244,và,C,O
+244,thực phẩm,N,B-Skill
+244,.,CH,O
+245,Kỹ năng,N,B-Skill
+245,giao tiếp,V,I-Skill
+245,",",CH,O
+245,viết,V,B-Skill
+245,mail,N,I-Skill
+245,trình bày,V,I-Skill
+245,tốt,A,I-Skill
+245,",",CH,I-Skill
+245,rõ ràng,A,I-Skill
+245,.,CH,O
+246,Khả năng,N,O
+246,làm việc,V,B-Skill
+246,độc lập,A,I-Skill
+246,và,C,O
+246,làm việc,V,B-Skill
+246,nhóm,N,I-Skill
+247,Quản lý,V,B-Skill
+247,công việc,N,I-Skill
+247,và,C,O
+247,theo dõi,V,B-Skill
+247,tiến độ,N,I-Skill
+247,KD,Np,I-Skill
+247,tốt,A,I-Skill
+248,Lương,N,O
+248,:,CH,O
+248,Thỏa thuận,V,O
+248,theo,V,O
+248,năng lực,N,O
+248,theo,V,O
+248,cấu trúc,N,O
+248,Lương Căn bản,N,O
+248,10,M,O
+248,triệu,M,O
+248,+,N,O
+248,KPI,Np,O
+248,(,CH,O
+248,thu nhập,N,O
+248,từ,E,O
+248,20,M,O
+248,triệu,M,O
+248,trở,V,O
+248,lên,V,O
+248,phụ thuộc,V,O
+248,vào,E,O
+248,năng lực,N,O
+248,và,C,O
+248,thái độ,N,O
+248,làm việc,V,O
+248,của,E,O
+248,nhân viên,N,O
+248,),CH,O
+249,Tham gia,V,O
+249,BHXH,Np,O
+249,đầy đủ,A,O
+250,Bảo hiểm,N,O
+250,Chăm Sóc Sức,Np,O
+250,Khỏe,Np,O
+251,Team,Np,O
+251,building,V,O
+251,hàng,N,O
+251,năm,M,O
+252,Chế độ,N,O
+252,đào tạo,V,O
+252,hàng,N,O
+252,năm,N,O
+252,về,E,O
+252,chuyên môn,N,O
+252,lẫn,R,O
+252,kỹ năng,N,O
+253,Nghỉ phép,N,O
+253,và,C,O
+253,các,L,O
+253,chế độ,N,O
+253,khác,A,O
+253,theo,V,O
+253,luật định,N,O
+254,Môi trường,N,O
+254,làm việc,V,O
+254,chuyên nghiệp,A,O
+254,",",CH,O
+254,thân thiện,V,O
+254,với,E,O
+254,văn hóa,N,O
+254,doanh nghiệp,N,O
+254,phát triển,V,O
+254,bền vững,A,O
+254,.,CH,O
+255,Cơ hội,N,O
+255,tham dự,V,O
+255,các,L,O
+255,khóa,N,O
+255,du lịch,V,O
+255,tu thiền,N,O
+255,ở,E,O
+255,nước ngoài,N,O
+255,.,CH,O
+256,Tốt nghiệp,V,O
+256,các,L,O
+256,trường,N,O
+256,Đại học,N,O
+256,chính quy,N,O
+256,:,CH,O
+256,Đại học y,N,B-Skill
+256,",",CH,O
+256,dược,N,B-Skill
+256,",",CH,O
+256,Y sinh,N,B-Skill
+256,",",CH,O
+256,hóa sinh,N,B-Skill
+256,",",CH,O
+256,điện tử,N,B-Skill
+256,y sinh,N,I-Skill
+256,",",CH,O
+256,xét nghiệm,V,B-Skill
+256,",",CH,O
+256,Kỹ thuật,N,B-Skill
+256,điện,N,I-Skill
+256,-,CH,O
+256,điện tử,N,B-Skill
+256,",",CH,O
+256,công nghệ thông tin,N,B-Skill
+256,…,CH,O
+256,.,CH,O
+257,Đã,R,O
+257,có,V,O
+257,kinh nghiệm,N,O
+257,làm việc,V,O
+257,ít nhất,X,O
+257,2,M,O
+257,năm,N,O
+257,tại,E,O
+257,các,L,O
+257,đơn vị,N,O
+257,",",CH,O
+257,doanh nghiệp,N,O
+257,hoạt động,V,B-Skill
+257,trong,E,I-Skill
+257,lĩnh vực,N,I-Skill
+257,y tế,N,I-Skill
+257,",",CH,I-Skill
+257,dược phẩm,N,I-Skill
+257,",",CH,I-Skill
+257,máy móc,N,I-Skill
+257,xét nghiệm,V,I-Skill
+257,…,CH,O
+257,.,CH,O
+258,Có,V,O
+258,kỹ năng,N,B-Skill
+258,giao tiếp,V,I-Skill
+258,",",CH,O
+258,đàm phán,N,B-Skill
+258,",",CH,O
+258,thuyết trình,N,B-Skill
+258,tốt,A,I-Skill
+258,;,CH,O
+259,Có,V,O
+259,khả năng,N,B-Skill
+259,giao tiếp,V,I-Skill
+259,",",CH,O
+259,đọc,V,B-Skill
+259,dịch,N,I-Skill
+259,được,V,I-Skill
+259,tiếng,N,I-Skill
+259,Anh,Np,I-Skill
+259,chuyên ngành,V,O
+259,là,V,O
+259,một,M,O
+259,lợi thế,N,O
+259,(,CH,O
+259,đọc,V,B-Skill
+259,dịch,N,I-Skill
+259,tài liệu,N,I-Skill
+259,chuyên ngành,N,I-Skill
+259,",",CH,O
+259,nghe,V,B-Skill
+259,nói,V,I-Skill
+259,viết,V,I-Skill
+259,để,E,O
+259,trao đổi,V,O
+259,với,E,O
+259,chuyên gia,N,O
+259,/,CH,O
+259,KH,Np,O
+259,nước ngoài,N,O
+259,và,C,O
+259,tham gia,V,O
+259,các,L,O
+259,khóa,N,O
+259,đào tạo,V,O
+259,bằng,E,O
+259,tiếng,N,O
+259,Anh,Np,O
+259,),CH,O
+260,Thành thạo,N,B-Skill
+260,tin học,N,I-Skill
+260,văn phòng,N,I-Skill
+260,;,CH,O
+261,Có,V,O
+261,kiến thức,N,B-Skill
+261,am hiểu,V,I-Skill
+261,trong,E,I-Skill
+261,ngành,N,I-Skill
+261,TBYT,Np,I-Skill
+261,/,CH,I-Skill
+261,vật tư,N,I-Skill
+261,tiêu hao,V,I-Skill
+261,và,C,I-Skill
+261,các,L,I-Skill
+261,máy móc,N,I-Skill
+261,xét nghiệm,V,I-Skill
+261,;,CH,O
+262,Năng động,N,B-Skill
+262,",",CH,O
+262,nhanh nhẹn,A,B-Skill
+262,",",CH,O
+262,nhiệt tình,N,B-Skill
+262,",",CH,O
+262,có,V,B-Skill
+262,trách nhiệm,N,I-Skill
+262,",",CH,O
+262,kỹ năng,N,B-Skill
+262,làm việc,V,I-Skill
+262,độc lập,A,I-Skill
+262,",",CH,O
+262,làm việc,V,B-Skill
+262,nhóm,N,I-Skill
+262,tốt,A,I-Skill
+262,",",CH,O
+262,chịu,V,B-Skill
+262,được,V,I-Skill
+262,áp lực,N,I-Skill
+262,công việc,N,I-Skill
+262,",",CH,O
+262,có,V,O
+262,tinh thần,N,O
+262,gắn bó,V,O
+262,lâu dài,A,O
+262,với,E,O
+262,công ty,N,O
+262,.,CH,O
+263,Có,V,O
+263,sức,N,O
+263,khỏe,V,O
+263,tốt,A,O
+263,",",CH,O
+263,sẵn sàng,A,O
+263,đi,V,O
+263,công tác,V,O
+263,xa,A,O
+263,",",CH,O
+263,làm việc,V,O
+263,ngoài,E,O
+263,giờ,N,O
+263,.,CH,O
+264,Hà Nội,Np,O
+264,(,CH,O
+264,Tòa,Np,O
+264,nhà,N,O
+264,97-99,N,O
+264,Láng Hạ,Np,O
+264,",",CH,O
+264,Đống Đa,Np,O
+264,",",CH,O
+264,Hà Nội,Np,O
+264,),CH,O
+265,Từ,E,O
+265,thứ,N,O
+265,2,M,O
+265,đến,E,O
+265,sáng,N,O
+265,thứ,N,O
+265,7,M,O
+265,hàng,N,O
+265,tuần,N,O
+265,:,CH,O
+265,Ca,Np,O
+265,sáng,N,O
+265,:,CH,O
+265,8,M,O
+265,h00,N,O
+265,-,CH,O
+265,12,M,O
+265,h00,N,O
+265,",",CH,O
+265,Ca chiều,V,O
+265,:,CH,O
+265,13,M,O
+265,h00,N,O
+265,-,CH,O
+265,17,M,O
+265,h00,Nu,O
+266,Có,V,O
+266,cơ hội,N,O
+266,được,V,O
+266,làm việc,V,O
+266,trong,E,O
+266,môi trường,N,O
+266,hiện đại,A,O
+266,",",CH,O
+266,chuyên nghiệp,A,O
+266,",",CH,O
+266,nhiều,A,O
+266,cơ hội,N,O
+266,thăng tiến,V,O
+266,",",CH,O
+266,được,V,O
+266,đào tạo,V,O
+266,phát triển,V,O
+266,và,C,O
+266,ổn định,V,O
+266,lâu dài,A,O
+266,.,CH,O
+267,Mức,N,O
+267,thu nhập,N,O
+267,không,R,O
+267,giới hạn,V,O
+267,:,CH,O
+267,điều chỉnh,V,O
+267,mức,N,O
+267,thu nhập,N,O
+267,xứng đáng,A,O
+267,theo,V,O
+267,năng lực,N,O
+267,.,CH,O
+267,Xét,V,O
+267,tăng,V,O
+267,lương,N,O
+267,hàng,N,O
+267,năm,M,O
+267,;,CH,O
+268,Gói,Np,O
+268,thưởng,V,O
+268,hấp dẫn,V,O
+268,dựa,V,O
+268,trên,E,O
+268,KPI,Np,O
+268,hoàn thành,V,O
+268,;,CH,O
+269,Chế độ,N,O
+269,phúc lợi,V,O
+269,:,CH,O
+269,Thưởng,Np,O
+269,các,L,O
+269,dịp,N,O
+269,lễ tết,V,O
+269,",",CH,O
+269,quà,N,O
+269,trung thu,N,O
+269,",",CH,O
+269,tết,N,O
+269,thiếu nhi,N,O
+269,",",CH,O
+269,các,L,O
+269,chương trình,N,O
+269,nghỉ mát,V,O
+269,",",CH,O
+269,teambuilding,N,O
+269,thú vị,A,O
+269,gắn kết,V,O
+269,các,L,O
+269,thành viên,N,O
+269,và,C,O
+269,các,L,O
+269,chế độ,N,O
+269,đãi ngộ,N,O
+269,khác,A,O
+269,theo,V,O
+269,quy định,N,O
+269,của,E,O
+269,công ty,N,O
+269,.,CH,O
+270,Được,V,O
+270,tiếp cận,V,O
+270,với,E,O
+270,\ xa0nhiều,N,O
+270,nhãn,N,O
+270,hàng,N,O
+270,nổi tiếng,A,O
+270,trên,E,O
+270,thế giới,N,O
+270,;,CH,O
+271,Có,V,O
+271,cơ hội,N,O
+271,được,V,O
+271,đào tạo,V,O
+271,nâng,V,O
+271,cao,A,O
+271,nghiệp vụ,N,O
+271,với,E,O
+271,các,L,O
+271,khóa,N,O
+271,đào tạo,V,O
+271,trong,N,O
+271,và,C,O
+271,ngoài,E,O
+271,nước,N,O
+271,;,CH,O
+272,Hưởng,V,O
+272,chế độ,N,O
+272,BHXH,Np,O
+272,",",CH,O
+272,BHYT,Np,O
+272,ngay,T,O
+272,sau,N,O
+272,khi,N,O
+272,kí kết,V,O
+272,hợp đồng,N,O
+272,lao động,N,O
+273,Yêu cầu,M,O
+274,Nữ,N,O
+274,",",CH,O
+274,1993,M,O
+274,-,CH,O
+274,1998,N,O
+274,tốt nghiệp,V,O
+274,CĐ,Np,O
+274,/,CH,O
+274,ĐH,Ny,O
+274,/,CH,O
+274,du học sinh,N,O
+274,/,CH,O
+274,Thực tập sinh,N,O
+274,(,CH,O
+274,Ưu tiênThực,V,O
+274,tập sinh,N,O
+274,về,V,O
+274,nước,N,O
+274,),CH,O
+275,Tiếng,N,B-Skill
+275,nhật,N,I-Skill
+275,tương đương,A,I-Skill
+275,N2,Np,I-Skill
+276,Ngoại hình,N,B-Skill
+276,sáng,N,I-Skill
+276,",",CH,O
+276,chăm chỉ,A,B-Skill
+276,",",CH,O
+276,nhanh nhẹn,A,B-Skill
+276,",",CH,O
+276,ham,V,B-Skill
+276,học hỏi,V,I-Skill
+277,Chưa,R,O
+277,có,V,O
+277,kinh nghiệm,N,O
+277,sẽ,R,O
+277,được,V,O
+277,đào tạo,V,O
+278,Quyền lợi,N,O
+279,Mức,N,O
+279,lương,N,O
+279,:,CH,O
+279,\ xa0,V,O
+279,10-11 tr,N,O
+279,+,V,O
+279,thưởng,V,O
+280,Làm việc,V,O
+280,:,CH,O
+280,từ,E,O
+280,8,M,O
+280,h30,N,O
+280,’,M,O
+280,-,CH,O
+280,17,M,O
+280,h30,N,O
+280,’,V,O
+280,_,N,O
+280,thứ,N,O
+280,2,M,O
+280,–,CH,O
+280,thứ,N,O
+280,6,M,O
+281,Các,L,O
+281,chế độ,N,O
+281,khác,A,O
+281,theo,V,O
+281,quy định,N,O
+281,của,E,O
+281,công ty,N,O
+282,Nữ,N,O
+282,",",CH,O
+282,tuổi,N,O
+282,từ,E,O
+282,25,M,O
+282,-,CH,O
+282,35,M,O
+283,Tốt nghiệp,V,O
+283,cao đẳng,N,O
+283,trở,V,O
+283,lên,V,O
+283,chuyên ngành,N,B-Skill
+283,quản trị,V,I-Skill
+283,nhân sự,N,I-Skill
+283,",",CH,I-Skill
+283,kinh doanh,V,I-Skill
+283,",",CH,I-Skill
+283,kinh tế,N,I-Skill
+283,",",CH,O
+283,...,CH,O
+284,Kinh nghiệm,N,O
+284,từ,E,O
+284,2,M,O
+284,năm,N,O
+284,vị trí,N,B-Skill
+284,Quản lý,V,I-Skill
+284,vận hành,V,I-Skill
+285,Sử dụng,V,O
+285,thành thạo,N,B-Skill
+285,tin học,N,I-Skill
+285,văn phòng,N,I-Skill
+286,Ngoại hình,N,O
+286,ưa,V,O
+286,nhìn,V,O
+286,",",CH,O
+286,giọng,N,O
+286,nói,V,O
+286,dễ,A,O
+286,nghe,V,O
+287,Khả năng,N,B-Skill
+287,quản lý,V,I-Skill
+287,",",CH,O
+287,kiểm soát,V,B-Skill
+287,tốt,A,I-Skill
+288,Kỹ năng,N,B-Skill
+288,giao tiếp,V,I-Skill
+288,",",CH,O
+288,xử lý,V,B-Skill
+288,các,L,I-Skill
+288,tình huống,N,I-Skill
+288,linh hoạt,A,I-Skill
+288,",",CH,O
+288,nắm bắt,V,B-Skill
+288,tâm lý,N,I-Skill
+288,khách hàng,N,I-Skill
+288,tốt,A,I-Skill
+289,Khả năng,N,B-Skill
+289,đào tạo,V,I-Skill
+289,",",CH,I-Skill
+289,hướng dẫn,V,I-Skill
+289,nhân viên,N,I-Skill
+290,Thái độ,N,B-Skill
+290,hòa nhã,N,I-Skill
+290,",",CH,I-Skill
+290,chuẩn mực,M,I-Skill
+291,Trung thực,N,B-Skill
+291,",",CH,O
+291,cẩn thận,A,B-Skill
+291,",",CH,O
+291,có,V,O
+291,tinh thần,N,B-Skill
+291,trách nhiệm,N,I-Skill
+291,",",CH,O
+291,chịu,V,B-Skill
+291,áp lực,N,I-Skill
+291,trong,E,I-Skill
+291,công việc,N,I-Skill
+291,.,CH,O
+292,Thời gian,N,O
+292,làm việc,V,O
+292,:,CH,O
+292,Xoay ca,V,O
+292,:,CH,O
+292,8,M,O
+292,:,CH,O
+292,0,N,O
+292,-,CH,O
+292,17,M,O
+292,:,CH,O
+292,0,N,O
+292,;,CH,O
+292,11,M,O
+292,:,CH,O
+292,30,M,O
+292,-,CH,O
+292,20,M,O
+292,:,CH,O
+292,30,M,O
+292,;,CH,O
+292,Nghỉ 1.5,N,O
+292,\,M,O
+292,xa0ngày,N,O
+292,/,CH,O
+292,tuần,N,O
+293,Tốt nghiệp,V,O
+293,hoặc,C,O
+293,đang,R,O
+293,học,V,O
+293,cao đẳng,A,O
+293,",",CH,O
+293,đại học,N,O
+293,chuyên ngành,N,B-Skill
+293,CNTT,Np,I-Skill
+293,chuyên ngành,N,B-Skill
+293,mạng,N,I-Skill
+293,máy tính,N,I-Skill
+293,.,CH,O
+294,Có,V,O
+294,kiến thức,N,O
+294,nền tảng,V,B-Skill
+294,các,L,I-Skill
+294,giao thức,N,I-Skill
+294,chuyển mạch,V,I-Skill
+294,và,C,I-Skill
+294,routing,M,I-Skill
+295,Ưu tiên,V,O
+295,các,L,O
+295,chứng chỉ,N,O
+295,chuyên sâu,V,B-Skill
+295,về,E,I-Skill
+295,hệ thống,N,I-Skill
+295,mạng,N,I-Skill
+295,(,CH,O
+295,CCNA,Np,B-Skill
+295,/,CH,O
+295,CCNP,Np,B-Skill
+295,/,CH,O
+295,JNCIA,Np,B-Skill
+295,/,CH,O
+295,JNCIP.,Np,B-Skill
+295,...,CH,O
+295,),CH,O
+296,Chủ động,N,B-Skill
+296,và,C,O
+296,ham,V,B-Skill
+296,học hỏi,V,I-Skill
+296,",",CH,O
+296,chịu khó,A,B-Skill
+296,tìm tòi,V,I-Skill
+296,và,C,O
+296,dành,V,O
+296,thời gian,N,O
+296,làm,V,O
+296,lab,M,O
+297,Chịu,V,B-Skill
+297,được,V,I-Skill
+297,áp lực,N,I-Skill
+297,và,C,O
+297,làm việc,V,B-Skill
+297,có,V,I-Skill
+297,trách nhiệm,N,I-Skill
+298,Cẩn thận,A,B-Skill
+298,",",CH,O
+298,kiên trì,N,B-Skill
+298,và,C,O
+298,nỗ lực,V,B-Skill
+298,trong,E,O
+298,công việc,N,O
+302,Kinh nghiệm,N,O
+302,>,N,O
+302,1,M,O
+302,năm,N,O
+302,ở,E,O
+302,vị trí,N,B-Skill
+302,phiên dịch,V,I-Skill
+302,",",CH,O
+302,khả năng,N,B-Skill
+302,nghe,V,I-Skill
+302,",",CH,I-Skill
+302,nói,V,I-Skill
+302,",",CH,I-Skill
+302,đọc,V,I-Skill
+302,",",CH,I-Skill
+302,viết,V,I-Skill
+302,tiếng,N,I-Skill
+302,Trung tốt,V,I-Skill
+302,",",CH,O
+302,hiểu,V,B-Skill
+302,rõ,A,I-Skill
+302,và,C,I-Skill
+302,truyền đạt,V,I-Skill
+302,chính xác,A,I-Skill
+302,những,L,O
+302,yêu cầu,N,O
+302,của,E,O
+302,quản lý,V,O
+302,tới,E,O
+302,nhân viên,N,O
+303,Kiến thức,N,O
+303,chuyên ngành,N,O
+303,liên quan,V,O
+303,đến,E,O
+303,vị trí,N,O
+304,Kỹ năng,N,B-Skill
+304,giao tiếp,V,I-Skill
+304,tốt,A,I-Skill
+305,Tốt nghiệp,V,O
+305,Cao đẳng,N,O
+305,",",CH,O
+305,Đại học,N,O
+305,chuyên ngành,N,B-Skill
+305,kế toán,M,I-Skill
+306,Chăm,Np,B-Skill
+306,chỉ,R,I-Skill
+306,",",CH,I-Skill
+306,cẩn thận,A,I-Skill
+307,Ít nhất,X,O
+307,1,M,O
+307,năm,N,O
+307,tại,E,O
+307,vị trí,N,O
+307,tương đương,A,O
+307,.,CH,O
+308,Đạo đức,N,B-Skill
+308,tốt,A,I-Skill
+308,",",CH,O
+308,trung thực,A,B-Skill
+308,",",CH,O
+308,có,V,O
+308,tính,N,B-Skill
+308,kỷ luật,N,I-Skill
+308,cao,A,I-Skill
+309,Sức,N,O
+309,khỏe,V,O
+309,tốt,A,O
+310,Ngoại hình,N,O
+310,cân đối,N,O
+310,",",CH,O
+310,gọn gàng,A,O
+311,Làm việc,V,O
+311,tại,E,O
+311,White Palace,Np,O
+311,:,CH,O
+311,\,V,O
+311,xa0 59D,N,O
+311,Võ Văn Kiệt,Np,O
+311,",",CH,O
+311,P.,Ny,O
+311,An Lạc,Np,O
+311,",",CH,O
+311,Q.,Ny,O
+311,Bình Tân,Ny,O
+312,Ưu tiên,V,O
+312,tốt nghiệp,V,O
+312,từ,E,O
+312,đại học,N,O
+312,\ xa0trở,V,O
+312,lên,V,O
+312,chuyên ngành,N,B-Skill
+312,Tài chính,N,I-Skill
+312,",",CH,I-Skill
+312,Ngân hàng,N,I-Skill
+312,",",CH,I-Skill
+312,Kinh tế,N,I-Skill
+312,…,CH,O
+312,.,CH,O
+313,Hiểu biết,V,B-Skill
+313,về,E,I-Skill
+313,ngành,N,I-Skill
+313,tài chính,N,I-Skill
+313,-,CH,I-Skill
+313,ngân hàng,N,I-Skill
+313,",",CH,I-Skill
+313,sản phẩm,N,I-Skill
+313,/,CH,I-Skill
+313,dịch vụ,N,I-Skill
+313,ngân hàng,N,I-Skill
+314,Thành thạo,N,B-Skill
+314,tin học,N,I-Skill
+314,văn phòng,N,I-Skill
+314,cơ bản,A,I-Skill
+314,(,CH,I-Skill
+314,word,N,I-Skill
+314,",",CH,I-Skill
+314,excel,N,I-Skill
+314,",",CH,I-Skill
+314,outlook,N,I-Skill
+314,…,CH,O
+314,),CH,O
+315,Kỹ năng,N,B-Skill
+315,bán,V,I-Skill
+315,hàng,N,I-Skill
+315,",",CH,O
+315,kỹ năng,N,B-Skill
+315,giao tiếp,V,I-Skill
+315,tốt,A,I-Skill
+316,Tốt nghiệp,V,O
+316,CĐ,Np,O
+316,/,CH,O
+316,ĐH,Ny,O
+316,chuyên ngành,N,B-Skill
+316,xây dựng,V,I-Skill
+316,hoặc,C,I-Skill
+316,cơ khí,N,I-Skill
+316,.,CH,O
+316,Có,V,O
+316,ít nhất,X,O
+316,3,M,O
+316,năm,N,O
+316,kinh nghiệm,N,B-Skill
+316,làm việc,V,I-Skill
+316,trong,E,I-Skill
+316,lĩnh vực,N,I-Skill
+316,gia công,V,I-Skill
+316,sản xuất,V,I-Skill
+316,kết cấu,N,I-Skill
+316,thép,N,I-Skill
+316,với,E,O
+316,vị trí,N,O
+316,tương đương,A,O
+317,Có,V,O
+317,khả năng,N,B-Skill
+317,giao tiếp,V,I-Skill
+317,tốt,A,I-Skill
+317,ngoại ngữ,N,I-Skill
+317,tiếng,N,I-Skill
+317,Anh,Np,I-Skill
+318,Xử lý,V,B-Skill
+318,tình huống,N,I-Skill
+318,quyết đoán,N,I-Skill
+318,và,C,O
+318,theo,V,O
+318,quy định,N,O
+318,công ty,N,O
+319,Vi tính,N,B-Skill
+319,văn phòng,N,I-Skill
+319,tốt,A,I-Skill
+319,\,N,O
+319,xa0và,V,O
+319,các,L,O
+319,phần mềm,N,B-Skill
+319,quản trị,V,I-Skill
+319,\,N,O
+319,xa0nội bộ,N,O
+319,của,E,O
+319,Công ty,N,O
+319,.,CH,O
+320,Có,V,O
+320,ít nhất,X,O
+320,2,M,O
+320,năm,N,O
+320,kinh nghiệm,N,B-Skill
+320,lập trình,N,I-Skill
+320,Front-end,Np,I-Skill
+320,sử dụng,V,B-Skill
+320,ReactJS,Np,I-Skill
+320,+,N,I-Skill
+320,AngularJS,Np,I-Skill
+321,Có,V,O
+321,kinh nghiệm,N,B-Skill
+321,sử dụng,V,I-Skill
+321,Git,Np,I-Skill
+321,như,C,I-Skill
+321,GitHub,Np,I-Skill
+321,/,CH,I-Skill
+321,GitLab,Np,I-Skill
+321,",",CH,I-Skill
+321,Bootstrap,Np,I-Skill
+321,",",CH,I-Skill
+321,Ant Design,Np,I-Skill
+321,...,CH,O
+322,Có,V,O
+322,tinh thần,N,B-Skill
+322,trách nhiệm,N,I-Skill
+322,cao,A,I-Skill
+322,trong,E,I-Skill
+322,công việc,N,I-Skill
+322,",",CH,O
+322,khả năng,N,B-Skill
+322,tự,P,I-Skill
+322,nghiên cứu,V,I-Skill
+322,",",CH,O
+322,làm việc,V,B-Skill
+322,độc lập,A,I-Skill
+322,và,C,I-Skill
+322,teamwork,M,I-Skill
+323,Chế độ,N,O
+323,lương,N,O
+323,/,CH,O
+323,thưởng,V,O
+323,:,CH,O
+323,\,N,O
+323,xa0Thoả thuận,V,O
+323,khi,N,O
+323,phỏng vấn,V,O
+324,Tăng,V,O
+324,lương,N,O
+324,hàng,N,O
+324,năm,N,O
+324,",",CH,O
+324,thưởng,V,O
+324,theo,V,O
+324,phòng ban,N,O
+324,.,CH,O
+325,Được,V,O
+325,hưởng,V,O
+325,đầy đủ,A,O
+325,BHXH,Np,O
+325,",",CH,O
+325,BHYT,Np,O
+325,",",CH,O
+325,nghỉ phép,N,O
+325,",",CH,O
+325,lễ,N,O
+325,",",CH,O
+325,tết,N,O
+325,theo,V,O
+325,quy định,N,O
+325,của,E,O
+325,pháp luật,N,O
+325,.,CH,O
+326,Được,V,O
+326,đi,V,O
+326,du lịch,V,O
+326,",",CH,O
+326,tổ chức,V,O
+326,team,V,O
+326,building,N,O
+326,.,CH,O
+327,Giờ,N,O
+327,hành chính,N,O
+327,:,CH,O
+327,Thứ,N,O
+327,2,M,O
+327,đến,E,O
+327,thứ,N,O
+327,6,M,O
+327,",",CH,O
+327,sáng,N,O
+327,Thứ,N,O
+327,7,M,O
+327,họp,V,O
+327,hàng,N,O
+327,tuần,N,O
+327,tại,E,O
+327,công ty,N,O
+327,.,CH,O
+328,23-25,N,O
+328,Nguyễn Văn Vịnh,Np,O
+328,",",CH,O
+328,P.,Ny,O
+328,Hiệp Tân,Np,O
+328,",",CH,O
+328,Quận,Np,O
+328,Tân Phú,Np,O
+329,Nam,Np,O
+329,",",CH,O
+329,tốt nghiệp,V,O
+329,đại học,N,O
+329,chuyên ngành,N,O
+329,:,CH,O
+329,công nghệ,N,B-Skill
+329,thực phẩm,N,I-Skill
+329,",",CH,O
+329,chế biến,V,B-Skill
+329,thực phẩm,N,I-Skill
+329,",",CH,O
+329,máy,N,B-Skill
+329,thực phẩm,N,I-Skill
+329,",",CH,O
+329,hóa học,N,B-Skill
+329,",",CH,O
+329,...,CH,O
+329,hoặc,C,O
+329,tương đương,A,O
+329,.,CH,O
+330,Làm việc,V,O
+330,theo,V,O
+330,ca,N,O
+330,.,CH,O
+331,Được,V,O
+331,đào tạo,V,O
+331,kiến thức,N,O
+331,về,E,O
+331,GMP,Np,O
+331,",",CH,O
+331,HACCP,Np,O
+331,",",CH,O
+331,5S,N,O
+331,",",CH,O
+331,ATVSTP,Np,O
+331,.,CH,O
+332,Ưu tiên,V,O
+332,ứng viên,N,O
+332,đã,R,O
+332,có,V,O
+332,kình nghiệm,N,B-Skill
+332,làm việc,V,I-Skill
+332,trong,E,I-Skill
+332,các,L,I-Skill
+332,nhà máy,N,I-Skill
+332,bia,N,I-Skill
+332,",",CH,I-Skill
+332,rượu,N,I-Skill
+332,",",CH,I-Skill
+332,nước,N,I-Skill
+332,giải khát,V,I-Skill
+332,",",CH,I-Skill
+332,đồ,N,I-Skill
+332,uống,V,I-Skill
+332,hoặc,C,I-Skill
+332,thực phẩm,N,I-Skill
+333,Có,V,O
+333,khả năng,N,B-Skill
+333,đọc,V,I-Skill
+333,",",CH,I-Skill
+333,hiểu,V,I-Skill
+333,rõ ràng,A,I-Skill
+333,các,L,I-Skill
+333,bản vẽ,N,I-Skill
+333,",",CH,I-Skill
+333,sơ đồ,N,I-Skill
+333,",",CH,I-Skill
+333,biểu đồ,N,I-Skill
+333,kỹ thuật,N,I-Skill
+334,Có thể,R,O
+334,đọc,V,B-Skill
+334,và,C,I-Skill
+334,dịch,V,I-Skill
+334,tài liệu,N,I-Skill
+334,tiếng,N,I-Skill
+334,anh,Nc,I-Skill
+335,Được,V,O
+335,làm việc,V,O
+335,tại,E,O
+335,môi trường,N,O
+335,chuyên nghiệp,A,O
+335,với,E,O
+335,các,L,O
+335,trang thiết bị,N,O
+335,hiện đại,A,O
+335,hàng đầu,N,O
+335,thế giới,N,O
+335,;,CH,O
+335,có,V,O
+335,cơ hội,N,O
+335,học hỏi,V,O
+335,kỹ thuật,N,O
+335,từ,E,O
+335,Tập đoàn,N,O
+335,Tetrapak,Np,O
+335,-,CH,O
+335,Thụy Điển,Np,O
+335,và,C,O
+335,thăng tiến,V,O
+335,lên,V,O
+335,vị trí,N,O
+335,cao,A,O
+335,hơn,A,O
+335,trong,E,O
+335,nghề,N,O
+335,.,CH,O
+336,Lương,N,O
+336,cạnh tranh,V,O
+336,hấp dẫn,V,O
+336,và,C,O
+336,thương lượng,V,O
+336,lương,N,O
+336,trong,E,O
+336,quá trình,N,O
+336,phỏng vấn,V,O
+337,Thu nhập,N,O
+337,tăng,V,O
+337,phụ thuộc,V,O
+337,vào,E,O
+337,năng lực,N,O
+337,và,C,O
+337,kết quả,N,O
+337,công việc,N,O
+337,hàng,N,O
+337,năm,M,O
+337,;,CH,O
+338,Tham gia,V,O
+338,các,L,O
+338,chương trình,N,O
+338,đào tạo,V,O
+338,phát triển,V,O
+338,kỹ năng,N,O
+338,chuyên môn,N,O
+338,",",CH,O
+338,kỹ năng,N,O
+338,mềm,A,O
+338,được,R,O
+338,tổ chức,V,O
+338,hàng,N,O
+338,năm,M,O
+339,BHXH,Np,O
+339,",",CH,O
+339,BHYT,Np,O
+339,",",CH,O
+339,BHTN,Np,O
+339,theo,V,O
+339,Bộ Luật,Np,O
+339,Lao động,N,O
+339,;,CH,O
+340,Tham quan,V,O
+340,",",CH,O
+340,nghỉ mát,N,O
+340,",",CH,O
+340,sinh nhật,N,O
+340,",",CH,O
+340,thăm hỏi,V,O
+340,",",CH,O
+340,tặng,V,O
+340,quà,N,O
+340,...,CH,O
+341,Thưởng,N,O
+341,1/2,M,O
+341,tháng,N,O
+341,lương,N,O
+341,các,L,O
+341,ngày,N,O
+341,Lễ,Np,O
+341,lớn,V,O
+341,30/4,N,O
+341,;,CH,O
+341,1/5,N,O
+341,;,CH,O
+341,2/9,N,O
+341,và,C,O
+341,tháng,N,O
+341,lương,N,O
+341,13,M,O
+341,cuối,N,O
+341,năm,N,O
+341,",",CH,O
+341,thưởng,V,O
+341,hiệu suất,N,O
+341,công việc,N,O
+342,Tốt nghiệp,V,O
+342,Đại Học,Np,O
+342,.,CH,O
+342,Thành thạo,N,B-Skill
+342,vi tính,N,I-Skill
+342,(,CH,I-Skill
+342,Word,Np,I-Skill
+342,/,CH,I-Skill
+342,Excel,Np,I-Skill
+342,/,CH,I-Skill
+342,Powerpoint,Np,I-Skill
+342,),CH,O
+342,.,CH,O
+343,Có,V,O
+343,khả năng,N,B-Skill
+343,giao tiếp,V,I-Skill
+343,",",CH,O
+343,truyền đạt,V,B-Skill
+343,tốt,A,I-Skill
+343,.,CH,O
+344,Có,V,O
+344,kinh nghiệm,N,B-Skill
+344,giám sát,V,I-Skill
+344,bán,V,I-Skill
+344,hàng,N,I-Skill
+344,và,C,I-Skill
+344,điều hành,V,I-Skill
+344,bán,V,I-Skill
+344,hàng,N,I-Skill
+344,ngành hàng,N,I-Skill
+344,FMCG,Np,I-Skill
+345,Có,V,O
+345,khả năng,N,B-Skill
+345,lãnh đạo,N,I-Skill
+345,",",CH,O
+345,tuyển dụng,N,B-Skill
+345,và,C,I-Skill
+345,huấn luyện,V,I-Skill
+345,nhân viên,N,I-Skill
+346,Có,V,O
+346,khả năng,N,B-Skill
+346,phân tích,V,I-Skill
+346,và,C,O
+346,giải quyết,V,B-Skill
+346,vấn đề,N,I-Skill
+347,Trung thực,N,B-Skill
+347,",",CH,O
+347,chủ động,N,B-Skill
+347,",",CH,O
+347,có,V,O
+347,khả năng,N,O
+347,công tác,V,O
+347,xa,V,O
+347,nhà,N,O
+347,thường xuyên,A,O
+347,.,CH,O
+348,Kỹ năng,N,B-Skill
+348,Tiếng,Np,I-Skill
+348,Anh,Np,I-Skill
+348,và,C,O
+348,Tin học,N,B-Skill
+348,Văn phòng,N,I-Skill
+348,chuẩn MOS,V,I-Skill
+348,theo,V,O
+348,quy định,N,O
+348,VPBank,Np,O
+349,Kỹ năng,N,B-Skill
+349,làm việc,V,I-Skill
+349,nhóm,N,I-Skill
+349,.,CH,O
+350,Kỹ năng,N,B-Skill
+350,giao tiếp,V,I-Skill
+350,hiệu quả,N,I-Skill
+351,Kỹ năng,N,B-Skill
+351,quản lý,V,I-Skill
+351,thời gian,N,I-Skill
+351,.,CH,O
+351,Chịu,V,B-Skill
+351,được,R,I-Skill
+351,áp lực,V,I-Skill
+351,công việc,N,I-Skill
+352,Tư duy,N,B-Skill
+352,đổi mới,V,I-Skill
+352,và,C,I-Skill
+352,sáng tạo,M,I-Skill
+353,Cẩn thận,A,B-Skill
+353,",",CH,O
+353,trung thực,A,B-Skill
+353,",",CH,O
+353,và,C,O
+353,có,V,O
+353,trách nhiệm,N,B-Skill
+353,cao,A,I-Skill
+353,trong,E,O
+353,công việc,N,O
+354,Ham,V,B-Skill
+354,học hỏi,V,I-Skill
+354,.,CH,O
+355,Thu nhập,N,O
+355,hấp dẫn,V,O
+355,",",CH,O
+355,lương thưởng,N,O
+355,cạnh tranh,V,O
+355,theo,V,O
+355,năng lực,N,O
+356,Thưởng,V,O
+356,các,L,O
+356,Ngày,N,O
+356,lễ,N,O
+356,",",CH,O
+356,Tết,Np,O
+356,(,CH,O
+356,theo,V,O
+356,chính sách,N,O
+356,ngân hàng,N,O
+356,từng,R,O
+356,thời kỳ,N,O
+356,),CH,O
+357,Được,V,O
+357,vay,V,O
+357,ưu đãi,V,O
+357,theo,V,O
+357,chính sách,N,O
+357,ngân hàng,N,O
+357,từng,R,O
+357,thời kỳ,N,O
+358,Chế độ,N,O
+358,ngày,N,O
+358,phép,N,O
+358,hấp dẫn,V,O
+358,theo,V,O
+358,cấp bậc,N,O
+358,công việc,N,O
+359,Bảo hiểm,N,O
+359,bắt buộc,V,O
+359,theo,V,O
+359,luật,N,O
+359,lao động,N,O
+359,+,V,O
+359,Bảo hiểm,N,O
+359,VPBank care,V,O
+359,cho,E,O
+359,CBNV tùy,V,O
+359,theo,V,O
+359,cấp bậc,N,O
+359,và,C,O
+359,thời gian,N,O
+359,công tác,V,O
+360,Được,V,O
+360,tham gia,V,O
+360,các,L,O
+360,khóa,N,O
+360,đào tạo,V,O
+360,tùy,N,O
+360,thuộc,V,O
+360,vào,E,O
+360,Khung,Np,O
+360,đào tạo,V,O
+360,cho,E,O
+360,từng,P,O
+360,vị trí,N,O
+361,Thời gian,N,O
+361,làm việc,V,O
+361,:,CH,O
+361,từ,E,O
+361,thứ,N,O
+361,2,M,O
+361,–,CH,O
+361,thứ,N,O
+361,6,M,O
+361,&,CH,O
+361,\,N,O
+361,xa0sáng,N,O
+361,thứ,N,O
+361,7,M,O
+362,Môi trường,N,O
+362,làm việc,V,O
+362,năng động,A,O
+362,",",CH,O
+362,thân thiện,N,O
+362,",",CH,O
+362,có,V,O
+362,nhiều,A,O
+362,cơ hội học,N,O
+362,đào tạo,V,O
+362,",",CH,O
+362,học hỏi,V,O
+362,và,C,O
+362,phát triển,V,O
+362,;,CH,O
+362,được,V,O
+362,tham gia,V,O
+362,nhiều,A,O
+362,hoạt động,N,O
+362,văn hóa,V,O
+362,thú vị,N,O
+362,(,CH,O
+362,cuộc,N,O
+362,thi,V,O
+362,về,E,O
+362,thể thao,N,O
+362,",",CH,O
+362,tài năng,N,O
+362,",",CH,O
+362,hoạt động,V,O
+362,teambuiding,V,O
+362,...,CH,O
+362,),CH,O
+363,Tốt nghiệp,V,O
+363,Cao đẳng,N,O
+363,",",CH,O
+363,Đại học,N,O
+363,thuộc,V,O
+363,các,L,O
+363,ngành,N,B-Skill
+363,Kế toán,N,I-Skill
+363,",",CH,O
+363,Kiểm toán,N,B-Skill
+363,",",CH,O
+363,Tài chính,N,B-Skill
+363,",",CH,O
+363,...,CH,O
+364,Kỹ năng,N,B-Skill
+364,giao tiếp,V,I-Skill
+364,",",CH,O
+364,sắp xếp,V,B-Skill
+364,công việc,N,I-Skill
+364,và,C,O
+364,quản lý,V,B-Skill
+364,công việc,N,I-Skill
+364,hiệu quả,N,I-Skill
+364,",",CH,I-Skill
+364,khoa học,N,I-Skill
+364,.,CH,O
+365,Có,V,O
+365,ít nhất,X,O
+365,2,M,O
+365,năm,N,O
+365,kinh nghiệm,N,O
+365,trở,V,O
+365,lên,V,O
+365,tại,E,O
+365,vị trí,N,O
+365,tương đương,A,O
+365,.,CH,O
+365,Ưu tiên,V,O
+365,có,V,O
+365,kinh nghiệm,N,B-Skill
+365,kế toán,V,I-Skill
+365,thuế,N,I-Skill
+365,và,C,I-Skill
+365,trong,E,I-Skill
+365,ngành,N,I-Skill
+365,y tế,N,I-Skill
+365,.,CH,O
+366,Có,V,O
+366,năng lực,N,B-Skill
+366,nghiệp vụ,N,I-Skill
+366,kế toán,N,I-Skill
+366,",",CH,O
+366,có,V,O
+366,khả năng,N,B-Skill
+366,tổng hợp,V,I-Skill
+366,",",CH,I-Skill
+366,nắm,V,I-Skill
+366,vững,A,I-Skill
+366,chế độ,N,I-Skill
+366,kế toán,V,I-Skill
+366,.,CH,O
+366,Thi hành,V,O
+366,nhiệm vụ,N,O
+366,chính xác,A,O
+366,và,C,O
+366,đúng,A,O
+366,quy định,N,O
+366,.,CH,O
+367,Tự,P,O
+367,tổ chức,V,O
+367,",",CH,O
+367,sắp xếp,V,O
+367,và,C,O
+367,xây dựng,V,O
+367,kế hoạch,N,O
+367,để,E,O
+367,thực hiện,V,O
+367,nhiệm vụ,N,O
+367,được,V,O
+367,phân công,V,O
+367,.,CH,O
+368,Có,V,O
+368,ít nhất,X,O
+368,1,M,O
+368,năm,N,O
+368,kinh nghiệm,N,O
+368,ở,E,O
+368,vị trí,N,O
+368,tương đương,A,O
+368,.,CH,O
+368,Ưu tiên,V,O
+368,kinh nghiệm,N,B-Skill
+368,làm,V,I-Skill
+368,tại,E,I-Skill
+368,các,L,I-Skill
+368,công ty,N,I-Skill
+368,công nghệ,N,I-Skill
+368,",",CH,I-Skill
+368,chuyển,V,I-Skill
+368,sổi,N,I-Skill
+368,số,N,I-Skill
+369,Có,V,O
+369,khả năng,N,B-Skill
+369,giao tiếp,V,I-Skill
+369,và,C,I-Skill
+369,thuyết phục,V,I-Skill
+369,tốt,A,I-Skill
+370,Có,V,O
+370,khả năng,N,B-Skill
+370,quản lý,V,I-Skill
+370,công việc,N,I-Skill
+370,tốt,A,I-Skill
+370,",",CH,O
+370,khả năng,N,B-Skill
+370,làm việc,V,I-Skill
+370,độc lập,A,I-Skill
+371,Có,V,O
+371,khả năng,N,B-Skill
+371,nắm bắt,V,I-Skill
+371,thông tin,N,I-Skill
+371,",",CH,I-Skill
+371,cơ hội,N,I-Skill
+371,và,C,O
+371,phân tích,V,B-Skill
+371,thị trường,N,I-Skill
+372,Ưu tiên,V,O
+372,những,L,O
+372,người,Nc,O
+372,có,V,O
+372,tính cách,N,B-Skill
+372,quyết liệt,A,I-Skill
+372,",",CH,O
+372,nghiêm túc,A,B-Skill
+372,trong,E,I-Skill
+372,công việc,N,I-Skill
+373,Tốt nghiệp,V,O
+373,đại học,N,O
+373,chuyên ngành,N,B-Skill
+373,kế toán,N,I-Skill
+373,",",CH,I-Skill
+373,kiểm toán,N,I-Skill
+373,",",CH,I-Skill
+373,tài chính,N,I-Skill
+374,Có,V,O
+374,kình nghiệm,N,O
+374,từ,E,O
+374,2,M,O
+374,năm,N,O
+374,trở,V,O
+374,lên,V,O
+374,ở,E,O
+374,vị trí,N,B-Skill
+374,kế toán,N,I-Skill
+374,công nợ,M,I-Skill
+375,Tiếng,N,B-Skill
+375,hoa,N,I-Skill
+375,giao tiếp,V,I-Skill
+375,tốt,A,I-Skill
+375,",",CH,O
+375,tính cách,N,B-Skill
+375,hoạt bát,A,I-Skill
+375,",",CH,O
+375,chịu,V,B-Skill
+375,được,V,I-Skill
+375,áp lực,N,I-Skill
+375,công việc,N,I-Skill
+376,Ưu tiên,N,O
+376,biết,V,O
+376,sử dụng,V,B-Skill
+376,phần mềm,N,I-Skill
+376,SAP,Np,I-Skill
+377,Tốt nghiệp,V,O
+377,Đại học,N,O
+377,trở,V,O
+377,lên,V,O
+377,chuyên ngành,N,B-Skill
+377,Marketing,Np,I-Skill
+377,",",CH,O
+377,Quản trị,V,B-Skill
+377,kinh doanh,V,I-Skill
+378,Có,V,O
+378,4-5,N,O
+378,năm,N,O
+378,trở,V,O
+378,lên,V,O
+378,kinh nghiệm,N,O
+378,ở,E,O
+378,vị trí,N,O
+378,tương đương,A,O
+378,",",CH,O
+378,trong,E,O
+378,ngành,N,O
+378,điện,N,O
+378,máy,N,O
+379,Có,V,B-Skill
+379,mối,N,I-Skill
+379,quan hệ,N,I-Skill
+379,tốt,A,I-Skill
+379,trong,E,I-Skill
+379,ngành,N,I-Skill
+379,",",CH,O
+379,kỹ năng,N,B-Skill
+379,phân tích,V,I-Skill
+379,và,C,I-Skill
+379,phán đoán,V,I-Skill
+379,xu hướng,N,I-Skill
+379,tốt,A,B-Skill
+381,Khả năng,N,B-Skill
+381,quản lý,V,I-Skill
+381,",",CH,I-Skill
+381,temwork,M,I-Skill
+382,Bảo mật,V,B-Skill
+382,thông tin,N,I-Skill
+382,",",CH,O
+382,cẩn thận,A,B-Skill
+382,",",CH,O
+382,tỉ mỉ,A,B-Skill
+382,",",CH,O
+382,chi tiết,N,B-Skill
+383,Tốt nghiệp,V,O
+383,Đại học,N,O
+383,trở,V,O
+383,lên,V,O
+383,chuyên ngành,N,B-Skill
+383,Tài chính,N,I-Skill
+383,",",CH,O
+383,Ngân hàng,N,B-Skill
+383,",",CH,O
+383,Kinh tế,N,B-Skill
+383,…,CH,O
+383,.,CH,O
+384,Hiểu biết,V,B-Skill
+384,về,E,I-Skill
+384,ngành,N,I-Skill
+384,tài chính,N,I-Skill
+384,-,CH,O
+384,ngân hàng,N,B-Skill
+384,",",CH,O
+384,sản phẩm,N,B-Skill
+384,/,CH,O
+384,dịch vụ,N,B-Skill
+384,ngân hàng,N,I-Skill
+385,Thành thạo,N,B-Skill
+385,tin học,N,I-Skill
+385,văn phòng,N,I-Skill
+385,cơ bản,A,I-Skill
+385,(,CH,I-Skill
+385,word,N,I-Skill
+385,",",CH,I-Skill
+385,excel,N,I-Skill
+385,",",CH,I-Skill
+385,outlook,N,I-Skill
+385,…,CH,O
+385,),CH,O
+386,Kỹ năng,N,B-Skill
+386,bán,V,I-Skill
+386,hàng,N,I-Skill
+386,",",CH,O
+386,kỹ năng,N,B-Skill
+386,giao tiếp,V,I-Skill
+386,tốt,A,I-Skill
+387,Ngoại ngữ,N,B-Skill
+387,:,CH,O
+387,TOEIC,Np,B-Skill
+387,450,V,O
+387,trở,V,O
+387,lên,V,O
+387,hoặc,C,O
+387,chứng chỉ,N,O
+387,tương đương,A,O
+388,Tốt nghiệp,V,O
+388,Đại học,N,O
+388,chuyên ngành,N,B-Skill
+388,Luật,Np,I-Skill
+388,",",CH,O
+388,ưu tiên,A,O
+388,chuyên ngành,N,B-Skill
+388,Luật,N,I-Skill
+388,kinh tế,N,I-Skill
+388,và,C,O
+388,nắm,V,O
+388,rõ,A,B-Skill
+388,pháp luật,N,I-Skill
+388,đưa,V,I-Skill
+388,người,N,I-Skill
+388,lao động,V,I-Skill
+388,đi,V,I-Skill
+388,làm việc,V,I-Skill
+388,ở,E,I-Skill
+388,nước ngoài,N,I-Skill
+388,theo,V,O
+388,hợp đồng,N,O
+388,luật,N,O
+388,thương mại,N,O
+388,",",CH,O
+388,luật,N,O
+388,xây dựng,V,O
+388,",",CH,O
+388,luật,N,O
+388,đầu tư,V,O
+388,",",CH,O
+388,luật giáo dục,N,O
+388,.,CH,O
+389,Kinh nghiệm,N,O
+389,làm việc,V,O
+389,ở,E,O
+389,vị trí,N,O
+389,tương đương,A,O
+389,từ,E,O
+389,5,M,O
+389,năm,N,O
+389,trở,V,O
+389,lên,V,O
+389,.,CH,O
+389,Ưu tiên,V,O
+389,ứng viên,N,O
+389,có,V,O
+389,kinh nghiệm,N,B-Skill
+389,quản lý,V,I-Skill
+389,dự án,N,I-Skill
+389,",",CH,O
+389,tư vấn,V,B-Skill
+389,",",CH,I-Skill
+389,cố vấn,N,I-Skill
+389,cho,E,I-Skill
+389,BGĐ,Np,I-Skill
+389,.,CH,O
+390,Kỹ năng,N,B-Skill
+390,soạn thảo,V,I-Skill
+390,văn bản,N,I-Skill
+390,",",CH,I-Skill
+390,hợp đồng,N,I-Skill
+390,tốt,A,I-Skill
+390,.,CH,O
+391,Kỹ năng,N,B-Skill
+391,giao tiếp,V,I-Skill
+391,",",CH,I-Skill
+391,đàm phán,V,I-Skill
+391,và,C,O
+391,ra,V,B-Skill
+391,quyết định,N,I-Skill
+391,tốt,A,I-Skill
+391,.,CH,O
+392,Có,V,O
+392,kỹ năng,N,B-Skill
+392,lãnh đạo,N,I-Skill
+392,",",CH,O
+392,kỹ năng,N,B-Skill
+392,giao,V,I-Skill
+392,và,C,I-Skill
+392,đánh giá,V,I-Skill
+392,thực hiện,V,I-Skill
+392,công việc,N,I-Skill
+392,.,CH,O
+393,Kỹ năng,N,B-Skill
+393,làm việc,V,I-Skill
+393,độc lập,A,I-Skill
+393,và,C,I-Skill
+393,teamwork,M,I-Skill
+394,Có,V,O
+394,kỹ năng,N,B-Skill
+394,quản lý,V,I-Skill
+394,và,C,I-Skill
+394,phát triển,V,I-Skill
+394,nhân viên,N,I-Skill
+394,một cách,N,O
+394,chuyên nghiệp,A,O
+394,và,C,O
+394,hiệu quả,N,O
+394,.,CH,O
+395,Trung thực,N,B-Skill
+395,",",CH,O
+395,khách quan,A,B-Skill
+395,",",CH,O
+395,có,V,O
+395,đạo đức,N,B-Skill
+395,nghề nghiệp,N,O
+395,.,CH,O
+396,NOTE,Np,O
+396,:,CH,O
+396,Độ,N,O
+396,tuổi,N,O
+396,tối thiểu,A,O
+396,từ,E,O
+396,32,M,O
+396,trở,V,O
+396,lên,V,O
+397,Tốt nghiệp,V,O
+397,Đại học,N,O
+397,trở,V,O
+397,lên,V,O
+397,thuộc,V,O
+397,chuyên ngành,N,B-Skill
+397,Kinh tế,N,I-Skill
+397,tại,E,O
+397,các,L,O
+397,Trường,N,O
+397,Kinh tế,N,O
+397,quốc dân,N,O
+397,",",CH,O
+397,Ngoại Thương,Np,O
+397,",",CH,O
+397,Thương Mại,Np,O
+397,",",CH,O
+397,Học viện,V,O
+397,tài chính,N,O
+397,",",CH,O
+397,Học viện,N,O
+397,ngân hàng,N,O
+397,",",CH,O
+397,...,CH,O
+398,Có,V,O
+398,tối thiểu,N,O
+398,3,M,O
+398,năm,N,O
+398,kinh nghiệm,N,B-Skill
+398,làm việc,V,I-Skill
+398,trong,E,I-Skill
+398,lĩnh vực,N,I-Skill
+398,tài chính,N,I-Skill
+398,ngân hàng,N,I-Skill
+398,và,C,O
+398,1,M,B-Skill
+398,năm,N,I-Skill
+398,tại,E,I-Skill
+398,vị trí,N,I-Skill
+398,quản lý,V,I-Skill
+398,.,CH,O
+399,Kỹ năng,N,B-Skill
+399,quản lý,V,I-Skill
+399,",",CH,I-Skill
+399,đào tạo,V,I-Skill
+399,và,C,I-Skill
+399,xây dựng,V,I-Skill
+399,mối,N,I-Skill
+399,quan hệ,N,I-Skill
+399,tốt,A,I-Skill
+400,Kỹ năng,N,B-Skill
+400,đàm phán,N,I-Skill
+400,",",CH,I-Skill
+400,thuyết phục,V,I-Skill
+400,và,C,O
+400,quản trị,V,B-Skill
+400,rủi ro,A,I-Skill
+400,tốt,A,I-Skill
+401,Năng động,N,B-Skill
+401,",",CH,O
+401,trung thực,A,B-Skill
+401,và,C,O
+401,khả năng,N,B-Skill
+401,chịu,V,I-Skill
+401,áp lực,N,I-Skill
+401,công việc,N,I-Skill
+401,tốt,A,I-Skill
+402,Tốt nghiệp,V,O
+402,Cao đẳng,N,O
+402,\,V,O
+402,xa0trở,V,O
+402,lên,V,O
+402,thuộc,V,O
+402,các,L,O
+402,lĩnh vực,N,O
+402,:,CH,O
+402,Kinh tế,N,B-Skill
+402,",",CH,O
+402,Ngoại thương,N,B-Skill
+402,",",CH,O
+402,Thương mại,N,B-Skill
+402,",",CH,O
+402,Quản trị,V,B-Skill
+402,kinh doanh,V,I-Skill
+402,",",CH,O
+402,Tài chính,N,B-Skill
+402,",",CH,O
+402,Ngân hàng,N,B-Skill
+402,hoặc,C,O
+402,tương đương,A,O
+403,Sử dụng,V,O
+403,thành thạo,N,B-Skill
+403,tin học,N,I-Skill
+403,văn phòng,N,I-Skill
+404,Tư duy,N,B-Skill
+404,tốt,A,I-Skill
+404,",",CH,O
+404,có,V,O
+404,khả năng,N,B-Skill
+404,phân tích,V,I-Skill
+404,và,C,I-Skill
+404,đánh giá,V,I-Skill
+404,vấn đề,N,I-Skill
+405,Có,V,O
+405,khả năng,N,B-Skill
+405,lập,V,I-Skill
+405,kế hoạch,N,I-Skill
+405,công việc,N,I-Skill
+405,hàng,N,O
+405,tuần,N,O
+405,/,CH,O
+405,hàng,N,O
+405,tháng,N,O
+406,Kiến thức,N,O
+406,tốt,A,O
+406,",",CH,O
+406,am hiểu,V,O
+406,kiến thức,N,O
+406,cơ bản,A,B-Skill
+406,về,E,I-Skill
+406,luật,N,I-Skill
+406,",",CH,O
+406,kinh tế,N,B-Skill
+406,thương mại,N,I-Skill
+406,",",CH,O
+406,kiến thức,N,B-Skill
+406,về,E,I-Skill
+406,tài chính,N,I-Skill
+406,ngân hàng,N,I-Skill
+406,có,V,O
+406,liên quan,V,B-Skill
+406,đến,E,I-Skill
+406,hoạt động,V,I-Skill
+406,tín dụng,N,I-Skill
+406,;,CH,O
+407,Ưu tiên,N,O
+407,Ứng viên,V,O
+407,có,V,O
+407,kinh nghiệm,N,O
+407,tại,E,O
+407,vị trí,N,O
+407,tương đương,A,O
+408,Tốt nghiệp,V,O
+408,Cao đẳng,N,O
+408,\,V,O
+408,xa0trở,V,O
+408,lên,V,O
+408,thuộc,V,O
+408,các,L,O
+408,lĩnh vực,N,O
+408,:,CH,O
+408,Kinh tế,N,B-Skill
+408,",",CH,O
+408,Ngoại thương,N,B-Skill
+408,",",CH,O
+408,Thương mại,N,B-Skill
+408,",",CH,O
+408,Quản trị,V,B-Skill
+408,kinh doanh,V,I-Skill
+408,",",CH,O
+408,Tài chính,N,B-Skill
+408,",",CH,O
+408,Ngân hàng,N,B-Skill
+408,hoặc,C,O
+408,tương đương,A,O
+409,Sử dụng,V,O
+409,thành thạo,N,B-Skill
+409,tin học,N,I-Skill
+409,văn phòng,N,I-Skill
+410,Tư duy,N,B-Skill
+410,tốt,A,I-Skill
+410,",",CH,O
+410,có,V,O
+410,khả năng,N,B-Skill
+410,phân tích,V,I-Skill
+410,và,C,I-Skill
+410,đánh giá,V,I-Skill
+410,vấn đề,N,I-Skill
+411,Có,V,O
+411,khả năng,N,B-Skill
+411,lập,V,I-Skill
+411,kế hoạch,N,I-Skill
+411,công việc,N,I-Skill
+411,hàng,N,O
+411,tuần,N,O
+411,/,CH,O
+411,hàng,N,O
+411,tháng,N,O
+412,Kiến thức,N,B-Skill
+412,tốt,A,I-Skill
+412,",",CH,O
+412,am hiểu,V,O
+412,kiến thức,N,O
+412,cơ bản,A,B-Skill
+412,về,E,I-Skill
+412,luật,N,I-Skill
+412,",",CH,O
+412,kinh tế,N,B-Skill
+412,thương mại,N,I-Skill
+412,",",CH,O
+412,kiến thức,N,B-Skill
+412,về,E,I-Skill
+412,tài chính,N,I-Skill
+412,ngân hàng,N,I-Skill
+412,có,V,I-Skill
+412,liên quan,V,I-Skill
+412,đến,E,I-Skill
+412,hoạt động,V,I-Skill
+412,tín dụng,N,I-Skill
+412,;,CH,O
+413,Ưu tiên,N,O
+413,Ứng viên,V,O
+413,có,V,O
+413,kinh nghiệm,N,O
+413,tại,E,O
+413,vị trí,N,O
+413,tương đương,A,O
+414,Tốt nghiệp,V,O
+414,Đại học,N,O
+414,trở,V,O
+414,lên,V,O
+414,thuộc,V,O
+414,chuyên ngành,N,B-Skill
+414,Kinh tế,N,I-Skill
+414,tại,E,O
+414,các,L,O
+414,Trường,N,O
+414,Kinh tế,N,O
+414,quốc dân,N,O
+414,",",CH,O
+414,Ngoại Thương,Np,O
+414,",",CH,O
+414,Thương Mại,Np,O
+414,",",CH,O
+414,Học viện,V,O
+414,tài chính,N,O
+414,",",CH,O
+414,Học viện,N,O
+414,ngân hàng,N,O
+414,",",CH,O
+414,...,CH,O
+415,Có,V,O
+415,tối thiểu,N,O
+415,3,M,O
+415,năm,N,O
+415,kinh nghiệm,N,O
+415,làm việc,V,O
+415,trong,E,O
+415,lĩnh vực,N,B-Skill
+415,tài chính,N,I-Skill
+415,ngân hàng,N,I-Skill
+415,và,C,O
+415,1,M,O
+415,năm,N,O
+415,tại,E,O
+415,vị trí,N,O
+415,quản lý,V,O
+415,.,CH,O
+416,Kỹ năng,N,B-Skill
+416,quản lý,V,I-Skill
+416,",",CH,I-Skill
+416,đào tạo,V,I-Skill
+416,và,C,I-Skill
+416,xây dựng,V,I-Skill
+416,mối,N,I-Skill
+416,quan hệ,N,I-Skill
+416,tốt,A,I-Skill
+417,Kỹ năng,N,B-Skill
+417,đàm phán,N,I-Skill
+417,",",CH,O
+417,thuyết phục,V,B-Skill
+417,và,C,O
+417,quản trị,V,B-Skill
+417,rủi ro,A,I-Skill
+417,tốt,A,I-Skill
+418,Năng động,N,B-Skill
+418,",",CH,O
+418,trung thực,A,B-Skill
+418,và,C,O
+418,khả năng,N,B-Skill
+418,chịu,V,I-Skill
+418,áp lực,N,I-Skill
+418,công việc,N,I-Skill
+418,tốt,A,I-Skill
+419,Tốt nghiệp,V,O
+419,Cao đẳng,N,O
+419,\,V,O
+419,xa0trở,V,O
+419,lên,V,O
+419,thuộc,V,O
+419,các,L,O
+419,lĩnh vực,N,O
+419,:,CH,O
+419,Kinh tế,N,O
+419,",",CH,O
+419,Ngoại thương,N,O
+419,",",CH,O
+419,Thương mại,N,O
+419,",",CH,O
+419,Quản trị,V,O
+419,kinh doanh,V,O
+419,",",CH,O
+419,Tài chính,N,O
+419,",",CH,O
+419,Ngân hàng,N,O
+419,hoặc,C,O
+419,tương đương,A,O
+420,Sử dụng,V,O
+420,thành thạo,N,B-Skill
+420,tin học,N,I-Skill
+420,văn phòng,N,I-Skill
+421,Tư duy,N,B-Skill
+421,tốt,A,I-Skill
+421,",",CH,O
+421,có,V,O
+421,khả năng,N,B-Skill
+421,phân tích,V,I-Skill
+421,và,C,I-Skill
+421,đánh giá,V,I-Skill
+421,vấn đề,N,I-Skill
+422,Có,V,O
+422,khả năng,N,B-Skill
+422,lập,V,I-Skill
+422,kế hoạch,N,I-Skill
+422,công việc,N,I-Skill
+422,hàng,N,O
+422,tuần,N,O
+422,/,CH,O
+422,hàng,N,O
+422,tháng,N,O
+423,Kiến thức,N,B-Skill
+423,tốt,A,I-Skill
+423,",",CH,O
+423,am hiểu,V,O
+423,kiến thức,N,O
+423,cơ bản,A,B-Skill
+423,về,E,I-Skill
+423,luật,N,I-Skill
+423,",",CH,O
+423,kinh tế,N,B-Skill
+423,thương mại,N,I-Skill
+423,",",CH,O
+423,kiến thức,N,B-Skill
+423,về,E,I-Skill
+423,tài chính,N,I-Skill
+423,ngân hàng,N,I-Skill
+423,có,V,I-Skill
+423,liên quan,V,I-Skill
+423,đến,E,I-Skill
+423,hoạt động,V,I-Skill
+423,tín dụng,N,I-Skill
+423,;,CH,O
+424,Ưu tiên,N,O
+424,Ứng viên,V,O
+424,có,V,O
+424,kinh nghiệm,N,O
+424,tại,E,O
+424,vị trí,N,O
+424,tương đương,A,O
+425,Tốt nghiệp,V,O
+425,Cao đẳng,N,O
+425,\,V,O
+425,xa0trở,V,O
+425,lên,V,O
+425,thuộc,V,O
+425,các,L,O
+425,lĩnh vực,N,O
+425,:,CH,O
+425,Kinh tế,N,O
+425,",",CH,O
+425,Ngoại thương,N,O
+425,",",CH,O
+425,Thương mại,N,O
+425,",",CH,O
+425,Quản trị,V,O
+425,kinh doanh,V,O
+425,",",CH,O
+425,Tài chính,N,O
+425,",",CH,O
+425,Ngân hàng,N,O
+425,hoặc,C,O
+425,tương đương,A,O
+426,Sử dụng,V,O
+426,thành thạo,N,B-Skill
+426,tin học,N,I-Skill
+426,văn phòng,N,I-Skill
+427,Tư duy,N,B-Skill
+427,tốt,A,I-Skill
+427,",",CH,O
+427,có,V,O
+427,khả năng,N,B-Skill
+427,phân tích,V,I-Skill
+427,và,C,I-Skill
+427,đánh giá,V,I-Skill
+427,vấn đề,N,I-Skill
+428,Có,V,O
+428,khả năng,N,B-Skill
+428,lập,V,I-Skill
+428,kế hoạch,N,I-Skill
+428,công việc,N,I-Skill
+428,hàng,N,O
+428,tuần,N,O
+428,/,CH,O
+428,hàng,N,O
+428,tháng,N,O
+429,Kiến thức,N,B-Skill
+429,tốt,A,I-Skill
+429,",",CH,O
+429,am hiểu,V,O
+429,kiến thức,N,O
+429,cơ bản,A,B-Skill
+429,về,E,I-Skill
+429,luật,N,I-Skill
+429,",",CH,O
+429,kinh tế,N,B-Skill
+429,thương mại,N,I-Skill
+429,",",CH,O
+429,kiến thức,N,B-Skill
+429,về,E,I-Skill
+429,tài chính,N,I-Skill
+429,ngân hàng,N,I-Skill
+429,có,V,I-Skill
+429,liên quan,V,I-Skill
+429,đến,E,I-Skill
+429,hoạt động,V,I-Skill
+429,tín dụng,N,I-Skill
+429,;,CH,O
+430,Ưu tiên,N,O
+430,Ứng viên,V,O
+430,có,V,O
+430,kinh nghiệm,N,O
+430,tại,E,O
+430,vị trí,N,O
+430,tương đương,A,O
+431,Tốt nghiệp,V,O
+431,chuyên ngành,N,B-Skill
+431,tài chính,N,I-Skill
+431,",",CH,I-Skill
+431,ngân hàng,N,I-Skill
+431,",",CH,I-Skill
+431,ngoại thương,N,I-Skill
+431,",",CH,I-Skill
+431,đầu tư,V,I-Skill
+431,",",CH,I-Skill
+431,thương mại,N,I-Skill
+431,các,L,O
+431,trường,N,O
+431,KTQD,Np,O
+431,",",CH,O
+431,Học Viện,Np,O
+431,Ngân hàng,N,O
+431,",",CH,O
+431,Ngoại Thương,Np,O
+431,",",CH,O
+431,Học Viện,Np,O
+431,Tài chính,N,O
+431,",",CH,O
+431,Đại học,N,O
+431,Quốc Gia,Np,O
+431,",",CH,O
+431,Thương Mại,Np,O
+431,và,C,O
+431,các,L,O
+431,trường,N,O
+431,nước ngoài,N,O
+431,.,CH,O
+432,Nắm,V,O
+432,vững,A,O
+432,luật,N,B-Skill
+432,ngân hàng,N,I-Skill
+432,nhà nước,N,I-Skill
+432,",",CH,O
+432,luật,N,B-Skill
+432,các,L,I-Skill
+432,tổ chức,N,I-Skill
+432,tín dụng,N,I-Skill
+432,và,C,O
+432,các,L,O
+432,kiến thức,N,O
+432,cơ bản,A,O
+432,về,E,O
+432,hệ thống,N,B-Skill
+432,văn bản,N,I-Skill
+432,pháp luật,N,I-Skill
+432,Việt Nam,Np,I-Skill
+432,.,CH,O
+433,Hiểu biết,N,B-Skill
+433,về,E,I-Skill
+433,môi trường,N,I-Skill
+433,",",CH,I-Skill
+433,tình hình,N,I-Skill
+433,kinh tế,N,I-Skill
+433,và,C,I-Skill
+433,hoạt động,V,I-Skill
+433,ngân hàng,N,I-Skill
+433,và,C,I-Skill
+433,doanh nghiệp,N,I-Skill
+433,tại,E,O
+433,Việt nam,N,O
+433,.,CH,O
+434,Kiến thức,N,O
+434,chuyên ngành,N,B-Skill
+434,tài chính,N,I-Skill
+434,ngân hàng,N,I-Skill
+434,",",CH,O
+434,ngân hàng,N,B-Skill
+434,bán lẻ,V,I-Skill
+434,.,CH,O
+435,Kiến thức,N,O
+435,chuyên sâu,V,B-Skill
+435,về,E,I-Skill
+435,sản phẩm,N,I-Skill
+435,tín dụng,N,I-Skill
+435,bán lẻ,V,I-Skill
+435,.,CH,O
+436,Có,V,O
+436,kinh nghiệm,N,B-Skill
+436,tối thiểu,A,I-Skill
+436,1,M,I-Skill
+436,năm,N,I-Skill
+436,tại,E,I-Skill
+436,mảng,M,I-Skill
+436,sản phẩm,N,I-Skill
+436,/,CH,I-Skill
+436,chính sách,N,I-Skill
+436,tín dụng,N,I-Skill
+436,KHCN,Np,I-Skill
+436,hoặc,C,O
+436,3,V,O
+436,năm,N,O
+436,tại,E,O
+436,các,L,O
+436,vị trí,N,O
+436,khác,A,O
+436,có,R,O
+436,liên quan,V,O
+436,.,CH,O
+436,Ưu tiên,V,O
+436,ứng viên,N,O
+436,có,V,O
+436,kinh nghiệm,N,B-Skill
+436,triển khai,V,I-Skill
+436,dự án,N,I-Skill
+436,RLOS,Np,I-Skill
+437,Kỹ năng,N,B-Skill
+437,cần,V,I-Skill
+437,có,V,I-Skill
+437,:,CH,I-Skill
+437,phân tích,V,I-Skill
+437,",",CH,I-Skill
+437,tổng hợp,A,I-Skill
+437,",",CH,I-Skill
+437,thuyết trình,N,I-Skill
+437,",",CH,I-Skill
+437,soạn thảo,V,I-Skill
+437,văn bản,N,I-Skill
+437,.,CH,O
+438,Tốt nghiệp,V,O
+438,Cao đẳng,N,O
+438,trở,V,O
+438,lên,V,O
+438,",",CH,O
+438,chuyên ngành,N,B-Skill
+438,Kinh tế,N,I-Skill
+438,",",CH,I-Skill
+438,tài chính,N,I-Skill
+438,",",CH,I-Skill
+438,ngân hàng,N,I-Skill
+438,hoặc,C,O
+438,tương đương,A,O
+439,Có,V,O
+439,tối thiểu,N,O
+439,1,M,O
+439,năm,N,O
+439,kinh nghiệm,N,B-Skill
+439,làm,V,I-Skill
+439,tín dụng,N,I-Skill
+439,cá nhân,N,I-Skill
+439,/,CH,I-Skill
+439,doanh nghiệp,N,I-Skill
+439,tại,E,I-Skill
+439,các,L,I-Skill
+439,tổ chức,N,I-Skill
+439,tài chính,N,I-Skill
+439,và,C,I-Skill
+439,Ngân hàng,N,I-Skill
+440,Có,V,O
+440,khả năng,N,O
+440,tạo dựng,V,B-Skill
+440,quan hệ,N,I-Skill
+440,tốt,A,I-Skill
+440,với,E,I-Skill
+440,Khách hàng,N,I-Skill
+441,Năng động,N,B-Skill
+441,",",CH,O
+441,khả năng,N,O
+441,chịu,V,B-Skill
+441,áp lực,N,I-Skill
+441,công việc,N,I-Skill
+441,tốt,A,I-Skill
+442,Kỹ năng,N,B-Skill
+442,giao tiếp,V,I-Skill
+442,và,C,I-Skill
+442,xây dựng,V,I-Skill
+442,mối,N,I-Skill
+442,quan hệ,N,I-Skill
+442,tốt,A,I-Skill
+443,Tôn trọng,V,B-Skill
+443,đạo đức,N,I-Skill
+443,nghề nghiệp,N,I-Skill
+444,Tốt nghiệp,V,O
+444,Cao đẳng,N,O
+444,\,V,O
+444,xa0trở,V,O
+444,lên,V,O
+444,thuộc,V,O
+444,các,L,O
+444,lĩnh vực,N,O
+444,:,CH,O
+444,Kinh tế,N,B-Skill
+444,",",CH,O
+444,Ngoại thương,N,B-Skill
+444,",",CH,O
+444,Thương mại,N,B-Skill
+444,",",CH,O
+444,Quản trị,V,B-Skill
+444,kinh doanh,V,I-Skill
+444,",",CH,O
+444,Tài chính,N,B-Skill
+444,",",CH,O
+444,Ngân hàng,N,B-Skill
+444,hoặc,C,O
+444,tương đương,A,O
+445,Sử dụng,V,O
+445,thành thạo,N,B-Skill
+445,tin học,N,I-Skill
+445,văn phòng,N,I-Skill
+446,Tư duy,N,B-Skill
+446,tốt,A,I-Skill
+446,",",CH,O
+446,có,V,O
+446,khả năng,N,B-Skill
+446,phân tích,V,I-Skill
+446,và,C,I-Skill
+446,đánh giá,V,I-Skill
+446,vấn đề,N,I-Skill
+447,Có,V,O
+447,khả năng,N,B-Skill
+447,lập,V,I-Skill
+447,kế hoạch,N,I-Skill
+447,công việc,N,I-Skill
+447,hàng,N,O
+447,tuần,N,O
+447,/,CH,O
+447,hàng,N,O
+447,tháng,N,O
+448,Kiến thức,N,O
+448,tốt,A,O
+448,",",CH,O
+448,am hiểu,V,O
+448,kiến thức,N,O
+448,cơ bản,A,B-Skill
+448,về,E,I-Skill
+448,luật,N,I-Skill
+448,",",CH,O
+448,kinh tế,N,B-Skill
+448,thương mại,N,I-Skill
+448,",",CH,O
+448,kiến thức,N,B-Skill
+448,về,E,I-Skill
+448,tài chính,N,I-Skill
+448,ngân hàng,N,I-Skill
+448,có,V,I-Skill
+448,liên quan,V,I-Skill
+448,đến,E,I-Skill
+448,hoạt động,V,I-Skill
+448,tín dụng,N,I-Skill
+448,;,CH,O
+449,Ưu tiên,N,O
+449,Ứng viên,V,O
+449,có,V,O
+449,kinh nghiệm,N,O
+449,tại,E,O
+449,vị trí,N,O
+449,tương đương,A,O
+450,Tốt nghiệp,V,O
+450,Cao đẳng,N,O
+450,\,V,O
+450,xa0trở,V,O
+450,lên,V,O
+450,thuộc,V,O
+450,các,L,O
+450,lĩnh vực,N,O
+450,:,CH,O
+450,Kinh tế,N,B-Skill
+450,",",CH,O
+450,Ngoại thương,N,B-Skill
+450,",",CH,O
+450,Thương mại,N,B-Skill
+450,",",CH,O
+450,Quản trị,V,B-Skill
+450,kinh doanh,V,I-Skill
+450,",",CH,O
+450,Tài chính,N,B-Skill
+450,",",CH,O
+450,Ngân hàng,N,B-Skill
+450,hoặc,C,O
+450,tương đương,A,O
+451,Sử dụng,V,O
+451,thành thạo,N,B-Skill
+451,tin học,N,I-Skill
+451,văn phòng,N,I-Skill
+452,Tư duy,N,B-Skill
+452,tốt,A,I-Skill
+452,",",CH,O
+452,có,V,O
+452,khả năng,N,B-Skill
+452,phân tích,V,I-Skill
+452,và,C,I-Skill
+452,đánh giá,V,I-Skill
+452,vấn đề,N,I-Skill
+453,Có,V,O
+453,khả năng,N,B-Skill
+453,lập,V,I-Skill
+453,kế hoạch,N,I-Skill
+453,công việc,N,I-Skill
+453,hàng,N,O
+453,tuần,N,O
+453,/,CH,O
+453,hàng,N,O
+453,tháng,N,O
+454,Kiến thức,N,O
+454,tốt,A,O
+454,",",CH,O
+454,am hiểu,V,O
+454,kiến thức,N,O
+454,cơ bản,A,B-Skill
+454,về,E,I-Skill
+454,luật,N,I-Skill
+454,",",CH,O
+454,kinh tế,N,B-Skill
+454,thương mại,N,I-Skill
+454,",",CH,O
+454,kiến thức,N,B-Skill
+454,về,E,I-Skill
+454,tài chính,N,I-Skill
+454,ngân hàng,N,I-Skill
+454,có,V,I-Skill
+454,liên quan,V,I-Skill
+454,đến,E,I-Skill
+454,hoạt động,V,I-Skill
+454,tín dụng,N,I-Skill
+454,;,CH,O
+455,Ưu tiên,N,O
+455,Ứng viên,V,O
+455,có,V,O
+455,kinh nghiệm,N,O
+455,tại,E,O
+455,vị trí,N,O
+455,tương đương,A,O
+456,Tốt nghiệp,V,O
+456,các,L,O
+456,trường,N,O
+456,đào tạo,V,O
+456,chuyên ngành,N,B-Skill
+456,Truyền thông,N,I-Skill
+456,",",CH,I-Skill
+456,Quảng cáo,V,I-Skill
+456,",",CH,I-Skill
+456,Marketing,Np,I-Skill
+456,...,CH,O
+457,Có,V,O
+457,kinh nghiệm,N,B-Skill
+457,thực tế,N,I-Skill
+457,về,E,I-Skill
+457,Truyền thông,N,I-Skill
+457,đa,V,I-Skill
+457,phương tiện,N,I-Skill
+457,",",CH,O
+457,Quản lý,V,B-Skill
+457,sản xuất,V,I-Skill
+457,truyền thông,N,I-Skill
+457,(,CH,I-Skill
+457,đồ,N,I-Skill
+457,họa,N,I-Skill
+457,",",CH,I-Skill
+457,nhiếp ảnh,V,I-Skill
+457,",",CH,I-Skill
+457,dựng phim,V,I-Skill
+457,",",CH,I-Skill
+457,kỹ,A,I-Skill
+457,\,N,I-Skill
+457,xa0xảo,V,I-Skill
+457,phim,N,I-Skill
+457,",",CH,I-Skill
+457,phim,N,I-Skill
+457,quảng cáo,V,I-Skill
+457,...,CH,O
+457,),CH,O
+458,Ưu tiên,N,O
+458,ứng viên,V,O
+458,\ xa0có,N,O
+458,3-5,M,O
+458,năm,N,O
+458,kinh nghiệm,N,O
+458,tối thiểu,A,O
+458,ở,E,O
+458,vị trí,N,O
+458,:,CH,O
+458,Media,Np,B-Skill
+458,Production Leader,Np,I-Skill
+458,",",CH,O
+458,Media,Np,B-Skill
+458,Production Manager,Np,I-Skill
+458,.,CH,O
+459,Hợp tác,V,O
+459,theo,V,O
+459,hình thức,N,O
+459,Thỉnh giảng,N,O
+459,(,CH,O
+459,part,V,O
+459,time,N,O
+459,),CH,O
+459,.,CH,O
+460,Tốt nghiệp,V,O
+460,Đại học,N,O
+460,/,CH,O
+460,Cao đẳng,N,O
+460,chuyên ngành,N,B-Skill
+460,Kinh tế,N,I-Skill
+460,",",CH,I-Skill
+460,Tài chính,N,I-Skill
+460,",",CH,I-Skill
+460,Kế toán,N,I-Skill
+460,",",CH,I-Skill
+460,Ngân hàng,N,I-Skill
+460,",",CH,I-Skill
+460,Ngoại thương,N,I-Skill
+460,và,C,O
+460,các,L,O
+460,chuyên ngành,N,O
+460,khác,A,O
+460,có,V,O
+460,liên quan,V,O
+461,Chấp nhận,V,O
+461,ứng viên,N,O
+461,chưa,R,O
+461,có,V,O
+461,kinh nghiệm,N,O
+461,sẽ,R,O
+461,được,V,O
+461,tham gia,V,O
+461,khóa,V,O
+461,Đào tạo,N,O
+461,Giao dịch viên,N,O
+461,chuyên nghiệp,A,O
+461,",",CH,O
+461,bài bản,V,O
+461,trong,E,O
+461,1,M,O
+461,tháng,N,O
+462,Ưu tiên,N,O
+462,\,V,O
+462,xa0ứng viên,N,O
+462,có,V,O
+462,trên,N,O
+462,6,M,O
+462,tháng,N,O
+462,\,M,O
+462,xa0kinh nghiệm,N,B-Skill
+462,Giao dịch viên,V,I-Skill
+462,các,L,I-Skill
+462,ngân hàng,N,I-Skill
+462,\ xa0,V,O
+462,\,N,O
+462,xa0chăm sóc,V,O
+462,khách hàng,N,O
+462,",",CH,O
+462,tư vấn viên,N,O
+462,",",CH,O
+462,...,CH,O
+463,Ưu tiên,N,O
+463,ứng viên,V,O
+463,có,V,O
+463,nguồn,N,O
+463,HUY ĐỘNG,Np,O
+463,;,CH,O
+463,\,V,O
+463,xa0trên,N,O
+463,6,M,O
+463,tháng,N,O
+463,kinh nghiệm,N,B-Skill
+463,Sales,Np,I-Skill
+463,",",CH,I-Skill
+463,tư vấn,V,I-Skill
+463,Bảo hiểm,N,I-Skill
+463,",",CH,I-Skill
+463,BĐS,Np,I-Skill
+463,",",CH,I-Skill
+463,Tài chính,N,I-Skill
+463,",",CH,I-Skill
+463,..,N,I-Skill
+463,chăm sóc,V,I-Skill
+463,khách hàng,N,I-Skill
+463,.,CH,O
+464,Sử dụng,V,O
+464,cơ bản,A,O
+464,các,L,O
+464,phần mềm,N,B-Skill
+464,tin học,N,I-Skill
+464,văn phòng,N,I-Skill
+464,đặc biệt,A,I-Skill
+464,là,C,I-Skill
+464,Excel,Np,I-Skill
+464,để,E,O
+464,đáp ứng,V,O
+464,được,V,O
+464,công việc,N,B-Skill
+464,Giao dịch viên,M,I-Skill
+465,Ngoại hình,N,B-Skill
+465,ưa,V,I-Skill
+465,nhìn,V,I-Skill
+465,",",CH,O
+465,cao,A,O
+465,từ,E,O
+465,1,M,O
+465,m58,N,O
+465,\,V,O
+465,xa0trở,V,O
+465,lên,V,O
+466,Độ,N,O
+466,tuổi,N,O
+466,:,CH,O
+466,21,M,O
+466,-,CH,O
+466,27,M,O
+466,tuổi,N,O
+467,Chỉ,R,O
+467,phỏng vấn,V,O
+467,1,M,O
+467,lần,N,O
+467,duy nhất,A,O
+467,",",CH,O
+467,thông báo,V,O
+467,kết quả,N,O
+467,nhanh chóng,A,O
+467,đến,E,O
+467,các,L,O
+467,ứng viên,N,O
+468,Chính sách,N,O
+468,lương thưởng,N,O
+468,HẤP DẪN,Np,O
+468,",",CH,O
+468,hoa hồng,N,O
+468,CAO,Np,O
+468,",",CH,O
+468,KHÔNG,R,O
+468,GIỚI HẠN,Np,O
+468,thu nhập,N,O
+469,Vinh danh,N,O
+469,&,CH,O
+469,thưởng,V,O
+469,nóng,A,O
+469,cho,E,O
+469,CBNV,Np,O
+469,xuất sắc,A,O
+470,Gói,V,O
+470,chế độ,N,O
+470,phúc lợi,N,O
+470,hấp dẫn,V,O
+470,và,C,O
+470,độc đáo,A,O
+470,cho,E,O
+470,CBNV,Np,O
+470,như,C,O
+470,:,CH,O
+470,Bảo hiểm,V,O
+470,sức,N,O
+470,khỏe,V,O
+470,VietABank Care,Np,O
+470,dành,V,O
+470,cho,E,O
+470,CBNV,Np,O
+470,và,C,O
+470,người thân,N,O
+470,",",CH,O
+470,nghỉ hưởng,V,O
+470,nguyên,R,O
+470,lương,N,O
+470,ngày,N,O
+470,sinh nhật,M,O
+470,bản thân,N,O
+470,",",CH,O
+470,...,CH,O
+471,Cơ hội,N,O
+471,thăng tiến,V,O
+471,vượt bậc,V,O
+471,với,E,O
+471,Chương trình,N,O
+471,Cán bộ,N,O
+471,Nguồn,Np,O
+471,“,CH,O
+471,VietABank NextGen,Np,O
+471,”,CH,O
+472,Được,V,O
+472,tham gia,V,O
+472,các,L,O
+472,khóa,N,O
+472,đào tạo,V,O
+472,nâng,V,O
+472,cao,A,O
+472,nghiệp vụ,N,O
+472,tại,E,O
+472,VAB,Np,O
+472,và,C,O
+472,bên,N,O
+472,ngoài,N,O
+472,bởi,E,O
+472,đội ngũ,N,O
+472,chuyên gia,N,O
+472,giàu,A,O
+472,kinh nghiệm,N,O
+473,Ưu tiên Nữ,N,O
+473,",",CH,O
+473,Tốt nghiệp,V,O
+473,Đại học,N,O
+473,trở,V,O
+473,lên,V,O
+473,chuyên ngành,N,B-Skill
+473,Quản trị,V,I-Skill
+473,kinh doanh,V,I-Skill
+473,",",CH,I-Skill
+473,Marketing,Np,I-Skill
+473,",",CH,I-Skill
+473,Kinh tế,N,I-Skill
+473,",",CH,I-Skill
+473,Ngoại thương,M,I-Skill
+474,Có,V,O
+474,ít nhất,X,O
+474,3,M,O
+474,năm,N,O
+474,kinh nghiệm,N,O
+474,làm việc,V,O
+474,tại,E,O
+474,vị trí,N,B-Skill
+474,quản lý,V,I-Skill
+474,nhãn,N,I-Skill
+474,hàng,N,I-Skill
+474,;,CH,O
+474,Ưu tiên,V,O
+474,trong,E,O
+474,lĩnh vực,N,B-Skill
+474,thực phẩm,N,I-Skill
+474,",",CH,I-Skill
+474,tiêu dùng,V,I-Skill
+474,nhanh,A,I-Skill
+474,-,CH,I-Skill
+474,FMCG,Np,I-Skill
+474,;,CH,O
+475,Sử dụng,V,O
+475,thành thạo,N,B-Skill
+475,tin học,N,I-Skill
+475,văn phòng,N,I-Skill
+476,Có,V,O
+476,khả năng,N,B-Skill
+476,giao tiếp,V,I-Skill
+476,",",CH,I-Skill
+476,đàm phán,N,I-Skill
+476,và,C,I-Skill
+476,thuyết phục,V,I-Skill
+476,tốt,A,I-Skill
+476,;,CH,O
+477,Có,V,O
+477,tính,N,B-Skill
+477,sáng tạo,N,I-Skill
+477,cao,A,I-Skill
+477,;,CH,O
+478,Chịu,V,B-Skill
+478,được,V,I-Skill
+478,áp lực,N,I-Skill
+478,công việc,N,I-Skill
+478,cao,A,I-Skill
+479,Trình độ,N,O
+479,Đại học,N,O
+479,trở,V,O
+479,lên,V,O
+479,chuyên ngành,N,B-Skill
+479,Kế toán,N,I-Skill
+479,–,CH,I-Skill
+479,Kiểm toán,M,I-Skill
+480,Có,V,O
+480,kinh nghiệm,N,B-Skill
+480,tham gia,V,I-Skill
+480,triển khai,V,I-Skill
+480,dự án,N,I-Skill
+480,IFRS,Np,I-Skill
+480,tại,E,I-Skill
+480,trong,E,I-Skill
+480,ngành,N,I-Skill
+480,Chứng khoán,N,I-Skill
+480,/,CH,I-Skill
+480,Ngân hàng,N,I-Skill
+480,…,CH,O
+480,.,CH,O
+481,Thời gian,N,O
+481,làm việc,V,O
+481,5,M,O
+481,ngày,N,O
+481,/,CH,O
+481,tuần,N,O
+481,(,CH,O
+481,từ,E,O
+481,thứ Hai,N,O
+481,đến,E,O
+481,thứ Sáu,M,O
+481,),CH,O
+481,.,CH,O
+482,Cơ hội,N,O
+482,thăng tiến,V,O
+482,",",CH,O
+482,phát triển,V,O
+482,nghề nghiệp,N,O
+482,công bằng,A,O
+482,.,CH,O
+483,Thu nhập,N,O
+483,hấp dẫn,V,O
+483,",",CH,O
+483,cạnh tranh,V,O
+483,.,CH,O
+484,Được,V,O
+484,hưởng,V,O
+484,chế độ,N,O
+484,BHXH,Np,O
+484,",",CH,O
+484,BHYT,Np,O
+484,",",CH,O
+484,BHTN,Np,O
+484,",",CH,O
+484,Bảo hiểm,N,O
+484,sức khỏe,V,O
+484,theo,V,O
+484,quy định,N,O
+484,của,E,O
+484,Công ty,N,O
+484,.,CH,O
+485,Được,V,O
+485,tham gia,V,O
+485,các,L,O
+485,chương trình,N,O
+485,đào tạo,V,O
+485,",",CH,O
+485,huấn luyện,V,O
+485,của,E,O
+485,Công ty,N,O
+485,.,CH,O
+486,Môi trường,N,O
+486,làm việc,V,O
+486,chuyên nghiệp,A,O
+486,",",CH,O
+486,thân thiện,N,O
+486,",",CH,O
+486,năng động,A,O
+486,.,CH,O
+487,Mức,N,O
+487,lương,N,O
+487,:,CH,O
+487,Thỏa thuận,M,O
+488,Tốt nghiệp,V,O
+488,Cao đẳng,N,O
+488,trở,V,O
+488,lên,V,O
+488,",",CH,O
+488,không,R,O
+488,yêu cầu,V,O
+488,chuyên ngành,N,O
+488,.,CH,O
+489,Ưu tiên,V,O
+489,các,L,O
+489,bạn,N,O
+489,Nữ,Np,O
+490,Có,V,O
+490,trên,E,O
+490,\,N,O
+490,xa01,M,O
+490,năm,N,O
+490,kinh nghiệm,N,B-Skill
+490,tư vấn,V,I-Skill
+490,",",CH,O
+490,bán,V,B-Skill
+490,hàng,N,I-Skill
+490,",",CH,O
+490,chăm sóc,V,B-Skill
+490,khách hàng,N,I-Skill
+490,",",CH,O
+490,...,CH,O
+491,Có,V,O
+491,kinh nghiệm,N,B-Skill
+491,dẫn dắt,V,I-Skill
+491,đội,N,I-Skill
+491,nhóm,N,I-Skill
+492,Có,V,O
+492,khả năng,N,B-Skill
+492,làm việc,V,I-Skill
+492,độc lập,A,I-Skill
+492,và,C,I-Skill
+492,làm việc,V,I-Skill
+492,nhóm,N,I-Skill
+492,tốt,A,I-Skill
+492,.,CH,O
+493,Có,V,O
+493,kỹ năng,N,B-Skill
+493,giao tiếp,V,I-Skill
+493,",",CH,O
+493,đàm phán,V,B-Skill
+493,tốt,A,I-Skill
+494,Năng động,N,B-Skill
+494,",",CH,O
+494,nhiệt tình,N,B-Skill
+494,",",CH,O
+494,chủ động,N,B-Skill
+494,",",CH,O
+494,sáng tạo,V,B-Skill
+494,trong,E,O
+494,công việc,N,O
+495,Có,V,O
+495,kỹ năng,N,B-Skill
+495,đàm phán,N,I-Skill
+495,",",CH,O
+495,tư duy,N,B-Skill
+495,",",CH,O
+495,xử lý,V,B-Skill
+495,vấn đề,N,I-Skill
+495,.,CH,O
+496,Mức,N,O
+496,lương,N,O
+496,thỏa thuận,V,O
+496,theo,V,O
+496,năng lực,N,O
+497,Xét,V,O
+497,tăng,V,O
+497,lương,N,O
+497,2,M,O
+497,lần,N,O
+497,/,CH,O
+497,năm,N,O
+497,.,CH,O
+498,Được,V,O
+498,đóng BH,V,O
+498,đầy đủ,A,O
+498,sau,N,O
+498,2,M,O
+498,tháng,N,O
+498,thử,V,O
+498,việc,N,O
+498,.,CH,O
+499,Được,V,O
+499,làm việc,V,O
+499,trong,E,O
+499,môi trường,N,O
+499,tiếng,N,O
+499,Anh,Np,O
+499,năng động,A,O
+499,",",CH,O
+499,chuyên nghiệp,A,O
+500,Được,V,O
+500,tham gia,V,O
+500,các,L,O
+500,chương trình,N,O
+500,teambuilding,V,O
+500,",",CH,O
+500,du lịch,V,O
+500,",",CH,O
+500,nghỉ mát,M,O
+501,Được,V,O
+501,thưởng nhân,V,O
+501,các,L,O
+501,ngày,N,O
+501,lễ,N,O
+501,",",CH,O
+501,tết,N,O
+501,và,C,O
+501,các,L,O
+501,sự kiện,N,O
+501,đặc biệt,A,O
+501,của,E,O
+501,Ocean Edu,Np,O
+501,.,CH,O
+502,Các,L,O
+502,chế độ,N,O
+502,đãi ngộ,N,O
+502,khác,A,O
+502,theo,V,O
+502,quy định,N,O
+502,.,CH,O
+503,Bộ phận,N,O
+503,tuyển dụng,V,O
+503,:,CH,O
+503,\,N,O
+503,xa00904543691,M,O
+504,Tốt nghiệp,V,O
+504,Cao đẳng,N,O
+504,trở,V,O
+504,lên,V,O
+504,",",CH,O
+504,không,R,O
+504,yêu cầu,V,O
+504,chuyên ngành,N,O
+504,.,CH,O
+505,Độ,N,O
+505,tuổi,N,O
+505,21,M,O
+505,-,CH,O
+505,35,M,O
+506,Có,V,O
+506,kỹ năng,N,O
+506,giao tiếp,V,O
+506,tốt,A,O
+506,",",CH,O
+506,thuyết phục,V,O
+506,.,CH,O
+506,Không,R,O
+506,nói,V,O
+506,ngọng,M,O
+507,Có,V,O
+507,kỹ năng,N,O
+507,tư duy,N,O
+507,",",CH,O
+507,xử lý,V,O
+507,vấn đề,N,O
+507,tốt,A,O
+508,Có,V,O
+508,khả năng,N,B-Skill
+508,làm việc,V,I-Skill
+508,độc lập,A,I-Skill
+508,và,C,I-Skill
+508,làm việc,V,I-Skill
+508,nhóm,N,I-Skill
+508,tốt,A,I-Skill
+508,.,CH,O
+509,Ưu tiên,V,O
+509,các,L,O
+509,bạn,N,O
+509,đã,R,O
+509,có,V,O
+509,kinh nghiệm,N,B-Skill
+509,kinh doanh,V,I-Skill
+509,",",CH,O
+509,tư vấn,V,B-Skill
+509,",",CH,O
+509,bán,V,B-Skill
+509,hàng,N,I-Skill
+509,",",CH,O
+509,chăm sóc,V,B-Skill
+509,khách hàng,N,I-Skill
+509,",",CH,O
+509,...,CH,O
+510,Mức,N,O
+510,lương,N,O
+510,12,M,O
+510,-,CH,O
+510,13,M,O
+510,triệu,M,O
+510,/,CH,O
+510,tháng,N,O
+510,+,V,O
+510,thưởng,V,O
+510,.,CH,O
+511,Xét,V,O
+511,tăng,V,O
+511,lương,N,O
+511,2,M,O
+511,lần,N,O
+511,/,CH,O
+511,năm,N,O
+511,.,CH,O
+512,Được,V,O
+512,đóng,V,O
+512,BH,Np,O
+512,sau,N,O
+512,2,M,O
+512,tháng,N,O
+512,thử,V,O
+512,việc,N,O
+512,.,CH,O
+513,Lộ trình,N,O
+513,thăng tiến,V,O
+513,luôn,R,O
+513,rộng mở,A,O
+513,.,CH,O
+514,Được,V,O
+514,tham gia,V,O
+514,các,L,O
+514,chương trình,N,O
+514,teambuilding,V,O
+514,",",CH,O
+514,du lịch,V,O
+514,",",CH,O
+514,nghỉ mát,M,O
+515,Được,V,O
+515,thưởng nhân,V,O
+515,các,L,O
+515,ngày,N,O
+515,lễ,N,O
+515,",",CH,O
+515,tết,N,O
+515,và,C,O
+515,các,L,O
+515,sự kiện,N,O
+515,đặc biệt,A,O
+515,của,E,O
+515,Ocean Edu,Np,O
+515,.,CH,O
+516,Các,L,O
+516,chế độ,N,O
+516,đãi ngộ,N,O
+516,khác,A,O
+516,theo,V,O
+516,quy định,N,O
+516,.,CH,O
+517,Tốt nghiệp,V,O
+517,Đại học,N,O
+517,/,CH,O
+517,Cao đẳng,N,O
+517,chuyên ngành,N,B-Skill
+517,Kinh tế,N,I-Skill
+517,",",CH,O
+517,Tài chính,N,B-Skill
+517,",",CH,O
+517,Ngân hàng,N,B-Skill
+517,",",CH,O
+517,Ngoại thương,N,B-Skill
+517,và,C,O
+517,các,L,O
+517,chuyên ngành,N,O
+517,khác,A,O
+517,có,V,O
+517,liên quan,V,O
+518,Ứng viên,N,O
+518,chưa,R,O
+518,có,V,O
+518,kinh nghiệm,N,O
+518,sẽ,R,O
+518,được,V,O
+518,tham gia,V,O
+518,khóa,V,O
+518,Đào tạo,N,O
+518,dành,V,O
+518,cho,E,O
+518,CBNV,Np,O
+518,chuyên nghiệp,A,O
+518,",",CH,O
+518,bài bản,M,O
+519,Ưu tiên,N,O
+519,ứng viên,V,O
+519,có,V,O
+519,trên,N,O
+519,6,M,O
+519,tháng,N,O
+519,kinh nghiệm,N,B-Skill
+519,NGÂN HÀNG,Np,I-Skill
+519,",",CH,I-Skill
+519,Sales,Np,I-Skill
+519,",",CH,I-Skill
+519,tư vấn,V,I-Skill
+519,Bảo hiểm,N,I-Skill
+519,",",CH,I-Skill
+519,Bất động sản,N,I-Skill
+519,",",CH,I-Skill
+519,Tài chính,N,I-Skill
+519,",",CH,I-Skill
+519,..,N,I-Skill
+519,chăm sóc,V,I-Skill
+519,khách hàng,N,I-Skill
+519,.,CH,O
+520,Chỉ,R,O
+520,phỏng vấn,V,O
+520,1,M,O
+520,lần,N,O
+520,duy nhất,A,O
+520,",",CH,O
+520,thông báo,V,O
+520,kết quả,N,O
+520,nhanh chóng,A,O
+520,đến,E,O
+520,các,L,O
+520,ứng viên,N,O
+521,Chính sách,N,O
+521,lương thưởng,N,O
+521,HẤP DẪN,Np,O
+521,",",CH,O
+521,hoa hồng,N,O
+521,CAO,Np,O
+521,",",CH,O
+521,KHÔNG,R,O
+521,GIỚI HẠN,Np,O
+521,thu nhập,N,O
+522,Vinh danh,N,O
+522,&,CH,O
+522,thưởng,V,O
+522,nóng,A,O
+522,cho,E,O
+522,CBNV,Np,O
+522,xuất sắc,A,O
+523,Gói,V,O
+523,chế độ,N,O
+523,phúc lợi,N,O
+523,hấp dẫn,V,O
+523,và,C,O
+523,độc đáo,A,O
+523,cho,E,O
+523,CBNV,Np,O
+523,như,C,O
+523,:,CH,O
+523,Bảo hiểm,V,O
+523,sức,N,O
+523,khỏe,V,O
+523,VietABank Care,Np,O
+523,dành,V,O
+523,cho,E,O
+523,CBNV,Np,O
+523,và,C,O
+523,người thân,N,O
+523,",",CH,O
+523,nghỉ hưởng,V,O
+523,nguyên,R,O
+523,lương,N,O
+523,ngày,N,O
+523,sinh nhật,M,O
+523,bản thân,N,O
+523,",",CH,O
+523,...,CH,O
+524,Cơ hội,N,O
+524,thăng tiến,V,O
+524,vượt bậc,V,O
+524,với,E,O
+524,Chương trình,N,O
+524,Cán bộ,N,O
+524,Nguồn,Np,O
+524,“,CH,O
+524,VietABank NextGen,Np,O
+524,”,CH,O
+525,Được,V,O
+525,tham gia,V,O
+525,các,L,O
+525,khóa,N,O
+525,đào tạo,V,O
+525,nâng,V,O
+525,cao,A,O
+525,nghiệp vụ,N,O
+525,tại,E,O
+525,VAB,Np,O
+525,và,C,O
+525,bên,N,O
+525,ngoài,N,O
+525,bởi,E,O
+525,đội ngũ,N,O
+525,chuyên gia,N,O
+525,giàu,A,O
+525,kinh nghiệm,N,O
+526,Tốt nghiệp,V,O
+526,Cao đẳng,N,O
+526,trở,V,O
+526,lên,V,O
+526,",",CH,O
+526,không,R,O
+526,yêu cầu,V,O
+526,chuyên ngành,N,O
+526,.,CH,O
+527,Ưu tiên,V,O
+527,các,L,O
+527,bạn,N,O
+527,Nữ,Np,O
+528,Có,V,O
+528,trên,E,O
+528,\,N,O
+528,xa01,M,O
+528,năm,N,O
+528,kinh nghiệm,N,B-Skill
+528,tư vấn,V,I-Skill
+528,",",CH,I-Skill
+528,bán,V,I-Skill
+528,hàng,N,I-Skill
+528,",",CH,I-Skill
+528,chăm sóc,V,I-Skill
+528,khách hàng,N,I-Skill
+528,",",CH,O
+528,...,CH,O
+529,Có,V,O
+529,kinh nghiệm,N,B-Skill
+529,dẫn dắt,V,I-Skill
+529,đội,N,I-Skill
+529,nhóm,N,I-Skill
+530,Có,V,O
+530,khả năng,N,B-Skill
+530,làm việc,V,I-Skill
+530,độc lập,A,I-Skill
+530,và,C,I-Skill
+530,làm việc,V,I-Skill
+530,nhóm,N,I-Skill
+530,tốt,A,I-Skill
+530,.,CH,O
+531,Có,V,O
+531,kỹ năng,N,B-Skill
+531,giao tiếp,V,I-Skill
+531,",",CH,O
+531,đàm phán,V,B-Skill
+531,tốt,A,I-Skill
+532,Năng động,N,B-Skill
+532,",",CH,O
+532,nhiệt tình,N,B-Skill
+532,",",CH,O
+532,chủ động,N,B-Skill
+532,",",CH,O
+532,sáng tạo,V,B-Skill
+532,trong,E,I-Skill
+532,công việc,N,I-Skill
+533,Có,V,O
+533,kỹ năng,N,B-Skill
+533,đàm phán,N,I-Skill
+533,",",CH,O
+533,tư duy,N,B-Skill
+533,",",CH,O
+533,xử lý,V,B-Skill
+533,vấn đề,N,I-Skill
+533,.,CH,O
+534,Mức,N,O
+534,lương,N,O
+534,thỏa thuận,V,O
+534,theo,V,O
+534,năng lực,N,O
+535,Xét,V,O
+535,tăng,V,O
+535,lương,N,O
+535,2,M,O
+535,lần,N,O
+535,/,CH,O
+535,năm,N,O
+535,.,CH,O
+536,Được,V,O
+536,đóng BH,V,O
+536,đầy đủ,A,O
+536,sau,N,O
+536,2,M,O
+536,tháng,N,O
+536,thử,V,O
+536,việc,N,O
+536,.,CH,O
+537,Được,V,O
+537,làm việc,V,O
+537,trong,E,O
+537,môi trường,N,O
+537,tiếng,N,O
+537,Anh,Np,O
+537,năng động,A,O
+537,",",CH,O
+537,chuyên nghiệp,A,O
+538,Được,V,O
+538,tham gia,V,O
+538,các,L,O
+538,chương trình,N,O
+538,teambuilding,V,O
+538,",",CH,O
+538,du lịch,V,O
+538,",",CH,O
+538,nghỉ mát,M,O
+539,Được,V,O
+539,thưởng nhân,V,O
+539,các,L,O
+539,ngày,N,O
+539,lễ,N,O
+539,",",CH,O
+539,tết,N,O
+539,và,C,O
+539,các,L,O
+539,sự kiện,N,O
+539,đặc biệt,A,O
+539,của,E,O
+539,Ocean Edu,Np,O
+539,.,CH,O
+540,Các,L,O
+540,chế độ,N,O
+540,đãi ngộ,N,O
+540,khác,A,O
+540,theo,V,O
+540,quy định,N,O
+540,.,CH,O
+541,Bộ phận,N,O
+541,tuyển dụng,V,O
+541,:,CH,O
+541,\,N,O
+541,xa00904543691,M,O
+542,Trình độ,N,O
+542,văn hóa,N,O
+542,:,CH,O
+542,Tốt nghiệp,V,O
+542,đại học,N,O
+543,Trình độ,N,O
+543,chuyên môn,N,B-Skill
+543,:,CH,I-Skill
+543,Dược,Np,I-Skill
+544,Kinh nghiệm,N,O
+544,làm việc,V,O
+544,:,CH,O
+544,2-5,N,O
+544,năm,M,O
+544,kinh nghiệm,N,B-Skill
+544,trong,E,I-Skill
+544,việc,N,I-Skill
+544,phát triển,V,I-Skill
+544,Công thức,M,I-Skill
+545,Các,L,O
+545,kỹ năng,N,B-Skill
+545,:,CH,I-Skill
+546,Dược,N,I-Skill
+546,",",CH,I-Skill
+546,Quy chế,N,I-Skill
+546,Dược,Np,I-Skill
+546,",",CH,I-Skill
+546,Tiếng,Np,I-Skill
+546,Anh,Np,I-Skill
+546,",",CH,I-Skill
+546,Máy tính,N,I-Skill
+547,Có,V,O
+547,khả năng,N,B-Skill
+547,sắp xếp,V,I-Skill
+547,công việc,N,I-Skill
+547,hợp lý,A,I-Skill
+547,và,C,I-Skill
+547,khoa học,N,I-Skill
+547,.,CH,O
+548,Có,V,O
+548,\ xa0,N,O
+548,khả năng,N,B-Skill
+548,quản lý,V,I-Skill
+548,và,C,I-Skill
+548,phân tích,V,I-Skill
+548,vấn đề,N,I-Skill
+549,Có,V,O
+549,tư duy,N,B-Skill
+549,phân tích,V,I-Skill
+549,tốt,A,I-Skill
+549,",",CH,I-Skill
+549,linh hoạt,M,I-Skill
+550,Có,V,O
+550,kỹ năng,N,B-Skill
+550,giải quyết,V,I-Skill
+550,vấn đề,N,I-Skill
+551,Giao,V,B-Skill
+551,tiếp,V,I-Skill
+551,tốt,A,I-Skill
+552,Có,V,O
+552,khả năng,N,B-Skill
+552,chịu,V,I-Skill
+552,áp lực,N,I-Skill
+552,công việc,N,I-Skill
+553,Tốt nghiệp,V,O
+553,Cao đẳng,N,O
+553,trở,V,O
+553,lên,V,O
+553,tất cả,P,O
+553,các,L,O
+553,ngành,N,O
+553,.,CH,O
+554,Tối thiểu,N,O
+554,1,M,O
+554,năm,N,O
+554,kinh nghiệm,N,B-Skill
+554,vị trí,N,I-Skill
+554,Chuyên viên,V,I-Skill
+554,Kinh Doanh,Np,I-Skill
+554,cho,V,O
+554,thuê,V,O
+554,văn phòng,N,O
+554,&,CH,O
+554,nhà,N,O
+554,ở,E,O
+554,(,CH,O
+554,đã,R,O
+554,từng,R,O
+554,làm việc,V,O
+554,cho,E,O
+554,các,L,O
+554,đơn vị,N,O
+554,Môi giới,V,O
+554,cho,V,O
+554,thuê,V,O
+554,Văn phòng,N,O
+554,lớn,A,O
+554,là,V,O
+554,một,M,O
+554,lợi thế,N,O
+554,),CH,O
+554,.,CH,O
+555,Kỹ năng,N,B-Skill
+555,giao tiếp,V,I-Skill
+555,và,C,I-Skill
+555,đàm phán,V,I-Skill
+555,tốt,A,I-Skill
+555,.,CH,O
+556,Có,V,O
+556,mục tiêu,N,O
+556,và,C,O
+556,yêu thích,V,O
+556,kinh doanh,V,O
+556,.,CH,O
+557,Thành thạo,N,O
+557,Tiếng,Np,B-Skill
+557,Anh,Np,I-Skill
+557,.,CH,O
+558,Có,V,O
+558,khả năng,N,B-Skill
+558,viết,V,I-Skill
+558,bài,N,I-Skill
+558,đăng,V,I-Skill
+558,tin,N,I-Skill
+558,quảng cáo,V,I-Skill
+558,cho,V,I-Skill
+558,thuê,V,I-Skill
+558,văn phòng,N,I-Skill
+558,trên,E,O
+558,Fanpage mạng,N,O
+558,xã hội,N,O
+558,",",CH,O
+558,quản lý,V,B-Skill
+558,đăng,V,I-Skill
+558,bài,N,I-Skill
+558,trên,E,I-Skill
+558,website,FW,I-Skill
+558,nội bộ,N,I-Skill
+558,.,CH,O
+559,Tốt nghiệp,V,O
+559,Cao đẳng,N,O
+559,trở,V,O
+559,lên,V,O
+559,",",CH,O
+559,không,R,O
+559,yêu cầu,V,O
+559,chuyên ngành,N,O
+559,.,CH,O
+560,Ưu tiên,V,O
+560,các,L,O
+560,bạn,N,O
+560,Nữ,Np,O
+561,Có,V,O
+561,trên,E,O
+561,\,N,O
+561,xa01,M,O
+561,năm,N,O
+561,kinh nghiệm,N,B-Skill
+561,tư vấn,V,I-Skill
+561,",",CH,O
+561,bán,V,B-Skill
+561,hàng,N,I-Skill
+561,",",CH,O
+561,chăm sóc,V,B-Skill
+561,khách hàng,N,I-Skill
+561,",",CH,O
+561,...,CH,O
+562,Có,V,O
+562,kinh nghiệm,N,B-Skill
+562,dẫn dắt,V,I-Skill
+562,đội,N,I-Skill
+562,nhóm,N,I-Skill
+563,Có,V,O
+563,khả năng,N,B-Skill
+563,làm việc,V,I-Skill
+563,độc lập,A,I-Skill
+563,và,C,I-Skill
+563,làm việc,V,I-Skill
+563,nhóm,N,I-Skill
+563,tốt,A,I-Skill
+563,.,CH,O
+564,Có,V,O
+564,kỹ năng,N,B-Skill
+564,giao tiếp,V,I-Skill
+564,",",CH,O
+564,đàm phán,V,B-Skill
+564,tốt,A,I-Skill
+565,Năng động,N,B-Skill
+565,",",CH,O
+565,nhiệt tình,N,B-Skill
+565,",",CH,O
+565,chủ động,N,B-Skill
+565,",",CH,O
+565,sáng tạo,V,B-Skill
+565,trong,E,I-Skill
+565,công việc,N,I-Skill
+566,Có,V,O
+566,kỹ năng,N,B-Skill
+566,đàm phán,N,I-Skill
+566,",",CH,O
+566,tư duy,N,B-Skill
+566,",",CH,O
+566,xử lý,V,B-Skill
+566,vấn đề,N,I-Skill
+566,.,CH,O
+567,Mức,N,O
+567,lương,N,O
+567,thỏa thuận,V,O
+567,theo,V,O
+567,năng lực,N,O
+568,Xét,V,O
+568,tăng,V,O
+568,lương,N,O
+568,2,M,O
+568,lần,N,O
+568,/,CH,O
+568,năm,N,O
+568,.,CH,O
+569,Được,V,O
+569,đóng BH,V,O
+569,đầy đủ,A,O
+569,sau,N,O
+569,2,M,O
+569,tháng,N,O
+569,thử,V,O
+569,việc,N,O
+569,.,CH,O
+570,Được,V,O
+570,làm việc,V,O
+570,trong,E,O
+570,môi trường,N,O
+570,tiếng,N,O
+570,Anh,Np,O
+570,năng động,A,O
+570,",",CH,O
+570,chuyên nghiệp,A,O
+571,Được,V,O
+571,tham gia,V,O
+571,các,L,O
+571,chương trình,N,O
+571,teambuilding,V,O
+571,",",CH,O
+571,du lịch,V,O
+571,",",CH,O
+571,nghỉ mát,M,O
+572,Được,V,O
+572,thưởng nhân,V,O
+572,các,L,O
+572,ngày,N,O
+572,lễ,N,O
+572,",",CH,O
+572,tết,N,O
+572,và,C,O
+572,các,L,O
+572,sự kiện,N,O
+572,đặc biệt,A,O
+572,của,E,O
+572,Ocean Edu,Np,O
+572,.,CH,O
+573,Các,L,O
+573,chế độ,N,O
+573,đãi ngộ,N,O
+573,khác,A,O
+573,theo,V,O
+573,quy định,N,O
+573,.,CH,O
+574,Ms Nguyệt,Np,O
+574,:,CH,O
+574,346417214,M,O
+575,Tốt nghiệp,V,O
+575,Cao đẳng,N,O
+575,trở,V,O
+575,lên,V,O
+575,",",CH,O
+575,không,R,O
+575,yêu cầu,V,O
+575,chuyên ngành,N,O
+575,.,CH,O
+576,Ưu tiên,V,O
+576,các,L,O
+576,bạn,N,O
+576,Nữ,Np,O
+577,Có,V,O
+577,trên,E,O
+577,\,N,O
+577,xa01,M,O
+577,năm,N,O
+577,kinh nghiệm,N,B-Skill
+577,tư vấn,V,I-Skill
+577,",",CH,O
+577,bán,V,B-Skill
+577,hàng,N,I-Skill
+577,",",CH,O
+577,chăm sóc,V,B-Skill
+577,khách hàng,N,I-Skill
+577,",",CH,O
+577,...,CH,O
+578,Có,V,O
+578,kinh nghiệm,N,B-Skill
+578,dẫn dắt,V,I-Skill
+578,đội,N,I-Skill
+578,nhóm,N,I-Skill
+579,Có,V,O
+579,khả năng,N,B-Skill
+579,làm việc,V,I-Skill
+579,độc lập,A,I-Skill
+579,và,C,I-Skill
+579,làm việc,V,I-Skill
+579,nhóm,N,I-Skill
+579,tốt,A,I-Skill
+579,.,CH,O
+580,Có,V,O
+580,kỹ năng,N,B-Skill
+580,giao tiếp,V,I-Skill
+580,",",CH,O
+580,đàm phán,V,B-Skill
+580,tốt,A,I-Skill
+581,Năng động,N,B-Skill
+581,",",CH,O
+581,nhiệt tình,N,B-Skill
+581,",",CH,O
+581,chủ động,N,B-Skill
+581,",",CH,O
+581,sáng tạo,V,B-Skill
+581,trong,E,I-Skill
+581,công việc,N,I-Skill
+582,Có,V,O
+582,kỹ năng,N,B-Skill
+582,đàm phán,N,I-Skill
+582,",",CH,O
+582,tư duy,N,B-Skill
+582,",",CH,O
+582,xử lý,V,B-Skill
+582,vấn đề,N,I-Skill
+582,.,CH,O
+583,Mức,N,O
+583,lương,N,O
+583,thỏa thuận,V,O
+583,theo,V,O
+583,năng lực,N,O
+584,Xét,V,O
+584,tăng,V,O
+584,lương,N,O
+584,2,M,O
+584,lần,N,O
+584,/,CH,O
+584,năm,N,O
+584,.,CH,O
+585,Được,V,O
+585,đóng BH,V,O
+585,đầy đủ,A,O
+585,sau,N,O
+585,2,M,O
+585,tháng,N,O
+585,thử,V,O
+585,việc,N,O
+585,.,CH,O
+586,Được,V,O
+586,làm việc,V,O
+586,trong,E,O
+586,môi trường,N,O
+586,tiếng,N,O
+586,Anh,Np,O
+586,năng động,A,O
+586,",",CH,O
+586,chuyên nghiệp,A,O
+587,Được,V,O
+587,tham gia,V,O
+587,các,L,O
+587,chương trình,N,O
+587,teambuilding,V,O
+587,",",CH,O
+587,du lịch,V,O
+587,",",CH,O
+587,nghỉ mát,M,O
+588,Được,V,O
+588,thưởng nhân,V,O
+588,các,L,O
+588,ngày,N,O
+588,lễ,N,O
+588,",",CH,O
+588,tết,N,O
+588,và,C,O
+588,các,L,O
+588,sự kiện,N,O
+588,đặc biệt,A,O
+588,của,E,O
+588,Ocean Edu,Np,O
+588,.,CH,O
+589,Các,L,O
+589,chế độ,N,O
+589,đãi ngộ,N,O
+589,khác,A,O
+589,theo,V,O
+589,quy định,N,O
+589,.,CH,O
+590,Bộ phận,N,O
+590,tuyển dụng,V,O
+590,:,CH,O
+590,\,N,O
+590,xa00904543691,M,O
+591,Tốt nghiệp,V,O
+591,đại học,N,O
+591,trở,V,O
+591,lên,V,O
+591,chuyên ngành,N,B-Skill
+591,Sư Phạm Tiểu Học,Np,I-Skill
+591,.,CH,O
+592,Các,L,O
+592,chứng chỉ,N,B-Skill
+592,giảng dạy,V,I-Skill
+592,và,C,I-Skill
+592,ngoại ngữ,N,I-Skill
+592,liên quan,V,O
+592,),CH,O
+593,Tối thiểu,N,O
+593,5,M,O
+593,năm,N,O
+593,kinh nghiệm,N,B-Skill
+593,giảng dạy,V,I-Skill
+593,cấp độ,V,I-Skill
+593,tiểu học,N,I-Skill
+593,",",CH,O
+593,trong,E,O
+593,đó,P,O
+593,2,M,O
+593,năm,N,O
+593,giữ,V,O
+593,chức vụ,N,B-Skill
+593,giáo viên,N,I-Skill
+593,chủ nhiệm,N,I-Skill
+593,.,CH,O
+594,Ưu tiên,N,O
+594,ứng viên,V,O
+594,có,V,O
+594,kinh nghiệm,N,B-Skill
+594,phát triển,V,I-Skill
+594,chương trình,N,I-Skill
+594,.,CH,O
+595,Ưu tiên,N,O
+595,ứng viên,V,O
+595,có,V,O
+595,kinh nghiệm,N,B-Skill
+595,làm việc,V,I-Skill
+595,cùng,C,I-Skill
+595,các,L,I-Skill
+595,giáo viên,N,I-Skill
+595,nước ngoài,N,I-Skill
+596,Có,V,O
+596,kinh nghiệm,N,B-Skill
+596,làm việc,V,I-Skill
+596,tại,E,I-Skill
+596,các,L,I-Skill
+596,trường,N,I-Skill
+596,quốc tế,N,I-Skill
+596,",",CH,I-Skill
+596,song ngữ,N,I-Skill
+596,là,V,O
+596,một,M,O
+596,lợi thế,N,O
+597,Ưu tiên,N,O
+597,ứng viên,V,O
+597,có,V,O
+597,khả năng,N,B-Skill
+597,giao tiếp,V,I-Skill
+597,tiếng,N,I-Skill
+597,anh,Nc,I-Skill
+597,tốt,A,I-Skill
+597,.,CH,O
+598,Khả năng,N,B-Skill
+598,thiết kế,V,I-Skill
+598,các,L,I-Skill
+598,bài,N,I-Skill
+598,giảng,N,O
+598,khác,A,O
+598,nhau,N,O
+598,để,E,O
+598,phù hợp,V,O
+598,với,E,O
+598,khả năng,N,O
+598,học tập,V,O
+598,của,E,O
+598,từng,P,O
+598,học sinh,N,O
+599,Hiểu,V,O
+599,và,C,O
+599,nắm,V,O
+599,rõ,A,O
+599,kiến thức,N,B-Skill
+599,về,E,I-Skill
+599,các,L,I-Skill
+599,chương trình,N,I-Skill
+599,giáo dục,V,I-Skill
+599,hiện đại,A,I-Skill
+599,và,C,I-Skill
+599,cách thức,N,I-Skill
+599,triển khai,V,I-Skill
+600,Có,V,O
+600,kỹ năng,N,B-Skill
+600,ứng biến,N,I-Skill
+600,và,C,O
+600,xử lý,V,B-Skill
+600,tình huống,N,I-Skill
+601,Kỹ năng,N,B-Skill
+601,giao tiếp,V,I-Skill
+601,và,C,O
+601,thuyết trình,V,B-Skill
+601,tốt,A,I-Skill
+602,Yêu,V,O
+602,trẻ,A,O
+602,và,C,O
+602,đam mê,V,O
+602,với,E,O
+602,nghề,N,O
+603,Có,V,O
+603,tinh thần,N,B-Skill
+603,trách nhiệm,N,I-Skill
+603,cao,A,I-Skill
+603,trong,E,O
+603,công việc,N,O
+604,Thái độ,N,B-Skill
+604,cầu,N,I-Skill
+604,tiến,V,I-Skill
+604,",",CH,O
+604,ham,V,B-Skill
+604,học hỏi,V,I-Skill
+604,",",CH,O
+604,giúp đỡ,V,B-Skill
+604,và,C,I-Skill
+604,hỗ trợ,V,I-Skill
+604,đồng nghiệp,N,I-Skill
+605,Tốt nghiệp,V,O
+605,Cao đẳng,N,O
+605,trở,V,O
+605,lên,V,O
+605,",",CH,O
+605,không,R,O
+605,yêu cầu,V,O
+605,chuyên ngành,N,O
+605,.,CH,O
+606,Độ,N,O
+606,tuổi,N,O
+606,21,M,O
+606,-,CH,O
+606,35,M,O
+607,Có,V,O
+607,kỹ năng,N,B-Skill
+607,giao tiếp,V,I-Skill
+607,tốt,A,I-Skill
+607,",",CH,I-Skill
+607,thuyết phục,V,I-Skill
+607,.,CH,O
+607,Không,R,O
+607,nói,V,O
+607,ngọng,M,O
+608,Có,V,O
+608,kỹ năng,N,B-Skill
+608,tư duy,N,I-Skill
+608,",",CH,I-Skill
+608,xử lý,V,I-Skill
+608,vấn đề,N,I-Skill
+608,tốt,A,I-Skill
+609,Có,V,O
+609,khả năng,N,B-Skill
+609,làm việc,V,I-Skill
+609,độc lập,A,I-Skill
+609,và,C,I-Skill
+609,làm việc,V,I-Skill
+609,nhóm,N,I-Skill
+609,tốt,A,I-Skill
+609,.,CH,O
+610,Ưu tiên,V,O
+610,các,L,O
+610,bạn,N,O
+610,đã,R,O
+610,có,V,O
+610,kinh nghiệm,N,B-Skill
+610,kinh doanh,V,I-Skill
+610,",",CH,I-Skill
+610,tư vấn,V,I-Skill
+610,",",CH,I-Skill
+610,bán,V,I-Skill
+610,hàng,N,I-Skill
+610,",",CH,I-Skill
+610,chăm sóc,V,I-Skill
+610,khách hàng,N,I-Skill
+610,",",CH,O
+610,...,CH,O
+611,Mức,N,O
+611,lương,N,O
+611,12,M,O
+611,-,CH,O
+611,13,M,O
+611,triệu,M,O
+611,/,CH,O
+611,tháng,N,O
+611,+,V,O
+611,thưởng,V,O
+611,.,CH,O
+612,Xét,V,O
+612,tăng,V,O
+612,lương,N,O
+612,2,M,O
+612,lần,N,O
+612,/,CH,O
+612,năm,N,O
+612,.,CH,O
+613,Được,V,O
+613,đóng,V,O
+613,BH,Np,O
+613,sau,N,O
+613,2,M,O
+613,tháng,N,O
+613,thử,V,O
+613,việc,N,O
+613,.,CH,O
+614,Lộ trình,N,O
+614,thăng tiến,V,O
+614,luôn,R,O
+614,rộng mở,A,O
+614,.,CH,O
+615,Được,V,O
+615,tham gia,V,O
+615,các,L,O
+615,chương trình,N,O
+615,teambuilding,V,O
+615,",",CH,O
+615,du lịch,V,O
+615,",",CH,O
+615,nghỉ mát,M,O
+616,Được,V,O
+616,thưởng nhân,V,O
+616,các,L,O
+616,ngày,N,O
+616,lễ,N,O
+616,",",CH,O
+616,tết,N,O
+616,và,C,O
+616,các,L,O
+616,sự kiện,N,O
+616,đặc biệt,A,O
+616,của,E,O
+616,Ocean Edu,Np,O
+616,.,CH,O
+617,Các,L,O
+617,chế độ,N,O
+617,đãi ngộ,N,O
+617,khác,A,O
+617,theo,V,O
+617,quy định,N,O
+617,.,CH,O
+618,Tốt nghiệp,V,O
+618,Cao đẳng,N,O
+618,trở,V,O
+618,lên,V,O
+618,",",CH,O
+618,không,R,O
+618,yêu cầu,V,O
+618,chuyên ngành,N,O
+618,.,CH,O
+619,Ưu tiên,V,O
+619,các,L,O
+619,bạn,N,O
+619,Nữ,Np,O
+620,Có,V,O
+620,trên,E,O
+620,\,N,O
+620,xa01,M,O
+620,năm,N,O
+620,kinh nghiệm,N,B-Skill
+620,tư vấn,V,I-Skill
+620,",",CH,I-Skill
+620,bán,V,I-Skill
+620,hàng,N,I-Skill
+620,",",CH,I-Skill
+620,chăm sóc,V,I-Skill
+620,khách hàng,N,I-Skill
+620,",",CH,O
+620,...,CH,O
+621,Có,V,O
+621,kinh nghiệm,N,B-Skill
+621,dẫn dắt,V,I-Skill
+621,đội,N,I-Skill
+621,nhóm,N,I-Skill
+622,Có,V,O
+622,khả năng,N,B-Skill
+622,làm việc,V,I-Skill
+622,độc lập,A,I-Skill
+622,và,C,I-Skill
+622,làm việc,V,I-Skill
+622,nhóm,N,I-Skill
+622,tốt,A,I-Skill
+622,.,CH,O
+623,Có,V,O
+623,kỹ năng,N,B-Skill
+623,giao tiếp,V,I-Skill
+623,",",CH,I-Skill
+623,đàm phán,V,I-Skill
+623,tốt,A,I-Skill
+624,Năng động,N,B-Skill
+624,",",CH,O
+624,nhiệt tình,N,B-Skill
+624,",",CH,O
+624,chủ động,N,B-Skill
+624,",",CH,O
+624,sáng tạo,V,B-Skill
+624,trong,E,I-Skill
+624,công việc,N,I-Skill
+625,Có,V,O
+625,kỹ năng,N,B-Skill
+625,đàm phán,N,I-Skill
+625,",",CH,O
+625,tư duy,N,B-Skill
+625,",",CH,O
+625,xử lý,V,B-Skill
+625,vấn đề,N,I-Skill
+625,.,CH,O
+626,Mức,N,O
+626,lương,N,O
+626,thỏa thuận,V,O
+626,theo,V,O
+626,năng lực,N,O
+627,Xét,V,O
+627,tăng,V,O
+627,lương,N,O
+627,2,M,O
+627,lần,N,O
+627,/,CH,O
+627,năm,N,O
+627,.,CH,O
+628,Được,V,O
+628,đóng BH,V,O
+628,đầy đủ,A,O
+628,sau,N,O
+628,2,M,O
+628,tháng,N,O
+628,thử,V,O
+628,việc,N,O
+628,.,CH,O
+629,Được,V,O
+629,làm việc,V,O
+629,trong,E,O
+629,môi trường,N,O
+629,tiếng,N,O
+629,Anh,Np,O
+629,năng động,A,O
+629,",",CH,O
+629,chuyên nghiệp,A,O
+630,Được,V,O
+630,tham gia,V,O
+630,các,L,O
+630,chương trình,N,O
+630,teambuilding,V,O
+630,",",CH,O
+630,du lịch,V,O
+630,",",CH,O
+630,nghỉ mát,M,O
+631,Được,V,O
+631,thưởng nhân,V,O
+631,các,L,O
+631,ngày,N,O
+631,lễ,N,O
+631,",",CH,O
+631,tết,N,O
+631,và,C,O
+631,các,L,O
+631,sự kiện,N,O
+631,đặc biệt,A,O
+631,của,E,O
+631,Ocean Edu,Np,O
+631,.,CH,O
+632,Các,L,O
+632,chế độ,N,O
+632,đãi ngộ,N,O
+632,khác,A,O
+632,theo,V,O
+632,quy định,N,O
+632,.,CH,O
+633,Ms Nguyệt,Np,O
+633,:,CH,O
+633,346417214,M,O
+634,Tốt nghiệp,V,O
+634,Đại học,N,O
+634,chuyên ngành,N,O
+634,đào tạo,V,O
+634,:,CH,O
+634,Công nghệ Thông tin,N,O
+634,",",CH,O
+634,Toán,Np,O
+634,tin,V,O
+634,ứng dụng,N,O
+634,",",CH,O
+634,hoặc,C,O
+634,các,L,O
+634,chuyên ngành,N,O
+634,liên quan,V,O
+634,.,CH,O
+635,Có,V,O
+635,tối thiểu,N,O
+635,5,M,O
+635,năm,N,O
+635,kinh nghiệm,N,B-Skill
+635,về,V,I-Skill
+635,triển khai,V,I-Skill
+635,các,L,I-Skill
+635,dự án,N,I-Skill
+635,phần mềm,N,I-Skill
+635,Chứng khoán,V,I-Skill
+635,.,CH,O
+636,Có,V,O
+636,khả năng,N,B-Skill
+636,lập trình,V,I-Skill
+636,tốt,A,I-Skill
+636,và,C,O
+636,thành thạo,V,B-Skill
+636,:,CH,I-Skill
+636,Vue JS,Np,I-Skill
+636,",",CH,I-Skill
+636,Java,Np,I-Skill
+636,",",CH,I-Skill
+636,Node JSAPIM,Np,I-Skill
+636,operating,V,I-Skill
+636,experienceRest API,N,I-Skill
+636,",",CH,O
+636,In,Np,O
+636,App Browsing,Np,O
+636,",",CH,O
+636,oAuth,V,O
+636,2,N,O
+636,Maria DB,Np,O
+636,",",CH,O
+636,tibero,M,O
+641,Khả năng,N,B-Skill
+641,tìm hiểu,V,I-Skill
+641,nghiệp vụ,N,I-Skill
+641,tốt,A,I-Skill
+641,",",CH,O
+641,tiếp thu,V,B-Skill
+641,nhanh,A,I-Skill
+641,",",CH,O
+641,sáng tạo,V,B-Skill
+641,",",CH,O
+641,tư duy,N,B-Skill
+641,logic,V,I-Skill
+641,tốt,A,I-Skill
+641,.,CH,O
+642,Có,V,O
+642,tinh thần,N,B-Skill
+642,học hỏi,V,I-Skill
+642,và,C,I-Skill
+642,cầu tiến,V,I-Skill
+642,trong,E,I-Skill
+642,công việc,N,I-Skill
+642,",",CH,O
+642,nâng,V,O
+642,cao,A,O
+642,kỹ năng,N,O
+642,chuyên môn,N,O
+642,.,CH,O
+643,Ưu tiên,N,O
+643,ứng viên,V,O
+643,có,V,O
+643,khả năng,N,B-Skill
+643,giao tiếp,V,I-Skill
+643,bằng,E,I-Skill
+643,Tiếng,N,I-Skill
+643,Anh,Np,I-Skill
+643,",",CH,O
+643,Tiếng,N,B-Skill
+643,Hàn,Np,I-Skill
+643,.,CH,O
+644,Tốt nghiệp,V,O
+644,Đại học,N,O
+644,/,CH,O
+644,Cao đẳng,N,O
+644,chuyên ngành,N,B-Skill
+644,Kinh tế,N,I-Skill
+644,",",CH,I-Skill
+644,Tài chính,N,I-Skill
+644,",",CH,I-Skill
+644,Ngân hàng,N,I-Skill
+644,",",CH,I-Skill
+644,Ngoại thương,N,I-Skill
+644,và,C,O
+644,các,L,O
+644,chuyên ngành,N,O
+644,khác,A,O
+644,có,V,O
+644,liên quan,V,O
+645,Có,V,O
+645,kinh nghiệm,N,B-Skill
+645,về,V,I-Skill
+645,mảng,V,I-Skill
+645,Khách hàng,N,I-Skill
+645,Cá nhân,N,I-Skill
+645,hoặc,C,I-Skill
+645,Tín dụng,M,I-Skill
+646,Có,V,O
+646,kiến thức,N,O
+646,liên quan,V,O
+646,\ xa0mảng,N,O
+646,KHDN,Np,O
+647,Có,V,O
+647,kinh nghiệm,N,B-Skill
+647,kinh doanh,V,I-Skill
+647,KHDN,Np,I-Skill
+647,trong,E,I-Skill
+647,lĩnh vực,N,I-Skill
+647,Tài chính,N,I-Skill
+647,ngân hàng,N,I-Skill
+648,Sử dụng,V,B-Skill
+648,thành thạo,N,I-Skill
+648,\ xa0các,V,I-Skill
+648,phần mềm,N,I-Skill
+648,tin học,N,I-Skill
+648,văn phòng,N,I-Skill
+649,Chỉ,R,O
+649,phỏng vấn,V,O
+649,1,M,O
+649,lần,N,O
+649,duy nhất,A,O
+649,",",CH,O
+649,thông báo,V,O
+649,kết quả,N,O
+649,nhanh chóng,A,O
+649,đến,E,O
+649,các,L,O
+649,ứng viên,N,O
+650,Chuyên viên,N,O
+650,Quan hệ,V,O
+650,khách hàng,N,O
+650,Doanh Nghiệp,Np,O
+650,sẽ,R,O
+650,được,V,O
+650,tham gia,V,O
+650,khóa,V,O
+650,Đào tạo,N,O
+650,chuyên nghiệp,A,O
+651,Chính sách,N,O
+651,lương thưởng,N,O
+651,HẤP DẪN,Np,O
+651,",",CH,O
+651,hoa hồng,N,O
+651,CAO,Np,O
+651,",",CH,O
+651,KHÔNG,R,O
+651,GIỚI HẠN,Np,O
+651,thu nhập,N,O
+652,Vinh danh,N,O
+652,&,CH,O
+652,thưởng,V,O
+652,nóng,A,O
+652,cho,E,O
+652,CBNV,Np,O
+652,xuất sắc,A,O
+653,Gói,V,O
+653,chế độ,N,O
+653,phúc lợi,N,O
+653,hấp dẫn,V,O
+653,và,C,O
+653,độc đáo,A,O
+653,cho,E,O
+653,CBNV,Np,O
+653,như,C,O
+653,:,CH,O
+653,Bảo hiểm,V,O
+653,sức,N,O
+653,khỏe,V,O
+653,VietABank Care,Np,O
+653,dành,V,O
+653,cho,E,O
+653,CBNV,Np,O
+653,và,C,O
+653,người thân,N,O
+653,",",CH,O
+653,nghỉ hưởng,V,O
+653,nguyên,R,O
+653,lương,N,O
+653,ngày,N,O
+653,sinh nhật,M,O
+653,bản thân,N,O
+653,",",CH,O
+653,...,CH,O
+654,Cơ hội,N,O
+654,thăng tiến,V,O
+654,vượt bậc,V,O
+654,với,E,O
+654,Chương trình,N,O
+654,Cán bộ,N,O
+654,Nguồn,Np,O
+654,“,CH,O
+654,VietABank NextGen,Np,O
+654,”,CH,O
+655,Được,V,O
+655,tham gia,V,O
+655,các,L,O
+655,khóa,N,O
+655,đào tạo,V,O
+655,nâng,V,O
+655,cao,A,O
+655,nghiệp vụ,N,O
+655,tại,E,O
+655,VAB,Np,O
+655,và,C,O
+655,bên,N,O
+655,ngoài,N,O
+655,bởi,E,O
+655,đội ngũ,N,O
+655,chuyên gia,N,O
+655,giàu,A,O
+655,kinh nghiệm,N,O
+656,Nhanh nhẹn,M,B-Skill
+657,Sức,N,B-Skill
+657,khỏe,V,I-Skill
+657,tốt,A,I-Skill
+658,Thái độ,N,B-Skill
+658,tích cực,A,I-Skill
+658,",",CH,O
+658,trung thực,A,B-Skill
+658,",",CH,O
+658,hòa,M,B-Skill
+658,đồng,Nu,I-Skill
+658,",",CH,O
+658,thân thiện,N,B-Skill
+658,vui vẻ,A,I-Skill
+659,Tinh thần,N,B-Skill
+659,trách nhiệm,N,I-Skill
+659,cao,A,I-Skill
+660,Tốt nghiệp,V,O
+660,Cao đẳng,N,O
+660,trở,V,O
+660,lên,V,O
+660,",",CH,O
+660,không,R,O
+660,yêu cầu,V,O
+660,chuyên ngành,N,O
+660,.,CH,O
+661,Ưu tiên,V,O
+661,các,L,O
+661,bạn,N,O
+661,Nữ,Np,O
+662,Có,V,O
+662,trên,E,O
+662,\,N,O
+662,xa01,M,O
+662,năm,N,O
+662,kinh nghiệm,N,B-Skill
+662,tư vấn,V,I-Skill
+662,",",CH,I-Skill
+662,bán,V,I-Skill
+662,hàng,N,I-Skill
+662,",",CH,I-Skill
+662,chăm sóc,V,I-Skill
+662,khách hàng,N,I-Skill
+662,",",CH,O
+662,...,CH,O
+663,Có,V,O
+663,kinh nghiệm,N,B-Skill
+663,dẫn dắt,V,I-Skill
+663,đội,N,I-Skill
+663,nhóm,N,I-Skill
+664,Có,V,O
+664,khả năng,N,B-Skill
+664,làm việc,V,I-Skill
+664,độc lập,A,I-Skill
+664,và,C,I-Skill
+664,làm việc,V,I-Skill
+664,nhóm,N,I-Skill
+664,tốt,A,I-Skill
+664,.,CH,O
+665,Có,V,O
+665,kỹ năng,N,B-Skill
+665,giao tiếp,V,I-Skill
+665,",",CH,O
+665,đàm phán,V,B-Skill
+665,tốt,A,I-Skill
+666,Năng động,N,B-Skill
+666,",",CH,O
+666,nhiệt tình,N,B-Skill
+666,",",CH,O
+666,chủ động,N,B-Skill
+666,",",CH,O
+666,sáng tạo,V,B-Skill
+666,trong,E,I-Skill
+666,công việc,N,I-Skill
+667,Có,V,O
+667,kỹ năng,N,B-Skill
+667,đàm phán,N,I-Skill
+667,",",CH,O
+667,tư duy,N,B-Skill
+667,",",CH,O
+667,xử lý,V,B-Skill
+667,vấn đề,N,I-Skill
+667,.,CH,O
+668,Mức,N,O
+668,lương,N,O
+668,thỏa thuận,V,O
+668,theo,V,O
+668,năng lực,N,O
+669,Xét,V,O
+669,tăng,V,O
+669,lương,N,O
+669,2,M,O
+669,lần,N,O
+669,/,CH,O
+669,năm,N,O
+669,.,CH,O
+670,Được,V,O
+670,đóng BH,V,O
+670,đầy đủ,A,O
+670,sau,N,O
+670,2,M,O
+670,tháng,N,O
+670,thử,V,O
+670,việc,N,O
+670,.,CH,O
+671,Được,V,O
+671,làm việc,V,O
+671,trong,E,O
+671,môi trường,N,O
+671,tiếng,N,O
+671,Anh,Np,O
+671,năng động,A,O
+671,",",CH,O
+671,chuyên nghiệp,A,O
+672,Được,V,O
+672,tham gia,V,O
+672,các,L,O
+672,chương trình,N,O
+672,teambuilding,V,O
+672,",",CH,O
+672,du lịch,V,O
+672,",",CH,O
+672,nghỉ mát,M,O
+673,Được,V,O
+673,thưởng nhân,V,O
+673,các,L,O
+673,ngày,N,O
+673,lễ,N,O
+673,",",CH,O
+673,tết,N,O
+673,và,C,O
+673,các,L,O
+673,sự kiện,N,O
+673,đặc biệt,A,O
+673,của,E,O
+673,Ocean Edu,Np,O
+673,.,CH,O
+674,Các,L,O
+674,chế độ,N,O
+674,đãi ngộ,N,O
+674,khác,A,O
+674,theo,V,O
+674,quy định,N,O
+674,.,CH,O
+675,Ms Nguyệt,Np,O
+675,:,CH,O
+675,346417214,M,O
+676,Nữ,N,O
+676,",",CH,O
+676,Độ,N,O
+676,tuổi,N,O
+676,từ,E,O
+676,25-30,M,O
+677,Tốt nghiệp,V,O
+677,từ,E,O
+677,Cao đẳng,N,O
+677,trở,V,O
+677,lên,V,O
+677,",",CH,O
+677,Yêu cầu,N,O
+677,4,M,B-Skill
+677,kĩ năng,N,I-Skill
+677,(,CH,I-Skill
+677,nghe,V,I-Skill
+677,",",CH,I-Skill
+677,nói,V,I-Skill
+677,",",CH,I-Skill
+677,đọc,V,I-Skill
+677,",",CH,I-Skill
+677,đánh,V,I-Skill
+677,",",CH,I-Skill
+677,máy,N,I-Skill
+677,),CH,O
+678,Có,V,O
+678,ít nhất,X,O
+678,1,M,O
+678,năm,N,O
+678,kinh nghiệm,N,B-Skill
+678,trong,E,I-Skill
+678,công việc,N,I-Skill
+678,sử dụng,V,I-Skill
+678,tiếng,N,I-Skill
+678,Trung,Np,I-Skill
+679,Tối thiểu,N,O
+679,3,M,O
+679,năm,N,O
+679,kinh nghiệm,N,B-Skill
+679,trong,E,I-Skill
+679,lĩnh vực,N,I-Skill
+679,dịch vụ,N,I-Skill
+679,ngân hàng,N,I-Skill
+680,Ưu tiên,N,O
+680,có,V,O
+680,kinh nghiệm,N,B-Skill
+680,về,V,I-Skill
+680,kiểm soát,V,I-Skill
+680,giao dịch,V,I-Skill
+680,tại,E,I-Skill
+680,chi nhánh,M,I-Skill
+680,/,CH,O
+680,quầy,N,O
+681,Am,Np,B-Skill
+681,hiểu,V,I-Skill
+681,về,E,I-Skill
+681,các,L,I-Skill
+681,sản phẩm,N,I-Skill
+681,dịch vụ,N,I-Skill
+681,có,V,I-Skill
+681,liên quan,V,I-Skill
+681,của,E,I-Skill
+681,ngân hàng,N,I-Skill
+681,thương mại,N,I-Skill
+681,",",CH,O
+681,hiểu biết,V,B-Skill
+681,về,E,I-Skill
+681,hệ thống,N,I-Skill
+681,",",CH,I-Skill
+681,các,L,I-Skill
+681,quy định,N,I-Skill
+681,và,C,I-Skill
+681,thông lệ,V,I-Skill
+681,thị trường,N,I-Skill
+681,/,CH,O
+681,quốc tế,N,O
+682,Kỹ năng,N,B-Skill
+682,Tiếng,Np,I-Skill
+682,Anh,Np,I-Skill
+682,và,C,O
+682,Tin học,N,B-Skill
+682,Văn phòng,N,I-Skill
+682,chuẩn MOS,V,I-Skill
+682,theo,V,O
+682,quy định,N,O
+682,VPBank,Np,O
+683,Kỹ năng,N,B-Skill
+683,lập,V,I-Skill
+683,kế hoạch,N,I-Skill
+683,và,C,I-Skill
+683,thiết lập,V,I-Skill
+683,mục tiêu,N,I-Skill
+684,Kỹ năng,N,B-Skill
+684,giám sát,V,I-Skill
+684,",",CH,I-Skill
+684,trao quyền,N,I-Skill
+684,và,C,I-Skill
+684,quản lý,V,I-Skill
+684,hiệu quả,N,I-Skill
+684,làm việc,V,I-Skill
+685,Kỹ năng,N,B-Skill
+685,phân tích,V,I-Skill
+685,&,CH,I-Skill
+685,giải quyết,V,I-Skill
+685,vấn đề,N,I-Skill
+685,",",CH,O
+685,kỹ năng,V,B-Skill
+685,ra,V,I-Skill
+685,quyết định,N,I-Skill
+686,Thu nhập,N,O
+686,hấp dẫn,V,O
+686,",",CH,O
+686,lương thưởng,N,O
+686,cạnh tranh,V,O
+686,theo,V,O
+686,năng lực,N,O
+687,Thưởng,V,O
+687,các,L,O
+687,Ngày,N,O
+687,lễ,N,O
+687,",",CH,O
+687,Tết,Np,O
+687,(,CH,O
+687,theo,V,O
+687,chính sách,N,O
+687,ngân hàng,N,O
+687,từng,R,O
+687,thời kỳ,N,O
+687,),CH,O
+688,Được,V,O
+688,vay,V,O
+688,ưu đãi,V,O
+688,theo,V,O
+688,chính sách,N,O
+688,ngân hàng,N,O
+688,từng,R,O
+688,thời kỳ,N,O
+689,Chế độ,N,O
+689,ngày,N,O
+689,phép,N,O
+689,hấp dẫn,V,O
+689,theo,V,O
+689,cấp bậc,N,O
+689,công việc,N,O
+690,Bảo hiểm,N,O
+690,bắt buộc,V,O
+690,theo,V,O
+690,luật,N,O
+690,lao động,N,O
+690,+,V,O
+690,Bảo hiểm,N,O
+690,VPBank care,V,O
+690,cho,E,O
+690,CBNV tùy,V,O
+690,theo,V,O
+690,cấp bậc,N,O
+690,và,C,O
+690,thời gian,N,O
+690,công tác,V,O
+691,Được,V,O
+691,tham gia,V,O
+691,các,L,O
+691,khóa,N,O
+691,đào tạo,V,O
+691,tùy,N,O
+691,thuộc,V,O
+691,vào,E,O
+691,Khung,Np,O
+691,đào tạo,V,O
+691,cho,E,O
+691,từng,P,O
+691,vị trí,N,O
+692,Thời gian,N,O
+692,làm việc,V,O
+692,:,CH,O
+692,từ,E,O
+692,thứ,N,O
+692,2,M,O
+692,–,CH,O
+692,\ xa0,N,O
+692,sáng,N,O
+692,thứ,N,O
+692,7,M,O
+693,Môi trường,N,O
+693,làm việc,V,O
+693,năng động,A,O
+693,",",CH,O
+693,thân thiện,N,O
+693,",",CH,O
+693,có,V,O
+693,nhiều,A,O
+693,cơ hội học,N,O
+693,đào tạo,V,O
+693,",",CH,O
+693,học hỏi,V,O
+693,và,C,O
+693,phát triển,V,O
+693,;,CH,O
+693,được,V,O
+693,tham gia,V,O
+693,nhiều,A,O
+693,hoạt động,N,O
+693,văn hóa,V,O
+693,thú vị,N,O
+693,(,CH,O
+693,cuộc,N,O
+693,thi,V,O
+693,về,E,O
+693,thể thao,N,O
+693,",",CH,O
+693,tài năng,N,O
+693,",",CH,O
+693,hoạt động,V,O
+693,teambuiding,V,O
+693,...,CH,O
+693,),CH,O
+694,Tốt nghiệp,V,O
+694,Đại học,N,O
+694,chuyên ngành,N,B-Skill
+694,Tài chính,N,I-Skill
+694,",",CH,O
+694,kế toán,N,B-Skill
+694,",",CH,O
+694,kiểm toán,M,B-Skill
+695,Có,V,O
+695,chứng chỉ,N,B-Skill
+695,kế toán trưởng,M,I-Skill
+696,Tối thiểu,N,O
+696,:,CH,O
+696,5,N,O
+696,năm,M,O
+696,kinh nghiệm,N,O
+696,trong,E,O
+696,cùng,A,O
+696,lĩnh vực,N,O
+697,Trong,E,O
+697,đó,P,O
+697,ít nhất,X,O
+697,3,M,O
+697,năm,N,O
+697,ở,E,O
+697,vị trí,N,O
+697,tương đương,A,O
+697,có,V,O
+697,kinh nghiệm,N,B-Skill
+697,làm việc,V,I-Skill
+697,tại,E,I-Skill
+697,mảng,N,I-Skill
+697,dịch vụ,N,I-Skill
+697,/,CH,I-Skill
+697,khách sạn,N,I-Skill
+697,/,CH,I-Skill
+697,trò chơi,N,I-Skill
+697,điện tử,N,I-Skill
+697,có,V,O
+697,thưởng,V,O
+697,cho,E,O
+697,người,N,O
+697,nước ngoài,N,O
+698,Kiến thức,N,O
+698,nắm,V,O
+698,vững,A,O
+698,và,C,O
+698,am hiểu,V,B-Skill
+698,quy định,V,I-Skill
+698,pháp luật,N,I-Skill
+698,về,E,I-Skill
+698,Thuế,Np,I-Skill
+698,",",CH,I-Skill
+698,nguyên tắc,N,I-Skill
+698,–,CH,I-Skill
+698,chuẩn mực,V,I-Skill
+698,tài chính,N,I-Skill
+698,chính,T,O
+698,kế toán,N,B-Skill
+698,",",CH,I-Skill
+698,nghiệp vụ,N,I-Skill
+698,hạch toán,V,I-Skill
+698,kế toán,N,I-Skill
+698,",",CH,O
+698,có,V,O
+698,kiến thức,N,B-Skill
+698,về,E,I-Skill
+698,tài chính,N,I-Skill
+698,doanh nghiệp,N,I-Skill
+698,.,CH,O
+699,Am,Np,O
+699,hiểu,V,O
+699,về,E,O
+699,lĩnh vực,N,B-Skill
+699,vận hành Khách sạn,N,I-Skill
+699,",",CH,I-Skill
+699,Du lịch,V,I-Skill
+699,",",CH,I-Skill
+699,trò chơi,N,I-Skill
+699,điện tử,N,I-Skill
+699,có,V,O
+699,thưởng,V,O
+699,cho,E,O
+699,người,N,O
+699,nước ngoài,N,O
+699,.,CH,O
+700,Am,Np,O
+700,hiểu,V,O
+700,về,E,O
+700,nguyên tắc,N,B-Skill
+700,kế toán,N,I-Skill
+700,giao dịch,V,I-Skill
+700,hợp đồng,N,I-Skill
+700,hợp tác,V,I-Skill
+700,kinh doanh,V,I-Skill
+701,Sử dụng,V,B-Skill
+701,tốt,A,I-Skill
+701,phần mềm,N,I-Skill
+701,kế toán,N,I-Skill
+701,Smile,Np,I-Skill
+701,",",CH,O
+701,Fast,Np,O
+702,Tốt nghiệp,V,O
+702,ĐH,Ny,O
+702,mỹ thuật,N,O
+702,công nghiệp,N,O
+702,hoặc,C,O
+702,ĐH,Ny,O
+702,Kiến trúc,V,O
+702,chuyên ngành,N,B-Skill
+702,Nội ngoại,N,I-Skill
+702,thất,M,I-Skill
+703,Sử dụng,V,O
+703,thành thạo,V,O
+703,các,L,O
+703,phần mềm,N,B-Skill
+703,chuyên dụng,A,I-Skill
+703,như,C,O
+703,Cad,Np,B-Skill
+703,(,CH,O
+703,cơ bản,A,O
+703,),CH,O
+703,",",CH,O
+703,Photoshop,Np,B-Skill
+703,",",CH,O
+703,AI,P,B-Skill
+703,",",CH,O
+703,và,C,O
+703,các,L,O
+703,phần mềm,N,B-Skill
+703,đồ họa,V,I-Skill
+703,chuyên môn,N,O
+703,khác,A,O
+703,.,CH,O
+704,Tối thiểu,N,O
+704,3,M,O
+704,năm,N,O
+704,kinh nghiệm,N,B-Skill
+704,trong,E,I-Skill
+704,ngành,N,I-Skill
+704,thiết kế,V,I-Skill
+704,",",CH,I-Skill
+704,thi công,V,I-Skill
+704,các,L,I-Skill
+704,công trình,N,I-Skill
+704,nội ngoại,N,I-Skill
+704,thất,V,I-Skill
+704,",",CH,O
+704,văn phòng,N,O
+704,",",CH,O
+704,cao ốc,N,O
+704,",",CH,O
+704,nhà hàng,N,O
+704,",",CH,O
+704,khách sạn,N,O
+704,",",CH,O
+704,...,CH,O
+705,Có,V,O
+705,khả năng,N,B-Skill
+705,sáng tạo,V,I-Skill
+705,",",CH,O
+705,có,V,B-Skill
+705,gu,N,I-Skill
+705,thẩm mỹ,V,I-Skill
+705,và,C,I-Skill
+705,tư duy,V,I-Skill
+705,linh hoạt,A,I-Skill
+705,.,CH,O
+706,Khả năng,N,O
+706,làm việc,V,B-Skill
+706,chuyên nghiệp,A,I-Skill
+706,và,C,I-Skill
+706,dưới,E,I-Skill
+706,áp lực,N,I-Skill
+706,cao,A,I-Skill
+707,Tốt nghiệp,V,B-Skill
+707,Mỹ thuật,N,I-Skill
+707,hoặc,C,O
+707,chuyên ngành,N,B-Skill
+707,Đồ,Np,I-Skill
+707,Họa,Np,I-Skill
+708,Sử dụng,V,O
+708,thành thạo,V,B-Skill
+708,các,L,I-Skill
+708,công cụ,N,I-Skill
+708,thiết kế,V,I-Skill
+708,(,CH,I-Skill
+708,Ai,P,I-Skill
+708,",",CH,I-Skill
+708,Ps,Np,I-Skill
+708,",",CH,I-Skill
+708,Id,Np,I-Skill
+708,",",CH,I-Skill
+708,Crd,Np,I-Skill
+708,",",CH,I-Skill
+708,Pr,Np,I-Skill
+708,",",CH,I-Skill
+708,Ae,Np,I-Skill
+708,),CH,O
+709,Tuổi,N,O
+709,từ,E,O
+709,25-35,M,O
+710,Kinh nghiệm,N,O
+710,trên,E,O
+710,2,M,O
+710,năm,M,O
+711,Có,V,B-Skill
+711,tính,N,I-Skill
+711,sáng tạo,A,I-Skill
+711,",",CH,O
+711,tính,V,B-Skill
+711,thẩm mỹ,N,I-Skill
+711,",",CH,O
+711,giàu,A,B-Skill
+711,ý tưởng,N,I-Skill
+711,",",CH,O
+711,nắm bắt,V,B-Skill
+711,nhanh,A,I-Skill
+711,các,L,I-Skill
+711,xu hướng,N,I-Skill
+711,thiết kế,V,I-Skill
+711,mới,R,I-Skill
+712,Có,V,O
+712,kỹ năng,N,B-Skill
+712,quản lý,V,I-Skill
+712,thời gian,N,I-Skill
+712,",",CH,O
+712,có,V,B-Skill
+712,tinh thần,N,I-Skill
+712,trách nhiệm,N,I-Skill
+712,",",CH,O
+712,tận tâm,V,B-Skill
+712,với,E,I-Skill
+712,công việc,N,I-Skill
+713,Độc lập,N,B-Skill
+713,và,C,O
+713,chủ động,V,B-Skill
+713,trong,E,O
+713,công việc,N,O
+714,Sử dụng,V,B-Skill
+714,tốt,A,I-Skill
+714,các,L,I-Skill
+714,loại,N,I-Skill
+714,máy,N,I-Skill
+714,mirrorless,V,I-Skill
+714,/,CH,O
+714,DSLR,Np,O
+714,dùng,V,O
+714,để,E,O
+714,quay,V,O
+714,(,CH,O
+714,chụp,V,O
+714,khi,N,O
+714,cần thiết,A,O
+714,),CH,O
+715,Có,V,O
+715,kinh nghiệm,N,B-Skill
+715,sử dụng,V,I-Skill
+715,máy,N,I-Skill
+715,quay,V,I-Skill
+715,chuyên nghiệp,A,I-Skill
+716,Có,V,O
+716,khả năng,N,B-Skill
+716,dựng phim,V,I-Skill
+716,cơ bản,A,I-Skill
+717,Tư duy,N,B-Skill
+717,dựng,V,I-Skill
+717,phim,N,I-Skill
+717,tốt,A,I-Skill
+718,Diễn hoạt Video,N,I-Skill
+718,(,CH,I-Skill
+718,Video animation,N,I-Skill
+718,),CH,O
+719,Sử dụng,V,B-Skill
+719,tốt,A,I-Skill
+719,các,L,I-Skill
+719,phần mềm,N,I-Skill
+719,dựng phim,N,I-Skill
+719,(,CH,I-Skill
+719,Premiere Pro,Np,I-Skill
+719,",",CH,I-Skill
+719,Affter Effect,Np,I-Skill
+719,...,CH,O
+719,),CH,O
+719,và,C,O
+719,các,L,O
+719,phần mềm,N,O
+719,bổ trợ,M,O
+720,Xử lí,N,B-Skill
+720,cắt,V,I-Skill
+720,ghép,V,I-Skill
+720,Video,Np,I-Skill
+720,",",CH,O
+720,xử lí,V,B-Skill
+720,hình ảnh,N,I-Skill
+720,(,CH,O
+720,retouch,N,O
+720,),CH,O
+721,Biết,V,B-Skill
+721,chỉnh,V,I-Skill
+721,màu,N,I-Skill
+721,trên,N,I-Skill
+721,Davinci Resolve,Np,I-Skill
+721,hoặc,C,I-Skill
+721,Motion Graphics,Np,I-Skill
+721,là,V,O
+721,một,M,O
+721,lợi thế,N,O
+722,Lương,N,O
+722,cơ bản,A,O
+722,:,CH,O
+722,10,M,O
+722,–,CH,O
+722,15,M,O
+722,triệu,M,O
+722,",",CH,O
+722,tùy,V,O
+722,theo,V,O
+722,năng lực,N,O
+723,Môi trường,N,O
+723,làm việc,V,O
+723,:,CH,O
+723,Năng động,N,O
+723,",",CH,O
+723,Thân thiện,N,O
+723,",",CH,O
+723,Đoàn kết,V,O
+723,",",CH,O
+723,Chuyên nghiệp,M,O
+724,Hoạt động,N,O
+724,ngoại khóa,V,O
+724,",",CH,O
+724,company,V,O
+724,trip,N,O
+724,",",CH,O
+724,team building,N,O
+724,và,C,O
+724,cơ hội,N,O
+724,du lịch,V,O
+724,trong,N,O
+724,và,C,O
+724,ngoài,A,O
+724,nước,N,O
+725,Được,V,O
+725,ký,V,O
+725,Hợp đồng,N,O
+725,lao động,N,O
+725,",",CH,O
+725,đóng,V,O
+725,BHXH,Np,O
+725,-,CH,O
+725,BHYT,Ny,O
+725,-,CH,O
+725,BHTN,Np,O
+725,đầy đủ,A,O
+725,theo,V,O
+725,quy định,N,O
+725,của,E,O
+725,Nhà Nước,Np,O
+726,Được,V,O
+726,đào tạo,V,O
+726,các,L,O
+726,kỹ năng,N,O
+726,chuyên môn,N,O
+726,đáp ứng,V,O
+726,nhu cầu,N,O
+726,công việc,N,O
+727,Và,C,O
+727,nhiều,A,O
+727,chính sách,N,O
+727,hấp dẫn,A,O
+727,khác,A,O
+727,sẽ,R,O
+727,được,V,O
+727,trao đổi,V,O
+727,cụ thể,A,O
+727,tại,E,O
+727,buổi,N,O
+727,phỏng vấn,V,O
+728,Tốt nghiệp,V,O
+728,đại học,N,O
+728,hoặc,C,O
+728,tương đương,A,O
+728,.,CH,O
+729,Có,V,O
+729,ít nhất,X,O
+729,2,M,O
+729,năm,N,O
+729,kinh nghiệm,N,B-Skill
+729,về,V,I-Skill
+729,bán,V,I-Skill
+729,hàng,N,I-Skill
+729,",",CH,I-Skill
+729,dịch vụ,N,I-Skill
+729,khách hàng,N,I-Skill
+729,",",CH,I-Skill
+729,tư vấn,V,I-Skill
+729,.,CH,O
+730,Có,V,O
+730,khả năng,N,B-Skill
+730,quản lý,V,I-Skill
+730,công việc,N,I-Skill
+730,",",CH,O
+730,làm việc,V,B-Skill
+730,dưới,E,I-Skill
+730,áp lực,N,I-Skill
+730,",",CH,O
+730,đảm bảo,V,O
+730,deadline,M,O
+731,Tinh thần,N,B-Skill
+731,trách nhiệm,N,I-Skill
+731,cao,A,I-Skill
+731,",",CH,O
+731,chủ động,N,B-Skill
+731,trong,E,I-Skill
+731,công việc,N,I-Skill
+732,Sử dụng,V,O
+732,thành thạo,V,B-Skill
+732,phần mềm,N,I-Skill
+732,văn phòng,N,I-Skill
+732,của,E,I-Skill
+732,Microsoft,Np,I-Skill
+733,Có,V,O
+733,kỹ năng,N,B-Skill
+733,trình bày,N,I-Skill
+733,",",CH,I-Skill
+733,thuyết phục,V,I-Skill
+733,",",CH,O
+733,giao tiếp,V,B-Skill
+733,tốt,A,I-Skill
+734,Nõi,N,B-Skill
+734,rõ ràng,A,I-Skill
+734,",",CH,O
+734,phát âm,N,B-Skill
+734,chuẩn,A,I-Skill
+735,Sử dụng,V,O
+735,các,L,O
+735,công cụ,N,B-Skill
+735,hỗ trợ,V,I-Skill
+735,marketing,FW,I-Skill
+735,là,V,O
+735,một,M,O
+735,lợi thế,N,O
+736,Tiếng,N,B-Skill
+736,Anh,Nc,I-Skill
+736,:,CH,I-Skill
+736,nói,V,I-Skill
+736,",",CH,I-Skill
+736,viết,V,I-Skill
+736,và,C,I-Skill
+736,đọc,V,I-Skill
+736,hiểu,V,I-Skill
+736,tốt,A,I-Skill
+737,Có,V,O
+737,kinh nghiệm,N,B-Skill
+737,làm việc,V,I-Skill
+737,trong,E,I-Skill
+737,ngân hàng,N,I-Skill
+737,",",CH,I-Skill
+737,tổ chức,V,I-Skill
+737,tài chính,N,I-Skill
+737,",",CH,O
+737,định cư,V,O
+737,nước ngoài,N,O
+737,là,V,O
+737,một,M,O
+737,lợi thế,N,O
+738,Có,V,O
+738,tinh thần,N,B-Skill
+738,trách nhiệm,N,I-Skill
+738,cao,A,I-Skill
+738,trong,E,O
+738,công việc,N,O
+739,Cẩn thận,A,B-Skill
+739,",",CH,O
+739,tỉ mỉ,A,B-Skill
+739,",",CH,O
+739,chăm chỉ,A,B-Skill
+739,",",CH,O
+739,ham,V,B-Skill
+739,học hỏi,V,I-Skill
+740,Chịu,V,B-Skill
+740,được,V,I-Skill
+740,áp lực,N,I-Skill
+740,cao,A,I-Skill
+740,về,E,O
+740,công việc,N,O
+740,và,C,O
+740,thời gian,N,O
+741,Khả năng,N,O
+741,làm việc,V,B-Skill
+741,độc lập,A,I-Skill
+741,và,C,I-Skill
+741,theo,V,I-Skill
+741,nhóm,N,I-Skill
+741,tốt,A,I-Skill
+742,Trung thực,N,B-Skill
+742,",",CH,O
+742,năng động,A,B-Skill
+743,Lương,N,O
+743,cơ bản,A,O
+743,:,CH,O
+743,tùy,V,O
+743,theo,V,O
+743,năng lực,N,O
+743,và,C,O
+743,có,V,O
+743,hoa hồng,N,O
+743,trên,E,O
+743,mỗi,L,O
+743,hợp đồng,N,O
+743,ký,V,O
+743,được,R,O
+744,Môi trường,N,O
+744,làm việc,V,O
+744,:,CH,O
+744,Năng động,N,O
+744,",",CH,O
+744,Thân thiện,N,O
+744,",",CH,O
+744,Đoàn kết,V,O
+744,",",CH,O
+744,Chuyên nghiệp,M,O
+745,Hoạt động,N,O
+745,ngoại khóa,V,O
+745,",",CH,O
+745,company,V,O
+745,trip,N,O
+745,",",CH,O
+745,team building,N,O
+745,và,C,O
+745,cơ hội,N,O
+745,du lịch,V,O
+745,trong,N,O
+745,và,C,O
+745,ngoài,A,O
+745,nước,N,O
+746,Được,V,O
+746,ký,V,O
+746,Hợp đồng,N,O
+746,lao động,N,O
+746,",",CH,O
+746,đóng,V,O
+746,BHXH,Np,O
+746,-,CH,O
+746,BHYT,Ny,O
+746,-,CH,O
+746,BHTN,Np,O
+746,đầy đủ,A,O
+746,theo,V,O
+746,quy định,N,O
+746,của,E,O
+746,Nhà Nước,Np,O
+747,Được,V,O
+747,đào tạo,V,O
+747,các,L,O
+747,kỹ năng,N,O
+747,chuyên môn,N,O
+747,đáp ứng,V,O
+747,nhu cầu,N,O
+747,công việc,N,O
+747,khi,N,O
+747,chưa,R,O
+747,có,V,O
+747,kinh nghiệm,N,O
+747,",",CH,O
+747,chương trình,N,O
+747,đào tạo,V,O
+747,xuyên,V,O
+747,suốt,A,O
+747,trong,E,O
+747,quá trình,N,O
+747,làm việc,V,O
+747,tại,E,O
+747,công ty,N,O
+747,;,CH,O
+747,có,V,O
+747,nhiều,A,O
+747,cơ hội,N,O
+747,học hỏi,V,O
+747,và,C,O
+747,thăng tiến,M,O
+748,Và,C,O
+748,nhiều,A,O
+748,chính sách,N,O
+748,hấp dẫn,A,O
+748,khác,A,O
+748,sẽ,R,O
+748,được,V,O
+748,trao đổi,V,O
+748,cụ thể,A,O
+748,tại,E,O
+748,buổi,N,O
+748,phỏng vấn,V,O
+749,Tốt nghiệp,V,O
+749,Đại học,N,O
+749,trở,V,O
+749,lên,V,O
+749,các,L,O
+749,chuyên ngành,N,B-Skill
+749,:,CH,I-Skill
+749,Xây dựng,V,I-Skill
+749,",",CH,I-Skill
+749,Kiến trúc,N,I-Skill
+749,",",CH,I-Skill
+749,Kinh tế,N,I-Skill
+749,xây dựng,V,I-Skill
+749,hoặc,C,O
+749,các,L,O
+749,ngành nghề,N,O
+749,có,V,O
+749,liên quan,V,O
+750,Có,V,O
+750,\ xa0ít,A,O
+750,nhất,R,O
+750,4,M,O
+750,\,N,O
+750,xa0năm,V,O
+750,kinh nghiệm,N,B-Skill
+750,làm việc,V,I-Skill
+750,trong,E,I-Skill
+750,các,L,I-Skill
+750,dự án,N,I-Skill
+750,phối đồ,V,I-Skill
+750,",",CH,O
+750,thời trang,N,B-Skill
+750,cao cấp,A,I-Skill
+750,",",CH,O
+750,nhà hàng,N,B-Skill
+750,Nhật Bản,Np,I-Skill
+750,",",CH,I-Skill
+750,Hàn Quốc,Np,I-Skill
+750,...,CH,O
+750,",",CH,O
+750,4,M,O
+750,-,CH,O
+750,khách sạn,N,O
+750,5,M,O
+750,sao,P,O
+750,với,E,O
+750,nhà đầu tư,N,O
+750,nước ngoài,N,O
+750,.,CH,O
+751,Có,V,O
+751,kinh nghiệm,N,B-Skill
+751,trong,E,I-Skill
+751,lĩnh vực,N,I-Skill
+751,thi công,V,I-Skill
+751,công trình,N,I-Skill
+751,và,C,I-Skill
+751,xin,V,I-Skill
+751,giấy phép,N,I-Skill
+751,triển khai,V,I-Skill
+751,trong,N,O
+751,và,C,O
+751,ngoài,E,O
+751,công trình,N,O
+751,",",CH,O
+751,vật liệu,N,O
+751,hoàn thiện,V,O
+751,",",CH,O
+751,hiểu biết,V,B-Skill
+751,về,E,I-Skill
+751,luật,N,I-Skill
+751,và,C,I-Skill
+751,các,L,I-Skill
+751,thủ tục,N,I-Skill
+751,liên quan,V,I-Skill
+751,đến,E,I-Skill
+751,thủ tục,N,I-Skill
+751,xây dựng,V,I-Skill
+751,(,CH,O
+751,thủ tục,N,B-Skill
+751,pháp lý,N,I-Skill
+751,",",CH,O
+751,ISO.,Np,B-Skill
+751,..,N,O
+751,),CH,O
+752,Kỹ năng,N,B-Skill
+752,giao tiếp,V,I-Skill
+752,tốt,A,I-Skill
+752,",",CH,O
+752,khả năng,N,B-Skill
+752,hoàn thành,V,I-Skill
+752,nhiệm vụ,N,I-Skill
+752,dưới,E,I-Skill
+752,áp lực,N,I-Skill
+752,công việc,N,I-Skill
+752,",",CH,O
+752,trung thực,A,B-Skill
+752,",",CH,O
+752,nhiệt tình,N,B-Skill
+752,",",CH,O
+752,có,V,O
+752,tinh thần,N,B-Skill
+752,trách nhiệm,N,I-Skill
+752,cao,A,I-Skill
+752,trong,E,O
+752,công việc,N,O
+752,.,CH,O
+753,Kỹ năng,N,B-Skill
+753,quản lý,V,I-Skill
+753,công việc,N,I-Skill
+753,và,C,I-Skill
+753,thời gian,N,I-Skill
+753,và,C,O
+753,làm việc,V,B-Skill
+753,dưới,E,I-Skill
+753,áp lực,N,I-Skill
+753,.,CH,O
+764,Bằng,E,O
+764,cử nhân,N,O
+764,ngành,N,B-Skill
+764,Điện tử,N,I-Skill
+764,hoặc,C,I-Skill
+764,Kinh tế,N,I-Skill
+764,.,CH,O
+765,Ưu tiên,N,O
+765,có,V,O
+765,kinh nghiệm,N,B-Skill
+765,bán,V,I-Skill
+765,hàng,N,I-Skill
+765,trong,E,I-Skill
+765,lĩnh vực,N,I-Skill
+765,điện tử,N,I-Skill
+766,Có,V,O
+766,khả năng,N,B-Skill
+766,chịu,V,I-Skill
+766,áp lực,N,I-Skill
+766,và,C,O
+766,làm việc,V,B-Skill
+766,độc lập,A,I-Skill
+766,.,CH,O
+767,Thái độ,N,B-Skill
+767,tích cực,A,I-Skill
+767,và,C,O
+767,năng động,A,B-Skill
+768,Tiếng,N,B-Skill
+768,Anh,Nc,I-Skill
+768,hoặc,C,O
+768,tiếng,N,B-Skill
+768,Trung thông thạo,N,I-Skill
+768,(,CH,O
+768,bắt buộc,V,O
+768,),CH,O
+769,Lương,N,O
+769,thương lượng,V,O
+769,theo,V,O
+769,khả năng,N,O
+769,(,CH,O
+769,thấp,A,O
+769,nhất,R,O
+769,20,M,O
+769,triệu,M,O
+769,/,CH,O
+769,tháng,N,O
+769,),CH,O
+770,Chương trình,N,O
+770,hoa hồng,N,O
+770,với,E,O
+770,tỷ lệ,N,O
+770,hấp dẫn,V,O
+770,.,CH,O
+771,Phụ cấp,N,O
+771,đi lại,V,O
+771,và,C,O
+771,hoạt động,V,O
+771,.,CH,O
+772,Nghỉ,V,O
+772,lễ,N,O
+772,",",CH,O
+772,nghỉ phép,V,O
+772,nguyên,R,O
+772,lương,N,O
+772,.,CH,O
+773,Cơ hội,N,O
+773,được,V,O
+773,đào tạo,V,O
+773,tại,E,O
+773,Trụ sở,N,O
+773,chính,T,O
+773,Đài Loan,Np,O
+773,.,CH,O
+774,Giới tính,N,O
+774,:,CH,O
+774,Nữ,N,O
+775,Độ,N,O
+775,tuổi,N,O
+775,:,CH,O
+775,từ,E,O
+775,22,M,O
+775,đến,E,O
+775,30,M,O
+775,tuổi,N,O
+775,.,CH,O
+776,Tốt nghiệp,V,O
+776,Cao đẳng,N,O
+776,",",CH,O
+776,Đại học,N,O
+776,các,L,O
+776,chuyên ngành,N,O
+776,có,V,O
+776,liên quan,V,B-Skill
+776,:,CH,I-Skill
+776,Quản trị,V,I-Skill
+776,nhân sự,N,I-Skill
+776,",",CH,I-Skill
+776,Kinh doanh,V,I-Skill
+776,",",CH,I-Skill
+776,Kinh tế,N,I-Skill
+776,",",CH,I-Skill
+776,Luật,Np,I-Skill
+776,",",CH,O
+776,...,CH,O
+777,Có,V,O
+777,từ,E,O
+777,1,N,O
+777,kinh nghiệm,N,O
+777,trở,V,O
+777,lên,V,O
+778,Ưu tiên,N,O
+778,ứng viên,V,O
+778,có,V,O
+778,kỹ năng,N,B-Skill
+778,viết,V,I-Skill
+778,content,M,I-Skill
+779,Kỹ năng,N,B-Skill
+779,giao tiếp,V,I-Skill
+780,Kỹ năng,N,O
+780,thuyết phục,V,B-Skill
+780,và,C,I-Skill
+780,đàm phán,M,I-Skill
+781,Kiên trì,N,B-Skill
+781,",",CH,O
+781,bền bỉ,A,B-Skill
+781,",",CH,O
+781,quyết tâm,V,B-Skill
+782,Thu nhập,N,O
+782,12M,M,O
+782,-,CH,O
+782,18M,N,O
+782,(,CH,O
+782,tùy,V,O
+782,theo,V,O
+782,năng lực,N,O
+782,),CH,O
+783,Đảm bảo,V,O
+783,đủ,A,O
+783,quyền lợi,N,O
+783,theo,V,O
+783,quy định,N,O
+783,của,E,O
+783,Công ty,N,O
+783,và,C,O
+783,quy định,V,O
+783,của,E,O
+783,Pháp luật,N,O
+783,.,CH,O
+784,Tốt nghiệp,V,O
+784,Đại học,N,O
+784,",",CH,O
+784,Cao đẳng,N,O
+784,chuyên ngành,N,B-Skill
+784,Cơ,Np,I-Skill
+784,-,CH,I-Skill
+784,Điện,N,I-Skill
+784,:,CH,I-Skill
+784,Điện lạnh,N,I-Skill
+784,",",CH,I-Skill
+784,Cơ khí,N,I-Skill
+784,",",CH,I-Skill
+784,PCCC,Np,I-Skill
+784,",",CH,I-Skill
+784,Cấp thoát nước,N,I-Skill
+784,hoặc,C,O
+784,các,L,O
+784,chuyên ngành,N,O
+784,có,V,O
+784,liên quan,V,O
+784,;,CH,O
+785,Tối thiểu,N,O
+785,1,M,O
+785,năm,N,O
+785,kinh nghiệm,N,O
+785,triển khai,V,B-Skill
+785,bản vẽ,N,I-Skill
+785,phối hợp,V,I-Skill
+785,",",CH,I-Skill
+785,bản vẽ,N,I-Skill
+785,thi công,V,I-Skill
+785,các,L,I-Skill
+785,hệ thống,N,I-Skill
+785,cơ điện,N,I-Skill
+785,bằng,E,I-Skill
+785,phần mềm,N,I-Skill
+785,Revit,Np,I-Skill
+785,;,CH,O
+786,Thành thạo,N,B-Skill
+786,Autodesk Revit,Np,I-Skill
+786,",",CH,I-Skill
+786,AutoCAD,Np,I-Skill
+786,",",CH,I-Skill
+786,Navisworks,Np,I-Skill
+786,",",CH,I-Skill
+786,Sketchup,Np,I-Skill
+786,;,CH,O
+787,Am,Np,O
+787,hiểu,V,B-Skill
+787,quy trình,N,I-Skill
+787,",",CH,O
+787,tiêu chuẩn,N,B-Skill
+787,BIM,Np,I-Skill
+787,;,CH,O
+788,Hiểu biết,N,B-Skill
+788,công tác,N,I-Skill
+788,liên quan,V,I-Skill
+788,thiết kế,V,I-Skill
+788,",",CH,O
+788,thi công,V,B-Skill
+788,thực tế,N,I-Skill
+788,;,CH,O
+789,Hiểu,V,O
+789,rõ,A,B-Skill
+789,các,L,I-Skill
+789,cấu tạo,N,I-Skill
+789,và,C,O
+789,có,V,O
+789,khả năng,N,B-Skill
+789,khai triển,V,I-Skill
+789,chi tiết,N,I-Skill
+789,cấu tạo,V,I-Skill
+789,.,CH,O
+790,2-4,N,O
+790,năm,M,O
+790,kinh nghiệm,N,B-Skill
+790,trong,E,I-Skill
+790,ngành,N,I-Skill
+790,dịch vụ,N,I-Skill
+790,y tế,N,I-Skill
+790,",",CH,I-Skill
+790,dịch vụ,N,I-Skill
+790,khách hàng,N,I-Skill
+790,hoặc,C,O
+790,ở,E,O
+790,vai trò,N,O
+790,social marketing,N,O
+790,",",CH,O
+790,content,N,O
+790,marketing,FW,O
+790,leader,M,O
+790,/,CH,O
+790,manager,M,O
+791,Có,V,O
+791,kinh nghiệm,N,B-Skill
+791,xây,V,I-Skill
+791,kênh,N,I-Skill
+791,thực chiến,V,I-Skill
+791,đa,N,I-Skill
+791,nền tảng,V,I-Skill
+791,từ,E,O
+791,2-3,N,O
+791,năm,M,O
+792,Có,V,O
+792,kinh nghiệm,N,B-Skill
+792,quản lý,V,I-Skill
+792,team,N,I-Skill
+792,quy mô,V,O
+792,10-20,N,O
+792,người,N,O
+793,Có,V,O
+793,khả năng,N,B-Skill
+793,hoạch định,N,I-Skill
+793,và,C,I-Skill
+793,xây dựng,V,I-Skill
+793,chiến lược,N,I-Skill
+794,Có,V,O
+794,kĩ năng,N,B-Skill
+794,điều hành,V,I-Skill
+794,",",CH,I-Skill
+794,tổ chức,V,I-Skill
+794,",",CH,I-Skill
+794,quản lý,V,I-Skill
+794,công việc,N,I-Skill
+794,và,C,I-Skill
+794,nhân sự,M,I-Skill
+795,Kĩ năng,N,B-Skill
+795,giao tiếp,V,I-Skill
+795,và,C,O
+795,đàm phán,V,B-Skill
+795,tốt,A,I-Skill
+796,Nhạy bén,N,B-Skill
+796,",",CH,O
+796,khả năng,N,B-Skill
+796,thích nghi,V,I-Skill
+796,tốt,A,I-Skill
+796,và,C,O
+796,linh hoạt,V,B-Skill
+796,trong,E,I-Skill
+796,mọi,L,I-Skill
+796,tình huống,N,I-Skill
+797,Trách nhiệm,N,B-Skill
+797,và,C,O
+797,chuẩn mực,N,B-Skill
+797,",",CH,O
+797,tinh thần,N,B-Skill
+797,chủ động,M,I-Skill
+798,Thành thạo,N,B-Skill
+798,MS Office,Np,I-Skill
+798,và,C,I-Skill
+798,các,L,I-Skill
+798,phần mềm,N,I-Skill
+798,cơ bản,A,I-Skill
+799,Có,V,O
+799,kinh nghiệm,N,B-Skill
+799,làm,V,I-Skill
+799,content,V,I-Skill
+799,tối thiểu,N,O
+799,1,M,O
+799,năm,M,O
+800,Có,V,O
+800,kinh nghiệm,N,B-Skill
+800,xây dựng,V,I-Skill
+800,nội dung,N,I-Skill
+800,trong,E,I-Skill
+800,mảng,Nc,I-Skill
+800,da liễu,N,I-Skill
+800,",",CH,I-Skill
+800,spa,N,I-Skill
+800,",",CH,I-Skill
+800,dinh dưỡng,N,I-Skill
+800,hoặc,C,O
+800,yêu,V,O
+800,thích,V,O
+800,skincare,V,O
+800,có,V,O
+800,tìm hiểu,V,O
+800,về,E,O
+800,skincare,N,O
+800,hay,C,O
+800,dinh dưỡng,V,O
+800,là,V,O
+800,một,M,O
+800,lợi thế,N,O
+801,Có,V,O
+801,kĩ năng,N,B-Skill
+801,lên,V,I-Skill
+801,kịch bản,N,I-Skill
+801,",",CH,O
+801,sản xuất,V,B-Skill
+801,video,FW,I-Skill
+802,Có,V,O
+802,gu,N,B-Skill
+802,thẩm mỹ,V,I-Skill
+802,về,E,I-Skill
+802,hình ảnh,N,I-Skill
+802,",",CH,O
+802,tư duy,V,B-Skill
+802,nhạy bén,N,I-Skill
+802,",",CH,O
+802,yêu thích,V,B-Skill
+802,công việc,N,I-Skill
+802,sáng tạo,V,I-Skill
+802,nội dung,N,I-Skill
+802,",",CH,O
+802,có,V,O
+802,khả năng,N,B-Skill
+802,bắt,V,I-Skill
+802,trend,N,I-Skill
+802,tốt,A,I-Skill
+802,.,CH,O
+803,Nhiệt tình,N,B-Skill
+803,",",CH,O
+803,năng động,A,B-Skill
+803,",",CH,O
+803,có,V,B-Skill
+803,trách nhiệm,N,I-Skill
+803,với,E,I-Skill
+803,công việc,N,I-Skill
+803,.,CH,O
+804,BẮT BUỘC,V,O
+804,KINH NGHIỆM,N,O
+804,1,M,O
+804,-,CH,O
+804,3,M,O
+804,NĂM,Np,O
+804,NGÀNH,Np,O
+804,THỜI TRANG,Np,O
+805,Tuổi,N,O
+805,từ,E,O
+805,25,M,O
+806,Tốt nghiệp,V,O
+806,cao đẳng,N,O
+806,trở,V,O
+806,lên,V,O
+806,.,CH,O
+807,Có,V,O
+807,từ,E,O
+807,1-3,M,O
+807,năm,N,O
+807,kinh nghiệm,N,B-Skill
+807,làm việc,V,I-Skill
+807,liên quan,V,I-Skill
+807,tới,E,I-Skill
+807,thời trang,N,I-Skill
+807,",",CH,O
+807,ưu tiên,A,O
+807,về,E,O
+807,mảng,N,B-Skill
+807,thời trang,N,I-Skill
+808,Làm,V,B-Skill
+808,báo cáo,V,I-Skill
+808,",",CH,O
+808,kiểm kê,V,B-Skill
+808,hàng,N,I-Skill
+808,hóa,M,I-Skill
+809,Giới tính,N,O
+809,:,CH,O
+809,Nam,Np,O
+810,Kinh nghiệm,N,O
+810,:,CH,O
+810,Từ,E,O
+810,1,M,O
+810,-,CH,O
+810,2,M,O
+810,năm,N,O
+810,",",CH,O
+810,có,V,O
+810,kinh nghiệm,N,B-Skill
+810,trong,E,I-Skill
+810,lĩnh vực,N,I-Skill
+810,máy móc,N,I-Skill
+810,thiết bị,N,I-Skill
+810,thẩm mỹ,V,I-Skill
+810,là,V,O
+810,một,M,O
+810,ưu thế,N,O
+810,.,CH,O
+811,Chấp nhận,V,O
+811,đi,V,O
+811,công tác,V,O
+811,khi,N,O
+811,có,V,O
+811,yêu cầu,V,O
+811,.,CH,O
+812,Nhanh nhẹn,A,B-Skill
+812,",",CH,O
+812,linh hoạt,N,B-Skill
+812,",",CH,O
+812,trung thực,A,B-Skill
+812,",",CH,O
+812,chịu khó,A,B-Skill
+812,.,CH,O
+813,Kỹ năng,N,B-Skill
+813,phân tích,V,I-Skill
+813,sản phẩm,N,I-Skill
+813,–,CH,I-Skill
+813,khách hàng,N,I-Skill
+813,–,CH,I-Skill
+813,thị trường,N,I-Skill
+813,",",CH,I-Skill
+813,tìm kiếm,V,I-Skill
+813,và,C,O
+813,chăm sóc,V,B-Skill
+813,Khách hàng,N,I-Skill
+813,tốt,A,I-Skill
+813,.,CH,O
+814,Có,V,O
+814,kỹ năng,N,B-Skill
+814,giao tiếp,V,I-Skill
+814,",",CH,I-Skill
+814,thuyết phục,V,I-Skill
+814,và,C,I-Skill
+814,đàm phán,V,I-Skill
+814,.,CH,O

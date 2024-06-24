@@ -1,0 +1,11340 @@
+sentence_id,word,pos
+0,Tốt nghiệp,V
+0,Đại học,N
+0,trở,V
+0,lên,V
+0,chuyên ngành,N
+0,về,E
+0,Ngân hàng,N
+0,",",CH
+0,Tài chính,N
+0,",",CH
+0,Kinh tế,N
+0,",",CH
+0,Luật,Np
+0,hoặc,C
+0,chuyên ngành,N
+0,có,R
+0,liên quan,V
+0,công tác,N
+0,xử lý,V
+0,nợ,N
+0,.,CH
+1,BAC,Np
+1,A BANK,Np
+1,chỉ,R
+1,thu,V
+1,hồ sơ,N
+1,qua,V
+1,email,FW
+1,không,R
+1,thu,V
+1,hồ sơ,N
+1,bản,N
+1,cứng,A
+2,Các,L
+2,chế độ,N
+2,phúc lợi,V
+2,xã hội,N
+2,theo,V
+2,quy định,N
+2,pháp luật,N
+2,như,C
+2,:,CH
+2,BHYT,Np
+2,",",CH
+2,BHXH,Np
+2,",",CH
+2,BHTN.,Np
+2,...,CH
+3,Trình độ,N
+3,:,CH
+3,Đại Học,Np
+4,Chế độ,N
+4,du lịch,V
+4,nghỉ mát,V
+4,hàng,N
+4,năm,N
+4,",",CH
+4,tổ chức,V
+4,teambuilding,V
+4,sôi nổi,A
+4,.,CH
+5,Có,V
+5,khả năng,N
+5,lập,V
+5,kế hoạch,N
+5,",",CH
+5,chiến lược,N
+5,và,C
+5,điều phối,V
+5,thực hiện,V
+5,kế hoạch,N
+5,hiệu quả,M
+6,Hiểu biết,N
+6,cơ bản,A
+6,về,E
+6,Marketing,Np
+6,là,V
+6,một,M
+6,lợi thế,N
+6,;,CH
+7,Thời hạn,N
+7,nhận,V
+7,hồ sơ,N
+7,:,CH
+8,Các,L
+8,chế độ,N
+8,phúc lợi,V
+8,theo,V
+8,quy định,N
+8,luật,N
+8,lao động,N
+8,và,C
+8,theo,V
+8,quy chế,N
+8,của,E
+8,Công ty,N
+8,.,CH
+9,1,M
+9,.,CH
+9,CN,Ny
+9,Huế,Np
+9,:,CH
+9,Tầng,N
+9,11,M
+9,",",CH
+9,Tòa,Np
+9,nhà HCC,V
+9,",",CH
+9,28,M
+9,Lý Thường Kiệt,Np
+9,",",CH
+9,P.,Ny
+9,Vĩnh Ninh,Np
+9,",",CH
+9,TP.,Ny
+9,Huế,Np
+9,.,CH
+10,·,N
+10,Năng lực,N
+10,đối ngoại,V
+10,và,C
+10,tương tác,V
+10,tốt,A
+10,.,CH
+11,Tố chất,N
+11,:,CH
+11,Độc lập,N
+11,",",CH
+11,chính trực,N
+11,",",CH
+11,khách quan,A
+11,",",CH
+11,bảo mật,V
+11,",",CH
+11,tuân thủ,V
+11,",",CH
+11,thận trọng,N
+11,.,CH
+12,Chế độ,N
+12,đãi ngộ,V
+12,:,CH
+13,Deep,Np
+13,understanding,V
+13,of the,N
+13,effective,V
+13,management,N
+13,model,V
+13,for,N
+13,customers of Business,N
+13,Banking Division,Np
+13,.,CH
+14,Có,V
+14,tối thiểu,N
+14,8,M
+14,năm,N
+14,kinh nghiệm,N
+14,trong,E
+14,lĩnh vực,N
+14,Kiểm toán,N
+14,",",CH
+14,thanh tra,V
+15,Ưu tiên,N
+15,ứng viên,V
+15,có,V
+15,hiểu biết,N
+15,về,E
+15,ngành,N
+15,lưu huỳnh,N
+15,",",CH
+15,phân bón,N
+15,nói chung,X
+15,hoặc,C
+15,liên quan,V
+15,.,CH
+16,Hướng,N
+16,tới,V
+16,kết quả,N
+16,:,CH
+16,tập trung,V
+16,vào,E
+16,các,L
+16,biện pháp,N
+16,cụ thể,A
+16,và,C
+16,mục tiêu,N
+16,để,E
+16,có,V
+16,kết quả,N
+16,cao,A
+16,nhất,A
+17,3,M
+17,.,CH
+17,Văn hóa,V
+17,doanh nghiệp,N
+17,phong phú,A
+17,:,CH
+18,Kỹ năng lập,N
+18,và,C
+18,thực hiện,V
+18,kế hoạch,N
+18,",",CH
+18,quản lý,V
+18,áp lực,N
+18,công việc,N
+18,;,CH
+19,Hồ sơ,N
+19,dự tuyển,N
+19,gồm,V
+20,Thông thạo,N
+20,tiếng,N
+20,Anh,Np
+20,lợi thế,V
+20,cạnh tranh,V
+21,3,M
+21,.,CH
+21,Ngoại ngữ,N
+21,:,CH
+22,1,M
+22,.,CH
+22,Tốt nghiệp,V
+22,CĐ,Np
+22,/,CH
+22,ĐH,Ny
+22,chuyên ngành,N
+22,Quản trị,V
+22,nguồn,N
+22,nhân lực,N
+22,",",CH
+22,Nhân sự,N
+22,",",CH
+22,Con người,N
+22,",",CH
+22,và,C
+22,các,L
+22,ngành,N
+22,liên quan,V
+22,khác,A
+22,.,CH
+23,Tốt nghiệp,V
+23,đại học,N
+23,và,C
+23,chuyên ngành,N
+23,quản trị,V
+23,/,CH
+23,kinh tế,N
+24,Linh hoạt,N
+24,và,C
+24,nhanh nhạy,A
+24,trong,E
+24,mọi,L
+24,tình huống,N
+25,Các,L
+25,phẩm chất,N
+25,cá nhân,N
+25,cần,V
+25,có,V
+25,:,CH
+26,Có,V
+26,kỹ năng,N
+26,giao tiếp,V
+26,tốt,A
+26,;,CH
+27,Kỹ năng,N
+27,giao tiếp,V
+27,và,C
+27,đàm phán,V
+27,tốt,A
+28,Trách nhiệm,N
+28,",",CH
+28,nhiệt huyết,N
+28,",",CH
+28,chủ động,N
+28,",",CH
+28,chịu,V
+28,áp lực,N
+28,cao,A
+28,",",CH
+28,chăm chỉ,A
+28,",",CH
+28,sáng tạo,V
+28,.,CH
+29,Có,V
+29,kiến thức,N
+29,",",CH
+29,Am hiểu,V
+29,về,E
+29,môi trường,N
+29,kinh doanh,V
+29,đèn,N
+29,",",CH
+29,thiết bị,N
+29,chiếu,N
+29,sáng,N
+29,là,V
+29,lợi thế,N
+29,.,CH
+30,Có,V
+30,khả năng,N
+30,làm việc,V
+30,độc lập,A
+30,và,C
+30,làm việc,V
+30,nhóm,N
+30,hiệu quả,N
+30,",",CH
+30,khả năng,N
+30,phối hợp,V
+30,và,C
+30,chịu,V
+30,được,V
+30,áp lực,N
+30,cao,A
+30,.,CH
+31,Có,V
+31,khả năng,N
+31,giao tiếp,V
+31,",",CH
+31,đàm phán,V
+31,tốt,A
+31,.,CH
+32,Có,V
+32,khả năng,N
+32,giao tiếp,V
+32,tiếng,N
+32,Anh,Np
+32,khá,R
+33,Hiểu biết,N
+33,tốt,A
+33,về,R
+33,quản trị,V
+33,doanh nghiệp,N
+34,Tham mưu,V
+34,cho,E
+34,Ban,N
+34,Lãnh đạo,N
+34,công ty,N
+34,về,E
+34,các,L
+34,quyết định,N
+34,liên quan,V
+34,đến,E
+34,lĩnh vực,N
+34,Viễn thông,N
+34,",",CH
+34,CNTT,Np
+34,và,C
+34,SCADA,Np
+35,+,N
+35,Không ngại,V
+35,đi,V
+35,thị trường,N
+36,Nam,Np
+36,/,CH
+36,nữ,N
+36,",",CH
+36,Tuổi,N
+36,22,M
+36,đến,E
+36,40,M
+37,QUYỀN LỢI,N
+37,ĐƯỢC,Np
+37,HƯỞNG,Np
+38,Sử dụng,V
+38,tốt,A
+38,tin học,N
+38,văn phòng,N
+38,MS Office,Np
+38,.,CH
+39,3,M
+39,.,CH
+39,Có,V
+39,kỹ năng,N
+39,giao tiếp,V
+39,tốt,A
+39,",",CH
+39,biết,V
+39,cách,N
+39,sắp xếp,V
+39,quản lý,V
+39,công việc,N
+40,Nam,Np
+40,.,CH
+40,Tốt nghiệp,V
+40,:,CH
+40,Trung cấp,N
+40,trở,V
+40,lên,V
+40,chuyên ngành,N
+40,QTKD,Np
+40,",",CH
+40,kinh tế,N
+40,",",CH
+40,kế toán,N
+40,…,CH
+41,Tư duy,N
+41,logic,V
+41,;,CH
+41,Có thể,R
+41,làm việc,V
+41,dưới,E
+41,áp lực,N
+41,cao,A
+42,Có,V
+42,ít nhất,X
+42,05,M
+42,năm,N
+42,kinh nghiệm,N
+42,liên quan,V
+42,đến,E
+42,xây dựng,V
+42,/,CH
+42,kiểm định,V
+42,mô hình,N
+42,rủi ro,A
+42,",",CH
+42,cảnh báo,V
+42,sớm,A
+42,trong,E
+42,lĩnh vực,N
+42,Tài chính,N
+42,/,CH
+42,Ngân hàng,N
+42,;,CH
+43,Đóng,V
+43,BHYT,Np
+43,",",CH
+43,BHTN,Np
+43,",",CH
+43,BHXH,Np
+43,",",CH
+43,…,CH
+44,Sự nghiệp,N
+44,phát triển,V
+44,nhanh,A
+44,đi,V
+44,cùng,C
+44,với,E
+44,tiềm năng,N
+44,của,E
+44,bạn,N
+44,:,CH
+44,Ở,E
+44,Medici,Np
+44,",",CH
+44,chúng tôi,P
+44,mang,V
+44,đến,E
+44,cơ hội,N
+44,để,E
+44,Bạn,Np
+44,tỏa,V
+44,sáng,N
+44,.,CH
+44,Bạn,N
+44,đóng góp,V
+44,ý tưởng,N
+44,.,CH
+44,Bạn,N
+44,được,V
+44,cân nhắc,V
+44,ở,E
+44,vị trí,N
+44,xứng đáng,A
+44,.,CH
+44,Cơ hội,N
+44,phát triển,V
+44,khả năng,N
+44,và,C
+44,làm việc,V
+44,với,E
+44,các,L
+44,chuyên gia,N
+44,hàng đầu,N
+44,:,CH
+44,Chúng tôi,P
+44,tự hào,V
+44,là,V
+44,startup,N
+44,với,E
+44,những,L
+44,nhân sự,N
+44,giàu,A
+44,kinh nghiệm,N
+44,từ,E
+44,các,L
+44,doanh nghiệp,N
+44,lớn,A
+44,trong,E
+44,các,L
+44,lĩnh vực,N
+44,:,CH
+44,Bảo hiểm,N
+44,và,C
+44,công nghệ,N
+44,",",CH
+44,truyền thông,N
+44,và,C
+44,phát triển,V
+44,doanh nghiệp,N
+44,.,CH
+44,Môi trường,N
+44,làm việc,V
+44,năng động,A
+44,và,C
+44,đa dạng,V
+44,:,CH
+44,Chúng tôi,P
+44,đề cao,V
+44,đồng thời,R
+44,coi trọng,V
+44,sự,N
+44,đa dạng,A
+44,và,C
+44,hòa nhập,V
+44,.,CH
+44,Chúng tôi,P
+44,hướng,V
+44,đến,E
+44,kiến tạo,N
+44,một,M
+44,môi trường,N
+44,làm việc,V
+44,mở,V
+44,và,C
+44,có,V
+44,tầm,N
+44,nhìn,V
+44,chiến lược,N
+44,",",CH
+44,trong,E
+44,đó,P
+44,bạn,N
+44,là,V
+44,một,M
+44,nhân tố,N
+44,quan trọng,A
+44,và,C
+44,tạo,V
+44,điều kiện,N
+44,cho,E
+44,bạn,N
+44,phát triển,V
+44,mạnh mẽ,A
+44,.,CH
+44,Tạo,V
+44,ra,V
+44,ảnh hưởng,V
+44,đến,E
+44,xã hội,N
+44,:,CH
+44,Medici,Np
+44,không chỉ,C
+44,đặt,V
+44,trọng tâm,N
+44,trong,E
+44,việc,N
+44,bảo vệ,V
+44,cuộc sống,N
+44,của,E
+44,hàng,R
+44,triệu,M
+44,người dân,N
+44,và,C
+44,tạo,V
+44,ra,V
+44,các,L
+44,sáng kiến,N
+44,công nghệ,N
+44,",",CH
+44,mà,C
+44,chúng tôi,P
+44,đồng thời,R
+44,còn,R
+44,mở rộng,V
+44,tầm,N
+44,nhìn,V
+44,đến,E
+44,các,L
+44,khu vực,N
+44,còn,V
+44,nhiều,A
+44,khó khăn,A
+44,như,C
+44,Đắk Nông,Np
+44,",",CH
+44,Lai Châu,Np
+44,",",CH
+44,Côn Đảo,Np
+44,để,E
+44,giải quyết,V
+44,các,L
+44,vấn đề,N
+44,về,E
+44,bảo hiểm,N
+44,và,C
+44,sức khỏe,V
+44,.,CH
+45,T6,N
+45,+,N
+45,1,M
+45,ngày,N
+45,T7,Np
+45,trong,E
+45,tháng,N
+46,+,N
+46,Trung thực,A
+46,;,CH
+46,chính xác,A
+46,và,C
+46,trách nhiệm,N
+46,.,CH
+47,Khả năng,N
+47,phân tích,V
+47,",",CH
+47,tổng hợp,A
+47,",",CH
+47,lập,V
+47,kế hoạch,N
+47,tốt,A
+48,Có,V
+48,kiến thức,N
+48,marketing,FW
+48,căn bản,A
+48,và,C
+48,phân tích,V
+48,thị trường,N
+48,;,CH
+49,Kinh nghiệm,N
+49,:,CH
+49,tối thiểu,N
+49,2,M
+49,năm,N
+49,kinh nghiệm,N
+49,tại,E
+49,vị trí,N
+49,tương đương,A
+50,Được,V
+50,thưởng nhân,V
+50,các,L
+50,ngày,N
+50,lễ,N
+50,",",CH
+50,tết,N
+50,và,C
+50,các,L
+50,sự kiện,N
+50,đặc biệt,A
+50,của,E
+50,Ocean Edu,Np
+50,.,CH
+51,Education,Np
+51,",",CH
+51,Training level,V
+51,:,CH
+51,Bachelor’s,Np
+51,degree,V
+51,in,V
+51,journalism,N
+51,/,CH
+51,media,N
+51,/,CH
+51,marketing,FW
+51,or,N
+51,related,V
+51,majors,N
+51,.,CH
+52,Am,Np
+52,hiểu,V
+52,sâu sắc,A
+52,về,E
+52,Chuẩn mực,N
+52,Kế toán,N
+52,Việt Nam,Np
+52,và,C
+52,Luật Thuế,Np
+52,Việt Nam,Np
+53,Có,V
+53,kinh nghiệm,N
+53,làm việc,V
+53,liên quan,V
+53,đến,E
+53,ngành,N
+53,cơ khí,N
+53,chế tạo,V
+53,",",CH
+53,robot,FW
+53,",",CH
+53,tự động,A
+53,hóa,V
+53,.,CH
+54,Kỹ năng,N
+54,phân tích,V
+54,",",CH
+54,giải quyết,V
+54,vấn đề,N
+54,.,CH
+55,Các,L
+55,hoạt động,N
+55,văn hóa,V
+55,",",CH
+55,thiện nguyện,N
+55,phong phú,A
+55,và,C
+55,sôi nổi,A
+55,.,CH
+56,Ưu tiên,N
+56,ứng viên,V
+56,đã,R
+56,từng,R
+56,hợp tác,V
+56,với,E
+56,nhiều,A
+56,ngành hàng,N
+56,",",CH
+56,thương hiệu,N
+56,khác,A
+56,nhau,N
+57,Tiếng,N
+57,Anh,Nc
+57,:,CH
+57,giao tiếp,V
+58,Thời gian,N
+58,làm việc,V
+58,:,CH
+59,Tốt nghiệp,V
+59,Đại học,N
+59,hệ,N
+59,chính quy,V
+59,các,L
+59,trường,N
+59,thuộc,V
+59,khối,N
+59,ngành,N
+59,Kế toán,N
+59,/,CH
+59,Kinh tế,N
+59,/,CH
+59,Tài chính,N
+59,.,CH
+60,Độ,N
+60,tuổi,N
+60,từ,E
+60,1994,M
+61,3,M
+61,giá trị,N
+61,cốt lõi,N
+61,(,CH
+61,Trách nhiệm,N
+61,",",CH
+61,Hợp tác,V
+61,",",CH
+61,Tận tâm,N
+61,),CH
+62,3,M
+62,.,CH
+62,Có,V
+62,kinh nghiệm,N
+62,trong,E
+62,việc,N
+62,xúc tiến,V
+62,bán,V
+62,hàng,N
+62,xuất khẩu,V
+62,thông qua,V
+62,các,L
+62,mạng,N
+62,xã hội,N
+62,và,C
+62,các,L
+62,trang,N
+62,thương mại điện tử,N
+62,(,CH
+62,Alibaba,Np
+62,",",CH
+62,Amazon,Np
+62,..,N
+62,),CH
+63,Chịu,V
+63,được,R
+63,áp lực,V
+63,công việc,N
+63,và,C
+63,có,V
+63,dự định,V
+63,gắn bó,V
+63,lâu,A
+63,dàiKiến thức,A
+63,&,CH
+63,kỹ năng,N
+63,:,CH
+64,Sử dụng,V
+64,thành thạo,V
+64,các,L
+64,phần mềm,N
+64,văn phòng,N
+64,;,CH
+65,Kỹ năng,N
+65,giao tiếp,V
+65,tốt,A
+65,;,CH
+66,<,N
+66,Bắt buộc,V
+66,>,N
+66,1,M
+66,.,CH
+66,Trình độ,N
+66,học vấn,N
+66,:,CH
+66,Đại học2,N
+66,.,CH
+66,Có,V
+66,ít nhất,X
+66,2-3,M
+66,năm,N
+66,kinh nghiệm,N
+66,sales B2B,V
+66,cho,E
+66,các,L
+66,công ty,N
+66,sản xuất,V
+66,.,CH
+66,3,M
+66,.,CH
+66,Kỹ năng,N
+66,ngôn ngữ,N
+66,:,CH
+67,Yêu thích,V
+67,công việc,N
+67,",",CH
+67,chịu,V
+67,được,V
+67,áp lực,N
+67,công việc,N
+67,",",CH
+68,Có,V
+68,ít nhất,X
+68,từ,E
+68,1,M
+68,năm,N
+68,kinh nghiệm thu mua,M
+69,o,Nc
+69,Kỹ năng,N
+69,giao tiếp,V
+69,để,E
+69,trình bày,V
+69,và,C
+69,diễn giải,V
+69,các,L
+69,chủ đề,N
+69,về,E
+69,sức khỏe,N
+69,và,C
+69,an toàn,A
+69,.,CH
+70,+,N
+70,Làm việc,V
+70,tại,E
+70,Doanh nghiệp,N
+70,lớn,A
+70,là,C
+70,Chủ,N
+70,đầu tư,V
+70,",",CH
+70,hoạt động,V
+70,đa,V
+70,ngành nghề,N
+70,trong,E
+70,các,L
+70,lĩnh vực,N
+70,:,CH
+70,Bất động sản,N
+70,;,CH
+70,Sản xuất,V
+70,công nghiệp,N
+70,;,CH
+70,Năng lượng,N
+70,và,C
+70,các,L
+70,ngành,N
+70,Dịch vụ,N
+70,khác,A
+70,.,CH
+71,Demonstrated,N
+71,ability,N
+71,to,A
+71,structure,N
+71,complex,V
+71,problems,N
+71,",",CH
+71,derive,V
+71,insights,N
+71,from,V
+71,data,N
+71,",",CH
+71,and communicatewith,N
+71,diverse,V
+71,teams,N
+71,.,CH
+72,+,N
+72,Tốt nghiệp,V
+72,chuyên ngành,N
+72,:,CH
+72,tài chính,N
+72,",",CH
+72,kế toán,M
+73,Có,V
+73,kỹ năng,N
+73,giao tiếp,V
+73,tốt,A
+73,",",CH
+73,hợp tác,V
+73,đối với,E
+73,khách hàng,N
+73,nội bộ,V
+73,và,C
+73,khách hàng,N
+73,bên,N
+73,ngoài,N
+74,Thưởng,N
+74,lễ,N
+74,",",CH
+74,tết,N
+74,đầy đủ,A
+74,theo,V
+74,chính sách,N
+74,công ty,N
+74,.,CH
+75,Trình độ,N
+75,:,CH
+75,Tốt nghiệp,V
+75,Trung cấp,N
+75,dược,N
+75,hoặc,C
+75,các,L
+75,ngành,N
+75,cơ khí,N
+75,",",CH
+75,cơ điện,N
+75,",",CH
+75,vận hành,V
+75,thiết bị,N
+75,…,CH
+75,trở,V
+75,lên,V
+75,.,CH
+76,Tiếng,N
+76,Anh,Nc
+76,giao tiếp,V
+77,マネージメント経験,M
+78,Thời gian,N
+78,làm việc,V
+78,:,CH
+78,08,N
+78,h00,M
+79,*,CH
+79,Link ứng,V
+79,tuyển CTV,N
+79,:,CH
+79,http://bit.ly/Karofi,M
+80,Sử dụng,V
+80,thành thạo,N
+80,tin học,N
+80,văn phòng,N
+80,",",CH
+80,kỹ năng,N
+80,excel,N
+80,",",CH
+80,phần mềm,N
+80,kế toán,V
+80,tốt,A
+80,.,CH
+81,Có,V
+81,khả năng,N
+81,trả lời,V
+81,các,L
+81,câu,N
+81,hỏi,V
+81,hoặc,C
+81,khiếu nại,V
+81,phổ biến,V
+81,từ,E
+81,khách hàng,N
+81,",",CH
+81,đồng nghiệp,N
+81,và,C
+81,/,CH
+81,hoặc,C
+81,người,N
+81,giám sát,V
+81,.,CH
+82,Sôi nổi,A
+82,",",CH
+82,nhiệt tình,N
+82,",",CH
+82,đam mê,V
+82,công việc,N
+83,Kinh nghiệm,N
+83,liên quan,V
+83,từ,E
+83,6,M
+83,tháng,N
+83,trở,V
+83,lên,V
+84,Tự động,N
+84,hóa,V
+84,.,CH
+84,+,N
+84,Tại,E
+84,Bình Thuận,Np
+84,:,CH
+84,Nhân viên,N
+84,vận hành,V
+84,Nhà máy,N
+84,điện,N
+84,Năng lượng,M
+85,Analytical,N
+85,&,CH
+85,Critical,Ny
+85,thinking,V
+85,skill,N
+85,/,CH
+85,Kỹ năng,N
+85,Phân tích,V
+85,&,CH
+85,Phản biện,M
+86,ưu tiên,V
+86,hồ sơ,N
+86,nộp,V
+86,sớm,A
+87,Tốt nghiệp,V
+87,Đại học,N
+87,Dược sĩ,N
+87,",",CH
+87,Bác sĩ,N
+87,",",CH
+87,Luật sư,N
+87,",",CH
+87,...,CH
+88,Có,V
+88,2,M
+88,năm,N
+88,kinh nghiệm,N
+88,trở,V
+88,lên,V
+88,làm việc,V
+88,về,E
+88,các,L
+88,sản phẩm,N
+88,lưu hóa,V
+88,cao su,N
+88,",",CH
+88,xốp,N
+88,",",CH
+88,cắt,V
+88,dập,V
+88,…,CH
+89,BHYT,Np
+89,",",CH
+89,BHXH,Np
+89,",",CH
+89,các,L
+89,quyền lợi,N
+89,cơ bản,A
+89,khác,A
+89,của,E
+89,người,N
+89,lao động,V
+89,.,CH
+90,Trao đổi,V
+90,thêm,V
+90,khi,N
+90,phỏng vấn,V
+91,Trung thực,N
+91,",",CH
+91,chăm chỉ,A
+91,",",CH
+91,cẩn thận,A
+91,",",CH
+91,chủ động,N
+91,trong,E
+91,công việc,N
+91,",",CH
+91,mong muốn,V
+91,rèn luyện,N
+91,để,E
+91,nâng,V
+91,cao,A
+91,kiến thức,N
+91,chuyên môn,N
+91,và,C
+91,kinh nghiệm,N
+91,quản lý,V
+91,dự án,N
+91,.,CH
+92,Chuyên ngành,N
+92,(,CH
+92,Major,Np
+92,),CH
+92,:,CH
+92,Lễ tân,N
+92,",",CH
+92,Hành chính,N
+92,",",CH
+92,Du lịch,V
+92,",",CH
+92,QTKD,Np
+92,",",CH
+92,Ngoại ngữ,N
+92,",",CH
+92,Kế toán,N
+92,",",CH
+92,…,CH
+93,·,N
+93,Tìm Kiếm,Np
+93,và,C
+93,ký,V
+93,Hợp đồng,N
+93,đối tác,N
+93,",",CH
+93,phát triển,V
+93,và,C
+93,quản lý,V
+93,nhóm,N
+93,đội ngũ,N
+93,cộng tác,V
+93,viêntham gia,N
+93,",",CH
+93,thực hiện,V
+93,các,L
+93,chương trình,N
+93,",",CH
+93,sự kiện,N
+93,",",CH
+93,mục tiêu,N
+93,của,E
+93,cấp,N
+93,trên,N
+93,đề,V
+93,ra,V
+94,01,M
+94,năm,N
+94,kinh nghiệm,N
+94,ở,E
+94,vị trí,N
+94,Trưởng,Np
+94,nhóm,N
+94,chính sách,N
+94,hoặc,C
+94,02,V
+94,năm,N
+94,kinh nghiệm,N
+94,triển khai,V
+94,các,L
+94,dự án,N
+94,quản trị,V
+94,nhân sự,N
+94,hiện đại,A
+94,",",CH
+94,xây dựng,V
+94,chính sách,N
+94,nhân sự,A
+94,",",CH
+94,thiết kế,V
+94,tổ chức,V
+94,bộ máy,M
+95,2,M
+95,),CH
+95,Tốt nghiệp,V
+95,Cao đẳng,N
+95,/,CH
+95,Đại học,N
+95,các,L
+95,trường,N
+95,Mỹ Thuật,Np
+95,Công nghiệp,N
+95,",",CH
+95,Kiến trúc,N
+95,",",CH
+95,FPT,Np
+95,…,CH
+96,Tối thiểu,N
+96,5,M
+96,năm,N
+96,kinh nghiệm,N
+96,.,CH
+97,Hiểu biết,V
+97,về,E
+97,Digital Marketing,Np
+97,là,V
+97,một,M
+97,lợi thế,N
+97,.,CH
+98,QUYỀN LỢI,N
+98,ỨNG VIÊN,Np
+99,Được,V
+99,tham gia,V
+99,du lịch,V
+99,cùng,C
+99,công ty,N
+99,và,C
+99,các,L
+99,hoạt động,N
+99,Team,Np
+100,Có,V
+100,1,M
+100,năm,N
+100,kinh nghiệm,N
+100,ở,E
+100,vị trí,N
+100,tương đương,A
+101,1,M
+101,.,CH
+101,Tin học,N
+101,văn phòng,N
+101,tốt,A
+102,THÔNG TIN,N
+102,KHÁC,A
+103,Làm việc,V
+103,trong,E
+103,môi trường,N
+103,:,CH
+103,Cởi mở,M
+104,QUYỀN LỢI,N
+104,:,CH
+105,·,N
+105,Kỹ năng,N
+105,giải quyết,V
+105,vấn đề,N
+105,tốt,A
+106,Được,V
+106,hưởng,V
+106,đầy đủ,A
+106,các,L
+106,chế độ,N
+106,theo,V
+106,quy định,N
+106,của,E
+106,pháp luật,N
+107,·,N
+107,Có,V
+107,5,M
+107,năm,N
+107,kinh nghiệm,N
+107,làm,V
+107,vị trí,N
+107,trưởng,N
+107,phòng,N
+107,Nhân sự,N
+107,hoặc,C
+107,các,L
+107,vị trí,N
+107,tương đương,A
+107,;,CH
+108,Tạo,V
+108,động lực,N
+109,Tốt nghiệp,V
+109,Cao đẳng,N
+109,/,CH
+109,Đại học,N
+109,các,L
+109,chuyên ngành,N
+109,Kế toán,N
+109,",",CH
+109,Nhân sự,N
+109,",",CH
+109,Luật,Np
+109,hoặc,C
+109,các,L
+109,chuyên ngành,N
+109,khác,A
+109,có,V
+109,liên quan,V
+110,•,N
+110,Ít nhất,X
+110,5,M
+110,năm,N
+110,kinh nghiệm,N
+110,quản lý,V
+110,đội ngũ,N
+110,bảo trì,N
+110,",",CH
+110,sửa chữa,V
+110,",",CH
+110,kỹ thuật,N
+110,.,CH
+111,Ưu tiên,N
+111,Có,V
+111,từ,E
+111,1,M
+111,đến,E
+111,2,M
+111,năm,N
+111,kinh nghiệm,N
+111,Customer,Np
+111,Service,Np
+111,/,CH
+111,Purchasing,Np
+111,/,CH
+111,Merchadise,Np
+111,/,CH
+111,có,V
+111,mục tiêu,N
+111,làm,V
+111,lâu dài,A
+111,trong,E
+111,ngành,N
+111,may mặc,N
+111,.,CH
+112,Yêu cầu,N
+112,:,CH
+112,Nộp,V
+112,hồ sơ,N
+112,tiếng,N
+112,Anh,Np
+113,Cơ hội,N
+113,được,V
+113,tham gia,V
+113,các,L
+113,khóa,N
+113,đào tạo,V
+113,",",CH
+113,phát triển,V
+113,nghề nghiệp,N
+113,và,C
+113,thăng tiến,N
+113,trong,E
+113,công việc,N
+114,Hiểu biết,V
+114,về,E
+114,cơ khí,N
+114,chế tạo máy,N
+114,",",CH
+114,CNC,Np
+114,",",CH
+114,...,CH
+115,Thưởng,Np
+115,hấp dẫn,V
+115,:,CH
+115,thưởng,V
+115,lương,N
+115,tháng,N
+115,13,M
+115,+,N
+115,thưởng,V
+115,theo,V
+115,đánh giá,V
+115,năng lực,N
+115,+,V
+115,thưởng,V
+115,kinh doanh,V
+115,;,CH
+116,Được,V
+116,đóng BH,V
+116,đầy đủ,A
+116,sau,N
+116,2,M
+116,tháng,N
+116,thử,V
+116,việc,N
+116,.,CH
+117,ngân hàng,N
+117,),CH
+118,Kỹ năng,N
+118,tư vấn,V
+118,&,CH
+118,chăm sóc,V
+118,khách hàng,N
+119,Kiến thức,N
+119,triển khai,V
+119,dự án,N
+119,với,E
+119,các,L
+119,phương pháp,N
+119,khác,A
+119,nhau,N
+119,như,C
+119,agile,N
+119,",",CH
+119,water,M
+120,Tuổi,N
+120,:,CH
+120,20,M
+121,Có,V
+121,mối,N
+121,quan hệ,N
+121,xã hội,N
+121,rộng,A
+121,",",CH
+121,có,V
+121,khả năng,N
+121,xây dựng,V
+121,và,C
+121,phát triển,V
+121,quan hệ,N
+121,với,E
+121,những,L
+121,KH,Np
+121,có,V
+121,thu nhập,N
+121,khá giả,A
+121,",",CH
+121,các,L
+121,KH,Np
+121,có,V
+121,vị trí,N
+121,XH,Np
+121,cao,A
+121,",",CH
+121,...,CH
+122,10,M
+122,.,CH
+122,Capacity,Np
+122,/,CH
+122,capability,N
+122,planning,V
+122,:,CH
+122,Introductory,Np
+123,Hiểu biết,V
+123,các,L
+123,Quy định,N
+123,của,E
+123,Pháp luật,N
+123,đặc biệt,A
+123,là,C
+123,các,L
+123,quy định,N
+123,liên quan,V
+123,đến,E
+123,các,L
+123,lĩnh vực,N
+123,kinh doanh,V
+123,của,E
+123,NHBL,Np
+123,;,CH
+123,4,M
+123,.,CH
+123,Năng lực,N
+123,:,CH
+124,Ưu tiên,N
+124,ứng viên,V
+124,có,V
+124,sở trường,N
+124,kinh doanh,V
+124,ngành,N
+124,vật liệu,N
+124,xây dựng,V
+124,",",CH
+124,tôn thép,N
+124,là,V
+124,một,M
+124,lợi thế,N
+124,.,CH
+125,Giao tiếp,V
+125,khéo léo,A
+125,",",CH
+125,tinh tế,N
+125,.,CH
+126,Tốt nghiệp,V
+126,cao đẳng,N
+126,",",CH
+126,đại học,N
+126,chuyên ngành,N
+126,truyền thông,A
+126,",",CH
+126,điện ảnh,N
+126,",",CH
+126,công nghệ thông tin,N
+126,và,C
+126,các,L
+126,chuyên ngành,N
+126,có,V
+126,liên quan,V
+126,.,CH
+127,Over,N
+127,3,M
+127,years,N
+127,accounting,M
+128,4,M
+128,.,CH
+128,Năng lực,N
+128,(,CH
+128,Kĩ năng,M
+128,/,CH
+128,Khả năng,N
+128,),CH
+128,:,CH
+129,·,N
+129,Ngoại ngữ,N
+129,:,CH
+129,Tiếng,N
+129,anh,Nc
+129,cấp độ,V
+129,từ,E
+129,B1,Np
+129,trở,V
+129,lên,V
+129,hoặc,C
+129,tương đương,A
+130,Có,V
+130,kinh nghiệm,N
+130,từ,E
+130,5,M
+130,năm,N
+130,ở,E
+130,vị trí,N
+130,Trưởng,Np
+130,Ban,N
+130,Quản lý,V
+130,thiết kế,V
+130,của,E
+130,Chủ,N
+130,đầu tư,V
+131,Đọc,V
+131,hiểu,V
+131,bản vẽ,N
+131,kỹ thuật,N
+131,",",CH
+131,sử dụng,V
+131,thành thạo,N
+131,Tin học,N
+131,văn phòng,N
+131,:,CH
+131,Word,Np
+131,",",CH
+131,Excel,Np
+131,",",CH
+131,Các,L
+131,phần mềm,N
+131,thiết kế,V
+131,:,CH
+131,Autocad,Np
+131,",",CH
+131,3D max,N
+131,",",CH
+131,Sketchup,Np
+131,",",CH
+131,vray,N
+131,hoặc,C
+131,phần mềm,N
+131,tương đương,A
+132,Sử dụng,V
+132,cơ bản,A
+132,các,L
+132,chức năng,N
+132,tin học,N
+132,văn phòng,N
+133,Có,V
+133,khả năng,N
+133,viết,V
+133,tốt,A
+133,",",CH
+133,đam mê,V
+133,trong,E
+133,lĩnh vực,N
+133,quảng cáo,V
+133,",",CH
+133,thương hiệu,N
+133,.,CH
+134,Có,V
+134,ít nhất,X
+134,2,M
+134,năm,N
+134,kinh nghiệm,N
+134,lĩnh vực,N
+134,Sales B2B,Np
+134,",",CH
+134,hoặc,C
+134,2,M
+134,năm,N
+134,kinh nghiệm,N
+134,lĩnh vực,N
+134,B2C,Np
+134,",",CH
+134,từng,R
+134,công tác,N
+134,vị trí,N
+134,và,C
+134,có,V
+134,cùng,A
+134,lĩnh vực,N
+134,đèn,N
+134,chiếu,N
+134,sáng,A
+134,là,V
+134,lợi thế,N
+134,.,CH
+135,Có,V
+135,2,M
+135,năm,N
+135,kinh nghiệm,N
+135,trở,V
+135,lên,V
+135,ở,E
+135,vị trí,N
+135,tương đương,A
+135,.,CH
+136,Khả năng,N
+136,tư duy,V
+136,logic,N
+136,.,CH
+137,•,V
+137,Kinh nghiệm,N
+137,làm việc,V
+137,trong,E
+137,công ty,N
+137,EPE,Np
+138,Mong muốn,V
+138,làm,V
+138,quản lý,V
+138,điều hành,V
+138,công việc,N
+138,chế biến,V
+138,thực phẩm,N
+138,",",CH
+138,quản lý,V
+138,chất lượng,N
+138,",",CH
+138,QA,Np
+138,",",CH
+138,QC,Np
+139,Tư duy,N
+139,logic,N
+139,",",CH
+139,sáng tạo,M
+140,Có,V
+140,kinh nghiệm,N
+140,về,V
+140,ngành hàng,V
+140,gia dụng,N
+140,là,V
+140,1,M
+140,lợi thế,N
+140,.,CH
+141,NHẬN,V
+141,VIỆC,N
+141,NGAY,T
+141,:,CH
+142,3,M
+142,.,CH
+142,Lưu ý,V
+142,:,CH
+143,Các,L
+143,chế độ,N
+143,đãi ngộ,N
+143,khác,A
+143,theo,V
+143,quy định,N
+143,.,CH
+144,Ưu tiên,N
+144,ứng viên,V
+144,có,V
+144,bằng,E
+144,định hướng,N
+144,chuyên khoa,N
+144,da liễu,N
+144,",",CH
+144,Bác sĩ,N
+144,da liễu,N
+144,có,V
+144,kinh nghiệm,N
+144,thẩm mỹ,N
+144,",",CH
+144,laser,N
+144,.,CH
+145,Có,V
+145,tốc độ,N
+145,đánh máy,N
+145,tối thiểu,A
+145,40,M
+145,–,CH
+145,45,M
+145,từ,E
+145,/,M
+145,phút,Nu
+145,và,C
+145,khả năng,N
+145,phát hiện,V
+145,lỗi,N
+145,chính tả,N
+145,.,CH
+146,Địa điểm,N
+146,làm việc,V
+146,:,CH
+146,Số,N
+146,10,M
+146,Lý Tự Trọng,Np
+146,",",CH
+146,Phường,Np
+146,Bến Nghé,Np
+146,",",CH
+146,Quận,N
+146,1,M
+146,",",CH
+146,HCM,Np
+146,hoặc,C
+146,41A Lý,N
+146,Thái Tổ,Np
+146,",",CH
+146,Quận,Np
+146,Hoàn Kiếm,Np
+146,",",CH
+146,Hà Nội,Np
+146,.,CH
+147,Kĩ năng,N
+147,phỏng vấn,V
+147,",",CH
+147,đào tạo,V
+148,3,M
+148,.,CH
+148,Kiến thức,N
+148,:,CH
+149,Kỹ năng,N
+149,giao tiếp,V
+149,:,CH
+149,Kỹ năng,N
+149,giao tiếp,V
+149,tốt,A
+149,",",CH
+149,truyền tải,N
+149,hấp dẫn,V
+149,và,C
+149,đầy đủ,A
+149,các,L
+149,thông tin,N
+149,cần,V
+149,trình bày,V
+149,;,CH
+150,Yêu Cầu,N
+150,:,CH
+151,3,M
+151,.,CH
+151,Kiến thức,N
+151,:,CH
+152,Có,V
+152,kinh nghiệm,N
+152,về,V
+152,thiết kế,V
+152,tổ chức,V
+152,",",CH
+152,quản trị,V
+152,nhân sự,N
+152,ít nhất,X
+152,3,M
+152,năm,M
+153,Ưu tiên,N
+153,ứng viên,V
+153,theo,V
+153,học,V
+153,ACCA,Np
+153,hoặc,C
+153,CPA,Np
+153,.,CH
+154,Các,L
+154,ứng viên,N
+154,đã,R
+154,có,V
+154,kinh nghiệm,N
+154,bán,V
+154,hàng,N
+154,hoặc,C
+154,từng,R
+154,làm,V
+154,qua,E
+154,các,L
+154,công việc,N
+154,như,C
+154,:,CH
+154,tiếp thị,V
+154,",",CH
+154,nghiên cứu,V
+154,thị trường,N
+154,",",CH
+154,phỏng vấn viên,N
+154,…,CH
+154,là,V
+154,một,M
+154,lợi thế,N
+154,.,CH
+155,–,CH
+155,Chế độ,N
+155,du lịch,V
+155,và,C
+155,khám,V
+155,sức,N
+155,khỏe,V
+155,thường niên,V
+155,theo,V
+155,quy định,N
+155,của,E
+155,Công ty,N
+155,.,CH
+156,Mức,N
+156,lương,N
+156,:,CH
+156,14,M
+156,–,CH
+156,17,M
+156,triệu,M
+156,.,CH
+157,Tốt nghiệp,V
+157,12/12,N
+157,",",CH
+157,có,V
+157,kinh nghiệm,N
+157,bán,V
+157,hàng,N
+157,(,CH
+157,không,R
+157,bắt buộc,V
+157,đã,R
+157,làm,V
+157,qua,V
+157,kênh,N
+157,siêu thị,N
+157,),CH
+157,",",CH
+157,chịu khó,A
+157,",",CH
+157,không,R
+157,ngại,V
+157,công tác,N
+157,.,CH
+158,3,M
+158,.,CH
+158,Quyền lợi,N
+158,:,CH
+159,Chịu,V
+159,được,R
+159,áp lực,V
+159,công việc,N
+159,",",CH
+159,tính,V
+159,chủ động,N
+159,cao,A
+159,.,CH
+160,Ứng viên,N
+160,chứng chỉ,N
+160,ACCA,Np
+160,",",CH
+160,CMA,Np
+160,",",CH
+160,CIMA,Np
+160,là,V
+160,lợi thế,M
+161,Chứng chỉ,N
+161,:,CH
+161,Văn bằng,N
+161,",",CH
+161,chứng chỉ,N
+161,liên quan,V
+161,(,CH
+161,nếu,C
+161,có,V
+161,),CH
+161,.,CH
+162,Mức,N
+162,lương,N
+162,thưởng,V
+162,hấp dẫn,V
+162,",",CH
+162,thỏa thuận,N
+162,xứng đáng,A
+162,và,C
+162,phù hợp,V
+162,với,E
+162,năng lực,N
+162,;,CH
+162,cạnh tranh,V
+162,so,V
+162,với,E
+162,thị trường,N
+163,Thời gian,N
+163,làm việc,V
+163,:,CH
+163,Từ,Np
+163,T2,Np
+164,Ưu tiên,N
+164,có,V
+164,kinh nghiệm,N
+164,làm việc,V
+164,từ,E
+164,06,M
+164,tháng,N
+165,–,CH
+165,Môi trường,N
+165,làm việc,V
+165,quốc tế,N
+165,chuyên nghiệp,A
+165,",",CH
+165,trẻ trung,A
+165,và,C
+165,năng động,A
+165,.,CH
+166,Đối tượng,N
+166,:,CH
+166,Nam,Np
+166,/,CH
+166,Nữ,N
+166,(,CH
+166,Ưu tiên,V
+166,ứng viên,N
+166,là,V
+166,Nam giới,N
+166,),CH
+167,Cân nhắc,V
+167,về,E
+167,cơ hội,N
+167,làm việc,V
+167,tại,E
+167,Medici,Np
+167,?,CH
+167,Dưới,E
+167,đây,P
+167,là,V
+167,top,N
+167,4,M
+167,yếu tố,N
+167,quan trọng,A
+167,về,E
+167,Medici,Np
+167,:,CH
+168,khách hàng,N
+168,đại lý,N
+168,…,CH
+168,",",CH
+168,có,V
+168,mối,N
+168,quan hệ,N
+168,khách hàng,N
+168,trong,E
+168,lĩnh vực,N
+168,cơ,N
+168,điện lạnh,V
+168,.,CH
+169,Quyền lợi,N
+170,Tốt nghiệp,V
+170,chuyên ngành,N
+170,quản trị,V
+170,/,CH
+170,kinh tế,N
+171,–,CH
+171,Có,V
+171,trách nhiệm,N
+172,Linh hoạt,N
+172,",",CH
+172,sáng tạo,N
+172,",",CH
+172,thích nghi,V
+172,với,E
+172,thay đổi,V
+172,",",CH
+172,khả năng,N
+172,quan sát,V
+172,",",CH
+172,đam mê,V
+172,nghề nghiệp,N
+173,25,M
+173,triệu,M
+173,+,N
+173,Thưởng,Np
+173,hàng,N
+173,quý,M
+174,Có,V
+174,từ,E
+174,3,M
+174,năm,N
+174,trở,V
+174,lên,V
+174,ở,E
+174,vị trí,N
+174,tương đương,A
+174,.,CH
+175,2,M
+175,.,CH
+175,Không,R
+175,yêu cầu,V
+175,về,E
+175,kinh nghiệm,N
+176,khách sạn,N
+176,.,CH
+176,Ưu tiên,N
+176,có,V
+176,chứng chỉ,N
+176,Quản lý,V
+176,hoặc,C
+176,Điều hành,V
+176,du lịch,V
+176,.,CH
+177,Đóng,V
+177,bảo hiểm xã hội,N
+177,và,C
+177,các,L
+177,chế độ,N
+177,khác,A
+177,đầy đủ,A
+177,theo,V
+177,Quy định,N
+177,",",CH
+177,lương,N
+177,thưởng,V
+177,tháng,N
+177,13,M
+177,hấp dẫn,N
+178,Hiểu biết,N
+178,về,E
+178,các,L
+178,thiết bị,N
+178,",",CH
+178,hạ tầng,N
+178,viễn thông,V
+178,sẽ,R
+178,là,V
+178,một,M
+178,lợi thế,N
+178,.,CH
+179,Hiểu biết,N
+179,lĩnh vực,N
+179,ngân hàng,N
+179,",",CH
+179,các,L
+179,sản phẩm,N
+179,của,E
+179,khách hàng,N
+179,cá nhân,N
+180,·,N
+180,Có,V
+180,mục tiêu,N
+180,và,C
+180,định hướng,V
+180,phát triển,V
+180,công việc,N
+180,rõ ràng,A
+180,.,CH
+181,1,M
+181,.,CH
+181,Trình độ,N
+181,học vấn,N
+181,/,CH
+181,chuyên môn,N
+181,:,CH
+182,5,M
+182,.,CH
+182,Kỹ năng,N
+182,xây dựng,V
+182,mối,N
+182,quan hệ,N
+182,(,CH
+182,networking,M
+182,),CH
+183,Thời hạn,N
+183,nhận,V
+183,hồ sơ,N
+183,:,CH
+184,Kỹ năng,N
+184,:,CH
+185,Nghỉ phép,M
+185,năm,N
+185,",",CH
+185,nghỉ,V
+185,lễ tết,V
+185,theo,V
+185,quy định,N
+185,của,E
+185,luật,N
+185,.,CH
+185,Được,V
+185,cộng,V
+185,thêm,V
+185,1,M
+185,ngày,N
+185,nghỉ phép,M
+185,năm,N
+185,ngay,T
+185,sau,N
+185,năm,N
+185,làm việc,V
+185,đầu tiên,A
+186,Được,V
+186,tham gia,V
+186,các,L
+186,chương trình,N
+186,teambuilding,V
+186,",",CH
+186,du lịch,V
+186,",",CH
+186,nghỉ mát,M
+187,Chế độ,N
+187,đãi ngộ,V
+187,:,CH
+188,Có,V
+188,từ,E
+188,7,M
+188,năm,N
+188,kinh nghiệm,N
+188,trong,E
+188,mảng,Nc
+188,Tài Chính,Np
+188,",",CH
+188,Kế toán,N
+188,hoặc,C
+188,Ngân hàng,N
+188,.,CH
+188,Ưu tiên,V
+188,Ứng viên,N
+188,đã,R
+188,có,V
+188,kinh nghiệm,N
+188,trong,E
+188,mảng,Nc
+188,Tài Chính,Np
+188,Nguồn,Np
+188,vốn,R
+188,",",CH
+188,Huy động,V
+188,vốn,N
+188,tại,E
+188,Công ty,N
+188,Tập đoàn,N
+188,có,V
+188,quy mô,N
+188,lớn,A
+188,.,CH
+189,Họ,P
+189,và,C
+189,tên,N
+190,Kỹ năng,N
+190,giao tiếp,V
+190,",",CH
+190,đàm phán,N
+190,giải quyết,V
+190,mâu thuẫn,V
+190,tốt,A
+190,;,CH
+191,Khả năng,N
+191,truyền đạt,V
+191,thông tin,N
+191,tốt,A
+191,",",CH
+192,Link tải,N
+192,CV,Np
+192,:,CH
+192,https://www.mediafire.com/file/ny72qyrpkxclw2n/Form_CV_TPBank.DOC/file,M
+193,Knowledge,N
+193,of technology,N
+193,",",CH
+193,business,N
+193,",",CH
+193,marketing,FW
+193,",",CH
+193,and innovation,N
+193,.,CH
+193,Familiar,Np
+193,with,N
+193,POS,Np
+193,systems,V
+193,&,CH
+193,CRM,Ny
+193,.,CH
+194,Chịu,V
+194,được,R
+194,áp lục,V
+194,công việc,N
+195,Chế độ,N
+195,nâng,V
+195,lương,N
+195,xét duyệt,V
+195,vào,E
+195,năng lực,N
+195,thực tế,N
+195,đối với,E
+195,nhân viên,N
+195,làm việc,V
+195,từ,E
+195,đủ,A
+195,12,M
+195,tháng,N
+195,trở,V
+195,lên,V
+196,1,M
+196,.,CH
+196,Tự tin,V
+196,",",CH
+196,kỹ năng,N
+196,giao tiếp,V
+196,",",CH
+196,xử lý,V
+196,tình huống,N
+196,và,C
+196,kỹ năng,N
+196,làm việc,V
+196,nhóm,N
+196,;,CH
+197,Quyền lợi,N
+198,Tổ chức,N
+198,sự kiện,N
+198,.,CH
+199,Nhiệt tình,N
+199,",",CH
+199,chịu khó,A
+199,",",CH
+199,có,V
+199,tinh thần,N
+199,trách nhiệm,N
+199,.,CH
+200,Quyền lợi,N
+200,:,CH
+201,2,M
+201,.,CH
+201,QUYỀN LỢI,Np
+201,ỨNG VIÊN,Np
+201,:,CH
+202,Experience,Np
+202,with,V
+202,Python is,N
+202,a,N
+202,plus,M
+203,CV,Np
+203,(,CH
+203,tiếng,N
+203,việt,M
+203,),CH
+203,",",CH
+203,các,L
+203,mẫu,N
+203,thiết kế,V
+203,đã,R
+203,làm,V
+203,",",CH
+203,Bằng cấp,V
+203,chứng chỉ,N
+203,liên quan,V
+204,Có,V
+204,kiến thức,N
+204,cơ bản,A
+204,về,E
+204,xử lý,V
+204,nước thải,N
+204,và,C
+204,các,L
+204,phương tiện,N
+204,bảo vệ,V
+204,môi trường,N
+204,.,CH
+205,Tư duy,N
+205,đặt,V
+205,khách hàng,N
+205,làm,V
+205,trung tâm,N
+205,.,CH
+206,Có,V
+206,khả năng,N
+206,đọc,V
+206,hiểu,V
+206,",",CH
+206,dịch,N
+206,được,V
+206,tài liệu,N
+206,tiếng,N
+206,Anh,Np
+206,chuyên ngành,V
+206,",",CH
+206,có,V
+206,khả năng,N
+206,giao tiếp,V
+206,được,R
+206,tiếng,N
+206,Anh,Np
+206,mức độ,V
+206,trung bình,A
+206,khá,R
+206,trở,V
+206,lên,V
+206,.,CH
+207,Được,V
+207,thưởng nhân,V
+207,các,L
+207,ngày,N
+207,lễ,N
+207,",",CH
+207,tết,N
+207,và,C
+207,các,L
+207,sự kiện,N
+207,đặc biệt,A
+207,của,E
+207,Ocean Edu,Np
+207,.,CH
+208,Đạo đức,N
+208,nghề nghiệp,N
+208,tốt,A
+208,",",CH
+208,có,V
+208,tinh thần,N
+208,cầu tiến,A
+208,",",CH
+208,học hỏi,V
+208,và,C
+208,chủ động,V
+208,trong,E
+208,công việc,N
+208,.,CH
+209,●,N
+209,Kỹ năng,N
+209,giao tiếp,V
+209,bằng,E
+209,Tiếng,N
+209,Anh,Np
+209,là,V
+209,một,M
+209,lợi thế,N
+209,.,CH
+210,Quyền lợi,N
+211,Thu nhập,N
+211,không,R
+211,giới hạn,V
+211,",",CH
+211,tùy,N
+211,thuộc,V
+211,vào,E
+211,khả năng,N
+211,.,CH
+212,Địa điểm,N
+212,làm việc,V
+212,:,CH
+212,489,N
+212,Hoàng Quốc Việt,Np
+212,",",CH
+212,Cổ Nhuế,Np
+212,",",CH
+212,Cầu Giấy,Np
+212,",",CH
+212,Hà Nội,Np
+213,Làm,V
+213,tại,E
+213,Công ty,N
+213,dẫn đầu,V
+213,thị trường,N
+213,nội thất,N
+213,và,C
+213,vật liệu,N
+213,xây dựng,V
+213,cao cấp,A
+213,.,CH
+214,Có,V
+214,sức,N
+214,khỏe,V
+214,tốt,A
+214,.,CH
+215,Tác phong,N
+215,làm việc,V
+215,nhanh nhẹn,A
+215,",",CH
+215,trung thực,A
+215,",",CH
+215,chính xác,A
+215,",",CH
+215,có,V
+215,trách nhiệm,N
+215,",",CH
+215,có,V
+215,ý thức,N
+215,tự giác,A
+215,",",CH
+215,chủ động,N
+215,trong,E
+215,công việc,N
+215,.,CH
+216,+,N
+216,Tin học,N
+216,văn phòng,N
+216,thành thạo,A
+216,;,CH
+217,Kỹ năng,N
+217,giao tiếp,V
+217,",",CH
+217,thuyết phục,V
+217,khách hàng,N
+218,Bằng cấp,N
+218,:,CH
+218,Tốt nghiệp,V
+218,đại học,N
+218,chuyên ngành,N
+218,kinh tế,N
+218,",",CH
+218,tài chính,N
+218,",",CH
+218,ngân hàng,N
+218,hoặc,C
+218,tương đương,A
+218,.,CH
+219,Khả năng,N
+219,học hỏi,V
+219,và,C
+219,cập nhật,M
+220,Tốt nghiệp,V
+220,đại học,N
+220,hoặc,C
+220,cao đẳng,M
+221,1,M
+221,.,CH
+221,Nam,Np
+221,",",CH
+221,nữ,N
+221,.,CH
+221,Tốt nghiệp,V
+221,:,CH
+221,Trung cấp,N
+221,trở,V
+221,lên,V
+222,Quyền lợi,N
+222,được,V
+222,hưởng,V
+223,12,M
+223,h00,N
+224,Tinh thần,N
+224,học hỏi,V
+224,và,C
+224,cầu tiến,V
+224,.,CH
+225,Quyền lợi,N
+225,được,V
+225,hưởng,V
+225,:,CH
+226,Thành thạo,N
+226,tin học,N
+226,văn phòng,N
+226,",",CH
+226,có,V
+226,kỹ năng,N
+226,Tiếng,Np
+226,Anh,Np
+226,cơ bản,A
+226,(,CH
+226,nghe,V
+227,●,N
+227,Có,V
+227,mong muốn,V
+227,làm việc,V
+227,lâu dài,A
+227,tại,E
+227,công ty,N
+227,.,CH
+228,Khả năng,N
+228,làm việc,V
+228,độc lập,N
+228,",",CH
+228,làm việc,V
+228,nhóm,N
+228,tốt,A
+229,·,N
+229,Trình độ,N
+229,học vấn,N
+229,:,CH
+229,Đại học,N
+229,trở,V
+229,lên,V
+229,.,CH
+230,•,N
+230,Có,V
+230,tinh thần,N
+230,trách nhiệm,N
+230,cao,A
+230,và,C
+230,kỹ năng,N
+230,làm việc,V
+230,nhóm,N
+230,",",CH
+230,chịu,V
+230,được,V
+230,áp lực,N
+230,công việc,N
+231,Ưu tiên,N
+231,sử dụng,V
+231,thành thạo,N
+231,máy vi tính,N
+231,",",CH
+231,Word,Np
+231,",",CH
+231,Excel,Np
+231,.,CH
+232,Mức,N
+232,lương,N
+232,khởi điểm,N
+232,11-13,M
+232,triệu,M
+232,/,CH
+232,tháng,N
+232,+,V
+232,thưởng,V
+232,.,CH
+233,Làm việc,V
+233,từ,E
+233,thứ,N
+233,2,M
+233,đến,E
+233,thứ,N
+233,7,M
+233,hàng,N
+233,tuần,N
+233,(,CH
+233,nghỉ,V
+233,Chủ nhật,N
+233,),CH
+234,Khả năng,N
+234,làm việc,V
+234,độc lập,A
+234,và,C
+234,khả năng,N
+234,chủ động,V
+234,đưa,V
+234,ra,V
+234,ý tưởng,N
+234,cho,E
+234,các,L
+234,tình huống,N
+234,khách hàng,N
+234,.,CH
+235,Bộ,N
+235,hồ sơ,N
+235,đầy đủ,A
+235,chỉ,R
+235,nộp,V
+235,khi,N
+235,ứng viên,V
+235,phỏng vấn,V
+235,có,V
+235,kết quả,N
+235,đạt,V
+235,.,CH
+236,Năng động,N
+236,",",CH
+236,chịu khó,A
+236,",",CH
+236,ham,V
+236,học hỏi,V
+236,;,CH
+237,Du lịch,V
+237,cùng với,N
+237,công ty,N
+238,·,N
+238,Có,V
+238,kỹ năng,N
+238,bán,V
+238,hàng,N
+238,B2B,Np
+238,",",CH
+238,tư vấn,V
+238,thuyết phục,V
+238,khách hàng,N
+239,Trình độ,N
+239,chuyên môn,N
+239,:,CH
+240,●,N
+240,Nhiệt tình,N
+240,và,C
+240,năng lượng,M
+241,+,V
+241,Kỹ năng,N
+241,tổng hợp,A
+241,và,C
+241,phân tích,V
+241,số liệu,M
+242,Kỹ năng,N
+242,trao đổi,V
+242,thông tin,N
+242,tốt,A
+242,",",CH
+242,thông thạo,V
+242,phần mềm,N
+242,Altium,Np
+243,Yêu cầu,N
+243,ứng viên,M
+244,–,CH
+244,Thu nhập,N
+244,cạnh tranh,V
+244,(,CH
+244,Lương cứng,V
+244,+,N
+244,Thưởng KPIs,Np
+244,hàng,N
+244,tháng,N
+244,giữa,E
+244,năm,N
+244,cuối,N
+244,năm,M
+244,),CH
+244,đề xuất,V
+244,tăng,V
+244,lương,N
+244,theo,V
+244,năm,N
+244,.,CH
+245,Yêu cầu,N
+245,Nam giới,V
+245,Khỏe mạnh,N
+245,",",CH
+245,nhanh nhẹn,A
+245,",",CH
+245,cẩn thận,A
+246,Ưu tiên,N
+246,có,V
+246,chứng chỉ,N
+246,hành nghề,V
+247,Trình độ,N
+247,:,CH
+247,Cao đẳng,N
+247,trở,V
+247,lên,V
+248,Nhanh nhạy,N
+248,trong,E
+248,nắm bắt,N
+248,",",CH
+248,giải quyết,V
+248,vấn đề,N
+248,.,CH
+249,Tác phong,N
+249,làm việc,V
+249,chuyên nghiệp,A
+249,",",CH
+249,có,V
+249,gu,N
+249,thẩm mỹ,V
+249,tốt,A
+249,",",CH
+249,có,V
+249,hiểu biết,N
+249,về,V
+249,Kinh doanh,V
+249,online,M
+250,<,N
+250,Preferable,Np
+250,Skill,Np
+250,/,CH
+250,Experience,Np
+250,>,CH
+250,・,N
+250,Have,Np
+250,working,V
+250,experience,N
+250,in,V
+250,Japanese,Np
+250,companies,V
+250,.,CH
+250,・,V
+250,Graduated from,N
+250,Economics,Np
+250,relating,V
+250,faculty,N
+250,University ・,N
+250,Proficient,Np
+250,at,V
+250,Excel,Np
+250,.,CH
+250,・,N
+250,Experience,Np
+250,with,V
+250,MRP,Np
+250,/,CH
+250,ERP,Np
+250,software,V
+250,is,N
+250,preferable,V
+250,.,CH
+250,・,N
+250,Japanese,Np
+250,skill,M
+251,–,CH
+251,Bạn,N
+251,là,V
+251,người,N
+251,trẻ,A
+251,",",CH
+251,năng động,A
+251,",",CH
+251,tốt nghiệp,V
+251,Cao đẳng,N
+251,",",CH
+251,Đại học,N
+251,–,CH
+251,Bạn,N
+251,là,V
+251,người,N
+251,Việt Nam,Np
+251,hoặc,C
+251,người,N
+251,nước ngoài,N
+251,thành thạo,V
+251,tiếng,N
+251,Việt,Np
+251,–,CH
+251,Bạn,N
+251,sử dụng,V
+251,thành thạo,N
+251,tiếng,N
+251,Thái,Np
+251,(,CH
+251,nói,V
+251,và,C
+251,viết,V
+251,),CH
+251,–,CH
+251,Thành thạo,V
+251,đánh máy,N
+251,",",CH
+251,nhanh nhẹn,A
+251,",",CH
+251,giao tiếp,V
+251,tốt,A
+251,–,CH
+251,Có,V
+251,laptop,N
+251,phục vụ,V
+251,công việc,N
+251,và,C
+251,làm,V
+251,được,R
+251,xoay ca,V
+251,:,CH
+251,8,M
+251,h,N
+252,Được,V
+252,hỗ trợ,V
+252,bữa,N
+252,ăn,V
+252,trưa,N
+252,miễn phí,V
+252,tại,E
+252,Công ty,N
+252,.,CH
+253,–,CH
+253,Tiếng,N
+253,Anh,Nc
+253,giao tiếp,V
+253,cơ bản,A
+254,Giới tính,N
+254,:,CH
+254,Nữ,N
+255,2-3,N
+255,years,V
+255,experience,N
+255,in,V
+255,SEO,Np
+256,Ưu tiên,V
+256,các,L
+256,bạn,N
+256,có,V
+256,kinh nghiệm,N
+256,quản lý,V
+256,đội,N
+256,nhóm,N
+256,Marketing,Np
+256,online,M
+257,Quyền lợi,N
+257,được,V
+257,hưởng,V
+258,Có,V
+258,khả năng,N
+258,làm việc,V
+258,độc lập,A
+258,",",CH
+258,làm việc,V
+258,theo,V
+258,nhóm,N
+258,.,CH
+259,Hỗ trợ,V
+259,xử lý,V
+259,nghiệp vụ,N
+259,kế toán,N
+259,",",CH
+259,tài chính,N
+259,trong,E
+259,trên,E
+259,hệ thống,N
+259,SAP,Np
+260,Thành thạo,N
+260,word,N
+260,",",CH
+260,excel,N
+260,",",CH
+260,ppt,M
+261,·,N
+261,Acts as,V
+261,team,N
+261,leader,M
+261,/,CH
+261,facilitator,N
+261,and demonstrates,N
+261,Leadership,Np
+261,ability,V
+261,to influence,N
+261,",",CH
+261,persuade and,N
+261,convince,M
+262,Ưu tiên,V
+262,các,L
+262,ứng viên,N
+262,đã,R
+262,từng,R
+262,làm,V
+262,trong,E
+262,các,L
+262,Công ty,N
+262,trong,E
+262,lĩnh vực,N
+262,công nghiệp,N
+262,/,CH
+262,nữ,N
+262,trang,N
+262,/,CH
+262,nha khoa,N
+262,/,CH
+262,giáo dục,V
+262,.,CH
+263,Có,V
+263,khả năng,N
+263,tự,P
+263,nhận diện,V
+263,rủi ro,A
+263,tốt,A
+263,",",CH
+263,phân tích,V
+263,nguyên nhân,N
+263,gốc rễ,V
+263,và,C
+263,đưa,V
+263,ra,V
+263,được,R
+263,các,L
+263,khuyến nghị,N
+263,giảm thiểu,V
+263,rủi ro,A
+263,mang,V
+263,tính chất,N
+263,thực tiễn,N
+263,cao,A
+263,.,CH
+264,Có,V
+264,khả năng,N
+264,sáng tạo,V
+264,cao,A
+264,",",CH
+264,đưa,V
+264,ra,V
+264,những,L
+264,chiến lược,N
+264,sản phẩm,N
+264,cho,E
+264,công ty,N
+264,.,CH
+265,2,M
+265,.,CH
+265,Kỹ năng,N
+265,:,CH
+266,Khai thác,V
+266,",",CH
+266,xử lý,V
+266,",",CH
+266,phân tích,V
+266,dữ liệu,N
+266,bằng,E
+266,các,L
+266,công cụ,N
+266,phần mềm,N
+266,hỗ trợ,V
+266,.,CH
+267,Báo,N
+267,xấu,A
+268,Follow,Np
+268,LinkedIn Page,Np
+268,cùng,A
+268,MB,Np
+268,để,E
+268,cập nhật,V
+268,thông tin,N
+268,tuyển dụng,N
+268,",",CH
+268,hướng dẫn,V
+268,các,L
+268,vòng,N
+268,thi tuyển,N
+268,và,C
+268,tip,N
+268,phát triển,V
+268,sự nghiệp,N
+268,thành công,V
+268,tại,E
+268,:,CH
+268,https://www.linkedin.com/company/mbbank,M
+269,Quyền lợi,N
+269,:,CH
+270,Có,V
+270,kỹ năng,N
+270,quản lý,V
+270,thời gian,N
+270,và,C
+270,quản lý,V
+270,công việc,N
+271,Tinh thần,N
+271,trách nhiệm,N
+271,",",CH
+271,làm việc,V
+271,nhóm,N
+271,và,C
+271,làm việc,V
+271,độc lập,A
+271,tốt,A
+272,Được,V
+272,thưởng nhân,V
+272,các,L
+272,ngày,N
+272,lễ,N
+272,",",CH
+272,tết,N
+272,và,C
+272,các,L
+272,sự kiện,N
+272,đặc biệt,A
+272,của,E
+272,Ocean Edu,Np
+272,.,CH
+273,Khai,V
+273,thuế,N
+273,",",CH
+273,làm,V
+273,báo cáo,V
+273,tài chính,N
+274,Yêu cầu,N
+274,công việc,N
+274,:,CH
+275,Xác định,V
+275,theo nghiệp,N
+275,bán,V
+275,hàng,N
+275,/,CH
+275,kinh doanh,V
+275,.,CH
+276,QUYỀN LỢI,N
+276,ỨNG VIÊN,Np
+277,Tốt nghiệp,V
+277,các,L
+277,khối,N
+277,ngành,N
+277,về,E
+277,nông nghiệp,N
+277,",",CH
+277,cây trồng,M
+278,Tiêu đề,N
+278,:,CH
+278,Họ,P
+278,và,C
+278,tên,N
+278,–,CH
+278,Vị trí,N
+278,ứng tuyển,M
+279,Có,V
+279,kinh,N
+279,về,E
+279,các,L
+279,công việc,N
+279,của,E
+279,kế toán,N
+279,bán,V
+279,hàng,N
+279,.,CH
+280,Đã,R
+280,có,V
+280,kinh nghiệm,N
+280,phát triển,V
+280,hệ thống,N
+280,liên quan,V
+280,đến,E
+280,Ngân hàng,N
+280,số,N
+280,",",CH
+280,AI,P
+280,hoặc,C
+280,các,L
+280,hệ thống,N
+280,phần mềm,N
+280,CNTT,Np
+280,khác,A
+280,của,E
+280,Ngân hàng,N
+280,.,CH
+281,+,N
+281,Làm việc,V
+281,tại,E
+281,Doanh nghiệp,N
+281,lớn,A
+281,là,C
+281,Chủ,N
+281,đầu tư,V
+281,",",CH
+281,hoạt động,V
+281,đa,V
+281,ngành nghề,N
+281,trong,E
+281,các,L
+281,lĩnh vực,N
+281,:,CH
+281,Bất động sản,N
+281,;,CH
+281,Sản xuất,V
+281,công nghiệp,N
+281,;,CH
+281,Năng lượng,N
+281,và,C
+281,các,L
+281,ngành,N
+281,Dịch vụ,N
+281,khác,A
+281,.,CH
+282,Yêu cầu,N
+282,công việc,N
+283,Phẩm chất,N
+283,đạo đức,N
+283,tốt,A
+283,",",CH
+283,có,V
+283,kỹ năng,N
+283,phối hợp,V
+283,và,C
+283,làm việc,V
+283,theo,V
+283,nhóm,N
+284,–,CH
+284,Tuổi,N
+284,từ,E
+284,23,M
+284,tuổi,N
+284,trở,V
+284,lên,V
+284,",",CH
+284,ưu tiên,A
+284,ứng viên,V
+284,trong,E
+284,nội thành,N
+284,Hải Phòng,Np
+285,Có,V
+285,ý định,N
+285,làm việc,V
+285,lâu dài,A
+285,.,CH
+286,1,M
+286,.,CH
+286,Trình độ,N
+286,:,CH
+287,Chế đố,N
+287,sinh nhật,N
+287,",",CH
+287,hiếu hỉ,N
+287,",",CH
+287,ốm đau,N
+287,.... thưởng,V
+287,các,L
+287,dịp,N
+287,đặc biệt,A
+287,trong,E
+287,năm,M
+288,Thứ,N
+288,6,M
+288,+,N
+288,1,M
+288,ngày,N
+288,T7,Np
+288,/,CH
+288,tháng,N
+289,Tư duy,N
+289,quản lý,V
+289,và,C
+289,nắm bắt,V
+289,thị trường,N
+289,tốt,A
+290,Có,V
+290,tinh thần,N
+290,trách nhiệm,N
+290,",",CH
+290,chịu,V
+290,được,V
+290,áp lực,N
+290,",",CH
+290,kỹ năng,N
+290,sắp xếp,V
+290,công việc,N
+291,Chương trình,N
+291,khám,V
+291,sức khỏe,N
+291,cao cấp,A
+291,",",CH
+291,du lịch,V
+291,nghỉ dưỡng,V
+291,",",CH
+291,teambuilding,V
+291,hàng,N
+291,năm,M
+291,;,CH
+291,chế độ,N
+291,thăm hỏi,V
+291,CBCNV,Np
+291,",",CH
+291,tứ thân,V
+291,Phụ mẫu,N
+291,",",CH
+291,con cái,N
+291,ốm đau,A
+291,",",CH
+291,Hiếu,Np
+291,",",CH
+291,Hỷ,Np
+291,;,CH
+291,CBCNV,Np
+291,sinh,V
+291,con,N
+291,hoặc,C
+291,CBCNV,Np
+291,có,V
+291,Vợ,N
+291,sinh,V
+291,con,N
+291,.,CH
+292,Thời gian,N
+293,9,M
+293,.,CH
+293,Thực hiện,V
+293,các,L
+293,công việc,N
+293,khác,A
+293,theo,V
+293,chỉ đạo,V
+293,của,E
+293,Ban,N
+293,lãnh đạo,N
+293,Công ty,N
+293,theo,V
+293,đúng,A
+293,chức năng,N
+293,nhiệm vụ,N
+294,Hiểu biết,N
+294,về,E
+294,các,L
+294,quy định,N
+294,của,E
+294,Pháp luật,N
+294,",",CH
+294,đặc biệt,A
+294,là,C
+294,các,L
+294,quy định,N
+294,liên quan,V
+294,dến,V
+294,các,L
+294,công tác,N
+294,tín dụng,N
+294,.,CH
+295,•,N
+295,Ưu tiên,V
+295,ứng viên,N
+295,có,V
+295,kinh nghiệm,N
+295,sử dụng,V
+295,DMS,Np
+295,hoặc,C
+295,các,L
+295,hệ thống,N
+295,tương tự,A
+295,.,CH
+296,Chú trọng,V
+296,chất lượng,N
+296,công việc,N
+296,.,CH
+297,Các,L
+297,điều kiện,N
+297,khác,A
+297,:,CH
+298,Có,V
+298,tinh thần,N
+298,đồng đội,N
+298,",",CH
+298,chủ động,V
+298,trong,E
+298,công việc,N
+298,.,CH
+299,■,N
+299,Có,V
+299,kiến thức,N
+299,về,E
+299,hệ,N
+299,quản trị,V
+299,CSDL,Np
+299,:,CH
+299,SQL,Np
+299,",",CH
+299,Postgres,Np
+299,.,CH
+300,Kỹ năng,N
+300,phân tích,V
+300,các,L
+300,số liệu,N
+300,thị trường,N
+300,để,E
+300,tìm,V
+300,ra,V
+300,các,L
+300,cơ hội,N
+300,mới,R
+301,·,N
+301,BHXH,Np
+301,",",CH
+301,BHYT,Np
+301,",",CH
+301,BHTN,Np
+301,theo,V
+301,pháp luật,N
+301,hiện hành,N
+301,.,CH
+302,Năng động,A
+302,",",CH
+302,tự,P
+302,trau dồi,V
+302,",",CH
+302,nâng,V
+302,cao,A
+302,bản thân,N
+303,QUYỀN LỢI,N
+303,:,CH
+304,Giới tính,N
+304,:,CH
+304,NAM,Np
+304,/,CH
+304,NỮ,N
+305,Email,Np
+305,:,CH
+305,tuyendung.bic@bidv.com.vn,M
+306,Qualifications,Np
+306,",",CH
+306,Knowledge,Ny
+306,&,CH
+306,Experience,Ny
+306,/,CH
+306,Bằng cấp,N
+306,",",CH
+306,Kiến thức,N
+306,&,CH
+306,Kinh Nghiệm,Ny
+307,Cơ hội,N
+307,thăng tiến,V
+307,",",CH
+307,phát triển,V
+307,nghề nghiệp,N
+307,theo,V
+307,năng lực,N
+307,không,R
+307,giới hạn,V
+307,.,CH
+308,Có,V
+308,kỹ năng,N
+308,giao tiếp,V
+308,tốt,A
+308,là,V
+308,một,M
+308,lợi thế,N
+308,.,CH
+309,Kinh nghiệm,N
+309,tối thiểu,A
+309,6,M
+309,tháng,N
+309,ở,E
+309,vị trí,N
+309,tương đương,A
+309,.,CH
+310,Độc lập,N
+310,và,C
+310,chủ động,V
+310,trong,E
+310,công việc,N
+310,.,CH
+311,Giới tính,N
+311,:,CH
+311,Nữ,N
+311,",",CH
+311,Ngoại hình,V
+311,dễ,A
+311,nhìn,V
+311,",",CH
+311,gương mặt,N
+311,tươi tắn,A
+311,",",CH
+311,giọng,N
+311,nói,V
+311,nhẹ nhàng,A
+311,không,R
+311,ngọng,V
+311,hoặc,C
+311,tiếng,N
+311,địa phương,N
+311,.,CH
+311,Cao từ,N
+311,1.58,M
+311,m,Nu
+311,trở,V
+311,lên,V
+311,.,CH
+312,Lợi ích,N
+312,khác,A
+313,•,N
+313,Ưu tiên,V
+313,các,L
+313,ứng viên,N
+313,đã,R
+313,có,V
+313,kinh nghiệm,N
+313,về,V
+313,tài trợ,V
+313,thương mại,N
+313,và,C
+313,thanh toán,V
+313,quốc tế,N
+314,Quyền lợi,N
+315,Đã,R
+315,có,V
+315,Chứng chỉ,N
+315,hành nghề,V
+315,giám sát,V
+315,thi công,V
+315,xây dựng,V
+315,hạng,N
+315,I,M
+315,(,CH
+315,còn,V
+315,hạn,N
+315,sử dụng,V
+315,),CH
+315,.,CH
+316,•,N
+316,Kỹ năng,N
+316,quản lý,V
+316,thời gian,N
+316,",",CH
+316,phân tích,V
+316,và,C
+316,giải quyết,V
+316,vấn đề,N
+316,.,CH
+317,Có,V
+317,chứng chỉ,N
+317,CPA,Np
+317,",",CH
+317,ACCA,Np
+317,hoặc,C
+317,Master,Np
+317,ngành,N
+317,kinh tế,N
+317,là,V
+317,một,M
+317,lợi thế,N
+317,so sánh,V
+317,;,CH
+318,Văn phòng,N
+318,làm việc,V
+318,sang trọng,A
+318,",",CH
+318,hiện đại,A
+318,",",CH
+318,có,V
+318,Phòng,N
+318,thư giãn,M
+319,2,M
+319,.,CH
+319,Phát triển,V
+319,nghề nghiệp,N
+319,:,CH
+320,Có,V
+320,kinh nghiệm,N
+320,làm,V
+320,kế toán,V
+320,cho,E
+320,công ty,N
+320,xây dựng,V
+320,hoặc,C
+320,đơn vị,N
+320,vật liệu,N
+320,xây dựng,V
+320,càng,R
+320,tốt,A
+320,.,CH
+321,Có,V
+321,tinh thần,N
+321,trách nhiệm,N
+321,cao,A
+321,.,CH
+322,Others,Np
+323,Ưu tiên,N
+323,ứng viên,V
+323,có,V
+323,khả năng,N
+323,ngoại ngữ,N
+324,Vi tính,N
+324,:,CH
+324,Sử dụng,V
+324,thành thạo,V
+324,vi tính,N
+324,văn phòng,N
+324,.,CH
+325,Các,L
+325,chế độ,N
+325,đãi ngộ,V
+325,",",CH
+325,quyền lợi,N
+325,khác,A
+325,:,CH
+326,Đam mê,V
+326,kinh doanh,V
+326,",",CH
+326,chịu,V
+326,được,V
+326,áp lực,N
+326,công việc,N
+326,",",CH
+326,kiên trì,N
+326,và,C
+326,có,V
+326,tinh thần,N
+326,giải quyết,V
+326,khó khăn,A
+326,.,CH
+327,Sử dụng,V
+327,vi tính,N
+327,văn phòng,N
+327,thành thạo,N
+327,(,CH
+327,Word,Np
+327,",",CH
+327,Excel,Np
+327,...,CH
+327,),CH
+327,;,CH
+328,17,M
+328,h00,N
+328,Thứ,N
+328,2,M
+328,tới,E
+328,Thứ,N
+328,6,M
+328,(,CH
+328,nghỉ,V
+328,trưa,N
+328,12,M
+328,h00,N
+329,Có,V
+329,kiến thức,N
+329,cơ bản,A
+329,về,E
+329,hệ thống,N
+329,",",CH
+329,Network,Np
+329,",",CH
+329,OS,Np
+329,(,CH
+329,Window,Np
+329,",",CH
+329,Linux,Np
+329,..,M
+329,),CH
+329,là,V
+329,một,M
+329,lợi thế,N
+330,Hưởng,Np
+330,ưu đãi,V
+330,khi,N
+330,sử dụng,V
+330,thẻ,N
+330,tập,V
+330,gym,N
+330,Elite Fitness,Np
+330,và,C
+330,các,L
+330,dịch vụ,N
+330,cao cấp,A
+330,thuộc,V
+330,Tập đoàn,N
+330,BIM,Np
+331,1,M
+331,.,CH
+331,Trình độ,N
+331,Học vấn,M
+332,Ít nhất,X
+332,3,M
+332,năm,N
+332,kinh nghiệm,N
+332,ở,E
+332,vị trí,N
+332,tương đương,A
+332,.,CH
+333,Tin học,M
+334,·,N
+334,Mức,N
+334,lương,N
+334,thưởng,V
+334,hấp dẫn,V
+334,và,C
+334,cạnh tranh,V
+334,so,V
+334,với,E
+334,thị trường,N
+334,(,CH
+334,thỏa thuận,V
+334,theo,V
+334,năng lực,N
+334,),CH
+334,.,CH
+335,Có,V
+335,khả năng,N
+335,giao tiếp,V
+335,",",CH
+335,đàm phán,V
+335,tốt,A
+335,.,CH
+336,Là,V
+336,Đại sứ,N
+336,thương hiệu,N
+336,của,E
+336,BU,Np
+336,và,C
+336,Tập đoàn,N
+336,.,CH
+337,1,M
+337,.,CH
+337,High,Np
+337,fluency,V
+337,in,V
+337,English,Np
+338,Có,V
+338,kiến thức,N
+338,cơ bản,A
+338,về,E
+338,xuất nhập khẩu,V
+338,(,CH
+338,VD,Np
+338,:,CH
+338,L,Ny
+338,/,CH
+338,C,Np
+338,",",CH
+338,FOB,Np
+338,",",CH
+338,v.v.,N
+338,),CH
+339,Medici,Np
+339,khuyến khích,V
+339,:,CH
+340,Trung thực,N
+340,",",CH
+340,nhanh nhẹn,A
+340,",",CH
+340,tinh thần,N
+340,trách nhiệm,N
+340,cao,A
+340,trong,E
+340,công việc,N
+340,.,CH
+341,·,N
+341,Kỹ năng,N
+341,tổng quát,V
+341,:,CH
+341,Cẩn thận,A
+341,",",CH
+341,chăm chỉ,A
+341,",",CH
+341,truyền đạt,V
+341,và,C
+341,khéo léo,A
+341,trong,E
+341,giao tiếp,V
+341,.,CH
+342,5,M
+342,.,CH
+342,Các,L
+342,yêu cầu,N
+342,khác,A
+343,Năng động,N
+343,",",CH
+343,có,V
+343,tinh thần,N
+343,cầu tiến,A
+343,",",CH
+343,chịu khó,A
+343,học hỏi,V
+344,Tốt nghiệp,V
+344,Trung cấp,N
+344,chuyên ngành,N
+344,liên quan,V
+344,(,CH
+344,Kinh tế,N
+344,;,CH
+344,Quản trị,V
+344,kinh doanh,V
+344,;,CH
+344,Marketing,Np
+344,),CH
+344,.,CH
+345,Có,V
+345,kỹ năng,N
+345,nghiên cứu,V
+345,thị trường,N
+346,Kỹ năng,N
+346,vi tính,N
+346,tốt,A
+346,:,CH
+346,Outlook,Np
+346,",",CH
+346,Word,Np
+346,",",CH
+346,Excel,Np
+346,",",CH
+346,PowerPoint,Np
+347,Sử dụng,V
+347,thành thạo,N
+347,phần mềm,N
+347,Adobe Creative,Np
+347,Cloud,Np
+347,bao gồm,V
+347,Adobe,Np
+347,After Effect,Np
+347,",",CH
+347,Adobe Illustrator,Np
+347,",",CH
+347,Adobe Photoshop,Np
+347,",",CH
+347,Adobe Premier,Np
+347,",",CH
+347,Dựng Phim,Np
+347,/,CH
+347,Hiệu Ứng,Np
+347,Video,Np
+348,•,V
+348,Môi trường,N
+348,làm việc,V
+348,trẻ trung,A
+348,",",CH
+348,năng động,A
+348,.,CH
+349,Sử dụng,V
+349,thành thạo,N
+349,phần mềm,N
+349,Autocad,Np
+349,",",CH
+349,biết,V
+349,vẽ,V
+349,3D,N
+349,là,V
+349,một,M
+349,lợi thế,N
+349,.,CH
+350,Có,V
+350,kỹ năng,N
+350,viết,V
+350,bài,N
+350,",",CH
+350,định hướng,V
+350,",",CH
+350,sáng tạo,V
+350,và,C
+350,biết,V
+350,nắm bắt,N
+350,xu hướng,V
+350,content,N
+350,",",CH
+350,bắt,V
+350,trend,M
+351,Thời hạn,N
+351,nhận,V
+351,hồ sơ,N
+351,:,CH
+352,Kinh nghiệm,N
+352,chuyên môn,N
+352,:,CH
+352,Tối thiểu,N
+352,05,M
+352,năm,N
+352,kinh nghiệm,N
+352,trong,E
+352,lĩnh vực,N
+352,ngân hàng,N
+352,",",CH
+352,tài chính,N
+352,",",CH
+352,fintech,M
+353,kiểm soát,V
+353,nội bộ,N
+354,–,CH
+354,Chế độ,N
+354,ngày,N
+354,nghỉ,V
+354,hấp dẫn,V
+354,với,E
+354,chế độ,N
+354,NGHỈ HÈ,Np
+354,đặc biệt,A
+354,của,E
+354,Công ty,N
+354,(,CH
+354,bên,N
+354,cạnh,N
+354,thời gian,N
+354,nghỉ phép,V
+354,và,C
+354,nghỉ Lễ,N
+354,",",CH
+354,Tết,N
+354,thông thường,A
+354,theo,V
+354,quy định,N
+354,),CH
+354,.,CH
+355,Có thể,R
+355,sử dụng,V
+355,ngoại ngữ,N
+355,trong,E
+355,công việc,N
+355,là,V
+355,lợi thế,N
+355,(,CH
+355,Tiếng,N
+355,Anh,Np
+355,",",CH
+355,Tiếng Trung,Np
+355,",",CH
+355,Tiếng,N
+355,Hàn,Np
+355,",",CH
+355,Tiếng,Np
+355,Nhật,Np
+355,),CH
+356,Thưởng,V
+356,các,L
+356,ngày,N
+356,Lễ,Np
+356,",",CH
+356,Tết,Np
+356,",",CH
+356,sinh nhật,N
+356,",",CH
+356,trợ cấp,V
+356,",",CH
+356,...,CH
+357,Kiến thức,N
+357,chuyên môn,N
+357,:,CH
+357,Am hiểu,V
+357,về,E
+357,hoạt động,V
+357,ngân hàng,N
+357,",",CH
+357,tài chính,N
+357,",",CH
+357,fintech,M
+358,Có,V
+358,kinh nghiệm,N
+358,làm việc,V
+358,tại,E
+358,bộ phận,N
+358,Quản lý,V
+358,chất lượng,N
+358,công ty,N
+358,Dược,Np
+358,.,CH
+359,Cẩn thận,A
+359,",",CH
+359,chi tiết,N
+359,",",CH
+359,có,V
+359,khả năng,N
+359,tổ chức,V
+359,",",CH
+359,quản lý,V
+359,công việc,N
+359,hiệu quả,N
+359,.,CH
+360,Đường,N
+360,3,M
+360,tháng,N
+360,2,M
+360,",",CH
+360,phường,N
+360,12,M
+360,quận,N
+360,10,M
+360,",",CH
+360,TP,Ny
+360,HCM,Np
+361,Có,V
+361,khả năng,N
+361,lên,V
+361,kế hoạch,N
+361,",",CH
+361,đề xuất,V
+361,các,L
+361,giải pháp,N
+361,trong,E
+361,công việc,N
+362,Có,V
+362,khả năng,N
+362,lãnh đạo,N
+362,và,C
+362,dẫn dắt,V
+362,đội,N
+362,nhóm,N
+362,.,CH
+363,Khả năng,N
+363,phân tích,V
+363,",",CH
+363,tổng hợp,A
+363,",",CH
+363,chịu,V
+363,được,V
+363,áp lực,N
+363,cao,A
+363,trong,E
+363,công việc,N
+363,.,CH
+364,Tốt nghiệp,V
+364,Cao đẳng,N
+364,trở,V
+364,lên,V
+365,Kỹ năng,N
+365,giải quyết,V
+365,vấn đề,N
+365,:,CH
+365,Có,V
+365,khả năng,N
+365,giải quyết,V
+365,vấn đề,N
+365,nhanh chóng,A
+365,",",CH
+365,sắc sảo,A
+365,",",CH
+365,hợp tình,N
+365,",",CH
+365,hợp lý,A
+365,;,CH
+365,các,L
+365,lập luận,N
+365,đưa,V
+365,ra,V
+365,rõ ràng,A
+365,;,CH
+366,Ham,V
+366,học hỏi,V
+366,.,CH
+367,–,CH
+367,Thời gian,N
+367,làm việc,V
+367,:,CH
+367,theo,V
+367,ca,N
+367,của,E
+367,BP,Np
+367,ĐP,Np
+368,Kỹ năng,N
+368,quản lý,V
+368,",",CH
+368,lập,V
+368,kế hoạch,N
+369,Ưu tiên,V
+369,các,L
+369,ứng viên,N
+369,tại,E
+369,Trà Vinh,Np
+369,và,C
+369,các,L
+369,tỉnh,N
+369,lân cận,A
+369,(,CH
+369,Cần Thơ,Np
+369,",",CH
+369,Sóc Trăng,Np
+369,",",CH
+369,Đồng Tháp,Np
+369,…,CH
+369,.,CH
+369,),CH
+370,2,M
+370,.,CH
+370,Phát triển,V
+370,nghề nghiệp,N
+370,:,CH
+371,•,N
+371,Được,Np
+371,cung cấp,V
+371,công cụ,N
+371,hỗ trợ,V
+371,bán,V
+371,hàng,N
+371,và,C
+371,quản lý,V
+371,đơn,N
+371,hàng,N
+371,;,CH
+372,Từ,E
+372,2,M
+372,năm,N
+372,kinh nghiệm,M
+373,commerce,N
+373,",",CH
+373,quản lý,V
+373,nội dung,N
+373,(,CH
+373,E,Np
+374,Kỹ năng,N
+374,giao tiếp,V
+374,và,C
+374,đàm phán,M
+375,Có,V
+375,ít nhất,X
+375,02,N
+375,năm,M
+375,kinh nghiệm,N
+375,trong,E
+375,lĩnh vực,N
+375,quản lý,V
+375,cơ sở,N
+375,y tế,N
+376,14,M
+376,.,CH
+376,Và,C
+376,được,R
+376,hưởng,V
+376,chế độ,N
+376,ưu đãi,V
+376,từ,E
+376,các,L
+376,dịch vụ,N
+376,của,E
+376,Tập đoàn,N
+376,ECO,Np
+376,như,C
+376,:,CH
+376,tiêm,V
+376,chủng vacxin,N
+376,",",CH
+376,khám chữa,V
+376,bệnh,N
+376,tại,E
+376,bệnh viện,N
+376,5,M
+376,sao,P
+376,chất lượng,N
+376,cao,A
+376,",",CH
+376,mua,V
+376,hàng,N
+376,ECOgreen,Np
+376,…,CH
+377,Am,Np
+377,hiểu,V
+377,về,E
+377,các,L
+377,công cụ,N
+377,quảng cáo,V
+377,",",CH
+377,website,FW
+377,",",CH
+377,…,CH
+378,Tốt nghiệp,V
+378,Đại học,N
+378,trở,V
+378,lên,V
+378,",",CH
+378,các,L
+378,chuyên ngành,N
+378,liên quan,V
+378,lĩnh vực,N
+378,Luật,N
+378,kinh doanh,V
+378,",",CH
+378,maketing,N
+378,",",CH
+378,bất động sản,N
+378,…,CH
+379,Kỹ năng,N
+379,lập,V
+379,kế hoạch,N
+380,● Độ,M
+380,tuổi,N
+380,:,CH
+380,27,M
+381,Trình độ,N
+381,chuyên môn,N
+381,:,CH
+381,Kinh tế,N
+381,",",CH
+381,ngoại thương,N
+381,.,CH
+382,·,N
+382,Good,Np
+382,Communication and,V
+382,Negotiation skills,N
+382,",",CH
+382,able,N
+382,to,A
+382,convince partners,V
+382,.,CH
+383,•,V
+383,Tư duy,N
+383,làm việc,V
+383,",",CH
+383,linh hoạt,N
+383,trong,E
+383,xử lý,V
+383,công việc,N
+383,logic,A
+383,.,CH
+384,Có,V
+384,kỹ năng,N
+384,quản lý,V
+384,",",CH
+384,dẫn dắt,V
+384,đội,N
+384,",",CH
+384,nhóm,N
+385,Kỹ năng,N
+385,tổ chức,V
+385,",",CH
+385,sắp xếp,V
+385,và,C
+385,xử lý,V
+385,công việc,N
+386,Trình độ,N
+386,học vấn,N
+386,:,CH
+386,Tốt nghiệp,V
+386,trình độ,N
+386,Đại học,N
+386,trở,V
+386,lên,V
+387,Lưu ý,N
+387,Ngân hàng,N
+387,Việt Á,Np
+387,sẽ,R
+387,ưu tiên,V
+387,cho,E
+387,những,L
+387,ứng viên,N
+387,gửi,V
+387,CV,Np
+387,sớm,A
+387,nhất,A
+387,trong,E
+387,tháng,N
+388,Nộp,V
+388,Bản Thông tin,N
+388,ứng viên,V
+388,theo,V
+388,mẫu,N
+388,của,E
+388,MBS,Np
+388,theo,V
+388,hình thức,N
+388,sau,N
+388,:,CH
+389,Chủ động,N
+389,",",CH
+389,quyết đoán,N
+389,",",CH
+389,sáng tạo,V
+389,trong,E
+389,công việc,N
+389,;,CH
+389,kỹ năng,N
+389,giao tiếp,V
+389,và,C
+389,thuyết trình,N
+389,",",CH
+389,phản biện,N
+389,",",CH
+389,giải quyết,V
+389,tình huống,N
+389,tốt,A
+389,.,CH
+390,Có,V
+390,từ,E
+390,2,M
+390,năm,N
+390,kinh nghiệm,N
+390,làm việc,V
+390,trong,E
+390,lĩnh vực,N
+390,cơ điện,N
+390,(,CH
+390,chủ,N
+390,đầu tư,V
+390,;,CH
+390,tư vấn,V
+390,giám sát,V
+390,;,CH
+390,tư vấn,V
+390,thiết kế,V
+390,;,CH
+390,tổng,N
+390,thầu,V
+390,;,CH
+390,nhà thầu,N
+390,thi công,V
+390,lắp đặt,N
+390,),CH
+390,;,CH
+391,QUYỀN LỢI,N
+391,ĐƯỢC,Np
+391,HƯỞNG,Np
+392,Kiến thức,N
+392,về,E
+392,hệ thông,N
+392,phần mềm,N
+392,của,E
+392,Ngân hàng,N
+392,xuyên,V
+392,suốt,A
+392,quy trình,N
+392,tín dụng,N
+392,của,E
+392,Ngân hàng,N
+392,.,CH
+393,Hạn,N
+393,chót,N
+393,nộp,V
+393,hồ sơ,N
+393,:,CH
+393,28/02/2023,M
+394,Xây dựng,V
+394,và,C
+394,kiểm định,V
+394,mô hình,N
+394,.,CH
+395,*,CH
+395,Yêu cầu,V
+395,:,CH
+396,Ưu tiên,N
+396,Có,V
+396,chứng chỉ,N
+396,CCNA,Np
+396,",",CH
+396,MSCA,Np
+396,",",CH
+396,bảo mật,V
+396,",",CH
+396,lập trình,N
+396,là,V
+396,lợi thế,M
+397,Tư cách,N
+397,đạo đức,N
+397,tốt,A
+397,.,CH
+398,Tối thiểu,N
+398,6,M
+398,tháng,N
+398,kinh nghiệm,N
+398,tư vấn,V
+398,/,CH
+398,sales,N
+398,ở,E
+398,các,L
+398,lĩnh vực,N
+398,",",CH
+398,chấp nhận,V
+398,đào tạo,V
+398,các,L
+398,bạn,N
+398,chưa,R
+398,kinh nghiệm,N
+398,nếu,C
+398,chịu,V
+398,học hỏi,V
+398,và,C
+398,đam mê,V
+398,tư vấn,V
+398,bảo hiểm,N
+399,Thứ,N
+399,6,M
+399,.,CH
+400,4,M
+400,.,CH
+400,Các,L
+400,Kinh nghiệm,N
+400,liên quan,V
+401,Làm việc,V
+401,nhóm,N
+402,Lưu ý,N
+402,tiêu đề,N
+402,của,E
+402,email,FW
+402,dự tuyển,V
+402,:,CH
+402,Địa điểm,N
+402,_Vị trí,V
+402,ứng tuyển_Họ,N
+402,và,C
+402,tên,N
+402,(,CH
+402,Ví dụ,V
+402,:,CH
+402,CN_Hanoi_Giaodichvien_PhamThiA,Np
+402,),CH
+403,Kỹ năng,N
+403,giải quyết,V
+403,vấn đề,N
+403,:,CH
+403,Dứt khoát,A
+403,",",CH
+403,triệt để,A
+403,.,CH
+404,•,N
+404,Thành thạo,V
+404,word,N
+404,",",CH
+404,excel,N
+404,",",CH
+404,powerpoint,M
+405,Có,V
+405,kinh nghiệm,N
+405,trong,E
+405,ngành,N
+405,Sale,Np
+405,",",CH
+405,Telesale,Np
+405,",",CH
+405,hoặc,C
+405,CSKH,Np
+406,Kỹ năng,N
+406,viết,V
+406,tài liệu,N
+406,",",CH
+406,thuyết trình,N
+406,",",CH
+406,thuyết phục,V
+406,tốt,A
+407,tổng hợp,A
+407,",",CH
+407,khai thác,V
+407,thông tin,N
+407,tốt,A
+407,",",CH
+407,có,V
+407,khả năng,N
+407,viết,V
+407,báo cáo,V
+407,và,C
+407,thuyết trình,V
+407,.,CH
+407,Trung thực,N
+407,",",CH
+407,khách quan,A
+407,",",CH
+407,cầu thị,N
+407,.,CH
+407,Có,V
+407,kỹ năng,N
+407,làm việc,V
+407,theo,V
+407,nhóm,N
+407,",",CH
+407,chịu,V
+407,được,V
+407,áp lực,N
+407,cao,A
+407,trong,E
+407,công việc,N
+407,",",CH
+407,có,V
+407,khả năng,N
+407,thường xuyên,A
+407,đi,V
+407,công tác,V
+407,xa,A
+407,(,CH
+407,tối đa,A
+407,6-7,V
+407,đợt,N
+407,/,CH
+407,năm,N
+407,),CH
+408,Yêu thích,V
+408,công việc,N
+408,bán,V
+408,hàng,N
+408,và,C
+408,dịch vụ,N
+408,khách hàng,N
+409,Môi trường,N
+409,làm việc,V
+409,:,CH
+410,Ưu tiên,N
+410,ứng viên,V
+410,có,V
+410,kinh nghiệm,N
+410,sử dụng,V
+410,hệ thống,N
+410,theo dõi,V
+410,hàng,N
+410,hóa,M
+410,/,CH
+410,phần mềm,N
+410,kế toán,N
+410,",",CH
+410,đã,R
+410,từng,R
+410,làm việc,V
+410,tại,E
+410,Kho,Np
+410,ICT,Np
+410,",",CH
+410,linh kiện,V
+410,điện tử,N
+410,",",CH
+410,điện máy,N
+410,.,CH
+410,Kỹ năng,N
+410,báo cáo,V
+410,Excel,Np
+410,và,C
+410,làm việc,V
+410,hệ thống,N
+410,tốt,A
+410,hoặc,C
+410,ham,V
+410,học hỏi,V
+410,(,CH
+410,Công ty,N
+410,sẽ,R
+410,đào tạo,V
+410,thêm,V
+410,),CH
+411,Được,V
+411,hướng,N
+411,các,L
+411,chính sách,N
+411,phúc lợi,V
+411,theo,V
+411,quy định,N
+411,của,E
+411,công ty,N
+412,Ngân hàng,N
+412,",",CH
+412,Kinh tế,N
+412,",",CH
+412,Quản trị,V
+412,kinh doanh,V
+412,",",CH
+412,Marketing,Np
+412,và,C
+412,các,L
+412,ngành,N
+412,liên quan,V
+412,.,CH
+412,Tổi thiểu,N
+412,4,M
+412,năm,N
+412,kinh nghiệm,N
+412,:,CH
+412,Kinh doanh,V
+412,trực tiếp,A
+412,trong,E
+412,ngành,N
+412,tài chính,N
+412,tiêu dùng,V
+412,/,CH
+412,Tàichính,Np
+413,Có,V
+413,ít nhất,X
+413,2,M
+413,năm,N
+413,kinh nghiệm,N
+413,ưu tiên,V
+413,ứng viên,V
+413,có,V
+413,kinh nghiệm,N
+413,mảng,V
+413,quan hệ,N
+413,khách hàng,N
+413,",",CH
+413,phát triển,V
+413,kinh doanh,V
+413,mảng,V
+413,sản phẩm,N
+413,trái phiếu,N
+413,",",CH
+413,huy động,V
+413,",",CH
+413,bảo hiểm,N
+413,ở,E
+413,các,L
+413,tổ chức,N
+413,tài chính,N
+413,;,CH
+413,hoặc,C
+413,mảng,V
+413,dịch vụ,N
+413,cung cấp,V
+413,cho,E
+413,đối tượng,N
+413,khách hàng,N
+413,cao cấp,A
+413,(,CH
+413,du lịch,V
+413,",",CH
+413,khách sạn,N
+413,…,CH
+413,),CH
+413,.,CH
+414,Chăm,Np
+414,chỉ,R
+414,",",CH
+414,máu lửa,N
+414,trong,E
+414,công việc,N
+415,2,M
+415,.,CH
+415,Cách thức,N
+415,nộp,V
+415,hồ sơ,N
+415,:,CH
+416,●,V
+416,Hình thức,N
+416,làm việc,V
+416,:,CH
+416,Toàn,Np
+416,thời gian,N
+416,",",CH
+416,xoay ca,N
+416,",",CH
+416,có,V
+416,làm,V
+416,thứ Bảy,N
+416,và,C
+416,Chủ Nhật,Np
+417,Kỹ năng,N
+417,:,CH
+417,Tin học,N
+417,",",CH
+417,ứng dụng,N
+417,",",CH
+417,ngoại ngữ,N
+417,",",CH
+417,tổng hợp,A
+417,",",CH
+417,phân tích,V
+417,báo cáo,V
+417,số liệu,N
+417,",",CH
+417,nhanh nhẹn,A
+417,",",CH
+417,giao tiếp,V
+417,tốt,A
+417,",",CH
+417,có thể,R
+417,đi,V
+417,công tác,V
+417,",",CH
+417,kỹ năng,N
+417,quản lý,V
+417,đội,N
+417,nhóm,N
+417,",",CH
+417,mạng lưới,N
+417,.,CH
+418,Tốt nghiệp,V
+418,:,CH
+418,Các,L
+418,ngành nghề,N
+418,liên quan,V
+418,đến,E
+418,lĩnh vực,N
+418,kinh doanh,V
+418,(,CH
+418,ưu tiên,V
+418,ứng viên,N
+418,đã,R
+418,làm việc,V
+418,trong,E
+418,ngành,N
+418,nhựa,N
+418,và,C
+418,bán,V
+418,hàng,N
+418,thực phẩm,N
+418,),CH
+419,Trung thực,N
+419,",",CH
+419,siêng năng,N
+419,",",CH
+419,nỗ lực,V
+419,phấn đấu,V
+419,trong,E
+419,công việc,N
+419,.,CH
+420,Ưu tiên,V
+420,có,V
+420,thêm,V
+420,chứng chỉ,N
+420,đào tạo,V
+420,về,E
+420,kế toán,N
+420,thuế,N
+420,.,CH
+421,Được,V
+421,hưởng,V
+421,đầy đủ,A
+421,các,L
+421,chế độ,N
+421,phúc lợi,N
+421,của,E
+421,Công ty,N
+421,",",CH
+421,chế độ,N
+421,bảo hiểm xã hội,V
+421,",",CH
+421,v.v,V
+421,theo,V
+421,quy định,N
+421,của,E
+421,luật,N
+421,Lao động,N
+421,",",CH
+421,luật,N
+421,BHXH,Np
+421,và,C
+421,các,L
+421,Quy chế,N
+421,khác,A
+421,của,E
+421,công ty,N
+421,.,CH
+422,•,N
+422,Tốt nghiệp,V
+422,đại học,N
+422,trở,V
+422,lên,V
+423,PHÚC LỢI,Np
+423,:,CH
+424,Tinh thần,N
+424,trách nhiệm,N
+424,",",CH
+424,siêng năng,N
+424,",",CH
+424,chăm chỉ,A
+425,Có,V
+425,tinh thần,N
+425,trách nhiệm,N
+425,",",CH
+425,khả năng,N
+425,làm việc,V
+425,đội,N
+425,nhóm,N
+425,.,CH
+426,·,N
+426,Khả năng,N
+426,quản lý,V
+426,quá trình,N
+426,triển khai,V
+426,công việc,N
+426,;,CH
+426,Khả năng,N
+426,lập,V
+426,kế hoạch,N
+426,và,C
+426,tổ chức,V
+427,Am,Np
+427,hiểu,V
+427,thị trường,N
+427,ngành hàng,N
+427,FMCG,Np
+427,tại,E
+427,khu vực,N
+427,HCM,Np
+428,Báo,N
+428,xấu,A
+429,Ít nhất,X
+429,2,M
+429,năm,N
+429,kinh nghiệm,N
+429,làm,V
+429,trong,E
+429,lĩnh vực,N
+429,dịch vụ,N
+429,ngân hàng,N
+429,thương mại,N
+429,;,CH
+430,(,CH
+430,Ưu tiên,V
+430,ứng viên,V
+430,từng,R
+430,có,V
+430,kinh nghiệm,N
+430,chăm sóc,V
+430,khách hàng,N
+430,",",CH
+430,bán,V
+430,hàng,N
+430,),CH
+431,Năng động,N
+431,",",CH
+431,có,V
+431,tinh thần,N
+431,cầu tiến,A
+431,",",CH
+431,chịu khó,A
+431,học hỏi,V
+432,Chiều,N
+432,cao,A
+432,tối thiểu,A
+432,đối với,E
+432,nữ,N
+432,là,V
+432,1,M
+432,m58,N
+432,và,C
+432,nam,N
+432,là,V
+432,1,M
+432,m68,N
+432,(,CH
+432,đặc biệt,A
+432,đối với,E
+432,ứng viên,N
+432,bên,N
+432,ngoài,N
+432,),CH
+432,.,CH
+433,•,N
+433,Có,V
+433,kiến thức,N
+433,về,E
+433,quản lý,V
+433,kế toán,N
+433,sản xuất,V
+433,tại,E
+433,nhà máy,N
+433,và,C
+433,hàng,N
+433,tồn kho,N
+433,(,CH
+433,nguyên vật liệu,N
+433,",",CH
+433,quy trình,N
+433,sản xuất,V
+433,và,C
+433,sản phẩm,N
+433,cuối cùng,A
+433,),CH
+434,Kinh nghiệm,N
+434,:,CH
+434,tối thiểu,N
+434,02,M
+434,năm,N
+434,kinh nghiệm,N
+434,trong,E
+434,lĩnh vực,N
+434,bán,V
+434,hàng,N
+434,và,C
+434,quản lý,V
+434,bán,V
+434,hàng,N
+434,;,CH
+435,Cứng,N
+435,excel,M
+436,4,M
+436,.,CH
+436,Sử dụng,V
+436,tiếng,N
+436,Anh,Np
+436,thành thạo,V
+436,trong,E
+436,giao tiếp,N
+436,và,C
+436,công việc,N
+437,Có thể,R
+437,sử dụng,V
+437,tiếng,N
+437,Anh,Np
+437,cơ bản,A
+437,.,CH
+438,Nam,Np
+438,",",CH
+438,tuổi,N
+438,từ,E
+438,25-35,N
+438,",",CH
+438,sức,N
+438,khỏe tốt,V
+438,",",CH
+438,nhanh nhẹn,A
+438,",",CH
+438,nhiệt tình,N
+438,với,E
+438,công việc,N
+438,",",CH
+439,Từng,R
+439,đảm nhận,N
+439,công viêc,V
+439,về,E
+439,Business Intelligence,Np
+439,",",CH
+439,Power BI,Np
+439,",",CH
+439,VBI,Np
+439,",",CH
+439,…,CH
+439,sẽ,R
+439,được,V
+439,ưu tiên,V
+439,tuyển dụng,V
+439,.,CH
+440,Có,V
+440,kỹ năng,N
+440,lập,V
+440,kế hoạch,N
+440,;,CH
+440,quản lý,V
+440,thời gian,N
+440,;,CH
+440,tổng hợp,V
+440,và,C
+440,phân tích,V
+440,dữ liệu,M
+441,Từ,E
+441,1,M
+441,năm,N
+441,trở,V
+441,lên,V
+441,trong,E
+441,lĩnh vực,N
+441,sale,N
+441,thị trường,N
+441,",",CH
+441,bất động sản,N
+441,",",CH
+441,bán,V
+441,thiết bị,N
+441,điện,N
+441,",",CH
+441,kỹ thuật,N
+441,;,CH
+442,Có,V
+442,tinh thần,N
+442,trách nhiệm,N
+442,cao,A
+442,.,CH
+443,Khả năng,N
+443,sử dụng,V
+443,tiếng,N
+443,Anh,Np
+443,cơ bản,A
+444,Trung thực,N
+444,",",CH
+444,hòa,M
+444,đồng,Nu
+444,với,E
+444,đồng nghiệp,N
+444,và,C
+444,có,V
+444,tinh thần,N
+444,trách nhiệm,N
+444,.,CH
+445,Được,V
+445,trang bị,V
+445,đồng phục,N
+445,và,C
+445,các,L
+445,công cụ,N
+445,",",CH
+445,thiết bị,N
+445,hỗ trợ,V
+445,để,E
+445,phục vụ,V
+445,cho,E
+445,quá trình,N
+445,làm việc,V
+446,3,M
+446,.,CH
+446,Có,V
+446,kinh nghiệm,N
+446,tổ chức,V
+446,cuộc,N
+446,thi,V
+446,online,V
+446,cho,E
+446,cộng đồng,N
+446,là,V
+446,một,M
+446,lợi thế,N
+447,+,N
+447,Có,V
+447,kinh nghiệm,N
+447,sử dụng,V
+447,&,CH
+447,cài đặt,V
+447,ứng dụng,N
+447,trên,E
+447,các,L
+447,hệ,N
+447,điều hành,V
+447,Linux,Np
+448,Experience,Np
+448,creating,V
+448,online,N
+448,/,CH
+448,digital,N
+448,content,V
+448,within,N
+448,the,V
+448,interactive,N
+448,space,M
+449,Kỹ năng,N
+449,giao tiếp,V
+449,và,C
+449,đàm phán,M
+450,Làm,V
+450,tại,E
+450,tòa,N
+450,nhà,N
+450,của,E
+450,các,L
+450,quận,N
+450,ở,E
+450,HCM,Np
+451,Nhiệt tình,N
+451,",",CH
+451,tự tin,V
+451,.,CH
+452,12,M
+452,triệu,M
+452,",",CH
+452,phụ thuộc,V
+452,vào,E
+452,đàm phán,N
+452,lương,N
+452,(,CH
+452,Ngoài,E
+452,Lương cơ bản,N
+452,còn,R
+452,có,V
+452,Phụ cấp,N
+452,+,V
+452,thưởng,V
+452,doanh số,N
+452,tháng,N
+452,+,M
+452,thưởng,V
+452,doanh số,N
+452,6,M
+452,tháng,N
+452,),CH
+452,.,CH
+452,Thu nhập,N
+452,không,R
+452,giới hạn,V
+452,.,CH
+452,Tỷ lệ,N
+452,trích,V
+452,thưởng,V
+452,doanh số,N
+452,cao,A
+452,.,CH
+452,Thời gian,N
+452,trả,V
+452,thưởng,V
+452,tháng,N
+452,:,CH
+452,vào,E
+452,ngày,N
+452,15,M
+452,hàng,N
+452,tháng,N
+452,",",CH
+452,thời gian,N
+452,trả,V
+452,thưởng,V
+452,6,M
+452,tháng,N
+452,:,CH
+452,2,M
+452,lần,N
+452,1,M
+452,năm,N
+452,.,CH
+453,II,M
+453,/,CH
+453,YÊU CẦU,Np
+453,NĂNG LỰC,Np
+453,:,CH
+454,Có,V
+454,kiến thức,N
+454,và,C
+454,kinh nghiệm,N
+454,quản lý,V
+454,các,L
+454,kênh,N
+454,social media,V
+454,.,CH
+455,Tốt nghiệp,V
+455,Đại học,N
+455,trở,V
+455,lên,V
+455,các,L
+455,chuyên ngành,N
+455,liên quan,V
+455,đến,E
+455,kinh tế,N
+455,",",CH
+455,tài chính,N
+455,",",CH
+455,..,M
+456,being,N
+456,:,CH
+456,Company events,N
+456,",",CH
+456,Happy Friday,Np
+456,",",CH
+456,Sinh nhật,N
+456,tháng,N
+456,",",CH
+456,các,L
+456,CLB,Ny
+456,",",CH
+456,Workshop,Np
+456,về,V
+456,chăm sóc,V
+456,sức,N
+456,khỏe,V
+456,thể chất,N
+456,và,C
+456,tinh thần,N
+456,.,CH
+457,Tích cực,A
+457,công việc,N
+457,hoạt động,V
+457,bên,N
+457,ngoài,N
+457,.,CH
+458,Có,V
+458,tinh thần,N
+458,trách nhiệm,N
+458,cao,A
+458,trong,E
+458,công việc,N
+458,.,CH
+459,Có,V
+459,khả năng,N
+459,đạo diễn,N
+459,",",CH
+459,điều chỉnh,V
+459,diễn viên,N
+459,lúc,N
+459,quay,V
+459,(,CH
+459,cảm xúc,N
+459,",",CH
+459,biểu cảm,N
+459,",",CH
+459,tông,V
+459,giọng,N
+459,",",CH
+459,...,CH
+459,),CH
+459,là,V
+459,một,M
+459,lợi thế,N
+459,.,CH
+460,Nơi,N
+460,nhận,V
+460,hồ sơ,N
+460,:,CH
+461,3.5,N
+461,.,CH
+461,Tin học,N
+461,:,CH
+462,Phúc lợi,N
+462,Tập đoàn,N
+462,:,CH
+462,48,N
+462,tr,M
+462,/,CH
+462,năm,N
+462,bao gồm,V
+462,thưởng,V
+462,các,L
+462,ngày,N
+462,lễ tết,M
+462,của,E
+462,Việt Nam,Np
+463,·,N
+463,Ability,Np
+463,to,A
+463,work,N
+463,in,V
+463,highly,N
+463,competing,N
+463,industrial,V
+463,environment,N
+463,",",CH
+463,with,N
+463,strong,V
+463,desire,N
+463,to WIN,V
+463,;,CH
+463,Ability,Np
+463,to drive,V
+463,and lead,N
+463,changes,M
+464,Tốt nghiệp,V
+464,Đại học,N
+464,chuyên ngành,N
+464,:,CH
+464,Tài chính,N
+465,·,N
+465,Kỹ năng,N
+465,giải quyết,V
+465,vấn đề,N
+465,.,CH
+466,Design,Np
+466,",",CH
+466,implement,N
+466,and expand,N
+466,LCL,Np
+466,products,M
+467,Có,V
+467,tính,N
+467,sáng tạo,A
+467,trong,E
+467,công việc,N
+468,Có,V
+468,khả năng,N
+468,kết nối,V
+468,với,E
+468,bộ phận,N
+468,sales,N
+468,để,E
+468,thảo luận,V
+468,và,C
+468,triển khai,V
+468,các,L
+468,kế hoạch,N
+468,",",CH
+468,chiến lược,N
+469,2,M
+469,.,CH
+469,Có thể,R
+469,làm việc,V
+469,theo,V
+469,ca,N
+470,Mức,N
+470,lương,N
+470,thưởng,V
+470,hấp dẫn,V
+470,",",CH
+470,thỏa thuận,N
+470,xứng đáng,A
+470,và,C
+470,phù hợp,V
+470,với,E
+470,năng lực,N
+470,;,CH
+470,cạnh tranh,V
+470,so,V
+470,với,E
+470,thị trường,N
+471,–,CH
+471,Được,V
+471,cung cấp,V
+471,trang thiết bị,N
+471,làm việc,V
+471,theo,V
+471,vị trí,N
+471,:,CH
+471,Đồng phục,N
+471,",",CH
+471,máy tính,N
+471,…,CH
+472,+,N
+472,Các,L
+472,thành tích,N
+472,được,V
+472,chứng nhận,V
+472,(,CH
+472,Nếu,C
+472,có,V
+472,),CH
+473,VP,Np
+473,YODY,Np
+473,Hà Nội,Np
+473,:,CH
+473,Tòa,Np
+473,nhà,N
+473,HH1,Np
+473,",",CH
+473,90,N
+473,Nguyễn Tuân,Np
+473,",",CH
+473,Quận,Np
+473,Thanh Xuân,Np
+473,",",CH
+473,Hà Nội,Np
+474,Trung thực,N
+474,",",CH
+474,hòa,M
+474,đồng,Nu
+474,với,E
+474,mọi,L
+474,người,N
+474,",",CH
+474,kết nối,V
+474,tốt,A
+474,mọi,L
+474,người,N
+474,trong,E
+474,nhóm,N
+474,với,E
+474,nhau,N
+475,Tối thiểu,N
+475,3,M
+475,năm,N
+475,kinh nghiệm,N
+475,làm việc,V
+475,ở,E
+475,công ty,N
+475,điện tử,N
+475,",",CH
+475,ưu tiên,A
+475,ứng viên,V
+475,có,V
+475,kinh nghiệm,N
+475,ở,E
+475,vị trí,N
+475,liên quan,V
+476,Sử dụng,V
+476,thành thạo,V
+476,các,L
+476,phần mềm,N
+476,tin học,N
+476,văn phòng,N
+476,và,C
+476,phần mềm,N
+476,quản lý,V
+476,kho5,N
+476,.,CH
+476,Tố chất,N
+476,cá nhân,N
+476,:,CH
+477,•,N
+477,Đã,R
+477,từng,R
+477,tham gia,V
+477,thực hiện,V
+477,các,L
+477,dự án,N
+477,về,V
+477,làm,V
+477,video,FW
+477,clip,N
+477,",",CH
+477,livestream,N
+477,",",CH
+477,âm nhạc,N
+477,",",CH
+477,gameshow,N
+477,",",CH
+477,biểu diễn,V
+477,và,C
+477,một số,L
+477,chương trình,N
+477,giải trí,V
+477,khác,A
+478,Xét duyệt,N
+478,tăng,V
+478,lương,N
+478,01,M
+478,lần,N
+478,/,CH
+478,năm,M
+479,Kỹ năng,N
+479,quản lý,V
+480,BHXH,Np
+480,theo,V
+480,quy định,N
+481,Lưu ý,N
+481,tiêu đề,N
+481,của,E
+481,email,FW
+481,dự tuyển,V
+481,:,CH
+481,Địa điểm,N
+481,_Vị trí,V
+481,ứng tuyển_Họ,N
+481,và,C
+481,tên,N
+481,(,CH
+481,Ví dụ,V
+481,:,CH
+481,CN_Hanoi_Giaodichvien_PhamThiA,Np
+481,),CH
+482,2,M
+482,.,CH
+482,Kỹ năng,N
+482,",",CH
+482,tố chất,V
+482,:,CH
+483,Trung thực,N
+483,",",CH
+483,nhiệt tình,N
+483,",",CH
+483,giao tiếp,V
+483,tốt,A
+483,.,CH
+484,Familiarity,Np
+484,with,V
+484,social,N
+484,media,V
+484,.,CH
+485,HƯỚNG DẪN,Np
+485,NỘP,Np
+485,HỒ SƠ,Np
+485,VÀ,Np
+485,MẪU ĐƠN,Np
+485,DỰ TUYỂN,Np
+486,ngân hàng,N
+486,hoặc,C
+486,các,L
+486,vị trí,N
+486,:,CH
+486,chuyên viên,N
+486,sales,V
+486,khách sạn,N
+486,4-5 sao,N
+486,",",CH
+486,chuyên viên,N
+486,môi giới,V
+486,chăm sóc,V
+486,khách hàng,N
+486,cao cấp,A
+486,công ty,N
+486,chứng khoản,V
+486,",",CH
+486,quỹ,N
+486,đầu tư,V
+486,",",CH
+486,chuyên viên,N
+486,sales,N
+486,công ty,N
+486,bảo hiểm,N
+486,(,CH
+486,ưu tiên,V
+486,bảo hiểm,V
+486,nhân thọ,N
+486,),CH
+486,.,CH
+486,Ưu tiên,V
+486,có,V
+486,kinh nghiệm,N
+486,quản lý,V
+486,ở,E
+486,vị trí,N
+486,TBP,Np
+486,/,CH
+486,Trưởng,N
+486,nhóm,N
+486,trở,V
+486,lên,V
+486,.,CH
+487,Kinh nghiệm,N
+487,:,CH
+487,Ưu tiên,N
+487,ứng viên,V
+487,có,V
+487,trên,N
+487,6,M
+487,tháng,N
+487,kinh nghiệm,N
+487,làm việc,V
+487,ở,E
+487,vị trí,N
+487,tương đương,A
+487,.,CH
+488,Làm việc,V
+488,từ,E
+488,thứ,N
+488,2,M
+488,-,CH
+488,hết,T
+488,sáng,N
+488,thứ,N
+488,7,M
+489,Giao,V
+489,tiếp,V
+489,tốt,A
+489,",",CH
+489,có,V
+489,tìm hiểu,V
+489,thông tin,N
+489,",",CH
+489,hiểu biết,V
+489,về,E
+489,ngành,N
+489,gỗ,N
+489,",",CH
+489,nội ngoại,N
+489,thất,V
+489,;,CH
+490,Có,V
+490,cơ hội,N
+490,thăng tiến,V
+490,.,CH
+491,Chủ động,N
+491,",",CH
+491,trách nhiệm,N
+491,trong,E
+491,công việc,N
+491,",",CH
+491,chịu,V
+491,được,V
+491,áp lực,N
+491,công việc,N
+492,PHÚC LỢI,Np
+492,:,CH
+493,Biết,V
+493,phân tích,V
+493,thông tin,N
+493,",",CH
+493,giải quyết,V
+493,vấn đề,N
+493,",",CH
+493,thiết kế,V
+493,giao diện,V
+493,cho,E
+493,trang web,N
+493,.,CH
+494,Có,V
+494,kinh nghiệm,N
+494,làm việc,V
+494,tại,E
+494,vị trí,N
+494,tương đương,A
+494,từ,E
+494,6,M
+494,tháng,N
+494,trở,V
+494,lên,V
+494,",",CH
+494,biết,V
+494,sử dụng,V
+494,PM Pancake,Np
+494,và,C
+494,Nhanh,A
+494,.,CH
+494,vn,N
+494,là,V
+494,một,M
+494,lợi thế,N
+494,.,CH
+495,Có,V
+495,khả năng,N
+495,quản lý,V
+495,",",CH
+495,phân công,V
+495,và,C
+495,hướng dẫn,V
+495,nhân viên,N
+495,thực hiện,V
+495,công việc,N
+496,Có,V
+496,phụ cấp,N
+496,ăn,V
+496,trưa,N
+496,điện thoại,N
+496,:,CH
+496,930.000,M
+496,đồng,Nu
+496,/,CH
+496,tháng,N
+497,Không,R
+497,cần,V
+497,kinh nghiệm,N
+497,",",CH
+497,sẽ,R
+497,được,V
+497,công ty,N
+497,đào tạo,V
+498,Lương,N
+498,vị trí,N
+498,:,CH
+498,10,M
+498,tr,N
+498,–,CH
+498,15,M
+498,tr,N
+499,Kinh nghiệm,N
+499,1,M
+499,->,N
+499,2,M
+499,năm,N
+499,",",CH
+499,Tốt nghiệp,V
+499,Cao đẳng,N
+499,trở,V
+499,lên,V
+499,chuyên ngành,N
+499,khối,N
+499,Kinh tế,N
+499,",",CH
+499,Thương mại,N
+499,",",CH
+499,Kế toán,M
+500,Chuyên ngành,N
+500,đào tạo,V
+500,:,CH
+500,Công nghệ thông tin,N
+500,",",CH
+500,Toán,Np
+500,tin,V
+500,",",CH
+500,Điện tử,N
+500,Viễn thông,N
+500,…,CH
+501,Có,V
+501,đạo đức,N
+501,tốt,A
+501,",",CH
+501,tinh thần,N
+501,trách nhiệm,N
+501,trong,E
+501,công việc,N
+501,.,CH
+502,Ưu tiên,N
+502,ứng viên,V
+502,có,V
+502,sở trường,N
+502,kinh doanh,V
+502,ngành,N
+502,vật liệu,N
+502,xây dựng,V
+502,là,V
+502,một,M
+502,lợi thế,N
+502,.,CH
+503,Chế độ,N
+503,lao động,N
+503,",",CH
+503,BHXH,Np
+503,đầy đủ,A
+503,.,CH
+504,Có,V
+504,từ,E
+504,2,M
+504,năm,N
+504,kinh nghiệm,N
+504,làm việc,V
+504,trong,E
+504,lĩnh vực,N
+504,cơ điện,N
+504,(,CH
+504,chủ,N
+504,đầu tư,V
+504,;,CH
+504,tư vấn,V
+504,giám sát,V
+504,;,CH
+504,tư vấn,V
+504,thiết kế,V
+504,;,CH
+504,tổng,N
+504,thầu,V
+504,;,CH
+504,nhà thầu,N
+504,thi công,V
+504,lắp đặt,N
+504,),CH
+505,Nhạy bén,N
+505,",",CH
+505,phân tích,V
+505,",",CH
+505,và,C
+505,biết,V
+505,nắm bắt,V
+505,xu hướng,N
+505,.,CH
+506,Có,V
+506,khả năng,N
+506,sử dụng,V
+506,cơ bản,A
+506,một số,L
+506,trình,N
+506,thiết kế,V
+506,media,N
+506,để,E
+506,sáng tạo,V
+506,nội dung,N
+506,quảng cáo,V
+506,.,CH
+507,Kỹ năng,N
+507,giao tiếp,V
+507,;,CH
+507,khả năng,N
+507,quản lý,V
+507,thời gian,N
+507,",",CH
+507,xử lý,V
+507,vấn đề,N
+507,và,C
+507,điều phối,V
+507,công việc,N
+507,tốt,A
+507,.,CH
+508,Ưu tiên,N
+508,có,V
+508,kinh nghiệm,N
+508,triển khai,V
+508,các,L
+508,dự án,N
+508,chuyển đổi,V
+508,số,N
+508,",",CH
+508,nền tảng,N
+508,lưu trữ,V
+508,cloud,N
+508,/,CH
+508,big,N
+508,data,V
+508,/,CH
+508,…,CH
+508,…,CH
+509,Ưu tiên,V
+509,các,L
+509,bạn,N
+509,đã,R
+509,có,V
+509,kinh nghiệm,N
+509,sale,N
+509,",",CH
+509,telesale,N
+509,",",CH
+509,tư vấn,V
+509,",",CH
+509,chăm sóc,V
+509,khách hàng,N
+509,",",CH
+509,...,CH
+510,b,N
+510,.,CH
+510,Trong,E
+510,khi,N
+510,sản xuất,V
+511,Có,V
+511,kinh nghiệm,N
+511,trên,E
+511,05,N
+511,kinh nghiệm,N
+511,trong,E
+511,lĩnh vực,N
+511,thiết kế đầm,N
+511,dạ hội,N
+511,",",CH
+511,đồ,N
+511,tiệc,N
+511,",",CH
+511,có,V
+511,khả năng,N
+511,thiết kế,V
+511,phân tích,V
+511,xử lý,V
+511,kỹ thuật,N
+511,",",CH
+511,drapping,V
+511,3D,N
+511,.,CH
+512,Ưu tiên,N
+512,ứng viên,V
+512,kinh nghiệm,N
+512,trong,E
+512,hoặc,C
+512,ngoài,E
+512,nước,N
+512,về,E
+512,ngành,N
+512,nội thất,N
+512,",",CH
+512,vật liệu,N
+512,xây dựng,V
+512,.,CH
+513,Kinh nghiệm,N
+513,quay,V
+514,Thái độ,N
+514,:,CH
+514,Tập trung,V
+514,vào,E
+514,kết quả,N
+514,",",CH
+514,cầu thị,N
+514,",",CH
+514,ham,V
+514,học hỏi,V
+514,",",CH
+514,cẩn thận,A
+514,",",CH
+514,chịu khó,A
+515,Kỹ năng,N
+515,tạo dựng,V
+515,mối,N
+515,quan hệ,N
+515,tốt,A
+516,Kinh nghiệm,N
+516,trong,E
+516,việc,N
+516,thiết lập,V
+516,và,C
+516,tối ưu hóa,V
+516,các,L
+516,chiến dịch,N
+516,Google Adwords,Np
+516,.,CH
+517,Nộp,V
+517,Bản Thông tin,N
+517,ứng viên,V
+517,theo,V
+517,mẫu,N
+517,của,E
+517,MBS,Np
+517,theo,V
+517,hình thức,N
+517,sau,N
+517,:,CH
+518,Kỹ năng,N
+518,cơ bản,A
+518,về,E
+518,Microsoft,Np
+518,Office Suite,Np
+518,.,CH
+519,Tốt nghiệp,V
+519,CĐ,Np
+519,trở,V
+519,lên,V
+519,chuyên ngành,N
+519,Kế toán,N
+519,",",CH
+519,Kiểm toán,N
+519,",",CH
+519,Kinh tế,N
+519,",",CH
+519,Tài chính,N
+519,",",CH
+519,...,CH
+520,Trình độ,N
+520,học vấn,N
+520,/,CH
+520,chuyên môn,N
+520,:,CH
+521,Strong,Np
+521,understanding,V
+521,of the,N
+521,web,V
+521,development,N
+521,cycle,M
+522,Có,V
+522,kỹ năng,N
+522,giao tiếp,V
+522,tốt,A
+522,bằng,E
+522,tiếng,N
+522,Anh,Np
+522,và,C
+522,tiếng,N
+522,Việt,Np
+522,.,CH
+523,Ưu tiên,V
+523,làm,V
+523,trong,E
+523,ngành,N
+523,y tế,N
+523,như,C
+523,phòng khám,N
+523,",",CH
+523,bệnh viện,N
+523,…,CH
+524,QUYỀN LỢI,N
+524,ỨNG VIÊN,Np
+524,:,CH
+525,Kinh nghiệm,N
+525,:,CH
+525,có,V
+525,ít nhất,X
+525,03,M
+525,năm,N
+525,đã,R
+525,đảm nhiệm,V
+525,vị trí,N
+525,trưởng,N
+525,hệ,N
+525,Điện chỉ huy,N
+525,phó,Z
+525,/,CH
+525,Chỉ huy,V
+525,trưởng,N
+525,dự án,N
+525,thi công,V
+525,Cơ điện,N
+525,hoặc,C
+525,vị trí,N
+525,tương đương,A
+525,.,CH
+526,Kinh nghiệm,N
+526,:,CH
+526,Tối thiểu,N
+526,2,M
+526,năm,N
+526,làm việc,V
+526,ở,E
+526,vị trí,N
+526,Kế toán viên,M
+526,/,CH
+526,Giao dịch viên,N
+526,trong,E
+526,ngành,N
+526,ngân hàng,N
+526,",",CH
+526,hoặc,C
+526,tối thiểu,N
+526,1,M
+526,năm,N
+526,làm việc,V
+526,ở,E
+526,vị trí,N
+526,Kiểm soát viên,N
+526,trong,E
+526,ngành,N
+526,ngân hàng,N
+526,.,CH
+527,Lương,N
+527,từ,E
+527,20,M
+528,Có,V
+528,kiến thức,N
+528,về,V
+528,marketing,FW
+528,ở,E
+528,mức,N
+528,tốt,A
+528,trở,V
+528,lên,V
+528,.,CH
+529,Kỹ năng,N
+529,giao tiếp,V
+529,tốt,A
+529,.,CH
+530,HƯỚNG DẪN,Np
+530,NỘP,Np
+530,HỒ SƠ,Np
+530,VÀ,Np
+530,MẪU ĐƠN,Np
+530,DỰ TUYỂN,Np
+531,Hỗ trợ,V
+531,bán,V
+531,hàng,N
+531,và,C
+531,quản lý,V
+531,các,L
+531,công việc,N
+531,phát sinh,V
+531,khi,N
+531,bán,V
+531,hàng,N
+531,.,CH
+532,Làm việc,V
+532,trong,E
+532,môi trường,N
+532,:,CH
+532,Cởi mở,M
+533,Có,V
+533,ít nhất,X
+533,2,M
+533,năm,N
+533,kinh nghiệm,N
+533,trong,E
+533,lĩnh vực,N
+533,bán,V
+533,hàng,N
+533,trực tiếp,A
+533,.,CH
+534,Khả năng,N
+534,giao tiếp,V
+534,",",CH
+534,đàm phán,N
+534,",",CH
+534,thuyết phục,V
+534,tốt,A
+534,.,CH
+535,1,M
+535,.,CH
+535,Trình độ,N
+535,Học vấn,M
+536,Tốt nghiệp,V
+536,đại học,N
+536,",",CH
+536,chuyên ngành,N
+536,kế toán,N
+536,",",CH
+536,các,L
+536,chuyên ngành,N
+536,liên quan,V
+536,.,CH
+537,•,N
+537,Sử dụng,V
+537,tốt,A
+537,các,L
+537,phần mềm,N
+537,vi tính,N
+537,văn phòng,N
+537,(,CH
+537,Word,Np
+537,",",CH
+537,Excel,Np
+537,",",CH
+537,Power Point,Np
+537,…,CH
+537,),CH
+537,và,C
+537,các,L
+537,trang thiết bị,N
+537,văn phòng,N
+537,.,CH
+538,Có,V
+538,kinh nghiệm,N
+538,làm việc,V
+538,ở,E
+538,cấp bậc,N
+538,Trưởng,Np
+538,/,CH
+538,phó,Z
+538,phòng,N
+538,2,M
+538,năm,N
+538,kinh nghiệm,N
+538,trở,V
+538,lên,V
+538,.,CH
+538,Ưu tiên,V
+538,ứng viên,N
+538,có,V
+538,kinh nghiệm,N
+538,làm việc,V
+538,trong,E
+538,lĩnh vực,N
+538,:,CH
+538,Bất động sản,N
+538,",",CH
+538,Tài chính,N
+538,",",CH
+538,thiết kế,V
+538,nội thất,N
+538,....,CH
+539,+,N
+539,Các,L
+539,loại,N
+539,bằng cấp,N
+539,tốt nghiệp,V
+539,(,CH
+539,Bản sao,N
+539,),CH
+540,Lương,N
+540,thỏa thuận,V
+540,theo,V
+540,năng lực,N
+540,từ,E
+540,20,M
+541,3,M
+541,.,CH
+541,Các,L
+541,Kỹ năng,N
+542,driven,N
+542,",",CH
+542,trustworthy,N
+542,",",CH
+542,and willing,N
+542,to,A
+542,go,V
+542,an extra,N
+542,mile,M
+543,Mức,N
+543,lương,N
+543,thương lượng,V
+543,dựa,V
+543,trên,E
+543,năng lực,N
+543,",",CH
+543,có,V
+543,chế độ,N
+543,khen thưởng,V
+543,nhân viên,N
+543,xuất sắc,A
+543,.,CH
+544,Linh hoạt,N
+544,",",CH
+544,nhiệt tình,N
+544,",",CH
+544,có,V
+544,tinh thần,N
+544,trách nhiệm,N
+544,cao,A
+544,trong,E
+544,công việc,N
+544,.,CH
+545,Ngoại ngữ,N
+545,:,CH
+545,tiếng,N
+545,Anh,Np
+545,giao tiếp,V
+546,Được,V
+546,nghỉ chiều,N
+546,thứ Bảy,N
+546,và,C
+546,Chủ nhật,N
+546,hàng,N
+546,tuần,N
+546,.,CH
+547,Làm,V
+547,được,R
+547,xoay,V
+547,ca,N
+547,linh động,M
+548,Địa điểm,N
+548,làm việc,V
+548,:,CH
+548,Hà Nội,Np
+548,",",CH
+548,Đà Nẵng,Np
+548,",",CH
+548,HCM,Np
+549,Được,V
+549,đào tạo,V
+549,về,E
+549,GMP,Np
+549,",",CH
+549,GLP,Np
+549,",",CH
+549,GSP,Np
+550,4,M
+550,.,CH
+550,Skills and,N
+550,Abilities,Np
+551,Ưu tiên,V
+551,các,L
+551,ứng viên,N
+551,đã,R
+551,làm việc,V
+551,cho,E
+551,các,L
+551,Công ty,N
+551,Dược,Np
+552,Nhanh nhẹn,A
+552,",",CH
+552,năng động,A
+552,",",CH
+552,yêu,V
+552,thích,V
+552,lĩnh vực,N
+552,giáo dục,N
+553,Kỹ năng,N
+553,giao tiếp,V
+553,",",CH
+553,đàm phán,N
+553,",",CH
+553,thuyết trình,N
+553,",",CH
+553,lập,V
+553,kế hoạch,N
+553,và,C
+553,báo cáo,V
+553,.,CH
+554,+,N
+554,Nghỉ,V
+554,01,V
+554,ngày,N
+554,/,CH
+554,tuần,N
+555,Trên,E
+555,03,M
+555,năm,N
+555,kinh nghiệm,N
+555,quản lý,V
+555,ở,E
+555,vị trí,N
+555,tương đương,A
+555,",",CH
+555,ưu tiên,A
+555,ứng viên,V
+555,ở,E
+555,các,L
+555,hãng,N
+555,thời trang,N
+555,.,CH
+556,Nhanh nhẹn,A
+556,",",CH
+556,chăm chỉ,A
+556,",",CH
+556,trung thực,M
+557,Được,V
+557,thưởng,V
+557,hàng,N
+557,quý,V
+557,theo,V
+557,doanh thu,N
+558,Kỹ năng,N
+558,lãnh đạo,N
+558,và,C
+558,làm việc,V
+558,nhóm,N
+559,Có,V
+559,kỹ năng,N
+559,đàm phán,N
+559,",",CH
+559,thuyết phục,V
+560,Lập,V
+560,kế hoạch,N
+560,",",CH
+560,sắp xếp,V
+560,thời gian,N
+560,và,C
+560,công việc,N
+560,.,CH
+561,Ưu tiên,N
+561,có,V
+561,kinh nghiệm,N
+561,3,M
+561,năm,N
+561,trở,V
+561,lên,V
+561,ở,E
+561,vị trí,N
+561,tương đương,A
+562,Tốt nghiệp,V
+562,Đại học,N
+562,trở,V
+562,lên,V
+562,(,CH
+562,ưu tiên,V
+562,chuyên ngành,N
+562,Tài chính,N
+563,2,M
+563,.,CH
+563,Kinh nghiệm,N
+563,:,CH
+563,5,M
+563,năm,N
+563,tại,E
+563,vị trí,N
+563,tương đương,A
+563,tại,E
+563,các,L
+563,TĐ,Np
+563,lớn,A
+563,(,CH
+563,xây dựng,V
+563,",",CH
+563,đầu tư,V
+563,",",CH
+563,Bất động sản,N
+563,),CH
+564,Good,Np
+564,working attitude,V
+564,and diligent,N
+564,;,CH
+565,Tối thiểu,N
+565,02,V
+565,năm,N
+565,kinh nghiệm,N
+565,ở,E
+565,vị trí,N
+565,nghiệp vụ,N
+565,tiền lương,N
+565,và,C
+565,bảo hiểm,M
+566,Nắm,V
+566,được,R
+566,các,L
+566,quy định,N
+566,về,V
+566,phòng,N
+566,cháy,V
+566,chữa cháy,V
+566,",",CH
+566,an toàn,A
+566,sử dụng,V
+567,Có,V
+567,kinh nghiệm,N
+567,về,E
+567,việc,N
+567,sử dụng,V
+567,các,L
+567,công cụ,N
+567,",",CH
+567,thư viện,N
+567,trong,E
+567,thiết kế,V
+567,web,N
+567,là,V
+567,mội,N
+567,lợi thế,V
+567,.,CH
+568,Yêu cầu,N
+568,:,CH
+569,Ưu tiên,N
+569,ứng viên,V
+569,thành thạo,N
+569,kỹ năng,N
+569,đọc,V
+570,Chịu,V
+570,trách nhiệm,N
+570,trong,E
+570,công việc,N
+570,",",CH
+570,nhiệt tình,N
+570,",",CH
+570,chịu,V
+570,áp lực,N
+570,công việc,N
+570,cao,A
+570,.,CH
+571,Giỏi,N
+571,chuyên môn,N
+571,kế toán,V
+571,",",CH
+571,nắm,V
+571,vững,A
+571,&,CH
+571,cập nhật,N
+571,thường xuyên,A
+571,các,L
+571,Luật,N
+571,liên quan,V
+571,;,CH
+572,Tốt nghiệp,V
+572,Trung cấp,N
+572,trở,V
+572,lên,V
+572,các,L
+572,chuyên ngành,N
+572,như,C
+572,Quản trị,V
+572,Kinh doanh,V
+572,",",CH
+572,Kế toán,N
+572,",",CH
+572,...,CH
+572,hoặc,C
+572,các,L
+572,ngành nghề,N
+572,liên quan,V
+572,.,CH
+573,Kỹ năng,N
+573,làm việc,V
+573,teamwork,N
+573,tốt,A
+574,Có,V
+574,khả năng,N
+574,chịu,V
+574,áp lực,N
+574,công việc,N
+574,.,CH
+575,Tốt nghiệp,V
+575,cao đẳng,N
+575,",",CH
+575,đại học,N
+575,chuyên ngành,N
+575,Dược,Np
+575,",",CH
+575,Quản trị,V
+575,kinh doanh,V
+575,",",CH
+575,Kinh tế,N
+575,và,C
+575,các,L
+575,chuyên ngành,N
+575,khác,A
+575,có,R
+575,liên quan,V
+575,.,CH
+576,Tinh thần,N
+576,trách nhiệm,N
+576,và,C
+576,có,V
+576,khả năng,N
+576,chịu,V
+576,được,V
+576,áp lực,N
+576,cao,A
+576,trong,E
+576,công việc,N
+577,Đảm bảo,V
+577,tác phong,N
+577,",",CH
+577,ngôn phong,N
+577,phù hợp,V
+577,ở,E
+577,môi trường,N
+577,giáo dục,M
+578,Công việc,N
+578,có,V
+578,sử dụng,V
+578,tiếng,N
+578,Anh,Np
+579,Có,V
+579,khả năng,N
+579,sử dụng,V
+579,tốt,A
+579,vi tính,N
+579,văn phòng,N
+579,(,CH
+579,Word,Np
+579,",",CH
+579,Excel,Np
+579,",",CH
+579,Power Point,Np
+579,",",CH
+579,v.v.,N
+579,),CH
+579,;,CH
+580,Ưu tiên,N
+580,có,V
+580,kinh nghiệm,N
+580,bán,V
+580,hàng,N
+580,trong,E
+580,ngành hàng tiêu dùng,N
+580,nhanh,A
+580,(,CH
+580,FMCG,Np
+580,),CH
+580,.,CH
+581,Yêu cầu,N
+581,ứng viên,M
+582,Tốt nghiệp,V
+582,chuyên ngành,N
+582,Quản trị,V
+582,Hành chính,N
+582,hoặc,C
+582,các,L
+582,chuyên ngành,N
+582,khác,A
+582,có,R
+582,liên quan,V
+582,.,CH
+583,1,M
+583,.,CH
+583,Tư duy,N
+583,sáng tạo,V
+583,",",CH
+583,độc lập,N
+583,và,C
+583,nhạy bén,V
+583,với,E
+583,các,L
+583,xu hướng,N
+583,truyền thông,M
+584,Kỹ năng,N
+584,điều phối,V
+584,/,CH
+584,quản lý,V
+584,dự án,N
+585,Làm việc,V
+585,độc lập,A
+585,",",CH
+585,làm việc,V
+585,nhóm,N
+585,.,CH
+586,–,CH
+586,Môi trường,N
+586,làm việc,V
+586,quốc tế,N
+586,chuyên nghiệp,A
+586,",",CH
+586,trẻ trung,A
+586,và,C
+586,năng động,A
+586,.,CH
+587,Tiếng,N
+587,anh,Nc
+587,giao tiếp,V
+587,khá,R
+587,/,CH
+587,tốt,A
+587,cả,T
+587,4,M
+587,kỹ năng,N
+587,;,CH
+587,biết,V
+587,thêm,V
+587,tiếng,N
+587,trung là,V
+587,lợi thế,A
+587,.,CH
+588,Thích,V
+588,giao tiếp,V
+588,",",CH
+588,gặp,V
+588,khách hàng,N
+588,",",CH
+588,yêu thích,V
+588,công việc,N
+588,bán,V
+588,hàng,N
+588,.,CH
+589,NGÔN NGỮ,Np
+590,Tham gia,V
+590,BHXH,Np
+590,",",CH
+590,BHYT,Np
+590,",",CH
+590,BHTN,Np
+590,đầy đủ,A
+590,và,C
+590,các,L
+590,chế độ,N
+590,khác,A
+590,theo,V
+590,quy định,N
+590,của,E
+590,Luật,Np
+590,.,CH
+591,Khả năng,N
+591,làm việc,V
+591,độc lập,A
+591,",",CH
+591,phối hợp,V
+591,nhóm,N
+591,tốt,A
+592,Có,V
+592,tư duy,N
+592,tích cực,A
+592,",",CH
+592,tinh thần,N
+592,cầu tiến,V
+592,.,CH
+593,Văn hóa,N
+593,công ty,N
+593,đặc sắc,V
+593,với,E
+593,nhiều,A
+593,hoạt động,N
+593,đoàn thể,V
+593,được,R
+593,quan tâm,V
+593,đầu tư,V
+593,:,CH
+593,08/3,N
+593,",",CH
+593,20/10,N
+593,",",CH
+593,Team building,N
+593,",",CH
+593,Year,Np
+593,End Party,Np
+593,",",CH
+593,Ngày,N
+593,Hội,N
+593,Gia đình,N
+593,ZME,Np
+593,(,CH
+593,dịp,N
+593,Noel,Np
+593,hàng,N
+593,năm,M
+593,),CH
+593,",",CH
+593,…,CH
+594,Tư duy,N
+594,giải quyết,V
+594,vấn đề,N
+594,tốt,A
+594,",",CH
+594,nhanh nhẹn,A
+594,",",CH
+594,linh hoạt,A
+594,.,CH
+595,2,M
+595,.,CH
+595,Cách thức,N
+595,nộp,V
+595,hồ sơ,N
+595,:,CH
+596,●,N
+596,Tối thiểu,N
+596,3,M
+596,năm,N
+596,kinh nghiệm,N
+596,ở,E
+596,vị trí,N
+596,ứng tuyển,N
+596,.,CH
+596,Ưu tiên,V
+596,ứng viên,N
+596,có,V
+596,kinh nghiệm,N
+596,làm việc,V
+596,với,E
+596,các,L
+596,khách hàng,N
+596,đại lý,N
+596,",",CH
+596,cửa hàng,N
+596,",",CH
+596,có,V
+596,mối,N
+596,quan hệ,N
+596,khách hàng,N
+596,trong,E
+596,lĩnh vực,N
+596,cơ,N
+596,điện lạnh,V
+596,.,CH
+597,17,M
+597,h30,N
+597,',V
+597,;,CH
+597,làm việc,V
+597,5,M
+597,ngày,N
+597,/,CH
+597,tuần,N
+598,Có,V
+598,tinh thần,N
+598,trách nhiệm,N
+598,cao,A
+598,",",CH
+598,làm việc,V
+598,chăm chỉ,A
+598,",",CH
+598,trung thực,A
+598,và,C
+598,sẵn sàng,A
+598,làm,V
+598,thêm,V
+598,khi,N
+598,có,V
+598,yêu cầu,V
+598,.,CH
+599,Có,V
+599,kinh nghiệm,N
+599,làm,V
+599,Nhân viên,N
+599,kinh doanh,V
+599,",",CH
+599,vị trí,N
+599,liên quan,V
+600,Kinh nghiệm,N
+600,quản lý,V
+601,vận,N
+601,.,CH
+601,•,V
+601,Hiểu biết,N
+601,về,V
+601,nhập,V
+602,Kỹ năng,N
+602,ứng viên,V
+602,có,V
+602,trên,N
+602,01,M
+602,năm,N
+602,kinh nghiệm,N
+602,trong,E
+602,lĩnh vực,N
+602,tư vấn,V
+602,bảo hiểm,N
+602,",",CH
+602,tư vấn,V
+602,tài chính,N
+602,",",CH
+602,Ngân hàng,N
+602,",",CH
+602,kinh doanh,V
+603,Ưu tiên,N
+603,sử dụng,V
+603,được,R
+603,phần mềm,V
+603,kế toán,N
+603,MISA,Np
+603,.,CH
+604,Có,V
+604,ít nhất,X
+604,01,M
+604,năm,N
+604,kinh nghiệm,N
+604,ở,E
+604,các,L
+604,vị trí,N
+604,tương đương,A
+604,(,CH
+604,trong,E
+604,lĩnh vực,N
+604,Sales,Np
+604,",",CH
+604,Marketing,Np
+604,hoặc,C
+604,Đối ngoại,V
+604,là,V
+604,một,M
+604,lợi thế,N
+604,),CH
+604,.,CH
+605,·,N
+605,Làm việc,V
+605,tại,E
+605,TP.HCM,Np
+606,Giao,V
+606,chỉ tiêu,N
+606,bán,V
+606,hàng,N
+606,cho,E
+606,từng,P
+606,nhóm,N
+606,",",CH
+606,từng,R
+606,tư vấn,V
+606,bán,V
+606,hàng,N
+606,.,CH
+606,Theo dõi,V
+606,/,CH
+606,giám sát,V
+606,/,CH
+606,đôn đốc,N
+606,thực hiện,V
+606,chỉ tiêu,N
+606,bán,V
+606,hàng,N
+606,trên,E
+606,cơ sở,N
+606,đó,P
+606,đưa,V
+606,ra,V
+606,được,R
+606,biện pháp,V
+606,để,E
+606,hỗ trợ,V
+606,tư vấn,V
+606,bán,V
+606,hàng,N
+606,nhằm,V
+606,đảm bảo,V
+606,hoàn thành,V
+606,mục tiêu,N
+606,.,CH
+607,+,N
+607,Trải nghiệm,V
+607,chuyên sâu,V
+607,với,E
+607,các,L
+607,công cụ,N
+607,phân tích,V
+607,trang web,M
+608,Trình độ,N
+608,học vấn,N
+608,:,CH
+608,tốt nghiệp,V
+608,Đại học,N
+608,các,L
+608,chuyên ngành,N
+608,liên quan,V
+609,Mức,N
+609,lương,N
+609,",",CH
+609,thưởng,V
+609,và,C
+609,phúc lợi,V
+609,cạnh tranh,V
+609,",",CH
+609,linh hoạt,M
+610,Nhanh nhẹn,A
+610,",",CH
+610,hoạt bát,N
+610,",",CH
+610,trung thực,A
+610,trong,E
+610,công việc,N
+610,.,CH
+611,Có,V
+611,ít nhất,X
+611,01,N
+611,năm,M
+611,kinh nghiệm,N
+611,trong,E
+611,lĩnh vực,N
+611,thiết kế,V
+611,đồ,N
+611,họa số,N
+611,",",CH
+611,đồ,N
+611,họa,V
+611,in ấn,N
+611,...,CH
+612,Có thể,R
+612,đi,V
+612,công tác,V
+612,được,V
+613,Có,V
+613,phụ cấp,N
+613,ăn,V
+613,trưa,N
+613,",",CH
+613,điện thoại,N
+614,Có,V
+614,khả năng,N
+614,xử lý,V
+614,tình huống,N
+614,và,C
+614,Khả năng,N
+614,làm việc,V
+614,độc lập,A
+614,",",CH
+614,phối hợp,V
+614,làm việc,V
+614,nhóm,N
+614,tốt,A
+615,●,N
+615,Tốt nghiệp,V
+615,cao đẳng,N
+615,trở,V
+615,lên,V
+615,.,CH
+616,·,N
+616,Tốt nghiệp,V
+616,Cao đẳng,N
+616,/,CH
+616,Đại học,N
+616,chuyên ngành,N
+616,Kỹ thuật,N
+616,(,CH
+616,Nhiệt,Np
+616,/,CH
+616,Ứng dụng,N
+616,/,CH
+616,Cơ khí,N
+616,),CH
+616,",",CH
+616,Cơ Điện,Np
+617,·,N
+617,Kỹ năng,N
+617,đánh giá,V
+617,",",CH
+617,phân tích,V
+617,và,C
+617,tổng hợp,V
+617,tài liệu,N
+617,liên quan,V
+617,về,E
+617,chuyên môn,N
+618,Ưu tiên,N
+618,ứng viên,V
+618,có,V
+618,kinh nghiệm,N
+618,trong,E
+618,công tác,N
+618,phát triển,V
+618,",",CH
+618,kinh doanh,V
+618,dịch vụ,N
+618,.,CH
+619,​,N
+619,CHẾ ĐỘ,Np
+619,BÁO CÁO,Np
+619,:,CH
+620,Có,V
+620,thái độ,N
+620,làm việc,V
+620,cầu tiến,N
+620,",",CH
+620,nghiêm túc,A
+620,.,CH
+621,Có,V
+621,2,M
+621,năm,N
+621,kinh nghiệm,N
+621,nghiên cứu,V
+621,thị trường,N
+621,.,CH
+622,Linh,Np
+622,hoạt ứng xử,V
+622,với,E
+622,mọi,L
+622,người,N
+622,",",CH
+622,mọi,L
+622,tình huống,N
+623,Khả năng,N
+623,làm việc,V
+623,dưới,E
+623,áp lực,N
+623,cao,A
+624,Thu nhập,N
+624,:,CH
+624,7.000.000,M
+624,đồng,Nu
+624,/,CH
+624,tháng,N
+624,và,C
+624,hỗ trợ,V
+624,bữa,N
+624,ăn,V
+624,trưa,N
+624,.,CH
+624,Ứng viên,N
+624,có,V
+624,Tiếng,N
+624,Anh,Nc
+624,tốt,A
+624,sẽ,R
+624,được,V
+624,hưởng,V
+624,mức,N
+624,thu nhập,N
+624,cao,A
+624,hơn,A
+624,.,CH
+625,Minimum,N
+625,4,M
+625,years,N
+625,of working,V
+625,experience,N
+625,in,V
+625,Freight Forwarding,Np
+625,",",CH
+625,Logistics,Np
+625,",",CH
+625,Local Delivery,Np
+625,…,CH
+626,Nam,Np
+627,Được,V
+627,tham gia,V
+627,các,L
+627,khóa,N
+627,đào tạo,V
+627,nâng,V
+627,cao,A
+627,kỹ năng,N
+627,nghề nghiệp,N
+627,do,E
+627,Ngân hàng,N
+627,chi trả,V
+627,.,CH
+628,Có,V
+628,chứng chỉ,N
+628,OCA,Np
+628,",",CH
+628,OCP,Np
+628,của,E
+628,Oracle,Np
+628,",",CH
+628,MS SQL,Np
+628,Server,Np
+628,hoặc,C
+628,tương đương,A
+628,là,V
+628,một,M
+628,lợi thế,N
+629,Môi trường,N
+629,làm việc,V
+629,chuyên nghiệp,A
+629,",",CH
+629,năng động,A
+629,và,C
+629,hiệu quả,N
+630,Tối thiểu,N
+630,6,M
+630,tháng,N
+630,kinh nghiệm,N
+630,tư vấn,V
+630,/,CH
+630,sales,V
+630,các,L
+630,ngành nghề,N
+630,.,CH
+630,Ứng viên,N
+630,có,V
+630,kinh nghiệm,N
+630,trong,E
+630,các,L
+630,lĩnh vực,N
+630,Bảo hiểm,N
+630,",",CH
+630,Tài chính,N
+630,–,CH
+630,Ngân hàng,N
+630,",",CH
+630,là,V
+630,một,M
+630,lợi thế,N
+631,Phụ,V
+631,cấp,N
+631,điện thoại,N
+631,",",CH
+631,chi phí,N
+631,công tác,N
+631,",",CH
+631,…,CH
+631,theo,V
+631,quy định,N
+631,của,E
+631,Công ty,N
+631,.,CH
+632,Kỹ năng,N
+632,giao tiếp,V
+632,",",CH
+632,kỹ năng,N
+632,thương lượng,V
+632,và,C
+632,đàm phán,V
+632,tốt,A
+632,với,E
+632,khách hàng,N
+632,.,CH
+633,Tối thiểu,N
+633,1,M
+633,năm,N
+633,kinh nghiệm,N
+633,bán,V
+633,hàng,N
+633,trong,E
+633,lĩnh vực,N
+633,điện tử,N
+633,",",CH
+633,điện lạnh,N
+633,",",CH
+633,gia dụng,N
+633,",",CH
+633,xây dựng,V
+633,.,CH
+633,Đặc biệt,A
+633,ưu tiên,V
+633,đã,R
+633,làm,V
+633,về,E
+633,sản phẩm,N
+633,nóng lạnh,N
+633,của,E
+633,các,L
+633,hãng,N
+633,.,CH
+634,·,N
+634,Học vấn,V
+634,:,CH
+634,Tốt nghiệp,V
+634,đại học,N
+634,trở,V
+634,lên,V
+634,các,L
+634,chuyên ngành,N
+634,Tài chính,N
+634,",",CH
+634,kinh tế,N
+634,",",CH
+634,ngân hàng,N
+634,",",CH
+634,toán,N
+634,.,CH
+635,Kỹ năng,N
+635,giải quyết,V
+635,vấn đề,N
+636,Được,V
+636,đào tạo,V
+636,chuyên môn,N
+636,",",CH
+636,tham gia,V
+636,các,L
+636,khóa học,N
+636,nâng,V
+636,cao,A
+636,kỹ năng,N
+637,3,M
+637,.,CH
+637,Lưu ý,V
+637,:,CH
+638,*,CH
+638,*,CH
+638,*,CH
+638,Địa chỉ,N
+638,làm việc,V
+638,:,CH
+638,Đường,N
+638,Nguyễn Xí,Np
+638,",",CH
+638,quận,N
+638,Bình Thạnh,Np
+638,",",CH
+638,HCM,Np
+639,Nắm bắt,N
+639,tâm lý,N
+639,và,C
+639,hành vi,N
+639,con người,N
+640,Sử dụng,V
+640,Excel,Np
+640,tốt,A
+640,",",CH
+640,có,V
+640,khả năng,N
+640,ứng dụng,V
+640,các,L
+640,hàm,N
+640,tính toán,V
+640,Excel,Np
+640,cơ bản,A
+640,;,CH
+641,Được,V
+641,hưởng,V
+641,các,L
+641,chính sách,N
+641,phúc lợi,V
+641,theo,V
+641,quy định,N
+641,Nhà Nước,Np
+642,•,N
+642,Tốt nghiệp,V
+642,Đại học,N
+642,thuộc,V
+642,khối,N
+642,ngành,N
+642,kinh tế,N
+642,hoặc,C
+642,các,L
+642,ngành,N
+642,liên quan,V
+642,;,CH
+642,• Có,V
+642,kinh nghiệm,N
+642,làm việc,V
+642,trong,E
+642,lĩnh vực,N
+642,tài chính,N
+642,",",CH
+642,chứng khoán,N
+642,",",CH
+642,sales,N
+642,",",CH
+642,ngân hàng,N
+642,",",CH
+642,tín dụng,N
+642,;,CH
+642,• Am,N
+642,hiểu,V
+642,về,E
+642,thị trường,N
+642,tài chính,N
+642,–,CH
+642,chứng khoán,N
+642,",",CH
+642,•,V
+642,Kỹ năng,N
+642,giao tiếp,V
+642,tốt,A
+642,",",CH
+642,có,V
+642,khả năng,N
+642,xây dựng,V
+642,",",CH
+642,phát triển,V
+642,quan hệ,N
+642,với,E
+642,khách hàng,N
+642,;,CH
+642,•,V
+642,Kỹ năng,N
+642,tư vấn,V
+642,",",CH
+642,tổng hợp,N
+642,phân tích,V
+642,",",CH
+642,trình bày,V
+642,thuyết phục,V
+642,;,CH
+642,•,N
+642,Ưu tiên,V
+642,:,CH
+642,Ứng viên,N
+642,am hiểu,V
+642,và,C
+642,đã,R
+642,giao dịch,V
+642,trên,E
+642,thị trường chứng khoán,N
+642,",",CH
+642,có,V
+642,CCHN chứng khoán,N
+642,hoặc,C
+642,Có,V
+642,kinh nghiệm,N
+642,tương tự,A
+642,tại,E
+642,các,L
+642,Công ty,N
+642,chứng khoán,V
+642,.,CH
+642,Các,L
+642,ứng viên,N
+642,chưa,R
+642,có,V
+642,kinh nghiệm,N
+642,nhưng,C
+642,có,V
+642,đam mê,V
+642,về,E
+642,chứng khoán,N
+642,sẽ,R
+642,được,V
+642,tuyển chọn,V
+642,vào,E
+642,chương trình,N
+642,MÔI GIỚI,Np
+642,TẬP SỰ,Np
+642,có,V
+642,phụ cấp,N
+642,và,C
+642,được,V
+642,đào tạo,V
+642,để,E
+642,trở thành,V
+642,Chuyên Viên,Np
+642,Tư Vấn,Np
+642,Đầu Tư,Np
+642,Chứng Khoán,Np
+642,trong,E
+642,vòng,N
+642,3-6,N
+642,tháng,N
+642,.,CH
+643,*,CH
+643,*,CH
+643,*,CH
+643,Management,Np
+643,experience,M
+644,Vui vẻ,A
+644,",",CH
+644,hòa,M
+644,đồng,Nu
+644,",",CH
+644,thân thiện,N
+644,",",CH
+644,trẻ,A
+645,5,M
+645,.,CH
+645,Công tác,N
+645,quan hệ,V
+645,lao động,N
+646,Có,V
+646,khả năng,N
+646,chịu,V
+646,được,V
+646,áp lực,N
+646,cao,A
+646,và,C
+646,hoàn thành,V
+646,công việc,N
+646,đúng,A
+646,hạn,N
+646,.,CH
+647,2,M
+647,.,CH
+647,Kỹ năng,N
+647,:,CH
+648,Có,V
+648,kinh nghiệm,N
+648,tối thiểu,N
+648,3,M
+648,năm,N
+648,làm việc,V
+648,trong,E
+648,lĩnh vực,N
+648,Dược phẩm,N
+648,",",CH
+648,trong,E
+648,đó,P
+648,có,V
+648,ít nhất,X
+648,2,M
+648,năm,N
+648,kinh nghiệm,N
+648,ở,E
+648,vị trí,N
+648,tương đương,A
+648,.,CH
+649,Môi trường,N
+649,nhân sự,N
+649,rất,R
+649,ổn định,A
+650,Lắng nghe,M
+651,Tiếng,N
+651,Anh,Np
+651,",",CH
+651,thành thạo,N
+651,4,M
+651,kỹ năng,N
+652,Chính sách,N
+652,tăng,V
+652,lương,N
+652,định kỳ,N
+652,hàng,N
+652,năm,M
+653,YÊU CẦU,Np
+653,/,CH
+653,REQUIREMENTS,Np
+654,Có,V
+654,khả năng,N
+654,chịu,V
+654,áp lực,N
+654,trong,E
+654,công việc,N
+655,Tốt nghiệp,V
+655,Trung cấp,N
+655,trở,V
+655,lên,V
+655,chuyên ngành,N
+655,viễn thông,N
+655,",",CH
+655,điện,N
+655,",",CH
+655,điện tử,N
+655,",",CH
+655,điện lạnh,N
+655,",",CH
+655,điện,N
+655,công nghiệp,N
+655,",",CH
+655,...,CH
+656,Kiến thức,N
+656,và,C
+656,kĩ năng,M
+657,ƯU TIÊN,Np
+657,sinh viên,N
+657,mới,R
+657,tốt nghiệp,V
+657,loại,N
+657,Khá,Np
+657,/,CH
+657,Giỏi,Np
+658,·,N
+658,Proven,Np
+658,track,V
+658,record,N
+658,in,V
+658,team,N
+658,management,M
+659,1,M
+659,.,CH
+659,Đang,R
+659,theo,V
+659,học,V
+659,hoặc,C
+659,tốt nghiệp,V
+659,Đại học,N
+659,chuyên ngành,N
+659,liên quan,V
+659,trong,E
+659,và,C
+659,ngoài,E
+659,nước,N
+659,.,CH
+659,2,M
+659,.,CH
+659,Chuyên ngành,N
+659,:,CH
+659,CNTT,Np
+659,",",CH
+659,Điện tử,N
+660,Học vấn,N
+660,:,CH
+660,tốt nghiệp,V
+660,đại học,N
+660,trở,V
+660,lên,V
+660,các,L
+660,ngành,N
+660,liên quan,V
+660,đến,E
+660,quản trị,V
+660,nguồn,N
+660,nhân lực,N
+661,Nắm,V
+661,vững,A
+661,kiến thức,N
+661,tài chính,N
+661,",",CH
+661,biết,V
+661,phân tích,V
+661,báo cáo,V
+661,tài chính,N
+661,;,CH
+662,Chế độ,N
+662,công ty,N
+662,:,CH
+663,•,N
+663,Kỹ năng,N
+663,phân tích,V
+663,và,C
+663,giải quyết,V
+663,vấn đề,N
+664,Tốt nghiệp,V
+664,Cao đẳng,N
+664,",",CH
+664,Đại học,N
+664,trở,V
+664,lên,V
+664,các,L
+664,ngành,N
+664,Luật,Np
+664,",",CH
+664,Quản trị,V
+664,nguồn,N
+664,nhân lực,N
+664,hoặc,C
+664,các,L
+664,ngành,N
+664,có,V
+664,liên quan,V
+664,.,CH
+665,có,V
+665,",",CH
+665,Quản lý,V
+665,vốn,N
+665,",",CH
+665,Điều chuyển,N
+665,vốn,N
+665,",",CH
+665,Khối,Np
+665,nguồn,N
+665,vốn,N
+665,/,CH
+665,Định chế,N
+665,tài chính,N
+665,",",CH
+665,Quản lý,V
+665,hiệu suất,N
+665,/,CH
+665,hiệu quả,N
+665,kinh doanh,V
+665,/,CH
+665,tác nghiệp,N
+665,vận hành,V
+665,cho,E
+665,Khối,Np
+665,Nguồn,Np
+665,vốn,R
+665,/,CH
+665,Định chế,N
+665,tài chính,N
+665,",",CH
+665,các,L
+665,mảng,N
+665,QLRR,Np
+665,khác,A
+665,",",CH
+665,...,CH
+665,),CH
+666,Nhanh nhẹn,A
+666,",",CH
+666,linh hoạt,N
+666,trong,E
+666,công việc,N
+666,;,CH
+667,+,V
+667,Môi trường,N
+667,làm việc,V
+667,chuyên nghiệp,A
+667,",",CH
+667,ổn định,A
+667,",",CH
+667,hiệu quả,N
+667,.,CH
+668,Khả năng,N
+668,thuyết phục,V
+668,khách hàng,N
+668,",",CH
+668,đàm phán,V
+668,với,E
+668,đối tác,M
+669,Tốt nghiệp,V
+669,Cao đẳng,V
+669,các,L
+669,ngành,N
+669,liên quan,V
+670,1,M
+670,.,CH
+670,Trình độ,N
+670,Học vấn,M
+671,9,M
+671,.,CH
+671,Kỹ năng,N
+671,tin học,N
+671,văn phòng,N
+671,",",CH
+671,Tiếng,N
+671,anh,Nc
+671,giao tiếp,V
+671,tốt,A
+672,–,CH
+672,Chế độ,N
+672,thưởng,V
+672,các,L
+672,dịp,N
+672,Lễ,Np
+672,",",CH
+672,Tết Dương lịch,N
+672,",",CH
+672,Tết Âm lịch,N
+672,;,CH
+672,chế độ,N
+672,thưởng,V
+672,KPI,Np
+672,hàng,N
+672,kỳ,N
+672,…,CH
+673,Có,V
+673,kinh nghiệm,N
+673,từ,E
+673,1,M
+673,đến,E
+673,4,M
+673,năm,N
+673,làm việc,V
+673,với,E
+673,Objective,Np
+674,•,N
+674,Kỹ năng,N
+674,phát triển,V
+674,và,C
+674,thực hiện,V
+674,các,L
+674,thực hành,N
+674,",",CH
+674,tiêu chuẩn,N
+674,hóa,N
+674,và,C
+674,hướng dẫn,V
+674,kỹ thuật,N
+674,.,CH
+675,Có,V
+675,tối thiểu,N
+675,5,M
+675,năm,N
+675,kinh nghiệm,N
+675,trong,E
+675,công tác,N
+675,Nhân sự,V
+675,trong,E
+675,đó,P
+675,ít nhất,X
+675,03,V
+675,năm,N
+675,làm việc,V
+675,tại,E
+675,vị trí,N
+675,Trưởng phòng,N
+675,/,CH
+675,Phó,Z
+675,phòng,N
+675,Hành chính,N
+675,nhân sự,V
+675,cho,E
+675,các,L
+675,công ty,N
+675,quy mô,V
+675,trên,E
+675,100,M
+675,người,N
+675,",",CH
+675,ưu tiên,A
+675,ứng viên,V
+675,làm việc,V
+675,trong,E
+675,các,L
+675,công ty,N
+675,sản xuất,V
+675,.,CH
+676,Khả năng,N
+676,phân tích,V
+676,",",CH
+676,tư duy,N
+676,logic,V
+676,;,CH
+677,Có,V
+677,chứng chỉ,N
+677,hành nghề,V
+677,kỹ sư,N
+677,định giá,N
+677,",",CH
+677,chứng chỉ,N
+677,hành nghề,V
+677,đấu,V
+677,thầu2,N
+677,.,CH
+677,Kỹ năng,N
+677,:,CH
+678,Kỹ năng,N
+678,phân tích,V
+678,dữ liệu,N
+678,",",CH
+678,tư duy,V
+678,logic,N
+678,",",CH
+678,sáng tạo,V
+678,",",CH
+678,liên tục,A
+678,cải tiến,V
+679,Ưu tiên,V
+679,:,CH
+679,ứng viên,N
+679,có,V
+679,kinh nghiệm,N
+679,làm,V
+679,bán,V
+679,hàng,N
+679,sàn,N
+679,thương mại điện tử,V
+679,mặt hàng,N
+679,đồ,N
+679,uống,V
+679,",",CH
+679,thực phẩm,N
+679,",",CH
+679,hàng tiêu dùng,V
+679,nhanh,A
+679,.,CH
+680,Sử dụng,V
+680,máy vi tính,N
+680,(,CH
+680,excel,N
+680,",",CH
+680,word,N
+680,…,CH
+680,),CH
+681,QUYỀN LỢI,N
+682,Yêu cầu,N
+682,:,CH
+683,2,M
+683,.,CH
+683,Experience,Ny
+683,&,CH
+683,Skills,Ny
+683,:,CH
+684,–,CH
+684,Chế độ,N
+684,du lịch,V
+684,và,C
+684,khám,V
+684,sức,N
+684,khỏe,V
+684,thường niên,V
+684,theo,V
+684,quy định,N
+684,của,E
+684,Công ty,N
+684,.,CH
+685,Gửi,V
+685,qua,V
+685,email,FW
+685,:,CH
+685,nhansu,V
+685,@,N
+685,baca,M
+686,2,M
+686,.,CH
+686,Requirements,Np
+686,:,CH
+687,Thái độ,N
+687,tốt,A
+687,",",CH
+687,gắn bó,V
+687,phát triển,V
+687,lâu dài,A
+688,Thiết kế,V
+688,3D,N
+688,(,CH
+688,Nếu,C
+688,có,V
+688,),CH
+688,:,CH
+688,Đáp ứng,V
+688,được,V
+688,các,L
+688,mẫu,N
+688,3D,V
+688,sản phẩm,N
+688,quà,N
+688,tặng,V
+688,khách hàng,N
+688,/,CH
+688,hoặc,C
+688,các,L
+688,sự kiện,N
+688,đặc biệt,A
+688,của,E
+688,Công ty,N
+688,...,CH
+689,Tham gia,V
+689,các,L
+689,hoạt động,N
+689,teambuilding,V
+689,",",CH
+689,sự kiện,N
+689,",",CH
+689,...,CH
+689,của,E
+689,phòng,N
+689,",",CH
+689,Công ty,N
+689,.,CH
+690,Tăng,V
+690,lương,N
+690,1,M
+691,●,N
+691,Kỹ năng,N
+691,giao tiếp,V
+691,bằng,E
+691,Tiếng,N
+691,Anh,Np
+691,là,V
+691,một,M
+691,lợi thế,N
+691,.,CH
+692,Tốt nghiệp,V
+692,Đại học,N
+692,trở,V
+692,lên,V
+692,các,L
+692,chuyên ngành,N
+692,Công nghệ thông tin,N
+692,",",CH
+692,Điện tử,N
+692,viễn thông,N
+692,",",CH
+692,Toán tin,N
+692,",",CH
+692,Tự động,V
+692,hóa,N
+692,",",CH
+692,Cơ điện tử,N
+692,…,CH
+692,hoặc,C
+692,các,L
+692,chuyên ngành,N
+692,có,V
+692,liên quan,V
+693,Thành thạo,N
+693,tiếng,N
+693,Anh,Np
+693,",",CH
+693,có,V
+693,chứng chỉ,N
+693,Tiếng,Np
+693,Anh,Np
+693,:,CH
+693,TOEIC,Np
+693,≥,V
+693,800,M
+693,/,CH
+693,IELTS,Np
+693,6.5,V
+693,là,V
+693,một,M
+693,lợi thế,N
+694,1,M
+694,.,CH
+694,Hồ sơ,N
+694,dự tuyển,V
+694,:,CH
+695,Được,V
+695,Công ty,N
+695,tạo,V
+695,điều kiện,N
+695,",",CH
+695,chi trả,V
+695,chi phí,N
+695,đào tạo,V
+695,và,C
+695,thi,V
+695,các,L
+695,Chứng chỉ,N
+695,ngành,N
+695,phục vụ,V
+695,cho,E
+695,công việc,N
+695,.,CH
+696,*,CH
+696,*,CH
+696,*,CH
+696,QUYỀN LỢI,N
+696,:,CH
+697,Quyền lợi,N
+697,:,CH
+697,Thu nhập,N
+697,cạnh tranh,V
+697,+,N
+697,Môi trường,N
+697,chuyên nghiệp,A
+697,+,V
+697,Cơ hội,N
+697,thăng tiến,M
+698,Đại học,N
+698,kế toán,N
+698,.,CH
+699,Có,V
+699,kỹ năng,N
+699,sử dụng,V
+699,camera,N
+699,dòng,N
+699,Canon,Np
+699,",",CH
+699,có,V
+699,kỹ năng,N
+699,setup,V
+699,ánh sáng,N
+699,hiện trường,N
+699,.,CH
+700,Ưu tiên,V
+700,ứng viên,V
+700,từng,R
+700,làm,V
+700,content,N
+700,cho,E
+700,các,L
+700,công ty,N
+700,truyền thông,V
+700,hoặc,C
+700,từng,R
+700,làm,V
+700,biên tập,V
+700,cho,E
+700,các,L
+700,mảng,N
+700,báo,N
+700,y tế,N
+700,là,V
+700,lợi thế,N
+700,.,CH
+701,–,CH
+701,Chế độ,N
+701,ĐẶC BIỆT,A
+701,Nghỉ hè,V
+701,/,CH
+701,nghỉ,V
+701,đông hưởng,V
+701,nguyên,R
+701,lương,N
+701,(,CH
+701,Chưa,R
+701,kể,V
+701,12,M
+701,ngày,N
+701,nghỉ phép,M
+701,nghỉ,V
+701,lễ Tết,V
+701,),CH
+702,QUYỀN LỢI,N
+702,ỨNG VIÊN,Np
+703,Có,V
+703,đam mê,V
+703,kinh doanh,V
+703,.,CH
+704,Nộp,V
+704,hồ sơ,N
+704,:,CH
+704,Qua,E
+704,mạng,N
+704,hoặc,C
+704,tại,E
+704,243,M
+704,/,CH
+704,9/21,N
+704,Tô Hiến Thành,Np
+704,",",CH
+704,Phường,Np
+704,13,M
+704,",",CH
+704,Quận,Np
+704,10,M
+704,",",CH
+704,TP.,Ny
+704,HCM,Np
+705,QUYỀN LỢI,N
+705,:,CH
+706,Ngoại ngữ,N
+706,:,CH
+706,Tiếng,N
+706,Anh,Np
+706,(,CH
+706,là,V
+706,1,M
+706,lợi thế,N
+706,),CH
+707,Kỹ năng,N
+707,giao tiếp,V
+707,và,C
+707,truyền thông,N
+707,;,CH
+708,Kỹ năng,N
+708,lập,V
+708,kế hoạch,N
+709,Độ,N
+709,tuổi,N
+709,:,CH
+709,22,M
+709,–,CH
+709,40,M
+709,tuổi,N
+710,Có,V
+710,1-2,N
+710,năm,N
+710,kinh nghiệm,N
+710,như,C
+710,mô tả,V
+710,công việc,N
+710,;,CH
+711,Understand,Np
+711,parents and,V
+711,student’s thoughts,N
+711,and needs,V
+711,.,CH
+712,Kỹ năng,N
+712,Microsoft,Np
+712,office,V
+712,tốt,A
+712,.,CH
+713,Am,Np
+713,hiểu,V
+713,về,E
+713,thị trường,N
+713,các,L
+713,tỉnh,N
+713,miền,N
+713,bắc,N
+713,",",CH
+713,sẵn sàng,A
+713,đi,V
+713,công tác,V
+714,·,N
+714,Siêng năng,N
+714,",",CH
+714,chủ động,N
+714,trong,E
+714,công việc,N
+715,<,N
+715,ƯU TIÊN,Np
+715,>,CH
+715,Ứng viên,N
+715,có thể,R
+715,gắn bó,V
+715,lâu dài,A
+715,với,E
+715,công ty,N
+716,Ưu tiên,N
+716,có,V
+716,khả năng,N
+716,sử dụng,V
+716,các,L
+716,ứng dụng,N
+716,PSD,Np
+716,",",CH
+716,Canva,Np
+716,",",CH
+716,...,CH
+717,Tốt nghiệp,V
+717,Đại học,N
+717,chuyên ngành,N
+717,Kế toán,N
+717,",",CH
+717,kiểm toán,N
+717,",",CH
+717,kinh tế,N
+717,...,CH
+718,Xử lý,V
+718,tình huống,N
+719,Workday,Np
+719,System,Np
+719,is,V
+719,preferred,N
+719,but,V
+719,not,N
+719,essential,V
+719,:,CH
+719,Hands,Np
+720,•,N
+720,Trung thực,A
+720,",",CH
+720,nhiệt tình,N
+720,",",CH
+720,cẩn thận,A
+720,",",CH
+720,tinh thần,N
+720,trách nhiệm,N
+720,cao,A
+721,Kỹ năng,N
+721,tiếng,N
+721,Anh,Np
+721,kỹ thuật,V
+721,cơ bản,A
+721,để,E
+721,có thể,R
+721,đọc,V
+721,hiểu,V
+721,hướng dẫn,V
+721,vận hành,V
+721,và,C
+721,xử lý,V
+721,sự cố,N
+722,Chịu,V
+722,trách nhiệm,N
+722,xây dựng,V
+722,đội ngũ,N
+722,nhân sự,V
+722,trong,E
+722,lĩnh vực,N
+722,mình,P
+722,quản lý,V
+722,",",CH
+722,phù hợp,V
+722,mục tiêu,N
+722,phát triểu,N
+722,của,E
+722,công ty,N
+722,.,CH
+722,Xây dựng,V
+722,kế hoạch,N
+722,nhân sự,V
+722,",",CH
+722,tham gia,V
+722,tuyển dụng,N
+722,",",CH
+722,xây dựng,V
+722,vào,E
+722,tổ chức,V
+722,đào tạo,V
+722,nhân sự,N
+722,",",CH
+722,đánh giá,V
+722,hiệu quả,N
+722,nhân sự,V
+722,ở,E
+722,bộ phận,N
+722,được,R
+722,phân công,V
+722,phụ trách,V
+723,Tốt nghiệp,V
+723,các,L
+723,trường,N
+723,đại học,N
+723,chuyên ngành,N
+723,Kiểm toán,N
+723,",",CH
+723,Quản trị,V
+723,kinh doanh,V
+723,",",CH
+723,Kinh tế,N
+723,",",CH
+723,Tài chính,N
+723,hoặc,C
+723,các,L
+723,ngành,N
+723,khác,A
+723,có,R
+723,liên quan,V
+723,.,CH
+724,Thưởng,N
+724,lễ,N
+724,",",CH
+724,tết,N
+724,",",CH
+724,du lịch,V
+724,hàng,N
+724,năm,M
+724,tại,E
+724,khách sạn,N
+724,4,M
+724,*,CH
+725,QUYỀN LỢI,N
+725,:,CH
+726,Mức,N
+726,lương,N
+726,:,CH
+726,từ,E
+726,15.000.000,N
+726,đến,E
+726,18.000.000,M
+726,đ,Nu
+727,Phụ cấp,N
+727,ăn,V
+727,trưa,N
+728,Phụ cấp,N
+728,ăn,V
+728,trưa,N
+728,tại,E
+728,công ty,N
+728,",",CH
+728,các,L
+728,phụ cấp,N
+728,khác,A
+729,Địa điểm,N
+729,làm việc,V
+729,:,CH
+730,10,M
+730,.,CH
+730,Có,V
+730,khả năng,N
+730,làm việc,V
+730,trong,E
+730,môi trường,N
+730,tốc độ,N
+730,cao,A
+730,.,CH
+731,Có,V
+731,kinh nghiệm,N
+731,trên,E
+731,3,M
+731,năm,N
+731,ở,E
+731,lĩnh vực,N
+731,kết cấu,N
+731,thép,N
+732,Kỹ năng,N
+732,",",CH
+732,phẩm chất,N
+732,:,CH
+732,Khả năng,N
+732,giao tiếp,V
+732,chuyên nghiệp,A
+732,",",CH
+732,phục vụ,V
+732,tốt,A
+732,khách hàng,N
+732,VIP.,Np
+732,Kỹ năng,V
+732,bán,V
+732,hàng,N
+732,tốt,A
+732,;,CH
+732,có,V
+732,quan điểm,N
+732,và,C
+732,tư duy,V
+732,kinh doanh,V
+732,tốt,A
+732,.,CH
+732,Kỹ năng,N
+732,tạo,V
+732,mối,N
+732,quan hệ,N
+732,",",CH
+732,đàm phán,N
+732,",",CH
+732,chăm sóc,V
+732,khách hàng,N
+732,",",CH
+732,phân tích,V
+732,",",CH
+732,kỹ năng,N
+732,làm việc,V
+732,theo,V
+732,nhóm,N
+732,.,CH
+732,Năng động,N
+732,",",CH
+732,tự tin,V
+732,.,CH
+733,Sử dụng,V
+733,thành thạo,V
+733,các,L
+733,phần mềm,N
+733,trong,E
+733,thiết kế,V
+733,:,CH
+733,Adius,Np
+733,",",CH
+733,Premiere,Np
+733,",",CH
+733,After effect,N
+733,…,CH
+734,Mức,N
+734,lương,N
+734,thỏa thuận,N
+734,so,V
+734,với,E
+734,mức,N
+734,lương,N
+734,đang,R
+734,đưa,V
+734,ra,V
+735,Kỹ năng,N
+735,:,CH
+736,–,CH
+736,Chế độ,N
+736,thưởng,V
+736,Lễ Tết,Np
+736,.,CH
+736,Chế độ,N
+736,bảo hiểm,V
+736,sức khỏe,N
+736,",",CH
+736,du lịch,V
+736,",",CH
+736,nghỉ mát,N
+736,…,CH
+736,hấp dẫn,V
+737,Thu nhập,N
+737,từ,E
+737,8-10,M
+737,tr,N
+737,/,CH
+737,tháng,N
+737,/,CH
+737,26,N
+737,ngày công,V
+737,:,CH
+737,Lương cứng,V
+737,+,N
+737,Phụ cấp,V
+737,+,N
+737,Thưởng doanh sốThử,V
+737,việc,N
+737,01,V
+737,tháng,N
+737,hướng,N
+737,100,M
+737,%,N
+737,lươngMua,V
+737,các,L
+737,sản phẩm,N
+737,với,E
+737,giá,N
+737,cực kỳ,R
+737,ưu đãiChế,V
+737,độ,N
+737,BHXH,Np
+737,đầy đủ,A
+737,",",CH
+737,đóng,V
+737,BHXH,Np
+737,trong,E
+737,tháng,N
+737,làm việc,V
+737,đầu,N
+737,tiênBảo,N
+737,hiểm sức,V
+737,khỏe,N
+737,",",CH
+737,bảo hiểm,N
+737,tai nạn,N
+737,24/24 Đào tạo,V
+737,đầy đủ,A
+737,",",CH
+737,cơ hội,N
+737,thăng tiến,V
+737,cao,A
+738,Có,V
+738,khả năng,N
+738,lãnh đạo,N
+738,và,C
+738,phát triển,V
+738,đội ngũ,N
+738,tốt,A
+739,Gói,Np
+739,Bảo hiểm,V
+739,sức khỏe,N
+739,cao cấp,A
+740,·,N
+740,Creative,Np
+741,·,N
+741,Thử,V
+741,việc,N
+741,:,CH
+741,80,M
+741,%,N
+741,lương,N
+741,vị trí,N
+741,cho,E
+741,02,N
+741,tháng,N
+741,thử,V
+741,việc,N
+742,Hoạt bát,N
+742,",",CH
+742,nhanh nhẹn,A
+742,.,CH
+743,Kinh nghiệm,N
+743,làm việc,V
+743,tại,E
+743,vị trí,N
+743,tương đương,A
+743,tối thiểu,A
+743,:,CH
+743,01,V
+743,năm,N
+743,về,V
+743,bán,V
+743,hàng,N
+743,online,V
+743,",",CH
+743,Telesale,Np
+743,",",CH
+743,Chăm sóc,V
+743,khách hàng,N
+744,Môi trường,N
+744,làm việc,V
+744,thân thiện,N
+744,",",CH
+744,khuyến khích,V
+744,tinh thần,N
+744,luôn,R
+744,sáng tạo,V
+744,và,C
+744,cải tiến,V
+744,",",CH
+744,background,V
+744,đồng đội,N
+744,phong phú,A
+744,đa dạng,A
+744,",",CH
+744,tôn trọng,V
+744,sự,N
+744,khác biệt,A
+744,.,CH
+745,Yêu cầu,N
+745,bắt buộc,V
+745,:,CH
+745,Tiếng,N
+745,Anh,Nc
+745,thành thạo,FW
+745,(,CH
+745,4,M
+745,kỹ năng,N
+745,),CH
+745,.,CH
+746,Môi trường,N
+746,làm việc,V
+746,chuyên nghiệp,A
+746,",",CH
+746,năng động,A
+746,và,C
+746,hiệu quả,N
+747,Có thể,R
+747,đi,V
+747,làm,V
+747,ngay,T
+748,Năng động,N
+748,",",CH
+748,có,V
+748,tinh thần,N
+748,cầu tiến,A
+748,",",CH
+748,chịu khó,A
+748,học hỏi,V
+749,Có,V
+749,ít nhất,X
+749,hơn,A
+749,1,M
+749,năm,N
+749,ở,E
+749,vị trí,N
+749,tương đương,A
+750,Tự tin,V
+750,lên,V
+750,hình,N
+750,",",CH
+750,có,V
+750,kinh nghiệm,N
+750,livestream,V
+750,bán,V
+750,hàng,N
+750,là,V
+750,điểm,N
+750,cộng,V
+751,QUYỀN LỢI,N
+751,:,CH
+752,Kỹ năng,N
+752,tin học,N
+752,văn phòng,N
+753,Ưu tiên,V
+753,ứng viên,N
+753,có thể,R
+753,sử dụng,V
+753,Tiếng,N
+753,Anh,Nc
+753,tốt,A
+753,trong,E
+753,công việc,N
+753,.,CH
+754,Có,V
+754,sức,N
+754,khỏe,V
+754,tốt,A
+754,",",CH
+754,không,R
+754,ngại,V
+754,làm việc,V
+754,với,E
+754,áp lực,N
+754,cao,A
+754,",",CH
+754,làm,V
+754,được,R
+754,nhiều,A
+754,việc,N
+754,cùng,A
+754,một,M
+754,lúc,N
+754,và,C
+754,phải,V
+754,di chuyển,V
+754,nhiều,A
+754,trong,E
+754,ngày,N
+754,.,CH
+755,Nắm,V
+755,vững,A
+755,nghiệp vụ,N
+755,và,C
+755,chính sách,N
+755,thuế,N
+755,",",CH
+755,quy trình,N
+755,quản lý,V
+755,và,C
+755,sử dụng,V
+755,hóa,N
+755,đơn,N
+756,Yêu,V
+756,thích,V
+756,đầu tư,V
+756,tài chính,N
+756,và,C
+756,kiếm,V
+756,tiền,N
+757,Nhân viên,N
+757,bảo trì,V
+757,cơ khí,N
+758,Tổng,N
+758,thu nhập,N
+758,:,CH
+758,14,M
+759,Có,V
+759,kinh nghiêm,N
+759,theo dõi,V
+759,vật tư,N
+759,",",CH
+759,linh kiện,N
+759,",",CH
+759,hàng,N
+759,hóa,V
+759,trên,E
+759,hệ thống,N
+760,Kỹ năng,N
+760,làm việc,V
+760,nhóm,N
+760,",",CH
+760,quan sát,V
+760,",",CH
+760,sắp xếp,V
+760,",",CH
+760,kỹ năng,N
+760,làm việc,V
+760,với,E
+760,số liệu,N
+760,.,CH
+761,Trung thực,N
+761,",",CH
+761,thẳng thắn,M
+762,28,M
+762,-,CH
+762,Ưu tiên,N
+762,có,V
+762,kinh nghiệm,N
+762,hành chính,N
+762,văn phòng,N
+763,2,M
+763,.,CH
+763,Kinh nghiệm,N
+763,:,CH
+763,tối thiểu,N
+763,02,M
+763,năm,N
+763,công tác,V
+763,trong,E
+763,lĩnh vực,N
+763,kế toán,N
+763,doanh thu,N
+763,",",CH
+763,chi phí,N
+763,",",CH
+763,và,C
+763,có,V
+763,khả năng,N
+763,đáp ứng,V
+763,nhu cầu,N
+763,công việc,N
+763,với,E
+763,áp lực,N
+763,cao,A
+763,.,CH
+763,Có,V
+763,kinh nghiệm,N
+763,mảng,N
+763,vận kế toán,V
+763,vận hành,V
+763,/,CH
+763,BĐS,Np
+763,là,V
+763,một,M
+763,lợi thế,N
+763,.,CH
+764,Môi trường,N
+764,công ty,N
+764,tập đoàn,N
+764,đa ngành,V
+764,hàng đầu,N
+764,trong,E
+764,ngành,N
+764,xây dựng,V
+764,",",CH
+764,thân thiện,N
+764,",",CH
+764,chuyên nghiệp,A
+764,.,CH
+765,Lập,V
+765,kế hoạch,N
+765,;,CH
+766,Sáng tạo,N
+766,",",CH
+766,viết,V
+766,nội dung,N
+766,và,C
+766,kịch bản,N
+766,video,FW
+766,tốt,A
+766,",",CH
+766,biết,V
+766,thiết kế,V
+766,hình ảnh,N
+766,",",CH
+766,edit video,N
+766,.,CH
+767,·,N
+767,Có,V
+767,hiểu biết,N
+767,",",CH
+767,nắm bắt,V
+767,về,E
+767,thị trường,N
+767,kinh doanh,V
+767,Kho bãi,N
+767,",",CH
+767,Depot,Np
+767,tại,E
+767,TP.HCM,Np
+767,và,C
+767,các,L
+767,tỉnh,N
+767,lân cận,A
+767,.,CH
+768,Với,E
+768,những,L
+768,ứng viên,N
+768,chưa,R
+768,có,V
+768,kinh nghiệm,N
+768,nhưng,C
+768,nếu,C
+768,có,V
+768,đam mê,V
+768,và,C
+768,kỹ năng,N
+768,tốt,A
+768,",",CH
+768,vẫn,R
+768,được,V
+768,xem xét,V
+768,.,CH
+769,Chăm,Np
+769,chỉ,R
+769,",",CH
+769,chịu khó,A
+769,",",CH
+769,nhiệt tình,N
+770,Mức,N
+770,lương,N
+770,thỏa thuận,N
+770,dựa,V
+770,trên,E
+770,năng lực,N
+770,",",CH
+770,có,V
+770,chế độ,N
+770,khen thưởng,V
+770,dành,V
+770,cho,E
+770,nhân viên,N
+770,xuất sắc,A
+770,.,CH
+771,Sáng tạo,N
+771,",",CH
+771,teamwork,N
+771,tốt,A
+771,",",CH
+771,có,V
+771,trách nhiệm,N
+771,trong,E
+771,công việc,N
+771,.,CH
+772,Ưu tiên,N
+772,ứng viên,V
+772,có,V
+772,5-7,M
+772,năm,N
+772,kinh nghiệm,N
+772,triển khai,V
+772,dự án,N
+772,CNTT,Np
+772,trong,E
+772,lĩnh vực,N
+772,Tài chính,N
+772,Ngân hàng,N
+772,/,CH
+772,Kinh tế,N
+772,/,CH
+772,CNTT,Np
+772,",",CH
+772,Ngân hàng,N
+772,số,N
+772,",",CH
+772,e,M
+773,Chương trình,N
+773,khám,V
+773,sức khỏe,N
+773,cao cấp,A
+773,",",CH
+773,du lịch,V
+773,nghỉ dưỡng,V
+773,",",CH
+773,teambuilding,V
+773,hàng,N
+773,năm,M
+773,;,CH
+773,chế độ,N
+773,thăm hỏi,V
+773,CBCNV,Np
+773,",",CH
+773,tứ thân,V
+773,Phụ mẫu,N
+773,",",CH
+773,con cái,N
+773,ốm đau,A
+773,",",CH
+773,Hiếu,Np
+773,",",CH
+773,Hỷ,Np
+773,;,CH
+773,CBCNV,Np
+773,sinh,V
+773,con,N
+773,hoặc,C
+773,CBCNV,Np
+773,có,V
+773,Vợ,N
+773,sinh,V
+773,con,N
+773,.,CH
+774,Được,V
+774,làm việc,V
+774,trong,E
+774,thương hiệu,N
+774,hàng đầu,N
+774,về,E
+774,mảng,N
+774,thẩm mỹ,N
+774,",",CH
+774,nha khoa,N
+774,.,CH
+775,–,CH
+775,Ít nhất,N
+775,1,M
+775,năm,N
+775,kinh nghiệm,N
+775,ở,E
+775,vị trí,N
+775,tương đương,A
+775,.,CH
+776,Tác phong,N
+776,chuyên nghiệp,A
+776,",",CH
+776,giao tiếp,V
+776,tự tin,V
+776,và,C
+776,khả năng,N
+776,thuyết phục,V
+776,khách hàng,N
+776,.,CH
+777,Ngày,N
+777,phép,N
+777,chế độ,N
+777,:,CH
+777,12,M
+777,ngày,N
+777,/,CH
+777,năm,N
+777,và,C
+777,các,L
+777,ngày,N
+777,lễ,N
+777,nghỉ,V
+777,theo,V
+777,quy định,N
+778,Ưu tiên,N
+778,đã,R
+778,làm,V
+778,trong,E
+778,các,L
+778,doanh nghiệp,N
+778,có,V
+778,chuỗi,N
+778,hệ thống,N
+778,bán lẻ,V
+779,Có,V
+779,kiến thức,N
+779,và,C
+779,tư duy,V
+779,tốt,A
+779,về,E
+779,Digital marketing,N
+779,.,CH
+780,·,N
+780,Hiểu biết,V
+780,rõ,A
+780,Luật,N
+780,quản lý,V
+780,",",CH
+780,sử dụng,V
+780,vũ khí,N
+780,",",CH
+780,vật liệu,N
+780,nổ,V
+780,và,C
+780,công cụ,V
+780,hỗ trợ,V
+780,2017,N
+780,",",CH
+780,luật,N
+780,khoáng sản,V
+780,2010,N
+780,và,C
+780,các,L
+780,văn bản,N
+780,dưới,E
+780,luật,N
+780,.,CH
+781,Có thể,R
+781,đi,V
+781,công tác,V
+781,dài,A
+781,ngày,N
+781,.,CH
+782,4,M
+782,..,N
+782,Tuyển dụng,N
+782,này,P
+782,tuân thủ,V
+782,chính sách,N
+782,tuyển dụng,V
+782,công bằng,A
+782,",",CH
+782,không,R
+782,phân biệt,V
+782,giới tính,N
+782,.,CH
+783,Tốt nghiệp,V
+783,cao đẳng,N
+783,/,CH
+783,đại học,N
+783,chuyên ngành,N
+783,truyền thông,N
+783,",",CH
+783,Marketing,Np
+783,",",CH
+783,MS,Np
+783,giáo dục,V
+783,",",CH
+783,tâm lý,N
+783,",",CH
+783,nhân sự,N
+783,",",CH
+783,lao động,N
+783,...,CH
+784,Chính,T
+784,trực,V
+784,",",CH
+784,trung thực,A
+784,",",CH
+784,cẩn thận,A
+784,",",CH
+784,có,V
+784,tinh thần,N
+784,trách nhiệm,N
+784,cao,A
+784,",",CH
+784,tận tâm,V
+784,với,E
+784,nghề,N
+784,.,CH
+785,Thành thạo,N
+785,tin học,N
+785,văn phòng,N
+785,",",CH
+785,phần mềm,N
+785,kế toán,N
+785,(,CH
+785,ưu tiên,V
+785,Misa,Np
+785,",",CH
+785,Amis,Np
+785,),CH
+786,Tốt nghiệp,V
+786,Đại học,N
+786,chuyên ngành,N
+786,công nghệ thông tin,M
+786,/,CH
+786,Quản lý,V
+786,thông tin,N
+786,/,CH
+786,quản trị,V
+786,phần mềm,N
+786,/,CH
+786,Quản trị,V
+786,kinh doanh,V
+786,…,CH
+786,.,CH
+786,và,C
+786,các,L
+786,ngành,N
+786,có,V
+786,liên quan,V
+787,+,N
+787,Các,L
+787,chế độ,N
+787,đãi ngộ,N
+787,khác,A
+787,:,CH
+787,theo,V
+787,quy định,N
+787,của,E
+787,pháp luật,N
+787,lao động,N
+787,và,C
+787,của,E
+787,Tổng công ty,N
+788,Thưởng,N
+788,cuối,N
+788,năm,N
+788,hấp dẫn,V
+788,theo,V
+788,đánh giá,V
+788,hiệu quả,N
+788,công việc,N
+789,Kỹ năng,N
+789,xây dựng,V
+789,mối,N
+789,quan hệ,N
+790,Đóng,V
+790,BHXH,Np
+790,",",CH
+790,BHYT,Np
+790,",",CH
+790,BHTN,Np
+790,theo,V
+790,pháp luật,N
+790,hiện hành,N
+790,.,CH
+791,Khả năng,N
+791,và,C
+791,kỹ năng,N
+792,Địa điểm,N
+792,làm việc,V
+792,:,CH
+792,Số,N
+792,10,M
+792,Lý Tự Trọng,Np
+792,",",CH
+792,Phường,Np
+792,Bến Nghé,Np
+792,",",CH
+792,Quận,N
+792,1,M
+792,",",CH
+792,HCM,Np
+792,.,CH
+793,Quyền Lợi,N
+793,:,CH
+794,01/5,N
+794,",",CH
+794,Lễ Quốc Khánh 02/9,N
+794,",",CH
+794,Ngày,N
+794,sinh nhật,M
+794,",",CH
+794,ngày,N
+794,Quốc tế Phụ nữ,M
+794,08/3,N
+794,",",CH
+794,ngày,N
+794,Phụ nữ,M
+794,VN,Np
+794,20/10,N
+794,",",CH
+794,Tết,N
+794,Trung thu,N
+794,",",CH
+794,Quốc tế,N
+794,Thiếu Nhi,Np
+794,",",CH
+794,ngày,N
+794,Hội,N
+794,gia đình,N
+794,ZME,Np
+794,(,CH
+794,tổ chức,V
+794,vào,E
+794,dịp,N
+794,Noel,Np
+794,hàng,N
+794,năm,M
+794,),CH
+794,",",CH
+794,…,CH
+795,Kỹ năng,N
+795,lễ tân,N
+795,văn phòng,N
+795,tốt,A
+795,.,CH
+796,Sẵn sàng,A
+796,làm việc,V
+796,buổi,N
+796,tối,N
+796,(,CH
+796,ngoài,E
+796,giờ,N
+796,),CH
+796,thường xuyên,A
+796,và,C
+796,di chuyển,V
+796,địa bàn,N
+796,khi,N
+796,cần thiết,A
+797,Kỹ năng,N
+797,tư vấn,V
+797,bán,V
+797,hàng,N
+797,;,CH
+798,Tốt nghiệp,V
+798,chuyên ngành,N
+798,Kế toán,N
+798,",",CH
+798,Kiểm toán,N
+798,Đại học,N
+798,chính quy,N
+798,.,CH
+798,Ưu tiên,V
+798,các,L
+798,trường,N
+798,ĐH,Ny
+798,Ngoại thương,N
+798,",",CH
+798,Học viên,N
+798,Tài chính,N
+799,Tốt nghiệp,V
+799,đại học,N
+799,trở,V
+799,lên,V
+800,3,M
+800,.,CH
+800,Kĩ năng,M
+801,Sẵn sàng,A
+801,làm việc,V
+801,buổi,N
+801,tối,N
+801,(,CH
+801,ngoài,E
+801,giờ,N
+801,),CH
+801,thường xuyên,A
+801,và,C
+801,di chuyển,V
+801,địa bàn,N
+801,khi,N
+801,cần thiết,A
+801,khu vực,N
+801,DakNong,Np
+801,",",CH
+801,DakLak,Np
+802,3,M
+802,.,CH
+802,Các,L
+802,Kỹ năng,N
+803,3,M
+803,.,CH
+803,Kiến thức,N
+803,:,CH
+804,2,M
+804,.,CH
+804,Nhanh nhẹn,N
+804,",",CH
+804,cầu tiến,N
+804,và,C
+804,trung thực,A
+804,trong,E
+804,công việc,N
+804,;,CH
+805,·,N
+805,Có,V
+805,khả năng,N
+805,lập,V
+805,và,C
+805,triển khai,V
+805,kế hoạch,N
+805,.,CH
+806,+,N
+806,Chiều,N
+806,13,M
+806,h,N
+806,–,CH
+806,17,M
+806,h30,N
+806,.,CH
+807,Tốt nghiệp,V
+807,Cao đẳng,N
+807,chuyên ngành,N
+807,bảo hộ lao động,N
+807,",",CH
+807,môi trường,N
+807,hoặc,C
+807,các,L
+807,chuyên ngành,N
+807,liên quan,V
+807,.,CH
+808,Hưởng,Np
+808,ưu đãi,V
+808,khi,N
+808,sử dụng,V
+808,thẻ,N
+808,tập,V
+808,gym,N
+808,Elite Fitness,Np
+808,và,C
+808,các,L
+808,dịch vụ,N
+808,cao cấp,A
+808,thuộc,V
+808,Tập đoàn,N
+808,BIM,Np
+809,Thành thạo,N
+809,máy tính,N
+809,và,C
+809,tin học,N
+809,văn phòng,N
+809,",",CH
+809,xử lý,V
+809,số liệu,N
+809,tốt,A
+810,1,M
+810,.,CH
+810,Tốt nghiệp,V
+810,Cao đẳng,N
+810,trở,V
+810,lên,V
+810,chuyên ngành,N
+810,Thiết kế,V
+810,đồ,N
+810,họa,N
+810,và,C
+810,các,L
+810,ngành,N
+810,liên quan,V
+810,...,CH
+810,;,CH
+811,Am,Np
+811,hiểu,V
+811,hệ thống,N
+811,IT,Np
+811,nội bộ,M
+812,Ưu tiên,N
+812,ứng viên,V
+812,có,V
+812,kinh nghiệm,N
+812,về,V
+812,phân phối,V
+812,ngành hàng,N
+812,Điện tử,M
+813,Ưu tiên,V
+813,những,L
+813,ứng viên,N
+813,ở,E
+813,khu vực,N
+813,quận,N
+813,Hoàng Mai,Np
+813,",",CH
+813,Hai Bà Trưng,Np
+813,",",CH
+813,có,V
+813,kinh nghiệm,N
+813,trong,E
+813,công tác,N
+813,quản lý,V
+813,kho bãi,M
+814,4,M
+814,.,CH
+814,Năng lực,N
+814,cốt lõi,N
+814,(,CH
+814,Giá trị,N
+814,cốt lõi,N
+814,VND,Np
+814,),CH
+815,Đào tạo,N
+815,Đại học,N
+815,trở,V
+815,lên,V
+815,các,L
+815,chuyên ngành,N
+815,thuộc,V
+815,Khối,Np
+815,ngành,N
+815,Kinh tế,N
+816,Thành thạo,N
+816,tối thiểu,A
+816,01,V
+816,ngôn ngữ,N
+816,lập trình,N
+816,Object C,Np
+816,",",CH
+816,Swift,Np
+816,",",CH
+816,Java,Np
+816,",",CH
+816,ReactNative,Np
+816,",",CH
+816,Flutter,Np
+817,Tiếng,N
+817,Anh,Nc
+817,giao tiếp,V
+817,tốt,A
+817,(,CH
+817,TOEIC,Np
+817,550,V
+817,trở,V
+817,lên,V
+817,),CH
+817,.,CH
+818,Có,V
+818,kiến thức,N
+818,và,C
+818,kinh nghiệm,N
+818,trong,E
+818,xây dựng,V
+818,hệ thống,N
+818,",",CH
+818,mạnh,A
+818,về,E
+818,Tuyển dụng,N
+818,và,C
+818,C&B,Np
+819,+,N
+819,Sử dụng,V
+819,vi tính,N
+819,văn phòng,N
+819,thành thạo,V
+819,.,CH
+819,Biết,V
+819,sử dụng,V
+819,các,L
+819,phần mềm,N
+819,kế toán,N
+819,thông dụng,A
+819,như,C
+819,Misa,Np
+819,/,CH
+819,Amis,Np
+819,",",CH
+819,HDDT,Np
+819,",",CH
+819,CRM,Np
+819,",",CH
+819,ERP,Np
+819,…,CH
+820,Yêu cầu,V
+820,sức,N
+820,khỏe,V
+820,tốt,A
+821,Hiểu biết,V
+821,về,E
+821,DepOps,Np
+821,",",CH
+821,viết,V
+821,script,N
+821,CI,Np
+821,/,CH
+821,CD,Np
+821,",",CH
+821,Docker,Np
+821,là,V
+821,một,M
+821,lợi thế,N
+822,Mong muốn,V
+822,có,V
+822,công việc,N
+822,ổn định,A
+822,",",CH
+822,gắn bó,V
+822,lâu dài,A
+823,Các,L
+823,phần mềm,N
+823,thiết kế,V
+823,phục vụ,V
+823,trong,E
+823,công việc,N
+823,.,CH
+824,Có,V
+824,kiến thức,N
+824,về,E
+824,Tài chính,N
+824,Ngân hàng,N
+824,và,C
+824,Tín Dụng,Np
+824,Tiêu Dùng,Np
+824,",",CH
+824,am hiểu,V
+824,mô hình,N
+824,hoạt động,V
+824,Kinh Doanh,Np
+824,",",CH
+824,Ưu tiên,N
+824,có,V
+824,kinh nghiệm,N
+824,Phân Tích,Np
+824,Kinh Doanh,Np
+824,",",CH
+824,Tài Chính,Np
+824,",",CH
+824,Risk,Np
+825,Tốt nghiệp,V
+825,Cao Đẳng,Np
+825,trở,V
+825,lên,V
+825,ưu tiên,V
+825,chuyên ngành,N
+825,Kinh tế,N
+825,",",CH
+825,Tài chính,N
+825,",",CH
+825,Ngân hàng,N
+825,",",CH
+825,Quản trị,V
+825,kinh doanh,V
+825,…,CH
+826,Được,V
+826,hưởng,V
+826,các,L
+826,quyền lợi,N
+826,của,E
+826,người,N
+826,lao động,V
+826,theo,V
+826,Pháp luật,N
+826,:,CH
+826,đóng,V
+826,BHXH,Np
+826,",",CH
+826,BHYT,Np
+826,",",CH
+826,BHTN,Np
+826,",",CH
+826,....,CH
+827,Có,V
+827,kỹ năng,N
+827,làm việc,V
+827,nhóm,N
+827,và,C
+827,chịu,V
+827,được,V
+827,áp lực,N
+827,công việc,N
+828,Trung thực,N
+828,",",CH
+828,chăm chỉ,A
+828,và,C
+828,có,V
+828,trách nhiệm,N
+828,trong,E
+828,công việc,N
+829,Chuyên môn,N
+829,/,CH
+829,Trình độ,N
+829,:,CH
+830,tương đương,A
+830,B,Np
+830,Tin học,V
+830,:,CH
+830,Corebanking FCC,Np
+830,;,CH
+830,Vi tính,N
+830,văn phòng,N
+830,(,CH
+830,tương đương,A
+830,B,Np
+830,),CH
+830,.,CH
+830,Sử dụng,V
+830,thành thạo,N
+830,MS Office,Np
+830,",",CH
+830,Các,L
+830,ứng dụng,N
+830,về,V
+830,quản lý,V
+830,rủi ro,A
+830,.,CH
+830,2,M
+830,.,CH
+830,Kinh nghiệm,N
+830,trong,E
+830,Chuyên môn,N
+830,nghiệp vụ,N
+830,:,CH
+830,',M
+831,3,M
+831,.,CH
+831,Ngoại ngữ,N
+831,:,CH
+831,Tiếng,N
+831,Anh,Nc
+831,giao tiếp,V
+831,",",CH
+831,đọc,V
+831,hiểu,V
+831,tài liệu,N
+831,chuyên ngành,M
+832,Tốt nghiệp,V
+832,Đại học,N
+832,hệ,N
+832,chính quy trở,V
+832,lên,V
+832,chuyên ngành,N
+832,kế toán,M
+833,Tham gia,V
+833,các,L
+833,hoạt động,N
+833,",",CH
+833,câu lạc bộ,N
+833,nội bộ,M
+834,Tham gia,V
+834,BHXH,Np
+834,đầy đủ,A
+834,ngay,T
+834,sau,N
+834,khi,N
+834,ký,V
+834,HĐLĐ,Np
+834,chính thức,A
+834,.,CH
+835,Kỹ năng,N
+835,khái quát,N
+835,",",CH
+835,tư duy,V
+835,logic,N
+835,",",CH
+835,phân tích,V
+835,và,C
+835,giải quyết,V
+835,vấn đề,N
+836,–,CH
+836,Có,V
+836,kinh nghiệm,N
+836,1,M
+836,năm,N
+836,trở,V
+836,lên,V
+836,(,CH
+836,chỉ,R
+836,nhận,V
+836,các,L
+836,bạn,N
+836,ứng viên,N
+836,đã,R
+836,có,V
+836,kinh nghiệm,N
+836,tư vấn,V
+836,bán,V
+836,thuốc,N
+836,),CH
+837,Có,V
+837,Sức,N
+837,khỏe,M
+838,3,M
+838,.,CH
+838,Kỹ năng,N
+838,máy tính,N
+838,:,CH
+838,MS Office,Np
+838,(,CH
+838,Word,Np
+838,",",CH
+838,Excel,Np
+838,",",CH
+838,Power Point,Np
+838,",",CH
+838,Outlook,Np
+838,),CH
+839,3,M
+839,.,CH
+839,Tổ chức,N
+839,học tập,V
+839,và,C
+839,văn hóa,V
+839,sôi nổi,A
+840,+,N
+840,Hiểu biết,V
+840,tốt,A
+840,và,C
+840,có,V
+840,khả năng,N
+840,vận dụng,V
+840,về,E
+840,các,L
+840,quy định,N
+840,Luật Doanh nghiệp,N
+840,",",CH
+840,Nghị định,N
+840,và,C
+840,các,L
+840,thông tư,N
+840,",",CH
+840,hướng dẫn,V
+840,có,R
+840,liên quan,V
+840,ngành nghề,N
+840,hoạt động,V
+841,3,M
+841,.,CH
+841,Kiến thức,N
+842,Kỹ năng,N
+842,xử lý,V
+842,tình huống,N
+842,linh hoạt,A
+842,;,CH
+843,Tối thiểu,N
+843,6,M
+843,tháng,N
+843,kinh nghiệm,N
+843,tư vấn,V
+843,/,CH
+843,sales,V
+843,các,L
+843,ngành nghề,N
+843,.,CH
+843,Ứng viên,N
+843,có,V
+843,kinh nghiệm,N
+843,trong,E
+843,các,L
+843,lĩnh vực,N
+843,Bảo hiểm,N
+843,",",CH
+843,Tài chính,N
+843,–,CH
+843,Ngân hàng,N
+843,",",CH
+843,là,V
+843,một,M
+843,lợi thế,N
+844,Ưu ngoại hình,N
+844,ưa,V
+844,nhìn,V
+844,.,CH
+845,Có,V
+845,kỹ năng,N
+845,tư vấn,V
+845,bán,V
+845,hàng,N
+845,",",CH
+845,quản lý,V
+845,đội,N
+845,nhóm,N
+845,tốt,A
+846,QUYỀN LỢI,N
+846,ỨNG VIÊN,Np
+847,Tư vấn viên,N
+847,của,E
+847,công ty,N
+847,RGF,Np
+847,sẽ,R
+847,liên hệ,V
+847,với,E
+847,bạn,N
+847,trong,E
+847,thời gian,N
+847,sớm,A
+847,nhất,R
+847,.,CH
+847,CV,Np
+847,của,E
+847,bạn,N
+847,sẽ,R
+847,được,V
+847,lưu trữ,V
+847,lại,V
+847,trong,E
+847,hệ thống,N
+847,và,C
+847,bạn,N
+847,sẽ,R
+847,nhận,V
+847,được,R
+847,Email,Np
+847,giới thiệu,V
+847,công việc,N
+847,tự động,A
+847,cùng với,V
+847,công việc,N
+847,thích hợp,A
+847,trong,E
+847,thời gian,N
+847,tới,V
+847,.,CH
+847,Xin,V
+847,hãy,R
+847,check,V
+847,mail,N
+847,thường xuyên,A
+847,để,E
+847,cập nhật,V
+847,được,V
+847,tin tức,V
+847,công việc,N
+847,.,CH
+847,Cám ơn,V
+847,!,CH
+848,Thưởng,N
+848,hiệu quả,N
+848,công việc,N
+848,",",CH
+848,lương,N
+848,tháng,N
+848,thứ,N
+848,13,M
+848,",",CH
+848,thưởng,V
+848,Lễ tết,V
+848,theo,V
+848,quy định,N
+848,nhà nước,N
+848,và,C
+848,công ty,N
+849,Phụ cấp,V
+849,tại,E
+849,Văn phòng,N
+849,:,CH
+849,ăn,V
+849,trưa,N
+849,",",CH
+849,gửi,V
+849,xe,N
+849,.,CH
+849,Phụ cấp,V
+849,tại,E
+849,Dự án,N
+849,:,CH
+849,PC,Np
+849,công trường,N
+849,",",CH
+849,PC,Np
+849,đi,V
+849,xa,A
+849,và,C
+849,PC,Np
+849,phương tiện,N
+849,đi lại,V
+849,(,CH
+849,dự án,N
+849,từ,E
+849,100,M
+849,km,Nu
+849,),CH
+849,",",CH
+849,nhà,N
+849,ở,E
+849,kỹ sư,N
+849,.,CH
+849,CBNV hưởng,V
+849,100,M
+849,%,N
+849,phụ cấp,V
+849,trong,E
+849,thời gian,N
+849,thử,V
+849,việc,N
+849,.,CH
+850,Kinh nghiệm,N
+851,Du lịch,N
+851,1,M
+851,lần,N
+851,/,CH
+851,năm,M
+852,QUYỀN LỢI,N
+853,2,M
+853,.,CH
+853,Kinh nghiệm,N
+853,:,CH
+854,Có,V
+854,kỹ năng,N
+854,quản lý,V
+854,thời gian,N
+854,",",CH
+854,kỹ năng,N
+854,làm việc,V
+854,độc lập,A
+854,tốt,A
+855,Có,V
+855,kỹ năng,N
+855,sử dụng,V
+855,thành thạo,N
+855,các,L
+855,phần mềm,N
+855,hỗ trợ,V
+855,thiết kế,V
+855,như,C
+855,Adobe Photoshop,Np
+855,",",CH
+855,Illustrator,Np
+855,",",CH
+855,Indesign,Np
+855,",",CH
+855,After Effect,Np
+855,…,CH
+856,Tin học,N
+856,:,CH
+856,Sử dụng,V
+856,thành thạo,V
+856,vi tính,N
+856,Văn phòng,N
+857,.,CH
+857,Tinh thần,N
+857,cầu,N
+857,tiến,V
+857,",",CH
+857,ham,V
+857,học hỏi,V
+857,và,C
+857,thích nghi,V
+857,nhanh,A
+858,Phụ cấp,V
+858,sức,N
+858,khỏe,V
+858,:,CH
+858,500.000,M
+858,-,CH
+858,900.000,M
+858,/,CH
+858,tháng,N
+859,Trình độ,N
+859,:,CH
+859,Tốt nghiệp,V
+859,hệ,N
+859,Cao đẳng,N
+859,",",CH
+859,Đại học,N
+859,Quản trị,V
+859,Kinh doanh,V
+859,",",CH
+859,Marketing,Np
+860,Sẵn sàng,N
+860,đối mặt,V
+860,với,E
+860,những,L
+860,rủi ro,N
+860,và,C
+860,có,V
+860,khả năng,N
+860,làm việc,V
+860,độc lập,N
+860,tốt,A
+861,Có,V
+861,kinh nghiệm,N
+861,từ,E
+861,1-3,M
+861,năm,N
+861,trong,E
+861,mảng,N
+861,xây dựng,V
+861,thương hiệu,N
+861,nhà,N
+861,tuyển dụng,V
+861,tại,E
+861,các,L
+861,Công ty,N
+861,",",CH
+861,Tập đoàn,N
+862,Địa điểm,N
+862,nộp,V
+862,hồ sơ,N
+862,:,CH
+862,Hồ sơ,N
+862,gửi,V
+862,về,E
+862,email,FW
+862,:,CH
+862,tuyendung.bic@bidv.com.vn,M
+863,Có,V
+863,kinh nghiệm,N
+863,1,M
+864,Có,V
+864,khả năng,N
+864,chuẩn bị,V
+864,và,C
+864,thực hiện,V
+864,bài,N
+864,thuyết trình,M
+865,Môi trường,N
+865,chuyên nghiệp,A
+865,",",CH
+865,an toàn,A
+865,;,CH
+866,Seninor,Np
+866,staff,V
+866,:,CH
+866,Have,Np
+866,at,V
+866,least,N
+866,3,M
+866,years,N
+866,of experience,N
+866,in,V
+866,banking,N
+866,/,CH
+866,finance,N
+866,/,CH
+866,retail,N
+866,and at,V
+866,least,N
+866,2,M
+866,year,N
+866,in,V
+866,the,N
+866,same,V
+866,position,N
+866,.,CH
+867,Sử dụng,V
+867,thành thạo,V
+867,các,L
+867,phần mềm,N
+867,Office,Np
+867,:,CH
+867,word,N
+867,",",CH
+867,excel,N
+867,",",CH
+867,powerpoint,N
+867,...,CH
+868,Kinh nghiệm,N
+868,:,CH
+868,từ,E
+868,2,M
+868,năm,N
+868,chuyên sâu,M
+868,về,E
+868,SEO,Np
+869,+,N
+869,Có,V
+869,tố chất,N
+869,kinh doanh,V
+869,",",CH
+869,kỹ năng,N
+869,giao tiếp,V
+869,",",CH
+869,thuyết trình,N
+869,",",CH
+869,đàm phán,V
+869,tốt,A
+869,;,CH
+870,Chứng chỉ,N
+870,tin học,N
+870,văn phòng,N
+871,•,N
+871,Tốt nghiệp,V
+871,Đại học,N
+871,trong,E
+871,lĩnh vực,N
+871,Tài chính,N
+871,",",CH
+871,Ngân hàng,N
+871,",",CH
+871,Kinh tế,N
+872,Highly,Np
+872,flexible,V
+872,/,CH
+872,open,M
+873,Năng động,N
+873,",",CH
+873,trách nhiệm,N
+873,trong,E
+873,công việc,N
+873,",",CH
+873,biết,V
+873,cách,N
+873,tổ chức,V
+873,sắp xếp,V
+873,công việc,N
+874,Kinh nghiệm,N
+874,làm việc,V
+874,(,CH
+874,liên quan,V
+874,tới,E
+874,vị trí,N
+874,công việc,N
+874,),CH
+874,:,CH
+874,Từ,E
+874,02,M
+874,năm,N
+874,kinh nghiệm,N
+874,trong,E
+874,lĩnh vực,N
+874,dịch vụ,N
+874,khách hàng,N
+874,",",CH
+874,Kinh doanh Online,N
+874,",",CH
+874,kinh doanh,V
+874,trực tuyến,A
+874,",",CH
+874,thương mại điện tử,N
+874,",",CH
+874,y tế,N
+874,.,CH
+874,…,CH
+875,Thưởng,V
+875,các,L
+875,dịp,N
+875,Lễ,Np
+875,",",CH
+875,thưởng,V
+875,quý,N
+875,",",CH
+875,năm,N
+875,theo,V
+875,hiệu quả,N
+875,công việc,N
+875,.,CH
+876,commerce,N
+876,experience,V
+876,is,N
+876,preferred,V
+876,.,CH
+877,QUYỀN LỢI,N
+877,:,CH
+878,Môi trường,N
+878,làm việc,V
+878,chuyên nghiệp,A
+878,",",CH
+878,thân thiện,N
+878,",",CH
+878,hòa,M
+878,đồng,Nu
+878,",",CH
+878,cơ sở vật chất,V
+878,đầy đủ,A
+878,:,CH
+878,có,V
+878,nhà ăn,N
+878,",",CH
+878,phòng,N
+878,nghỉ,V
+878,trưa,N
+878,",",CH
+878,máy matxa,N
+878,…,CH
+879,Thành thạo,N
+879,sử dụng,V
+879,C,Np
+879,# ＋,V
+879,MVC tạo,N
+879,ứng dụng,V
+879,web,N
+879,trên,E
+879,cloud,M
+880,3.4,N
+880,.,CH
+880,Ngoại ngữ,N
+880,:,CH
+880,Giao tiếp,V
+880,tiếng,N
+880,Anh,Np
+881,Tốt nghiệp,V
+881,Đại học,N
+881,chuyên ngành,N
+881,Tài chính,N
+881,",",CH
+881,Kinh tế,N
+881,",",CH
+881,Luật,Np
+881,",",CH
+881,Quản trị,V
+881,kinh doanh,V
+881,…,CH
+882,Giới tính,N
+882,:,CH
+882,Nam,Np
+882,.,CH
+883,*,CH
+883,Other,Np
+883,Preferred Qualifications,Np
+883,:,CH
+884,Dò,V
+884,tìm,V
+884,điểm,N
+884,yếu,A
+884,bảo mật,V
+884,trên,E
+884,các,L
+884,hệ thống,N
+884,CNTT,Np
+884,.,CH
+885,Chủ động,N
+885,",",CH
+885,sáng tạo,V
+885,",",CH
+885,có,V
+885,tinh thần,N
+885,trách nhiệm,N
+885,với,E
+885,công việc,N
+886,Nam,Np
+886,/,CH
+886,Nữ,N
+886,",",CH
+886,tuổi,N
+886,từ,E
+886,20-35,N
+886,",",CH
+886,tốt nghiệp,V
+886,cao đẳng,N
+886,trở,V
+886,lên,V
+887,Có,V
+887,khả năng,N
+887,làm việc,V
+887,độc lập,N
+887,cũng,R
+887,như,C
+887,tinh thần,N
+887,làm việc,V
+887,theo,V
+887,nhóm,N
+888,Có,V
+888,kinh nghiệm,N
+888,hạch toán,N
+888,kế toán,V
+888,",",CH
+888,định,V
+888,khoảnT,M
+889,Hiểu biết,V
+889,về,E
+889,tác nghiệp,N
+889,rủi ro,A
+889,vận hành,V
+889,;,CH
+889,nắm,V
+889,và,C
+889,bao quát,V
+889,các,L
+889,mảng,N
+889,vận hành,V
+889,của,E
+889,một,M
+889,Ngân hàng,N
+889,.,CH
+890,Kĩ năng,N
+890,giải quyết,V
+890,vấn đề,N
+890,trong,E
+890,công việc,N
+890,.,CH
+891,Ít nhất,X
+891,02,V
+891,năm,N
+891,kinh nghiệm,N
+891,công việc,N
+891,kế toán,N
+891,(,CH
+891,Ưu tiên,V
+891,các,L
+891,ứng viên,N
+891,có,V
+891,kinh nghiệm,N
+891,trong,E
+891,lĩnh vực,N
+891,xây dựng,V
+891,",",CH
+891,kiến trúc,N
+891,",",CH
+891,thi công,V
+891,nội thất,N
+891,),CH
+891,;,CH
+892,–,CH
+892,Ít nhất,X
+892,2,M
+892,năm,N
+892,kinh nghiệm,N
+892,làm việc,V
+892,tại,E
+892,vị trí,N
+892,nhân viên,N
+892,vận hành,V
+892,/,CH
+892,hành chính,N
+892,/,CH
+892,quản lý,V
+892,Canteen,Np
+892,trường học,N
+892,hoặc,C
+892,nhà máy,N
+893,Giờ,N
+893,làm việc,V
+893,:,CH
+893,sáng,N
+893,:,CH
+893,8,M
+893,h00,N
+893,-,CH
+893,12,M
+893,h00,N
+893,",",CH
+893,chiều,N
+893,13,M
+893,h00,N
+893,-,CH
+893,17,M
+893,h00,N
+893,;,CH
+893,ca,N
+893,trực tối,V
+893,17,M
+893,h00,N
+893,-,CH
+893,20,M
+893,h00,N
+893,;,CH
+893,tuần,N
+893,trực tối,V
+893,4-5,V
+893,buổi,N
+893,",",CH
+893,hưởng,V
+893,lương,N
+893,trực,V
+893,+,N
+893,trợ cấp,V
+893,ăn,V
+893,trực tối,M
+894,Trình độ,N
+894,văn hóa,V
+894,:,CH
+894,từ,E
+894,đại học,N
+894,trở,V
+894,lên,V
+894,",",CH
+894,các,L
+894,ngành,N
+894,có,V
+894,liên quan,V
+894,:,CH
+894,CNTT,Np
+894,",",CH
+894,tài chính,N
+894,",",CH
+894,kế toán,N
+894,",",CH
+894,kinh doanh,V
+895,Biết,V
+895,sử dụng,V
+895,phần mềm,N
+895,kế toán,N
+895,Misa,Np
+895,là,V
+895,một,M
+895,lợi thế,N
+896,Có,V
+896,sức khỏe,N
+896,",",CH
+896,nhanh nhẹn,A
+896,",",CH
+896,làm việc,V
+896,có,V
+896,trách nhiệm,N
+896,và,C
+896,vui vẻ,A
+896,hòa,M
+896,đồng,Nu
+896,cùng,A
+896,mọi,L
+896,người,N
+896,.,CH
+897,Kinh nghiệm,N
+897,liên quan,V
+897,:,CH
+898,Thời gian,N
+898,làm việc,V
+898,thứ,N
+898,2,M
+898,đến,E
+898,sáng,N
+898,thứ,N
+898,7,M
+898,",",CH
+898,từ,E
+898,8,M
+898,h,N
+899,Có,V
+899,kỹ năng,N
+899,thuyết phục,V
+899,và,C
+899,giao tiếp,V
+899,hiệu quả,N
+899,.,CH
+900,Cẩn thận,A
+900,",",CH
+900,tỉ mỉ,A
+900,",",CH
+900,kỹ năng,N
+900,tin học,N
+900,văn phòng,N
+900,(,CH
+900,Microsofl Word,Ny
+900,&,CH
+900,PowerPoint,Ny
+900,),CH
+900,thành thạo,V
+900,.,CH
+901,Tốt nghiệp,V
+901,Trung Cấp,Np
+901,trở,V
+901,lên,V
+902,Kỹ năng,N
+902,thuyết trình,N
+902,chuyên nghiệp,A
+902,cho,E
+902,khách hàng,N
+903,■,N
+903,Kỹ năng,N
+903,giao tiếp,V
+903,và,C
+903,làm việc,V
+903,nhóm,N
+903,.,CH
+904,Hiểu biết,N
+904,và,C
+904,có,V
+904,kiến thức,N
+904,về,V
+904,thiết kế,V
+904,Web,Np
+904,:,CH
+904,html,N
+904,",",CH
+904,javascript,N
+904,",",CH
+904,css,N
+904,...,CH
+905,Ưu tiên,V
+905,làm,V
+905,trong,E
+905,ngành,N
+905,y tế,N
+905,như,C
+905,phòng khám,N
+905,",",CH
+905,bệnh viện,N
+905,…,CH
+906,Được,V
+906,đào tạo,V
+906,thường xuyên,A
+906,nâng,V
+906,cao,A
+906,nghiệp vụ,N
+906,.,CH
+907,·,N
+907,Trình độ,N
+907,chuyên môn,N
+907,:,CH
+907,Giao thông,N
+907,vận tải,V
+907,",",CH
+907,Kho vận,N
+907,",",CH
+907,Logistic,Np
+907,",",CH
+907,kinh tế,N
+907,",",CH
+907,thương mại,N
+907,",",CH
+907,QTKD,Np
+907,.,CH
+908,Có,V
+908,kiến thức,N
+908,về,E
+908,kế toán,N
+908,là,V
+908,một,M
+908,lợi thế,N
+908,.,CH
+909,•,N
+909,Tốt nghiệp,V
+909,đại học,N
+909,chuyên ngành,N
+909,Tự Động,Np
+909,Hóa,Np
+910,Thành thạo,N
+910,Tin học,N
+910,văn phòng,N
+910,và,C
+910,Autocad,Np
+911,Chế độ,N
+911,phúc lợi,V
+911,:,CH
+911,BHXH,Np
+911,theo,V
+911,luật định,N
+911,;,CH
+911,thưởng,V
+911,lễ tết,N
+911,;,CH
+911,thưởng,V
+911,tháng,N
+911,lương,N
+911,13,M
+911,;,CH
+911,thưởng,V
+911,cổ phiếu,V
+911,cho,E
+911,NV,Ny
+911,;,CH
+911,trợ cấp,V
+911,ăn,V
+911,trưa,N
+911,",",CH
+911,khám,V
+911,sức,N
+911,khỏe,V
+911,định kỳ,N
+911,…,CH
+912,–,CH
+912,TN,Ny
+912,Cao đẳng,N
+912,",",CH
+912,Đại học,N
+912,",",CH
+912,tuổi,N
+912,từ,E
+912,23-27,N
+912,–,CH
+912,Có,V
+912,kinh nghiệm,N
+912,Google Ads,Np
+912,từ,E
+912,1,M
+912,năm,N
+912,trở,V
+912,lên,V
+912,–,CH
+912,Có,V
+912,kiến thức,N
+912,tốt,A
+912,về,E
+912,SEO,Np
+912,–,CH
+912,Có,V
+912,khả năng,N
+912,giao tiếp,V
+912,",",CH
+912,phân tích,V
+912,tổng hợp,A
+912,",",CH
+912,khả năng,N
+912,làm việc,V
+912,độc lập,A
+912,và,C
+912,theo,V
+912,nhóm,N
+912,–,CH
+912,Thành thạo,N
+912,Google Analytics,Np
+912,;,CH
+912,quản trị,V
+912,và,C
+912,tối ưu hóa,V
+912,website,FW
+912,",",CH
+912,xây dựng,V
+912,nội dung,N
+912,",",CH
+912,ưu tiên,A
+912,biết,V
+912,thêm,V
+912,về,E
+912,thiết kế,V
+912,–,CH
+912,Có,V
+912,kinh nghiệm,N
+912,xây dựng,V
+912,Landingpage,Np
+912,",",CH
+912,fanpage,M
+913,Có,V
+913,kinh nghiệm,N
+913,vận hành,V
+913,và,C
+913,điều chỉnh,V
+913,máy,N
+913,cắt,V
+913,túi,N
+913,từ,E
+913,1,M
+913,năm,N
+913,trở,V
+913,lên,V
+914,Có,V
+914,trên,N
+914,2,M
+914,năm,N
+914,kinh nghiệm,N
+914,.,CH
+915,ƯU ĐIỂM,Np
+915,CÔNG VIỆC,Np
+915,:,CH
+916,2,M
+916,.,CH
+916,Trình độ,N
+916,ngoại ngữ,N
+916,/,CH
+916,tin học,N
+917,35,M
+917,tuổi,N
+917,.,CH
+917,•,V
+917,Tốt nghiệp TRUNG CẤP,N
+917,trở,V
+917,lên,V
+917,•,N
+917,Đam mê,V
+917,kinh doanh,V
+917,",",CH
+917,nhiệt tình,N
+917,trong,E
+917,công việc,N
+917,",",CH
+917,chăm chỉ,A
+917,.,CH
+917,• Giọng,N
+917,nói,V
+917,lưu loát,A
+917,",",CH
+917,dễ,A
+917,nghe,V
+917,",",CH
+917,giao tiếp,V
+917,qua,E
+917,điện thoại,N
+917,tốt,A
+917,",",CH
+917,hòa,N
+917,đồng •,V
+917,Thành thạo,N
+917,tin học,N
+917,văn phòng,N
+917,(,CH
+917,excel,V
+917,tốt,A
+917,),CH
+917,•,V
+917,Kỹ năng,N
+917,chốt,N
+917,chốt,V
+917,đơn,N
+917,hàng,N
+917,•,V
+917,Kỹ năng,N
+917,giải quyết,V
+917,vấn đề,N
+917,.,CH
+917,•,V
+917,Kỹ năng,N
+917,làm việc,V
+917,nhóm,N
+917,•,N
+917,Yêu thích,V
+917,đam mê,V
+917,kinh doanh,V
+918,1,M
+918,.,CH
+918,Trình độ,N
+918,:,CH
+918,Tốt nghiệp,V
+918,từ,E
+918,Đại học,N
+918,trở,V
+918,lên,V
+918,;,CH
+918,Ngoại ngữ,N
+918,:,CH
+918,Giao tiếp,M
+919,Phụ cấp,N
+919,ăn,V
+919,trưa,N
+920,Trách nhiệm,N
+920,trong,E
+920,công việc,N
+920,và,C
+920,chịu,V
+920,được,V
+920,áp lực,N
+920,công việc,N
+921,Có,V
+921,khả năng,N
+921,đọc,V
+921,hiểu,V
+921,bản vẽ,N
+921,xây dựng,V
+922,25,M
+922,triệu,M
+922,/,CH
+922,tháng,N
+922,thỏa thuận,V
+922,theo,V
+922,năng lực,N
+923,Có,V
+923,kinh nghiệm,N
+923,làm,V
+923,kế toán,N
+923,1,M
+923,năm,N
+923,trở,V
+923,lên,V
+923,",",CH
+923,biết,V
+923,sử dụng,V
+923,thành thạo,N
+923,phần mềm,N
+923,Fast,Np
+923,",",CH
+923,Excel,Np
+923,",",CH
+923,Word,Np
+923,.,CH
+924,Sử dụng,V
+924,thành thạo,N
+924,tin học,N
+924,văn phòng,N
+924,",",CH
+924,có,V
+924,kiến thức,N
+924,chuyên môn,N
+924,về,E
+924,quản lý,V
+924,hệ thống,N
+924,mạng,N
+924,",",CH
+924,máy chủ,N
+924,",",CH
+924,cơ sở dữ liệu,N
+924,và,C
+924,hệ thống,N
+924,phần mềm,N
+924,doanh nghiệp,N
+925,Quản lý,V
+925,công việc,N
+925,",",CH
+925,quản lý,V
+925,nhân sự,V
+925,hiệu quả,N
+925,.,CH
+926,Giới tính,N
+926,:,CH
+926,Nam,Np
+926,/,CH
+926,Nữ,N
+927,Ưu tiên,V
+927,:,CH
+927,Nam giới,N
+927,",",CH
+927,có,V
+927,sức,N
+927,khỏe,V
+927,tốt,A
+927,và,C
+927,có,V
+927,kinh nghiệm,N
+927,trong,E
+927,sản xuất,V
+927,kinh doanh,V
+927,ngành,N
+927,chế biến,V
+927,thực phẩm,N
+928,1,M
+928,.,CH
+928,Trình độ,N
+928,học vấn,N
+928,:,CH
+928,Tốt nghiệp,V
+928,Đại học,N
+928,chuyên ngành,N
+928,thương mại,N
+928,",",CH
+928,kinh tế,N
+928,",",CH
+928,tiếp thị,V
+928,",",CH
+928,tài chính,N
+928,",",CH
+928,quảng cáo,V
+928,.,CH
+929,–,CH
+929,Có thể,R
+929,đi,V
+929,làm,V
+929,ngay,T
+930,Nắm,V
+930,vững,A
+930,quy định,V
+930,nhà nước,N
+930,về,V
+930,hoạt động,V
+930,kinh doanh,V
+930,dược phẩm,N
+930,",",CH
+930,thực phẩm,N
+930,chức năng,N
+930,.,CH
+931,Không,R
+931,cần,V
+931,kinh nghiệm,N
+931,",",CH
+931,sẽ,R
+931,được,V
+931,đào tạo,V
+931,.,CH
+932,Tổ chức,N
+932,",",CH
+932,kiểm tra,V
+932,",",CH
+932,giám sát,V
+932,công việc,N
+933,Có,V
+933,ít nhất,X
+933,từ,E
+933,2,M
+933,-,CH
+933,5,M
+933,năm,N
+933,kinh nghiệm,N
+933,các,L
+933,vị trí,N
+933,tương đương,A
+933,tại,E
+933,các,L
+933,công ty,N
+933,bán buôn,V
+933,",",CH
+933,kinh doanh,V
+933,hệ thống,N
+933,",",CH
+933,ưu tiên,A
+933,ứng viên,V
+933,có,V
+933,kinh nghiệm,N
+933,về,E
+933,lĩnh vực,N
+933,điện,N
+933,",",CH
+933,hàng,N
+933,gia dụng,M
+934,1,M
+934,.,CH
+934,Tốt nghiệp,V
+934,Đại học,N
+934,khối,N
+934,Kinh tế,N
+934,hoặc,C
+934,Kỹ thuật,N
+934,có,V
+934,1-2,M
+934,năm,N
+934,kinh nghiệm,N
+934,.,CH
+934,2,M
+934,.,CH
+934,Ưu tiên,N
+934,ứng viên,V
+934,đã,R
+934,từng,R
+934,làm,V
+934,cho,E
+934,các,L
+934,công ty,N
+934,về,E
+934,xây dựng,V
+934,hoặc,C
+934,cung cấp,V
+934,các,L
+934,sản phẩm,N
+934,về,E
+934,Nhôm,Np
+934,kính,N
+934,.,CH
+934,3,M
+934,.,CH
+934,Am,Np
+934,hiểu,V
+934,các,L
+934,về,E
+934,nghiệp vụ,N
+934,Kiểm soát,V
+934,Nội bộ4,N
+934,.,CH
+934,Sử dụng,V
+934,thành thạo,N
+934,tin học,N
+934,văn phòng,N
+935,Ưu tiên,N
+935,thành thạo,V
+935,tiếng,N
+935,Anh,Np
+935,:,CH
+935,nghe,T
+935,",",CH
+935,nói,V
+935,",",CH
+935,đọc,V
+935,",",CH
+935,viết,V
+936,Nhanh chóng,A
+936,xử lí,V
+936,các,L
+936,sự cố,N
+936,phát sinh,V
+936,khi,N
+936,sản xuất,V
+936,nếu,C
+936,trong,E
+936,khả năng,N
+936,",",CH
+936,hoặc,C
+936,báo cáo,V
+936,ngừoi,N
+936,phụ trách,V
+936,để,E
+936,kịp thời,A
+936,xử lý,V
+937,Có,V
+937,kiến thức,N
+937,về,E
+937,CNTT,Np
+937,trong,E
+937,lĩnh vực,N
+937,Ngân hàng,N
+937,–,CH
+937,Tài chính,N
+937,;,CH
+938,Độ,N
+938,tuổi,N
+938,:,CH
+938,23-35,M
+938,tuổi,N
+939,KINH NGHIỆM,N
+939,:,CH
+940,Ít nhất,X
+940,3,M
+940,năm,N
+940,kinh nghiệm,N
+940,trong,E
+940,môi trưởng,N
+940,sản xuất,V
+940,.,CH
+941,*,CH
+941,Yêu cầu,V
+941,chung,A
+941,:,CH
+942,Có,V
+942,ít nhất,X
+942,03,M
+942,năm,N
+942,kinh,M
+942,kinh nghiệm,N
+942,tương đương,A
+942,trong,E
+942,các,L
+942,công ty,N
+942,kinh doanh,V
+942,/,CH
+942,sản xuất,V
+942,thực phẩm,N
+942,",",CH
+942,hàng tiêu dùng,N
+942,.,CH
+943,VI.,N
+943,Thái độ,N
+943,",",CH
+943,hành vi,N
+943,phù hợp,V
+943,với,E
+943,công việc,N
+943,:,CH
+944,Du lịch,V
+944,hàng,N
+944,năm,N
+944,cùng,A
+944,công ty,N
+945,–,CH
+945,Môi trường,N
+945,làm việc,V
+945,quốc tế,N
+945,chuyên nghiệp,A
+945,trẻ trung,A
+945,và,C
+945,năng động,A
+946,Được,V
+946,hỗ trợ,V
+946,đóng,V
+946,BHXH,Np
+946,",",CH
+946,BHYT,Np
+946,đầy đủ,A
+946,theo,V
+946,quy định,N
+946,của,E
+946,nhà nước,N
+947,Tốt nghiệp,V
+947,ĐH,Ny
+947,chuyên ngành,N
+947,kinh tế,N
+947,",",CH
+947,ngoại thương,N
+947,",",CH
+947,...,CH
+948,Có,V
+948,thái độ,N
+948,làm việc,V
+948,hết mình,X
+948,",",CH
+948,cầu tiến,N
+948,và,C
+948,học hỏi,V
+948,là,V
+948,điều,N
+948,quan trọng,A
+948,nhất,R
+948,.,CH
+949,–,CH
+949,Chăm chỉ,A
+949,",",CH
+949,chịu khó,A
+949,học hỏi,V
+950,Tham gia,V
+950,bảo hiểm,N
+950,PVI,Np
+950,theo,V
+950,chính sách,N
+950,Công ty,N
+950,.,CH
+951,có,V
+951,kinh nghiệm,N
+951,lập,V
+951,kế hoạch,N
+951,sản xuất,V
+951,hoặc,C
+951,làm,V
+951,tại,E
+951,các,L
+951,vị trí,N
+951,như,C
+951,mua bán,V
+952,*,CH
+952,Kỹ năng,N
+952,(,CH
+952,Skills,Np
+952,),CH
+953,Kỹ năng,N
+953,giao tiếp,V
+953,tốt,A
+953,",",CH
+953,thành thạo,N
+953,tin học,N
+953,văn phòng,N
+953,.,CH
+954,Có,V
+954,khả năng,N
+954,thuyết trình,V
+954,",",CH
+954,truyền tải,V
+954,tốt,A
+954,nội dung,N
+955,Hồ sơ,N
+955,yêu cầu,V
+955,:,CH
+956,BAC,Np
+956,A BANK,Np
+956,KHÔNG,R
+956,TUYỂN DỤNG,Np
+956,QUA TRUNG GIAN,Np
+956,VÀ,C
+956,KHÔNG,R
+956,THU BẤT KỲ,Np
+956,KHOẢN,Np
+956,PHÍ,Np
+956,NÀO,Np
+957,THỜI GIAN,N
+957,VÀ,C
+957,ĐỊA ĐIỂM,Np
+957,LÀM VIỆC,Np
+957,:,CH
+958,Tinh thần,N
+958,chịu khó,A
+958,",",CH
+958,trung thực,A
+958,",",CH
+958,trách nhiệm,N
+958,cao,A
+959,Có,V
+959,ít nhất,X
+959,2,M
+959,năm,N
+959,kinh nghiệm,N
+959,kế toán,V
+959,kho,N
+959,",",CH
+959,hàng,N
+959,hóa,M
+960,Có,V
+960,kiến thức,N
+960,về,E
+960,thị trường,N
+960,",",CH
+960,sản phẩm,N
+960,.,CH
+961,Giới tính,N
+961,:,CH
+961,Nam,Np
+961,/,CH
+961,Nữ,N
+961,.,CH
+962,Bằng cấp,N
+962,:,CH
+962,Tốt nghiệp,V
+962,Đại học,N
+962,trở,V
+962,lên,V
+963,2,M
+963,.,CH
+963,Kinh nghiệm,N
+963,làm việc,V
+964,–,CH
+964,Kỹ năng,N
+964,lập,V
+964,kế hoạch,N
+964,và,C
+964,quản lý,V
+964,thời gian,N
+965,Kỹ năng,N
+965,văn phòng,N
+965,:,CH
+965,Thành thạo,N
+965,tin học,N
+965,văn phòng,N
+965,(,CH
+965,Word,Np
+965,",",CH
+965,Excel,Np
+965,",",CH
+965,PowerPoint,Np
+965,",",CH
+965,Outlook,Np
+965,..,N
+965,),CH
+966,Có,V
+966,khả năng,N
+966,làm việc,V
+966,độc lập,A
+966,và,C
+966,làm việc,V
+966,nhóm,N
+966,tốt,A
+966,",",CH
+966,đáp ứng,V
+966,các,L
+966,yêu cầu,N
+966,được,V
+966,đề,V
+966,ra,V
+966,.,CH
+966,Chịu,V
+966,được,V
+966,áp lực,N
+966,công việc,N
+966,lớn,A
+966,.,CH
+966,Yêu,V
+966,thích,V
+966,chơi,V
+966,game,V
+966,.,CH
+967,Ngoại hình,N
+967,ưu nhìn,N
+967,",",CH
+967,vui vẻ,A
+967,",",CH
+967,hòa,M
+967,đồng,Nu
+967,",",CH
+967,giao tiếp,V
+967,tự tin,V
+968,Môi trường,N
+968,chuyên nghiệp,A
+968,",",CH
+968,an toàn,A
+968,;,CH
+969,Có,V
+969,khả năng,N
+969,giảng dạy,V
+969,theo,V
+969,hướng,N
+969,thực tế,N
+969,ứng dụng,N
+969,.,CH
+970,Có,V
+970,ít nhất,X
+970,03,M
+970,năm,N
+970,kinh nghiệm,N
+970,làm việc,V
+970,vị trí,N
+970,Giám Sát,Np
+970,Kinh Doanh,Np
+970,tại,E
+970,các,L
+970,công ty,N
+970,ngành hàng tiêu dùng,V
+970,nhanh,A
+970,(,CH
+970,FMCG,Np
+970,),CH
+970,(,CH
+970,bắt buộc,V
+970,),CH
+971,+,N
+971,Có,V
+971,5,M
+971,năm,N
+971,kinh nghiệm,N
+971,kế toán,V
+971,trở,V
+971,lên,V
+971,;,CH
+971,trong,E
+971,đó,P
+971,3,M
+971,năm,N
+971,vị trí,M
+971,kế toán,N
+971,tổng hợp,A
+971,.,CH
+972,·,N
+972,Sử dụng,V
+972,thành thạo,N
+972,tin học,N
+972,văn phòng,N
+972,",",CH
+972,kỹ năng,N
+972,sử dụng,V
+972,excel,N
+972,trình độ,N
+972,nâng,V
+972,cao,A
+972,.,CH
+973,Cao,A
+973,1,M
+973,m58,N
+973,trở,V
+973,lên,V
+973,",",CH
+973,ngoại hình,N
+973,ưa,V
+973,nhìn,V
+973,.,CH
+974,Có,V
+974,kiến thức,N
+974,về,V
+974,ít nhất,X
+974,một,M
+974,trong,E
+974,các,L
+974,kênh,N
+974,quảng cáo,V
+974,như,C
+974,:,CH
+974,Facebook Ads,Np
+974,",",CH
+974,Google,Np
+975,Ưu tiên,V
+975,nhân viên,N
+975,từ,E
+975,các,L
+975,trường,N
+975,Đại học,N
+975,chuyên ngành,N
+975,có,R
+975,liên quan,V
+975,:,CH
+975,Báo Chí,N
+975,",",CH
+975,Truyền thông,V
+975,",",CH
+975,Tiếp Thị,Np
+975,",",CH
+975,Ngữ Văn,Np
+975,",",CH
+975,Marketing,Np
+975,...,CH
+975,có,V
+975,hiểu biết,V
+975,về,E
+975,tư duy,N
+975,marketing,FW
+975,cơ bản,A
+976,Hồ sơ,N
+976,ứng viên,V
+976,sẽ,R
+976,được,V
+976,xem xét,V
+976,trong,E
+976,vòng,N
+976,20,M
+976,ngày,N
+976,làm việc,V
+976,kể,V
+976,từ,E
+976,ngày,N
+976,nhận,V
+976,được,R
+976,hồ sơ,N
+976,ứng viên,V
+976,.,CH
+976,Hồ sơ,N
+976,đạt,V
+976,sẽ,R
+976,được,V
+976,liên hệ,V
+976,trực tiếp,A
+976,qua,E
+976,điện thoại,N
+976,hoặc,C
+976,email,FW
+976,để,E
+976,sắp xếp,V
+976,thi tuyển,V
+976,hoặc,C
+976,phỏng vấn,V
+976,.,CH
+977,Có,V
+977,khả năng,N
+977,giao tiếp,V
+977,tốt,A
+977,",",CH
+977,biết,V
+977,cách,N
+977,đàm phán,V
+977,",",CH
+977,thương lượng,V
+977,với,E
+977,khách hàng,N
+977,về,E
+977,giá cả,N
+977,và,C
+977,chính sách,N
+977,bán,V
+977,hàng,N
+977,của,E
+977,công ty,N
+978,Các,L
+978,chế độ,N
+978,đãi ngộ,N
+978,khác,A
+978,theo,V
+978,quy định,N
+978,.,CH
+979,Giao,V
+979,tiếp,V
+979,tốt,A
+979,",",CH
+979,ưu tiên,A
+979,giao tiếp,V
+979,được,V
+979,Tiếng,Np
+979,Anh,Np
+979,.,CH
+980,Quyền lợi,N
+980,được,V
+980,hưởng,V
+981,●,N
+981,Tích cực,A
+981,",",CH
+981,làm việc,V
+981,nhóm,N
+981,và,C
+981,quản lý,V
+981,thời gian,N
+981,tốt,A
+981,.,CH
+982,Hiểu biết,V
+982,về,E
+982,thị trường,N
+982,",",CH
+982,đối thủ,N
+982,",",CH
+982,đặc điểm,N
+982,khách hàng,N
+982,ở,E
+982,vùng,N
+982,quản lý,V
+982,.,CH
+983,Báo,N
+983,xấu,A
+984,+,N
+984,Trình độ,N
+984,Trung Cấp,Np
+984,trở,V
+984,lên,V
+984,.,CH
+985,Tốt nghiệp,V
+985,Đại học,N
+985,các,L
+985,chuyên ngành,N
+985,:,CH
+985,Kinh tế,N
+985,",",CH
+985,Quản trị,V
+985,kinh doanh,V
+985,",",CH
+985,Tài chính,N
+986,Không gian,N
+986,làm việc,V
+986,trẻ trung,A
+986,",",CH
+986,hiện đại,A
+986,",",CH
+986,đề cao,V
+986,sự,N
+986,sáng tạo,V
+986,theo,V
+986,phương pháp,N
+986,Agile,Np
+987,Làm việc,V
+987,trong,E
+987,môi trường,N
+987,năng động,A
+987,",",CH
+987,trẻ trung,A
+987,",",CH
+987,chuyên nghiệp,A
+987,làm việc,V
+987,cùng,C
+987,các,L
+987,khách hàng,N
+987,đẳng cấp,N
+987,.,CH
+988,Được,V
+988,hưởng,V
+988,đầy đủ,A
+988,các,L
+988,chính sách,N
+988,về,V
+988,lao động,V
+988,theo,V
+988,luật,N
+988,lao động,N
+988,:,CH
+988,Nghỉ,V
+988,04,V
+988,ngày,N
+988,/,CH
+988,tháng,N
+988,;,CH
+988,nghỉ phép,V
+988,12,M
+988,ngày,N
+988,/,CH
+988,năm,N
+988,…,CH
+988,.,CH
+989,Chỉ,R
+989,những,L
+989,hồ sơ,N
+989,qua,V
+989,vòng,V
+989,sơ loại,N
+989,mới,R
+989,được,V
+989,dự,V
+989,thi,V
+989,",",CH
+989,Hồ sơ,N
+989,đã,R
+989,nộp,V
+989,không,R
+989,trả,V
+989,lại,V
+989,.,CH
+990,*,CH
+990,*,CH
+990,*,CH
+990,YÊU CẦU,Np
+990,CÔNG VIỆC,Np
+990,:,CH
+991,Tinh thần,N
+991,trách nhiệm,N
+992,Ưu tiên,N
+992,ứng viên,V
+992,có,V
+992,kinh nghiệm,N
+992,bán,V
+992,hàng,N
+992,",",CH
+992,tư vấn,V
+992,sản phẩm,N
+992,",",CH
+992,telesale,N
+992,.....,M
+993,Trung thực,N
+993,",",CH
+993,năng động,A
+993,",",CH
+993,chăm chỉ,A
+993,",",CH
+993,nhiệt tình,N
+993,",",CH
+993,giao tiếp,V
+993,lịch sự,A
+994,Tốt nghiệp,V
+994,Trung cấp,N
+994,trở,V
+994,lên,V
+994,",",CH
+994,ưu tiên,A
+994,chuyên ngành,N
+994,kế toán,N
+994,",",CH
+994,tài chính,N
+994,.,CH
+995,Tốt nghiệp,V
+995,Trung cấp,N
+995,chuyên ngành,N
+995,liên quan,V
+995,(,CH
+995,Kinh tế,N
+995,;,CH
+995,Quản trị,V
+995,kinh doanh,V
+995,;,CH
+995,Marketing,Np
+995,),CH
+995,.,CH
+996,Có,V
+996,kiến thức,N
+996,và,C
+996,kỹ năng,N
+996,ở,E
+996,1,M
+996,trong,E
+996,2,M
+996,mảng,N
+996,",",CH
+996,kiến thức,N
+996,về,E
+996,kiến trúc,N
+996,",",CH
+996,luồng,N
+996,xử lý,V
+996,của,E
+996,Data Warehouse,Np
+996,",",CH
+996,kiến thức,N
+996,về,E
+996,Database,Np
+996,như,C
+996,Oracle,Np
+996,",",CH
+996,SQL,Np
+996,",",CH
+996,DB2,Np
+996,",",CH
+996,Redis,Np
+996,",",CH
+996,MySQL,Np
+996,.,CH
+997,Kinh nghiệm,N
+997,tổ chức,V
+997,điều hành,V
+997,hệ thống,N
+997,kinh doanh,V
+997,phân phối,V
+997,.,CH
+998,kinh nghiệm,N
+998,Bảo hiểm,N
+998,",",CH
+998,Tài chính,N
+998,–,CH
+998,Ngân hàng,N
+998,",",CH
+998,là,V
+998,một,M
+998,lợi thế,N
+999,Ưu tiên,V
+999,những,L
+999,ứng viên,N
+999,có,V
+999,chứng chỉ,N
+999,LPIC,Np
+1000,Yêu cầu,N
+1000,kinh nghiệm,N
+1000,làm,V
+1000,ở,E
+1000,vị trí,N
+1000,Phụ kho,M
+1001,3,M
+1001,.,CH
+1001,Lưu ý,V
+1001,:,CH
+1002,Có,V
+1002,chứng chỉ,N
+1002,JLPT N3,Np
+1002,trở,V
+1002,lên,V
+1002,.,CH
+1003,Khả năng,N
+1003,giao tiếp,V
+1003,tốt,A
+1003,.,CH
+1004,QUYỀN LỢI,N
+1004,ỨNG VIÊN,Np
+1005,3-5,N
+1005,năm,M
+1005,kinh nghiệm,N
+1005,trong,E
+1005,công việc,N
+1005,quản lý,V
+1005,Đảm bảo,V
+1005,chất lượng,N
+1005,và,C
+1005,Kiểm soát,V
+1005,hệ thống,N
+1005,.,CH
+1006,I.,Np
+1006,YÊU CẦU,Np
+1006,CÔNG VIỆC,Np
+1007,BAC,Np
+1007,A BANK,Np
+1007,KHÔNG,R
+1007,TUYỂN DỤNG,Np
+1007,QUA TRUNG GIAN,Np
+1007,VÀ,C
+1007,KHÔNG,R
+1007,THU BẤT KỲ,Np
+1007,KHOẢN,Np
+1007,PHÍ,Np
+1007,NÀO,Np
+1008,Trình độ,N
+1008,học vấn,N
+1008,:,CH
+1009,+,N
+1009,Không,R
+1009,đòi hỏi,V
+1009,bằng cấp,N
+1009,",",CH
+1009,không,R
+1009,yêu cầu,V
+1009,kinh nghiệm,N
+1010,Quyền lợi,N
+1010,:,CH
+1011,QUYỀN LỢI,N
+1012,Nam,Np
+1012,/,CH
+1012,Nữ,N
+1012,từ,E
+1012,30,M
+1012,–,CH
+1012,40,M
+1012,tuổi,N
+1012,",",CH
+1013,QUYỀN LỢI,N
+1013,ỨNG VIÊN,Np
+1014,.,CH
+1014,Giới tính,N
+1014,:,CH
+1014,Ưu tiên,N
+1014,nam,N
+1015,Kỹ năng,N
+1015,Giao tiếp,V
+1015,Tiếng,Np
+1015,Anh,Np
+1016,Nhanh nhẹn,A
+1016,",",CH
+1016,chăm chỉ,A
+1016,",",CH
+1016,chịu khó,A
+1016,học hỏi,V
+1016,kinh nghiệm,N
+1016,",",CH
+1016,có,V
+1016,tinh thần,N
+1016,cầu tiến,V
+1016,.,CH
+1017,*,CH
+1017,Quyền lợi,N
+1017,được,V
+1017,hưởng,V
+1017,:,CH
+1018,Trình độ,N
+1018,chuyên môn,N
+1019,Tốt nghiệp,V
+1019,ngành,N
+1019,data science,N
+1019,",",CH
+1019,có,V
+1019,kiến thức,N
+1019,tốt,A
+1019,về,E
+1019,thuật toán,N
+1019,và,C
+1019,giải thuật,V
+1019,và,C
+1019,kỹ năng,N
+1019,phân tích,V
+1019,data,N
+1019,tốt,A
+1020,Sẵn sàng,A
+1020,đi,V
+1020,công tác,V
+1020,theo,V
+1020,kế hoạch,N
+1021,+,N
+1021,Được,Np
+1021,hưởng,V
+1021,mức,N
+1021,thu nhập,N
+1021,xứng đáng,A
+1021,và,C
+1021,không,R
+1021,giới hạn,V
+1021,",",CH
+1021,theo,E
+1021,cơ chế,N
+1021,ăn chia,N
+1021,rõ ràng,A
+1021,(,CH
+1021,hoa hồng,N
+1021,20,M
+1021,%,N
+1021,),CH
+1022,Yêu cầu,N
+1022,công việc,N
+1022,:,CH
+1023,Chịu,V
+1023,được,R
+1023,súc ép,V
+1023,công việc,N
+1024,Kỹ năng,N
+1024,giao tiếp,V
+1024,",",CH
+1024,đàm phán,N
+1024,và,C
+1024,xử lý,V
+1024,tình huống,N
+1024,tốt,A
+1025,Sử dụng,V
+1025,thành thạo,V
+1025,các,L
+1025,công cụ,N
+1025,thiết kế,V
+1025,:,CH
+1025,AI,P
+1025,",",CH
+1025,Photoshop,Np
+1025,",",CH
+1025,AE CC,Np
+1025,",",CH
+1025,…,CH
+1026,Đã,R
+1026,làm,V
+1026,qua,V
+1026,về,E
+1026,hệ thống,N
+1026,ISO,Np
+1026,22000,V
+1026,",",CH
+1026,HACCP,Np
+1026,",",CH
+1026,FSSC.,Np
+1026,..,M
+1027,Tiếng,N
+1027,Anh,Nc
+1027,giao tiếp,V
+1027,tốt,A
+1028,Hiểu biết,V
+1028,về,E
+1028,nghiệp vụ,N
+1028,kế toán,N
+1028,",",CH
+1028,chế độ,N
+1028,kế toán,V
+1028,.,CH
+1029,Tốt nghiệp,V
+1029,Trung cấp,N
+1029,chuyên ngành,N
+1029,liên quan,V
+1029,(,CH
+1029,Kinh tế,N
+1029,;,CH
+1029,Quản trị,V
+1029,kinh doanh,V
+1029,;,CH
+1029,Marketing,Np
+1029,),CH
+1029,.,CH
